@@ -20,4 +20,19 @@ usethis::create_package("meTool",open = F)# no opening new project
 #no other folders in R file
 #NAMESPACE don't change,it's important
 
-#make package: 1.build->document 2.build->install package
+#enclosure package: 1.build->document 2.build->install package
+#Done : install successfully
+library(meTool)
+
+#write annotations
+devtools::document()
+#make package
+devtools::build()
+#annotations
+
+#cite other package from CRAN
+
+
+
+
+

@@ -1,5 +1,6 @@
 #' Title A function to cope with metabolic flux
-#' @description all the data used are save in /data/ file
+#' @description Sometimes it may be slow if the dataset is big. Just be patient.
+#' all the data used are save in /data/ file
 #'
 #' @param input the data you want to put in;see data/SXT-neg.csv
 #' @param CKrepeat the repeat count of Control group
@@ -14,12 +15,12 @@
 #' @return a data frame that shows which peak may be the result of 13C isotope labelling
 #' @export
 #'
-#' @examples
+#' @examples \donttest{
 #' input<-read.csv(file = "data/20230728cell_flux_10neg.csv",header=T,check.names = F)
 #' neg<-metaflux(input, CKrepeat = 3, EXPrepeat = 3, Cnum = 6)
 #'
 #' input<-read.csv(file = "data/SXT-neg.csv",header=T,check.names = F)
-#' neg<-metaflux(input, CKrepeat = 3, EXPrepeat = c(3,3), Cnum = 6)
+#' neg<-metaflux(input, CKrepeat = 3, EXPrepeat = c(3,3), Cnum = 6)}
 #'
 metaflux<- function(input,CKrepeat, EXPrepeat, EXPgroup=length(EXPrepeat),deltaRT=0.01,ddC=0.0002,Cnum=6,deltaC=1.0033){
   mylist1<-NULL

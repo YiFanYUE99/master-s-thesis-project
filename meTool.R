@@ -29,11 +29,17 @@ library(meTool)
 
 #write annotations
 devtools::document()
+
+#build a website for the package
+devtools::build_site()
+
 #make package
 devtools::build()
 #annotations
 
 #cite other package from CRAN
+#check thepackage
+devtools::check()
 
 
 

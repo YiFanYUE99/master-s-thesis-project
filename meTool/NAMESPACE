@@ -2,4 +2,3 @@
 
 export(add)
 export(metaflux)
-importFrom(base,sum)

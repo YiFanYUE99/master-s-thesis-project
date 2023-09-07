@@ -8,7 +8,6 @@
 #' @param y The explanation of the second param
 #' @return Get what through the function
 #' @export
-#' @importFrom base sum
 #' @examples add(1,2)
 #' \donttest{
 #' add(3,4)}

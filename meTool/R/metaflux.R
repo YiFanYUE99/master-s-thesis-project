@@ -1,3 +1,26 @@
+#' Title A function to cope with metabolic flux
+#' @description all the data used are save in /data/ file
+#'
+#' @param input the data you want to put in;see data/SXT-neg.csv
+#' @param CKrepeat the repeat count of Control group
+#' @param EXPrepeat the repeat count of every Control group
+#'                  NOTICE: it can be c(3,3) or 3. However, make sure every experiment group has the same repeat count
+#' @param EXPgroup  (Optional) the number of experiment groups( except CK ); it can count automatically
+#' @param deltaRT the allowed deviation of retention time (default=0.01)
+#' @param ddC the allowed deviation of the carbon atom (default =0.0002)
+#' @param Cnum the number of carbon atoms that are marked by 13C (default =6)
+#' @param deltaC the mass of a carbon atom(default=1.0033)
+#'
+#' @return a data frame that shows which peak may be the result of 13C isotope labelling
+#' @export
+#'
+#' @examples
+#' input<-read.csv(file = "data/20230728cell_flux_10neg.csv",header=T,check.names = F)
+#' neg<-metaflux(input, CKrepeat = 3, EXPrepeat = 3, Cnum = 6)
+#'
+#' input<-read.csv(file = "data/SXT-neg.csv",header=T,check.names = F)
+#' neg<-metaflux(input, CKrepeat = 3, EXPrepeat = c(3,3), Cnum = 6)
+#'
 metaflux<- function(input,CKrepeat, EXPrepeat, EXPgroup=length(EXPrepeat),deltaRT=0.01,ddC=0.0002,Cnum=6,deltaC=1.0033){
   mylist1<-NULL
   mylist2<-NULL
@@ -10,7 +33,7 @@ metaflux<- function(input,CKrepeat, EXPrepeat, EXPgroup=length(EXPrepeat),deltaR
     Massdown=input[i,1]-Cnum*(deltaC+ddC)
     #CK在前；experiment组在后
     #计算每行EXP面积
-    #EXPrepeat可以为c("3,"3")或3,但每个实验组重复个数需要相同
+    #EXPrepeat可以为c(3,3)或3,但每个实验组重复个数需要相同
     for(l in 1:EXPgroup){
       EXParea[l]<-rowMeans(input[i,(3+CKrepeat+(l-1)*EXPrepeat[l]):(2+CKrepeat+l*EXPrepeat[l])])
     }
@@ -39,9 +62,12 @@ metaflux<- function(input,CKrepeat, EXPrepeat, EXPgroup=length(EXPrepeat),deltaR
   mytable<-cbind(as.data.frame(no),tables)
   return(mytable)
 }
-input<-read.csv(file = "data/20230728cell_flux_10neg.csv",header=T,check.names = F)
-neg10<-metaflux(input, CKrepeat = 3, EXPrepeat = 3, Cnum = 6)
-write.csv(pos10,file = "pos10.csv")
+#input<-read.csv(file = "data/SXT-neg.csv",header=T,check.names = F)
+#neg10<-metaflux(input, CKrepeat = 3, EXPrepeat = c(3,3), Cnum = 6)
+# write.csv(pos10,file = "pos10.csv")
+
+
+
 # CKrepeat<-3
 # EXPrepeat<-c(3,3)
 # EXPgroup<-length(EXPrepeat)

@@ -24,6 +24,9 @@ usethis::create_package("meTool",open = F)# no opening new project
 #Done : install successfully
 library(meTool)
 
+#write instructions
+#control shift p: insert roxygen comment
+
 #write annotations
 devtools::document()
 #make package

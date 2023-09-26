@@ -12,10 +12,10 @@ has_devel()
 #R package name rules:
 #1 start with letter instead of number
 #2 letters,numbers, and points only
-#3 not te same name as existing packages
+#3 not the same name as existing packages
 
 #make my package
-usethis::create_package("meTool",open = F)# no opening new project
+usethis::create_package("meTool",open = T)# no opening new project
 #R file in meTool file saves scripts
 #no other folders in R file
 #NAMESPACE don't change,it's important
@@ -41,6 +41,18 @@ devtools::build()
 #check thepackage
 devtools::check()
 
+#add related package to import
+usethis::use_package("aplot")
+usethis::use_package("cowplot")
+usethis::use_package("patchwork")
+usethis::use_package("tidyverse", type="depends")
+usethis::use_package("ggplotify")
+usethis::use_package("psych")
+usethis::use_package("tidygraph")
+usethis::use_package("ggraph")
+usethis::use_package("igraph")
+usethis::use_package("ggplot2")
+usethis::use_package("dplyr")
 
 
 

@@ -1,0 +1,90 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chilimoniuk, J
+   Grzesiak, K
+   Kala, J
+   Nowakowski, D
+   Kretowski, A
+   Kolenda, R
+   Ciborowski, M
+   Burdukiewicz, M
+AF Chilimoniuk, Jaroslaw
+   Grzesiak, Krystyna
+   Kala, Jakub
+   Nowakowski, Dominik
+   Kretowski, Adam
+   Kolenda, Rafal
+   Ciborowski, Michal
+   Burdukiewicz, Michal
+TI imputomics: web server and R package for missing values imputation in
+   metabolomics data
+SO BIOINFORMATICS
+LA English
+DT Article
+AB Motivation Missing values are commonly observed in metabolomics data from mass spectrometry. Imputing them is crucial because it assures data completeness, increases the statistical power of analyses, prevents inaccurate results, and improves the quality of exploratory analysis, statistical modeling, and machine learning. Numerous Missing Value Imputation Algorithms (MVIAs) employ heuristics or statistical models to replace missing information with estimates. In the context of metabolomics data, we identified 52 MVIAs implemented across 70 R functions. Nevertheless, the usage of those 52 established methods poses challenges due to package dependency issues, lack of documentation, and their instability.Results Our R package, 'imputomics', provides a convenient wrapper around 41 (plus random imputation as a baseline model) out of 52 MVIAs in the form of a command-line tool and a web application. In addition, we propose a novel functionality for selecting MVIAs recommended for metabolomics data with the best performance or execution time.Availability and implementation 'imputomics' is freely available as an R package (github.com/BioGenies/imputomics) and a Shiny web application (biogenies.info/imputomics-ws). The documentation is available at biogenies.info/imputomics.
+C1 [Chilimoniuk, Jaroslaw; Grzesiak, Krystyna; Kala, Jakub; Kretowski, Adam; Ciborowski, Michal; Burdukiewicz, Michal] Med Univ Bialystok, Clin Res Ctr, Bialystok, Poland.
+   [Grzesiak, Krystyna] Univ Wroclaw, Fac Math & Comp Sci, Wroclaw, Poland.
+   [Nowakowski, Dominik] Med Univ Bialystok, Dept Biostat & Med Informat, Bialystok, Poland.
+   [Kolenda, Rafal] Norwich Res Pk, Quadram Inst Biosci, Norwich, England.
+   [Kolenda, Rafal] Wroclaw Univ Environm & Life Sci, Fac Vet Med, Wroclaw, Poland.
+   [Burdukiewicz, Michal] Autonomous Univ Barcelona, Inst Biotechnol & Biomed, Barcelona, Spain.
+   [Burdukiewicz, Michal] Univ Autonoma Barcelona, Inst Biotechnol & Biomed, Barcelona 08193, Spain.
+C3 Medical University of Bialystok; University of Wroclaw; Medical
+   University of Bialystok; UK Research & Innovation (UKRI); Biotechnology
+   and Biological Sciences Research Council (BBSRC); Quadram Institute;
+   Wroclaw University of Environmental & Life Sciences; Autonomous
+   University of Barcelona; Autonomous University of Barcelona
+RP Burdukiewicz, M (corresponding author), Univ Autonoma Barcelona, Inst Biotechnol & Biomed, Barcelona 08193, Spain.
+EM michaljan.burdukiewicz@uab.cat
+RI ; Ciborowski, Michal/E-6728-2015
+OI Grzesiak, Krystyna/0000-0003-2581-7722; Chilimoniuk,
+   Jaroslaw/0000-0001-5467-018X; Ciborowski, Michal/0000-0003-3729-0518;
+   Kolenda, Rafal/0000-0002-8145-579X; Kolodziejczyk,
+   Jakub/0000-0002-7187-6988; Burdukiewicz, Michal/0000-0001-8926-582X;
+   Nowakowski, Dominik/0000-0002-3515-4320
+FU National Science Centre; Ministry of Education and Science funds within
+   the project 'Excellence Initiative-Research University - (Ministry of
+   Health of the Republic of Poland)
+FX We want to thank the Clinical Research Centre (Medical University of Bia
+   & lstrok;ystok) members for fruitful discussions. The study was
+   supported by the Ministry of Education and Science funds within the
+   project 'Excellence Initiative-Research University'. We also acknowledge
+   the Center for Artificial Intelligence at the Medical University of Bia
+   & lstrok;ystok (funded by the Ministry of Health of the Republic of
+   Poland). Also, we want to express our gratitude to the authors of all
+   MVIAs included in our article and Ma & lstrok;gorzata Bogdan (University
+   of Wroc & lstrok;aw) for fruitful discussions.
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1367-4811
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD MAR 4
+PY 2024
+VL 40
+IS 3
+AR btae098
+DI 10.1093/bioinformatics/btae098
+PG 4
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA KO0O9
+UT WOS:001180791600001
+PM 38377398
+OA gold
+DA 2024-04-08
+ER
+
+EF

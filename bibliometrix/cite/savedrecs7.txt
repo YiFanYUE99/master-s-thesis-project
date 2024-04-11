@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, XR
+   Wang, DZ
+   Wang, Y
+   Zhang, P
+   Zhou, ZQ
+   Zhu, WT
+AF Wang, Xinru
+   Wang, Dezhen
+   Wang, Yao
+   Zhang, Ping
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI A combined non-targeted and targeted metabolomics approach to study the
+   stereoselective metabolism of benalaxyl enantiomers in mouse hepatic
+   microsomes
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Metabolomics; Benalaxyl; LTQ-Orbitrap; UPLC-MS/MS; Stereoselective
+   metabolism
+ID PERFORMANCE LIQUID-CHROMATOGRAPHY; ACCURATE MASS; IDENTIFICATION;
+   DEGRADATION; SEPARATION; PRODUCTS; MS
+AB Understanding of xenobiotic metabolism is necessary for risk assessment as well as toxicological research. In the present study, nanoLC/LTQ-Orbitrap mass based non-targeted metabolomics method coupled with ultra-performance liquid chromatography (UPLC)/triple quadrupole mass based targeted metabolomics method was carried out to investigate the stereoselective metabolism of benalaxyl in mouse hepatic microsomes. As a result, 7 metabolites of benalaxyl were identified, including 5 previously reported and 2 newly identified metabolites in present work. Hydroxylation, oxidation and esterolysis were major biotransformation reactions of benalaxyl in mouse hepatic microsomes. For stereoselective metabolism study, (-)-R-benalaxyl degraded much faster than its antipode with the t(1/2) of 81.24 and 190.38 min for (-)-R- and (+)-S-benalaxyl, respectively. More importantly, stereoselectivity was also observed in the formation of the identified metabolites. In conclusion, the combined use of the mass spectrometry based targeted and non-targeted metabolomics provided a new approach to investigate stereoselective metabolism and identify novel metabolites of chiral pesticides. This study highlights the stereoselective metabolic profile of benalaxyl enantiomers and provides reliable data for benalaxyl toxicological risk assessment in mammal. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Wang, Xinru; Wang, Dezhen; Wang, Yao; Zhang, Ping; Zhou, Zhiqiang; Zhu, Wentao] Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Wang, Xinru; Wang, Dezhen; Wang, Yao; Zhang, Ping; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; Wang, Dezhen/K-2489-2016; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; Wang,
+   Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21337005];
+   Chinese Universities Scientific Fund [2012RC026]
+FX We gratefully acknowledge financial support of the National Natural
+   Science Foundation of China (21207158, 21337005) and Chinese
+   Universities Scientific Fund (2012RC026). We also thank National Center
+   for Protein Sciences at Peking University in Beijing, China, for
+   analytical support.
+NR 30
+TC 14
+Z9 15
+U1 4
+U2 82
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD MAY
+PY 2016
+VL 212
+BP 358
+EP 365
+DI 10.1016/j.envpol.2016.01.081
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA DN1BA
+UT WOS:000376800000042
+PM 26874317
+DA 2024-03-20
+ER
+
+EF

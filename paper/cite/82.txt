@@ -1,0 +1,133 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lei Bingye
+   Pan Jiayu
+   Wu Fengchun
+   Lu Xiaobing
+   Ning Yuping
+   Chen Jun
+   Wu Kai
+Z2 雷炳业
+   潘嘉瑜
+   吴逢春
+   陆小兵
+   宁玉萍
+   陈军
+   吴凯
+TI Advances in auxiliary diagnosis of neuropsychiatric diseases based on
+   machine learning
+Z1 基于机器学习的神经精神疾病辅助诊断研究进展
+Z3 中国医学物理学杂志
+SO Chinese Journal of Medical Physics
+VL 37
+IS 2
+BP 257
+EP 264
+AR 1005-202X(2020)37:2<257:JYJQXX>2.0.TX;2-U
+PY 2020
+LA Chinese
+DT Review
+DE neuropsychiatric disease; neuroimaging; machine learning; auxiliary
+   diagnosis
+Z5 神经精神疾病; 神经影像; 机器学习; 辅助诊断
+AB Neuroimaging techniques are widely used to study the correlations
+   between brain structural/functional abnormalities and neuropsychiatric
+   diseases.Different from traditional statistical analysis methods,machine
+   learning model can realize individualized prediction from neuroimaging
+   data and exploit potential biomarkers.The auxiliary diagnosis of
+   neuropsychiatric diseases includes data preprocessing and machine
+   learning algorithms.Data preprocessing is a kind of artificial feature
+   engineering,providing quantitative features for machine learning
+   algorithms;and machine learning algorithms include feature
+   dimensionality reduction,model training and model evaluation.Robust
+   machine learning algorithms can accomplish accurate predictions for
+   different datasets and provide features that contribute significantly to
+   the prediction as potential biomarkers.Herein the recent advances in
+   auxiliary diagnosis of neuropsychiatric diseases based on machine
+   learning are summarized,including data preprocessing,machine learning
+   algorithms and biomarkers found in previous studies.Finally,the research
+   direction in the future is discussed.
+Z4 神经影像技术被广泛应用于研究大脑结构和功能异常与神经精神疾病之间的相关性。与传统的统计学分析方法不同,机器学习模型能对神经影像学数据进行个体化预
+   测,发掘潜在的生物学标记物。神经精神疾病辅助诊断包含数据预处理和机器学习算法。数据预处理是一种人为的特征工程,为机器学习算法提供量化特征;机器学
+   习算法包含特征降维、模型训练和模型评估。鲁棒的机器学习算法可以实现对不同数据集的准确预测,并提供对预测结果贡献大的特征,作为潜在的生物学标记物。
+   本文综述了近年来基于机器学习的神经精神疾病辅助诊断研究进展,从数据预处理、机器学习算法和生物学标记物3个角度进行介绍,并展望未来的研究方向。
+C1 Lei Bingye, Department of Biomedical Engineering,School of Material
+   Science and Engineering,South China University of Technology;;Guangdong
+   Engineering Technology Research Center for Translational Medicine of
+   Mental Disorders, ;;Guangdong Engineering Technology Research Center for
+   Translational Medicine of Mental Disorders, Guangzhou;;Guangzhou, ;;
+   510006;;510370.
+   Pan Jiayu, Guangdong Engineering Technology Research Center for
+   Translational Medicine of Mental Disorders, Guangdong Engineering
+   Technology Research Center for Translational Medicine of Mental
+   Disorders, Guangzhou, Guangdong 510370, China.
+   Wu Fengchun, Guangdong Engineering Technology Research Center for
+   Translational Medicine of Mental Disorders;;the Affiliated Brain
+   Hospital of Guangzhou Medical University(Guangzhou Huiai Hospital),
+   Guangdong Engineering Technology Research Center for Translational
+   Medicine of Mental Disorders;;, Guangzhou;;Guangzhou, ;; 510370;;510370.
+   Lu Xiaobing, Guangdong Engineering Technology Research Center for
+   Translational Medicine of Mental Disorders;;the Affiliated Brain
+   Hospital of Guangzhou Medical University(Guangzhou Huiai Hospital),
+   Guangdong Engineering Technology Research Center for Translational
+   Medicine of Mental Disorders;;, Guangzhou;;Guangzhou, ;; 510370;;510370.
+   Ning Yuping, Guangdong Engineering Technology Research Center for
+   Translational Medicine of Mental Disorders;;the Affiliated Brain
+   Hospital of Guangzhou Medical University(Guangzhou Huiai Hospital),
+   Guangdong Engineering Technology Research Center for Translational
+   Medicine of Mental Disorders;;, Guangzhou;;Guangzhou, ;; 510370;;510370.
+   Chen Jun, Guangdong Engineering Technology Research Center for Diagnosis
+   and Rehabilitation of Dementia;;National Engineering Technology Research
+   Center for Healthcare Devices, Guangdong Engineering Technology Research
+   Center for Diagnosis and Rehabilitation of Dementia;;National
+   Engineering Technology Research Center for Healthcare Devices,
+   Guangzhou;;Guangzhou, ;; 510500;;510500.
+   Wu Kai, Department of Biomedical Engineering,School of Material Science
+   and Engineering,South China University of Technology;;Guangdong
+   Engineering Technology Research Center for Translational Medicine of
+   Mental Disorders;;the Affiliated Brain Hospital of Guangzhou Medical
+   University(Guangzhou Huiai Hospital);;Guangdong Engineering Technology
+   Research Center for Diagnosis and Rehabilitation of Dementia;;National
+   Engineering Technology Research Center for Healthcare Devices,
+   ;;Guangdong Engineering Technology Research Center for Translational
+   Medicine of Mental Disorders;;;;Guangdong Engineering Technology
+   Research Center for Diagnosis and Rehabilitation of Dementia;;National
+   Engineering Technology Research Center for Healthcare Devices,
+   Guangzhou;;Guangzhou;;Guangzhou;;Guangzhou;;Guangzhou, ;;;;;;;;
+   510006;;510370;;510370;;510500;;510500.
+Z6 雷炳业, 华南理工大学材料科学与工程学院生物医学工程系;;广东省精神疾病转化医学工程技术研究中心, ;;广东省精神疾病转化医学工程技术研究中心,
+   广州;;广州, 广东;;广东 510006;;510370, 中国.
+   潘嘉瑜, 广东省精神疾病转化医学工程技术研究中心, 广东省精神疾病转化医学工程技术研究中心, 广州, 广东 510370, 中国.
+   吴逢春, 广东省精神疾病转化医学工程技术研究中心;;广州医科大学附属脑科医院(广州市惠爱医院), 广东省精神疾病转化医学工程技术研究中心;;,
+   广州;;广州, 广东;;广东 510370;;510370, 中国.
+   陆小兵, 广东省精神疾病转化医学工程技术研究中心;;广州医科大学附属脑科医院(广州市惠爱医院), 广东省精神疾病转化医学工程技术研究中心;;,
+   广州;;广州, 广东;;广东 510370;;510370, 中国.
+   宁玉萍, 广东省精神疾病转化医学工程技术研究中心;;广州医科大学附属脑科医院(广州市惠爱医院), 广东省精神疾病转化医学工程技术研究中心;;,
+   广州;;广州, 广东;;广东 510370;;510370, 中国.
+   陈军, 广东省老年痴呆诊断与康复工程技术研究中心;;国家医疗保健器具工程技术研究中心,
+   广东省老年痴呆诊断与康复工程技术研究中心;;国家医疗保健器具工程技术研究中心, 广州;;广州, 广东;;广东 510500;;510500,
+   中国.
+   吴凯,
+   华南理工大学材料科学与工程学院生物医学工程系;;广东省精神疾病转化医学工程技术研究中心;;广州医科大学附属脑科医院(广州市惠爱医院);;广东省老
+   年痴呆诊断与康复工程技术研究中心;;国家医疗保健器具工程技术研究中心,
+   ;;广东省精神疾病转化医学工程技术研究中心;;;;广东省老年痴呆诊断与康复工程技术研究中心;;国家医疗保健器具工程技术研究中心,
+   广州;;广州;;广州;;广州;;广州, 广东;;广东;;广东;;广东;;广东
+   510006;;510370;;510370;;510500;;510500, 中国.
+EM leibingye@outlook.com; kaiwu@scut.edu.cn
+Z7 leibingye@outlook.com; kaiwu@scut.edu.cn
+NR 52
+Z8 4
+Z9 5
+U1 1
+U2 7
+FU 国家自然科学基金; 广东省前沿与关键技术创新专项资金; 广东省公益研究与能力建设专项资金; 广东省协同创新与平台环境建设专项资金;
+   广州市产学研协同创新重大专项
+SN 1005-202X
+PG 8
+SC General & Internal Medicine (provided by Clarivate Analytics)
+UT CSCD:6669719
+DA 2024-04-07
+ER
+
+EF

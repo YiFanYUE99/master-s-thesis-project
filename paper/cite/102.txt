@@ -1,0 +1,111 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu Cuiling
+   Li Jiacong
+   Sun Xiaorong
+   Yin Yingqian
+   Zhang Shanzhe
+   Wu Jingzhu
+Z2 刘翠玲
+   李佳琮
+   孙晓荣
+   殷莺倩
+   张善哲
+   吴静珠
+TI Detection of Pesticide Residues in Cabbage Based on Fluorescence
+   Spectroscopy Combined with Broad Learning
+Z1 基于荧光光谱结合宽度学习的白菜农药残留量检测方法
+Z3 农业机械学报
+SO Transactions of the Chinese Society for Agricultural Machinery
+VL 54
+IS 10
+BP 198
+EP 204
+AR 1000-1298(2023)54:10<198:JYYGGP>2.0.TX;2-5
+PY 2023
+LA Chinese
+DT Article
+DE cabbage; pesticide residue; three-dimensional fluorescence spectroscopy;
+   broad learning system; wave selection
+Z5 白菜; 农药残留; 三维荧光光谱; 宽度学习系统; 波段选择
+AB In order to efficiently monitor the pesticide residues in vegetables,a
+   detection method of pesticide residue content of imidacloprid in cabbage
+   on fluorescence spectroscopy was proposed. Firstly, 400 nm was
+   determined of as the optimal excitation wavelength of imidacloprid by
+   three-dimensional fluorescence spectroscopy. Afterwards,six
+   pre-processing algorithms and two dimensionality reduction algorithms
+   were analyzed. Multiple scattering calibration (MSC) and uninformative
+   variable elimination (UVE) were selected as the best pre-processing and
+   wavelength selection methods,respectively. Finally,the broad learning
+   system (BLS) was used for fluorescence spectroscopy modeling and
+   compared with classical models such as partial least squares regression
+   (PLSR),support vector machine (SVM), and deep extreme learning machines
+   (DELM). The results showed that the BLS model obtained the best
+   prediction of imidacloprid content. The test set coefficient of
+   determination (R2p) reached 0.949 and the root mean square error (RMSE)
+   reached 0.347 mg/kg. The research result showed that fluorescence
+   spectroscopy combined with BLS was feasible to identify pesticide
+   residue content,and it can provide a theoretical basis for the
+   development of online detection system for pesticide residue content.
+Z4 为了高效监控蔬菜中农药残留情况,利用荧光光谱技术检测白菜中吡虫啉农药残留量。首先通过三维荧光光谱确定400nm为吡虫啉的最佳激发波长;其次通过分
+   析6种预处理算法和2种降维算法,分别选出多元散射校正(Multiple scattering
+   calibration,MSC)和无信息变量消除(Uninformative variable
+   elimination,UVE)作为最佳的预处理与波长选择方法;宽度学习系统(Broad learning
+   system,BLS)用于荧光光谱建模,同时与偏最小二乘回归(Partial least squares regression,PLSR)
+   、支持向量机(Support vector machine,SVM)和深度极限学习机(Deep extreme learning
+   machines,DELM)等经典模型进行比较。结果显示BLS模型获得了最佳吡虫啉含量预测效果,测试集决定系数R2p达0.949,均方根误差(R
+   oot mean square error,RMSE)达0.347
+   mg/kg。表明了荧光光谱技术结合宽度学习预测农药残留量的可行性,可以为在线检测农药残留量系统的开发提供理论依据。
+C1 Liu Cuiling, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+   Li Jiacong, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+   Sun Xiaorong, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+   Yin Yingqian, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+   Zhang Shanzhe, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+   Wu Jingzhu, School of Artificial Intelligence,Beijing Technology and
+   Business University;;Beijing Technology and Business University,
+   ;;Beijing Key Laboratory of Big Data Technology for Food Safety, ;;,
+   Beijing;;Beijing 100048;;100048.
+Z6 刘翠玲, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+   李佳琮, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+   孙晓荣, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+   殷莺倩, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+   张善哲, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+   吴静珠, 北京工商大学人工智能学院;;北京工商大学, ;;食品安全大数据技术北京市重点实验室, ;;, 北京;;北京
+   100048;;100048, 中国.
+EM liucl@btbu.edu.cn
+Z7 liucl@btbu.edu.cn
+NR 28
+Z8 0
+Z9 0
+U1 0
+U2 0
+FU 北京市自然科学基金项目; 国家自然科学基金项目; 北京工商大学2023研究生科研能力提升计划项目
+SN 1000-1298
+PG 7
+SC Agriculture (provided by Clarivate Analytics)
+UT CSCD:7573668
+DA 2024-04-07
+ER
+
+EF

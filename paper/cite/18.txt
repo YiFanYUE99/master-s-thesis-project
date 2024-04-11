@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Galvez-Llompart, M
+   Zanni, R
+   Vela-Corcía, D
+   Polonio, A
+   Perez-Gimenez, F
+   Martínez-Cruz, J
+   Romero, D
+   Fernández-Ortuño, D
+   Pérez-García, A
+   Galvez, J
+AF Galvez-Llompart, Maria
+   Zanni, Riccardo
+   Vela-Corcia, David
+   Polonio, Alvaro
+   Perez-Gimenez, Facundo
+   Martinez-Cruz, Jesus
+   Romero, Diego
+   Fernandez-Ortuno, Dolores
+   Perez-Garcia, Alejandro
+   Galvez, Jorge
+TI Rational Design of a Potential New Nematicide Targeting Chitin
+   Deacetylase
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE nematicide; chitin deacetylase; Caenorhabditiselegans; QSAR; molecular
+   topology
+ID ELEGANS; INHIBITORS; DISCOVERY
+AB In a previously published study, the authors devised a molecular topology QSAR (quantitative structure-activity relationship) approach to detect novel fungicides acting as inhibitors of chitin deacetylase (CDA). Several of the chosen compounds exhibited noteworthy activity. Due to the close relationship between chitin-related proteins present in fungi and other chitin-containing plant-parasitic species, the authors decided to test these molecules against nematodes, based on their negative impact on agriculture. From an overall of 20 fungal CDA inhibitors, six showed to be active against Caenorhabditis elegans. These experimental results made it possible to develop two new molecular topology-based QSAR algorithms for the rational design of potential nematicides with CDA inhibitor activity for crop protection. Linear discriminant analysis was employed to create the two algorithms, one for identifying the chemo-mathematical pattern of commercial nematicides and the other for identifying nematicides with activity on CDA. After creating and validating the QSAR models, the authors screened several natural and synthetic compound databases, searching for alternatives to current nematicides. Finally one compound, the N2-(dimethylsulfamoyl)-N-{2-[(2-methyl-2-propanyl)-sulfanyl]-ethyl}-N2-phenylglycinamide or nematode chitin deacetylase inhibitor, was selected as the best candidate and was further investigated both in silico, through molecular docking and molecular dynamic simulations, and in vitro, through specific experimental assays. The molecule shows favorable binding behavior on the catalytic pocket of C. elegans CDA and the experimental assays confirm potential nematicide activity.
+C1 [Galvez-Llompart, Maria] Univ Valencia, Fac Pharm, Dept Prevent Med & Publ Hlth Food Sci Toxicol & F, Valencia 46100, Spain.
+   [Galvez-Llompart, Maria; Zanni, Riccardo; Perez-Gimenez, Facundo; Galvez, Jorge] Univ Valencia, Dept Phys Chem, Mol Topol & Drug Design Unit, Valencia 46100, Spain.
+   [Vela-Corcia, David; Polonio, Alvaro; Martinez-Cruz, Jesus; Romero, Diego; Fernandez-Ortuno, Dolores; Perez-Garcia, Alejandro] Univ Malaga, Dept Microbiol, Inst Hortofruticultura Subtrop & Mediterranea May, IHSM UMA CSIC,Fac Sci, Malaga 29071, Spain.
+C3 University of Valencia; University of Valencia; Consejo Superior de
+   Investigaciones Cientificas (CSIC); Universidad de Malaga; CSIC-UMA -
+   Instituto de Hortofruticultura Subtropical y Mediterranea La Mayora
+   (IHSM)
+RP Galvez-Llompart, M (corresponding author), Univ Valencia, Fac Pharm, Dept Prevent Med & Publ Hlth Food Sci Toxicol & F, Valencia 46100, Spain.; Galvez-Llompart, M (corresponding author), Univ Valencia, Dept Phys Chem, Mol Topol & Drug Design Unit, Valencia 46100, Spain.
+EM maria.galvez@uv.es
+RI Romero, Diego/D-3849-2013
+OI Romero, Diego/0000-0002-2052-6515
+FU MINECO (Spanish Ministry of Economy, Industry, and Competitivity) from
+   Project: "Rational Design of New Phytoprotection Tools"
+   [PID2019-107464RB-C21, PID2019-107464RB-C22]
+FX This research was supported by the MINECO (Spanish Ministry of Economy,
+   Industry, and Competitivity) from Project: "Rational Design of New
+   Phytoprotection Tools" (PID2019-107464RB-C21 and PID2019-107464RB-C22).
+NR 33
+TC 0
+Z9 0
+U1 4
+U2 4
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD JAN 24
+PY 2024
+VL 72
+IS 5
+BP 2482
+EP 2491
+DI 10.1021/acs.jafc.3c05258
+PG 10
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA HH8Z1
+UT WOS:001158707300001
+PM 38264997
+OA hybrid
+DA 2024-04-01
+ER
+
+EF

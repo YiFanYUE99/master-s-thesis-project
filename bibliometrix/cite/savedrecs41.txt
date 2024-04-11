@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, W
+   Yan, S
+   Meng, ZY
+   Tian, SN
+   Jia, M
+   Huang, SR
+   Wang, Y
+   Zhou, ZQ
+   Diao, JL
+   Zhu, WT
+AF Sun, Wei
+   Yan, Sen
+   Meng, Zhiyuan
+   Tian, Sinuo
+   Jia, Ming
+   Huang, Shiran
+   Wang, Yu
+   Zhou, Zhiqiang
+   Diao, Jinling
+   Zhu, Wentao
+TI Combined ingestion of polystyrene microplastics and epoxiconazole
+   increases health risk to mice: Based on their synergistic
+   bioaccumulation in vivo
+SO ENVIRONMENT INTERNATIONAL
+LA English
+DT Article
+DE Polystyrene microplastics; Epoxiconazole; Combined toxicity;
+   Metabolomics; Intestinal barrier; Gut microbiota
+ID OXIDATIVE STRESS; ORGANIC POLLUTANTS; SURFACE WATERS; FRESH-WATERS;
+   TOXICITY; EXPOSURE; POLLUTION; RESIDUES; REVEALS; INDEX
+AB Microplastic and pesticide are two common environmental pollutants whose adverse effects have been widely reported, but it is unclear whether they cause combined toxicity in mammals. In this study, polystyrene microplastics (5 mu m, 0.012 or 0.120 mg/kg) or/and epoxiconazole (0.080 mg/kg) were administered orally to mice for 6 weeks, their toxicity to liver and kidney was assessed from changes in histopathology, tissue function, oxidative defense system and metabolic profile. In addition, mechanism of combined toxicity was explored in terms of bioaccumulation levels, intestinal barrier, gut microbiota. Results showed that combined ingestion of polystyrene (0.120 mg/kg) and epoxiconazole caused more severe tissue damage, dysfunction, oxidative stress, and metabolic disorders compared to single exposure sources. Interestingly, occurrence of combined toxicity was associated with their increased accumulation in tissues. In-depth exploration found that epoxiconazole caused intestinal barrier damage by targeting the gut microbiota, leading to massive invasion and accumulation of polystyrene, which in turn interfered with the metabolic clearance of epoxiconazole in liver. In all, findings highlighted that polystyrene and epoxiconazole could cause combined toxicity in mice through the synergistic effect of their bioaccumulation in vivo, which provided new reference for understanding the health risks of microplastics and pesticides and sheds light on the potential risk to humans of their combined ingestion.
+C1 [Sun, Wei; Yan, Sen; Tian, Sinuo; Jia, Ming; Huang, Shiran; Wang, Yu; Zhou, Zhiqiang; Diao, Jinling; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Meng, Zhiyuan] Yangzhou Univ, Sch Hort & Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Zhu, Wentao] Yuanmingyuan West Rd, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Yangzhou University
+RP Zhu, WT (corresponding author), Yuanmingyuan West Rd, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; Meng, Zhiyuan/AFU-9894-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX Acknowledgement We gratefully acknowledge financial support from the
+   National Key Research and Development Program of China (2016YFD0200202)
+   and the 2115 Talent Development Program of China Agricultural
+   University. The authors thank the members from the laboratory animal
+   center in China Agriculture University for their assistance of animal
+   care.
+NR 65
+TC 19
+Z9 20
+U1 50
+U2 206
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0160-4120
+EI 1873-6750
+J9 ENVIRON INT
+JI Environ. Int.
+PD AUG
+PY 2022
+VL 166
+AR 107391
+DI 10.1016/j.envint.2022.107391
+EA JUL 2022
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 3B5YU
+UT WOS:000828016800005
+PM 35803075
+OA gold
+DA 2024-03-20
+ER
+
+EF

@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, Y
+   Xu, L
+   Li, DZ
+   Teng, MM
+   Zhang, RK
+   Zhou, ZQ
+   Zhu, WT
+AF Wang, Yao
+   Xu, Li
+   Li, Dongzhi
+   Teng, Miaomiao
+   Zhang, Renke
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Enantioselective bioaccumulation of hexaconazole and its toxic effects
+   in adult zebrafish (<i>Danio rerio</i>)
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Hexaconazole; Enantioselective bioaccumulation; Oxidative stress;
+   Apoptosis
+ID OXIDATIVE STRESS; GENE-EXPRESSION; P53-DEPENDENT APOPTOSIS; PERMETHRIN
+   ENANTIOMERS; INDUCTION; EXPOSURE; DAMAGE; MODEL
+AB Little is known about the bioaccumulation and toxicity of hexaconazole (HEX) in spite of the fact that they are indispensable parts for a comprehensive assessment of its environmental behavior and toxic effects in organisms of freshwater ecosystems. In this study, adult zebrafish were used to study the enantioselective bioaccumulation of HEX and its effect endpoints in liver, including oxidative stress and the regulation of apoptosis-related gene expression. Significant enantioselective bioaccumulation was demonstrated when exposed to HEX of 100 and 200 mu g L-1, finding that the ()-enantiomer tended to accumulate in zebrafish more easily than (+)-enantiomer. Activities of antioxidant enzymes (SOD, CAT and GPx) and GSH content were all significantly decreased when zebrafish were exposed to 50 and 200 mu g L-1 HEX for 21 d. A series of genes of the apoptosis pathway were examined in groups treated with 50 and 200 mu g L-1 HEX for 21 d using real-time PCR. Significant up-regulation of p53, Puma, Apaf-1, caspase-3 and caspase-9 expression and down-regulation of Bcl-2/Bax expression ratio were proved. The overall results indicated that waterborne HEX was able to produce oxidative stress and induce apoptosis through the involvement of caspases in adult zebrafish. The above information will play a vital role in the integrated environmental risk assessment of HEX and make its toxic mechanism in fish clear. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Wang, Yao; Zhang, Renke; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Xu, Li] China Agr Univ, Coll Sci, Minist Agr, Key Lab Pesticide Chem & Applicat Technol, Beijing 100193, Peoples R China.
+   [Li, Dongzhi; Teng, Miaomiao] China Agr Univ, Coll Sci, Beijing 100193, Peoples R China.
+C3 China Agricultural University; China Agricultural University; Ministry
+   of Agriculture & Rural Affairs; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019; Zhou,
+   Zhiqiang/HIR-4954-2022
+OI Zhu, Wentao/0000-0001-6371-7998; 
+FU National Natural Science Foundation of China [21207158, 21337005]
+FX Thanks a lot for the financial support of the National Natural Science
+   Foundation of China (Contract Grant Numbers: 21207158 and 21337005).
+NR 37
+TC 57
+Z9 57
+U1 8
+U2 106
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD NOV
+PY 2015
+VL 138
+BP 798
+EP 805
+DI 10.1016/j.chemosphere.2015.08.015
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA CS0SP
+UT WOS:000361772800105
+PM 26291761
+DA 2024-03-20
+ER
+
+EF

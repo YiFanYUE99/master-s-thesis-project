@@ -1,0 +1,43 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Polsky, BR
+AF Polsky, BR
+TI SIMCA-P, version 7.0.
+SO JOURNAL OF CHEMOMETRICS
+LA English
+DT Software Review
+C1 Exxon Res & Engn Co, Florham Park, NJ 07932 USA.
+C3 Exxon Mobil Corporation
+RP Polsky, BR (corresponding author), Exxon Res & Engn Co, 180 Pk Ave, Florham Park, NJ 07932 USA.
+NR 0
+TC 0
+Z9 1
+U1 0
+U2 6
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX PO19 1UD, ENGLAND
+SN 0886-9383
+J9 J CHEMOMETR
+JI J. Chemometr.
+PD SEP-OCT
+PY 1999
+VL 13
+IS 5
+BP 539
+EP 540
+DI 10.1002/(SICI)1099-128X(199909/10)13:5<539::AID-CEM562>3.0.CO;2-U
+PG 2
+WC Automation & Control Systems; Chemistry, Analytical; Computer Science,
+   Artificial Intelligence; Instruments & Instrumentation; Mathematics,
+   Interdisciplinary Applications; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Chemistry; Computer Science; Instruments &
+   Instrumentation; Mathematics
+GA 246DF
+UT WOS:000083148000004
+DA 2024-04-08
+ER
+
+EF

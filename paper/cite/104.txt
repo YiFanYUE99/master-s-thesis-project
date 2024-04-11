@@ -1,0 +1,91 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Norén, E
+   Lindh, C
+   Rylander, L
+   Glynn, A
+   Axelsson, J
+   Littorin, M
+   Faniband, M
+   Larsson, E
+   Nielsen, C
+AF Noren, Erika
+   Lindh, Christian
+   Rylander, Lars
+   Glynn, Anders
+   Axelsson, Jonatan
+   Littorin, Margareta
+   Faniband, Moosa
+   Larsson, Estelle
+   Nielsen, Christel
+TI Concentrations and temporal trends in pesticide biomarkers in urine of
+   Swedish adolescents, 2000-2017
+SO JOURNAL OF EXPOSURE SCIENCE AND ENVIRONMENTAL EPIDEMIOLOGY
+LA English
+DT Article
+DE Biomonitoring; Dietary exposure; Pesticides; Population based studies
+ID BIOMONITORING EQUIVALENTS; PYRETHROID INSECTICIDES;
+   LIQUID-CHROMATOGRAPHY; METABOLITE LEVELS; EXPOSURE; CHILDREN;
+   ORGANOPHOSPHORUS; POPULATION; HEALTH; ACID
+AB Agricultural pesticides are extensively used for weed- and pest control, resulting in residues of these compounds in food. The general population is mainly exposed through dietary intake. Exposure to certain pesticides has been associated with adverse human health outcomes. Our aim was to assess urinary concentrations and temporal trends in the biomarkers of commonly used pesticides. Samples were collected from adolescents (n = 1060) in Scania, Sweden, from 2000 to 2017. Concentrations of 14 pesticide biomarkers were analyzed in urine using LC-MS/MS. Temporal trends in biomarker concentrations (ln-transformed) were evaluated using linear regression. Biomarkers of pyrethroids (3-PBA and DCCA), chlorpyrifos (TCPy), chlormequat (CCC), thiabendazole (OH-TBZ), and mancozeb (ETU) were detected in >90% of the population all sampling years. The biomarkers CCC and TCPy had the highest median concentrations (>0.8 mu g/L), whereas the biomarkers of cyfluthrin (4F-3-PBA) and two pyrethroids (CFCA) had the lowest median concentrations (<0.02 mu g/L). Increasing temporal trends were found for the biomarkers 3-PBA (3.7%/year), TCPy (1.7%/year) and biomarkers of pyrimethanil (11.9%/year) and tebuconazole (12.2%/year). Decreasing trends were found for CCC (-5.5%/year), OH-TBZ (-5.5%/year), and ETU (-3.9%/year). Our results suggest that Swedish adolescents are commonly exposed to pesticides in low concentrations (median concentrations <3.88 mu g/L).
+C1 [Noren, Erika; Lindh, Christian; Rylander, Lars; Axelsson, Jonatan; Littorin, Margareta; Faniband, Moosa; Larsson, Estelle; Nielsen, Christel] Lund Univ, Dept Lab Med, Div Occupat & Environm Med, Lund, Sweden.
+   [Glynn, Anders] Swedish Univ Agr Sci SLU, Dept Biomed Sci & Vet Publ Hlth, Uppsala, Sweden.
+C3 Lund University; Swedish University of Agricultural Sciences
+RP Norén, E (corresponding author), Lund Univ, Dept Lab Med, Div Occupat & Environm Med, Lund, Sweden.
+EM erika.noren@med.lu.se
+RI Nielsen, Christel/H-3669-2011; Faniband, Moosa/F-6141-2014; Axelsson,
+   Jonas/A-4167-2011
+OI Nielsen, Christel/0000-0003-3940-7847; Lindh,
+   Christian/0000-0001-7435-9890; Larsson, Estelle/0000-0003-0704-7306;
+   Rylander, Lars/0000-0001-8288-8207
+FU Swedish Environmental Protection Agency [215-12-13, 2215-15-005,
+   2215-16-002, 2215-17-019, 235-1780-08]; Scania County Council; Faculty
+   of Medicine at Lund University
+FX The sample collection and chemical analyses in this work were supported
+   by the Swedish Environmental Protection Agency (grant no. 215-12-13,
+   2215-15-005, 2215-16-002, 2215-17-019, and 235-1780-08). The work was
+   also supported by the Scania County Council and the Faculty of Medicine
+   at Lund University. Appreciation is expressed to the participants and
+   schools involved in the study. We wish to thank the nurses Else Akerberg
+   Krook and Ulla Andersson for assistance with sample collection in 2013
+   and 2017 and the National Service Administration in Sweden, especially
+   Erna Jeppson-Stridsberg, for recruiting participants for the 2000-2009
+   period. We would like to thank the laboratory technician Margareta Maxe
+   for analyzing all the samples. We further thank Silvia Fustinoni for
+   kindly providing the metabolites of tebuconazole used in the chemical
+   analysis.
+NR 60
+TC 41
+Z9 43
+U1 0
+U2 26
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 1559-0631
+EI 1559-064X
+J9 J EXPO SCI ENV EPID
+JI J. Expo. Sci. Environ. Epidemiol.
+PD JUL
+PY 2020
+VL 30
+IS 4
+BP 756
+EP 767
+DI 10.1038/s41370-020-0212-8
+EA FEB 2020
+PG 12
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Toxicology
+GA MB7UK
+UT WOS:000515473600002
+PM 32094458
+OA hybrid, Green Published
+DA 2024-04-07
+ER
+
+EF

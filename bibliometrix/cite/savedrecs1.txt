@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, XR
+   Qiu, J
+   Xu, P
+   Zhang, P
+   Wang, Y
+   Zhou, ZG
+   Zhu, WT
+AF Wang, Xinru
+   Qiu, Jing
+   Xu, Peng
+   Zhang, Ping
+   Wang, Yao
+   Zhou, Zhigiang
+   Zhu, Wentao
+TI Rapid Metabolite Discovery, Identification, and Accurate Comparison of
+   the Stereoselective Metabolism of Metalaxyl in Rat Hepatic Microsomes
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE metabolic profile; LC-MS; rat hepatic microsome; stereoselective
+   metabolism; metabolite identification
+ID CHROMATOGRAPHY-MASS-SPECTROMETRY; IN-VITRO; LC-MS; DRUG-METABOLISM;
+   METABOLOMICS; LC/MS; DEGRADATION; ENANTIOMERS; MECHANISMS; TOXICITY
+AB Metabolite identification and quantitation impose great challenges on risk assessment of agrochemicals, as many metabolite standards are generally unavailable. In this study, metalaxyl metabolites were identified by time-of-flight mass spectrometry and semiquantified by triple quadrupole tandem mass spectrometry with self-prepared C-13-labeled metalaxyl metabolites as internal standards. Such methodology was employed to characterize the stereoselective metabolism of metalaxyl in rat hepatic microsomes successfully. Metabolites derived from hydroxylation, demethylation, and didemethylation were identified and semiquantified. The results indicated that (+)-S-metalaxyl eliminated preferentially as the enantiomer fraction was 0.32 after 60 min incubation. The amounts of hydroxymetalaxyl and demethylmetalaxyl derived from (-)-R-metalaxyl were 1.76 and 1.82 times higher than that of (+)-S-metalaxyl, whereas didemethylmetalaxyl derived from (+)-S-metalaxyl was 1.44 times larger than that from (-)-R-metalaxyl. This study highlights a new quantitation approach for stereoselective metabolism of chiral agrochemicals and provides more knowledge on metalaxyl risk assessment.
+C1 [Wang, Xinru; Zhang, Ping; Wang, Yao; Zhou, Zhigiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Qiu, Jing] Chinese Acad Agr Sci, Key Lab Agroprod Qual & Safety, Inst Qual Stand & Testing Technol Agroprod, Beijing, Peoples R China.
+   [Xu, Peng] Chinese Acad Sci, Res Ctr Ecoenvironm Sci, Beijing, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Quality Standards & Testing Technology for Agro-Products,
+   CAAS; Chinese Academy of Sciences; Research Center for Eco-Environmental
+   Sciences (RCEES)
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21021058];
+   Chinese Universities Scientific Fund [2012RC026]
+FX We gratefully acknowledge financial support from the National Natural
+   Science Foundation of China (contract grant numbers: 21207158 and
+   21021058) and Chinese Universities Scientific Fund (2012RC026).
+NR 42
+TC 12
+Z9 13
+U1 0
+U2 60
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD JAN 28
+PY 2015
+VL 63
+IS 3
+BP 754
+EP 760
+DI 10.1021/jf5025104
+PG 7
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA CA1SU
+UT WOS:000348692600002
+PM 25581548
+DA 2024-03-20
+ER
+
+EF

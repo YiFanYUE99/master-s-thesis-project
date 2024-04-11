@@ -1,0 +1,90 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ma, LL
+   Yin, ZB
+   Xie, QR
+   Xu, YZ
+   Chen, YY
+   Huang, YD
+   Li, Z
+   Zhu, XH
+   Zhao, YH
+   Wen, WL
+   Xu, HH
+   Wu, XZ
+AF Ma, Lianlian
+   Yin, Zhibin
+   Xie, Qingrong
+   Xu, Yizhu
+   Chen, Yingying
+   Huang, Yudi
+   Li, Zhen
+   Zhu, Xinhai
+   Zhao, Yuhui
+   Wen, Wenlin
+   Xu, Hanhong
+   Wu, Xinzhou
+TI Metabolomics and mass spectrometry imaging reveal the chronic toxicity
+   of indoxacarb to adult zebrafish<i> (Danio</i><i> rerio)</i> livers
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Zebrafish; Mass spectrometry imaging; Metabolomics; Indoxacarb; Toxicity
+   mechanism
+ID OXIDATIVE STRESS; RISK-ASSESSMENT; PESTICIDE; METABOLISM; MODEL;
+   DIFENOCONAZOLE; NANOPARTICLES; THIAMETHOXAM; BIOMARKERS; ACID
+AB Indoxacarb is a widely used insecticide in the prevention and control of agricultural pests, whereas its negative effects on non-target organisms remain largely unclear. Herein, we demonstrated the integrated metabolomics and mass spectrometry imaging (MSI) methods to investigate the chronic exposure toxicity of indoxacarb at environmentally relevant concentrations in adult zebrafish (Danio rerio) liver. Results showed that movement behaviors of zebrafish can be affected and catalase (CAT), glutamic oxalacetic transaminase (GOT), and glutamic pyruvic transaminase (GPT) activities were significantly increased after indoxacarb exposure for 28 days. Pathological analysis of zebrafish livers also showed that cavitation and pathological reactions occur. Metab-olomics results indicated that metabolic pathways of zebrafish liver could be significantly affected by indoxacarb, such as tricarboxylic acid (TCA) cycle and various amino acid metabolisms. MSI results revealed the spatial differentiation of crucial metabolites involved in these metabolic pathways within zebrafish liver. Taken together, these integrated MSI and metabolomics results revealed that the toxicity of indoxacarb arises from metabolic pathways disturbance, which resulted in the decrease of liver detoxification ability. These findings will promote the current understanding of pesticide risks and metabolic disorders in zebrafish liver, which provide new insights into the environmental risk assessment of insecticides on aquatic organisms.
+C1 [Ma, Lianlian; Xie, Qingrong; Xu, Yizhu; Chen, Yingying; Huang, Yudi; Li, Zhen; Zhao, Yuhui; Wen, Wenlin; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, Natl Key Lab Green Pesticide, Guangzhou 510642, Peoples R China.
+   [Ma, Lianlian; Xie, Qingrong; Xu, Yizhu; Chen, Yingying; Huang, Yudi; Li, Zhen; Zhao, Yuhui; Wen, Wenlin; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, Key Lab Nat Pesticide & Chem Biol, Minist Educ, Guangzhou 510642, Peoples R China.
+   [Yin, Zhibin] Guangdong Acad Agr Sci, Agro Biol Gene Res Ctr, Guangzhou 510640, Peoples R China.
+   [Ma, Lianlian] South China Agr Univ, Coll Plant Protect, Key Lab Bio Pesticide Creat & Applicat Guangdong P, Guangzhou 510642, Peoples R China.
+   [Zhu, Xinhai] Sun Yat Sen Univ, Instrumental Anal & Res Ctr, Guangzhou 510275, Peoples R China.
+C3 South China Agricultural University; South China Agricultural
+   University; Guangdong Academy of Agricultural Sciences; South China
+   Agricultural University; Sun Yat Sen University
+RP Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, Natl Key Lab Green Pesticide, Guangzhou 510642, Peoples R China.; Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, Key Lab Nat Pesticide & Chem Biol, Minist Educ, Guangzhou 510642, Peoples R China.
+EM hhxu@scau.edu.cn; wuxz@scau.edu.cn
+FU Natural Science Foundation of Guangdong Province [2022A1515011385,
+   2023A1515030241]; Youth Talent Support Programme of Guangdong Provincial
+   Association for Science and Technology [SKXRC202315]; Young Talent
+   Support Project of Guangzhou Association for Science and Technology
+   [QT20220101031]; Science and Technology Planning Project of Guangzhou
+   [SL2022A04J00958]
+FX Acknowledgements This work was supported by a grant from the Natural
+   Science Foundation of Guangdong Province (Nos. 2022A1515011385 and
+   2023A1515030241) . We also acknowledge the Youth Talent Support
+   Programme of Guangdong Provincial Association for Science and Technology
+   (No. SKXRC202315) and Young Talent Support Project of Guangzhou
+   Association for Science and Technology (No. QT20220101031) . This work
+   is also supported by the Science and Technology Planning Project of
+   Guangzhou (No. SL2022A04J00958) .
+NR 63
+TC 7
+Z9 7
+U1 99
+U2 161
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD JUL 5
+PY 2023
+VL 453
+AR 131304
+DI 10.1016/j.jhazmat.2023.131304
+EA APR 2023
+PG 12
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA F1JU2
+UT WOS:000979986600001
+PM 37043861
+DA 2024-04-07
+ER
+
+EF

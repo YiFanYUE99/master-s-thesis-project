@@ -1,0 +1,77 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tian, S
+   Teng, MM
+   Meng, ZY
+   Yan, S
+   Jia, M
+   Li, RS
+   Liu, L
+   Yan, J
+   Zhou, ZQ
+   Zhu, WT
+AF Tian, Sinuo
+   Teng, Miaomiao
+   Meng, Zhiyuan
+   Yan, Sen
+   Jia, Ming
+   Li, Ruisheng
+   Liu, Li
+   Yan, Jin
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Toxicity effects in zebrafish embryos (<i>Danio rerio</i>) induced by
+   prothioconazole
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Zebrafish embryos; Developmental toxicity; Oxidative damage; Metabolism
+   disorders
+ID OXIDATIVE STRESS; DNA-DAMAGE; DIFENOCONAZOLE; FUNGICIDES; METABOLOMICS;
+   METABOLISM; REGULATORS; TRICLOSAN; HORMONE; SYSTEM
+AB Triazole fungicides are widely used in agriculture production and have adverse impacts on aquatic organisms. As one of the triazole fungicides, prothioconazole has been reported to cause many toxicological effects, but its risks to aquatic organisms are unknown. In this study, we systematically explored the toxicity effects of prothioconazole exposure on zebrafish embryos (Danio rerio) involving in developmental toxicity, oxidative damage and metabolism disorders. The results showed that prothioconazole exposure to zebrafish embryos produced a series of toxic symptoms, including hatching inhibition, shortening of body length, pericardial cyst and yolk cyst. In addition, prothioconazole exposure caused significant lipid peroxidation and oxidative damage. Particularly, we also found that metabolites and genes involved in lipid metabolism also showed significant changes. This study may provide theoretical basis for systematically assessing the potential risks of zebrafish embryos with prothioconazole exposure. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Tian, Sinuo; Meng, Zhiyuan; Yan, Sen; Jia, Ming; Li, Ruisheng; Yan, Jin; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Liu, Li] Yangzhou Univ, Sch Food Sci & Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+C3 China Agricultural University; China Agricultural University; Yangzhou
+   University
+RP Zhu, WT (corresponding author), Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019; Zhou,
+   Zhiqiang/HIR-4954-2022; Yan, Jin/AAE-5637-2022; Meng,
+   Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202).
+NR 55
+TC 56
+Z9 61
+U1 18
+U2 263
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD DEC
+PY 2019
+VL 255
+AR 113269
+DI 10.1016/j.envpol.2019.113269
+PN 2
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA JP5YR
+UT WOS:000498340400053
+PM 31574395
+DA 2024-03-20
+ER
+
+EF

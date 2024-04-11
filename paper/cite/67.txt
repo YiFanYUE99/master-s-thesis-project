@@ -1,0 +1,75 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, ZC
+   Wang, YP
+   Tang, CX
+   Han, MH
+   Wang, Y
+   Zhao, K
+   Liu, JQ
+   Tian, JC
+   Wang, HX
+   Chen, Y
+   Jiang, QW
+AF Yang, Zichen
+   Wang, Yuanping
+   Tang, Chuanxi
+   Han, Minghui
+   Wang, Yi
+   Zhao, Ke
+   Liu, Jiaqi
+   Tian, Jiacheng
+   Wang, Hexing
+   Chen, Yue
+   Jiang, Qingwu
+TI Urinary neonicotinoids and metabolites are associated with obesity risk
+   in Chinese school children
+SO ENVIRONMENT INTERNATIONAL
+LA English
+DT Article
+DE Neonicotinoids; Urine; Children; Obesity; Shanghai; China
+ID INSECTICIDES; OVERWEIGHT; RESISTANCE; TOXICITY
+AB Background: Neonicotinoids are the most widely used insecticides. Laboratory studies have suggested that neonicotinoids are one potential obesogen, but relevant data are limited in human.Objective: To examine the association between exposure to neonicotinoids and childhood obesity.Methods: We investigated 442 children in Shanghai, East China and measured eight neonicotinoids (thiamethoxam, clothianidin, acetamiprid, imidacloprid, thiacloprid, nitenpyram, dinotefuran, and imidaclothiz) and four metabolites (N-desmethyl-thiamethoxam, N-desmethyl-clothianidin, N-desmethyl-acetamiprid, and 5-OHimidacloprid) in urine. Body mass index (BMI) and waist circumference (WC) were used to identify general overweight/obesity and central obesity, respectively. Linear and logistic regression models based on generalized estimating equations were used to investigate the associations of urinary neonicotinoids and metabolites with BMI z-score, WC z-score, general overweight/obesity, and central obesity.Results: Children with a positive detection of clothianidin and its metabolite had a marginally higher BMI z-score (regression coefficient (beta): 0.08, 95% confidence interval (95% CI): 0.01, 0.14) after adjusted for relevant covariates. After creatinine-adjusted concentration was trichotomized, compared to children with a negative detection, children in the high urinary concentration of acetamiprid and its metabolite had a low BMI z-score (beta:-0.19, 95%CI:-0.30,-0.08), children in the medium urinary concentration of neonicotinoids and metabolites other than thiamethoxam, clothianidin, acetamiprid, and their metabolites had a marginally higher BMI z-score (beta: 0.25, 95%CI: 0.03, 0.46), a higher WC z-score (beta: 0.24, 95%CI: 0.14, 0.33), and a higher odds of central obesity (odds ratio (OR): 2.16, 95% CI: 1.28, 3.63), and children in the medium urinary concentration of all neonicotinoids and metabolites had a higher odds of central obesity (OR: 1.55, 95%CI: 1.04, 2.33). Some associations showed sex-and age-related differences.Conclusion: Urinary neonicotinoids and metabolites were found to be differently associated with obesity-related indexes, which suggested that exposure to neonicotinoids might have a mixed effect on childhood obesity.
+C1 [Yang, Zichen; Wang, Yuanping; Han, Minghui; Wang, Yi; Zhao, Ke; Liu, Jiaqi; Tian, Jiacheng; Wang, Hexing; Jiang, Qingwu] Fudan Univ, Sch Publ Hlth, Key Lab Publ Hlth Safety, Minist Educ, Shanghai 200032, Peoples R China.
+   [Tang, Chuanxi] Changning Dist Ctr Dis Control & Prevent, Shanghai 200051, Peoples R China.
+   [Chen, Yue] Univ Ottawa, Fac Med, Sch Epidemiol & Publ Hlth, Ottawa, ON K1G 5Z3, Canada.
+   [Wang, Hexing] Dongan Rd 130, Shanghai City 200032, Peoples R China.
+   [Chen, Yue] 600 Peter Morand Crescent, Ottawa, ON K1G 5Z3, Canada.
+C3 Fudan University; Shanghai Center for Disease Control & Prevention;
+   University of Ottawa
+RP Wang, HX (corresponding author), Dongan Rd 130, Shanghai City 200032, Peoples R China.; Chen, Y (corresponding author), 600 Peter Morand Crescent, Ottawa, ON K1G 5Z3, Canada.
+EM wanghexing@fudan.edu.cn; yue.chen@uottawa.ca
+FU National Natural Science Foundation of China [82073638, 82273703]
+FX The study was supported by the National Natural Science Foundation of
+   China (No. 82073638 and No. 82273703) .
+NR 68
+TC 1
+Z9 1
+U1 15
+U2 15
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0160-4120
+EI 1873-6750
+J9 ENVIRON INT
+JI Environ. Int.
+PD JAN
+PY 2024
+VL 183
+AR 108366
+DI 10.1016/j.envint.2023.108366
+EA DEC 2023
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA DV3C7
+UT WOS:001134808300001
+PM 38061247
+OA gold
+DA 2024-04-06
+ER
+
+EF

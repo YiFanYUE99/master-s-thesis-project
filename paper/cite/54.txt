@@ -1,0 +1,83 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ciura, K
+   Fedorowicz, J
+   Zuvela, P
+   Lovric, M
+   Kapica, H
+   Baranowski, P
+   Sawicki, W
+   Wong, MW
+   Saczewski, J
+AF Ciura, Krzesimir
+   Fedorowicz, Joanna
+   Zuvela, Petar
+   Lovric, Mario
+   Kapica, Hanna
+   Baranowski, Pawel
+   Sawicki, Wieslaw
+   Wong, Ming Wah
+   Saczewski, Jaroslaw
+TI Affinity of Antifungal Isoxazolo[3,4-<i>b</i>]pyridine-3(1<i>H</i>)-Ones
+   to Phospholipids in Immobilized Artificial Membrane (IAM) Chromatography
+SO MOLECULES
+LA English
+DT Article
+DE immobilized artificial membrane; IAM-HPLC; isoxazolo[3;
+   4-b]pyridin-3(1H)-one; isoxazolone
+ID POLAR INTERACTIONS; HPLC; INDEXES; TAUTOMERISM; ISOXAZOLONE;
+   LIPOPHILICITY; DERIVATIVES; PREDICTION; PARTITION; HUMANS
+AB Currently, rapid evaluation of the physicochemical parameters of drug candidates, such as lipophilicity, is in high demand owing to it enabling the approximation of the processes of absorption, distribution, metabolism, and elimination. Although the lipophilicity of drug candidates is determined using the shake flash method (n-octanol/water system) or reversed phase liquid chromatography (RP-LC), more biosimilar alternatives to classical lipophilicity measurement are currently available. One of the alternatives is immobilized artificial membrane (IAM) chromatography. The present study is a continuation of our research focused on physiochemical characterization of biologically active derivatives of isoxazolo[3,4-b]pyridine-3(1H)-ones. The main goal of this study was to assess the affinity of isoxazolones to phospholipids using IAM chromatography and compare it with the lipophilicity parameters established by reversed phase chromatography. Quantitative structure-retention relationship (QSRR) modeling of IAM retention using differential evolution coupled with partial least squares (DE-PLS) regression was performed. The results indicate that in the studied group of structurally related isoxazolone derivatives, discrepancies occur between the retention under IAM and RP-LC conditions. Although some correlation between these two chromatographic methods can be found, lipophilicity does not fully explain the affinities of the investigated molecules to phospholipids. QSRR analysis also shows common factors that contribute to retention under IAM and RP-LC conditions. In this context, the significant influences of WHIM and GETAWAY descriptors in all the obtained models should be highlighted.
+C1 [Ciura, Krzesimir; Kapica, Hanna; Baranowski, Pawel; Sawicki, Wieslaw] Med Acad Gdansk, Fac Pharm, Dept Phys Chem, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+   [Fedorowicz, Joanna] Med Acad Gdansk, Fac Pharm, Dept Chem Technol Drugs, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+   [Zuvela, Petar; Wong, Ming Wah] Natl Univ Singapore, Dept Chem, 3 Sci Dr 3, Singapore 117543, Singapore.
+   [Lovric, Mario] Know Ctr, Inffeldgasse 13, AT-8010 Graz, Austria.
+   [Saczewski, Jaroslaw] Med Acad Gdansk, Fac Pharm, Dept Organ Chem, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+C3 Fahrenheit Universities; Medical University Gdansk; Fahrenheit
+   Universities; Medical University Gdansk; National University of
+   Singapore; Fahrenheit Universities; Medical University Gdansk
+RP Ciura, K (corresponding author), Med Acad Gdansk, Fac Pharm, Dept Phys Chem, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+EM krzemek@gumed.edu.pl; joanna.fedorowicz@gumed.edu.pl;
+   petar.zuvela@nus.edu.sg; mlovric@know-center.at;
+   hanna.kapica@gumed.edu.pl; pawel.b1995@gmail.com; wsawicki@gumed.edu.pl;
+   chmwmw@nus.edu.sg; jaroslaw.saczewski@gumed.edu.pl
+RI Wong, Ming Wah/B-4772-2018; Lovrić, Mario/AAS-7160-2021; Ciura,
+   Krzesimir/AAN-7006-2021; Saczewski, Jaroslaw/R-5111-2018; Zuvela,
+   Petar/A-1352-2017
+OI Lovrić, Mario/0000-0002-3541-9624; Ciura, Krzesimir/0000-0001-6187-6039;
+   Wong, Ming Wah/0000-0003-2162-1220; Saczewski,
+   Jaroslaw/0000-0003-2966-7645; Fedorowicz, Joanna/0000-0001-7524-9909;
+   Zuvela, Petar/0000-0001-6481-2241
+FU Ministry of Science and Higher Education [ST3 02-0003/07/518]
+FX This work was partly financed by the Ministry of Science and Higher
+   Education by means of ST3 02-0003/07/518 statutory funds.
+NR 36
+TC 8
+Z9 8
+U1 0
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1420-3049
+J9 MOLECULES
+JI Molecules
+PD OCT
+PY 2020
+VL 25
+IS 20
+AR 4835
+DI 10.3390/molecules25204835
+PG 9
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA ON9OD
+UT WOS:000587019600001
+PM 33092252
+OA Green Published, gold
+DA 2024-04-02
+ER
+
+EF

@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wong, E
+   Citra, M
+   Kawa, M
+   Coley, C
+AF Wong, Edmund
+   Citra, Mario
+   Kawa, Mary
+   Coley, Chrissy
+TI Use of EPI Suite™ fugacity model in assessing environmental fate
+SO ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Meeting Abstract
+CT Fall National Meeting and Exposition of the American-Chemical-Society
+   (ACS)
+CY AUG 25-29, 2019
+CL San Diego, CA
+SP Amer Chem Soc
+C1 [Wong, Edmund] US EPA, OCSPP, Arlington, VA USA.
+   [Citra, Mario] SRC Inc, Syracuse, NY USA.
+   [Kawa, Mary; Coley, Chrissy] SRC, North Syracuse, NY USA.
+C3 United States Environmental Protection Agency
+EM EDMUNDMWONG@GMAIL.COM
+NR 0
+TC 0
+Z9 0
+U1 3
+U2 13
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0065-7727
+J9 ABSTR PAP AM CHEM S
+JI Abstr. Pap. Am. Chem. Soc.
+PD AUG 25
+PY 2019
+VL 258
+MA 420-ENVR
+PG 1
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Chemistry
+GA LC1AO
+UT WOS:000525061500507
+DA 2024-04-01
+ER
+
+EF

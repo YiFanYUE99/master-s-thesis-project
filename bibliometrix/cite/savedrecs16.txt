@@ -1,0 +1,65 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, XR
+   Wang, DZ
+   Zhou, ZQ
+   Zhu, WT
+AF Wang, Xinru
+   Wang, Dezhen
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Subacute oral toxicity assessment of benalaxyl in mice based on
+   metabolomics methods
+SO CHEMOSPHERE
+LA English
+DT Article
+DE H-1 NMR; Metabolomics; Amino acids; Benalaxyl; Oxidative stress
+ID AMINO-ACIDS; METABOLISM; EXPOSURE; TRANSCRIPTOMICS
+AB In this study, the metabolic responses of mice after 30 days of exposure to benalaxyl were assessed using NMR-based untargeted metabolomics and LC-MS-based targeted profiling of 20 amino acids. Urinary H-1 NMR analyses revealed alterations in energy metabolism, lipid metabolism, vitamin B metabolism, the urea cycle and amino acid metabolism, and targeted analyses indicated that the serum levels of asparagine, histidine, lysine and aspartic acid were significantly altered. Additionally, significant oxidative stress was observed in the liver and kidney, although no apparent histopathological injury was observed. The tissue distribution indicated a significant stereoselectivity in the brain, where (-)-R-benalaxyl was enriched. These data provide a comprehensive picture of the subacute toxic effects of benalaxyl in mice. The results of this study suggested that, for a toxicity evaluation, metabolomics analysis is much more sensitive than traditional toxicological methods. The results also highlight the combined use of untargeted and targeted metabolomics approaches in evaluating the health risks of xenobiotics. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Wang, Xinru] Chinese Acad Agr Sci, Tea Res Inst, Hangzhou 310008, Zhejiang, Peoples R China.
+   [Wang, Xinru; Wang, Dezhen; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 Chinese Academy of Agricultural Sciences; Tea Research Institute, CAAS;
+   China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Wang, Dezhen/K-2489-2016; Zhou, Zhiqiang/HIR-4954-2022; Zhu,
+   Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; padilha, hugo cp
+   cezarotti/R-9840-2017
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; Wang,
+   Xinru/0000-0002-8340-243X
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21337005]; CAST
+FX We gratefully acknowledge the financial support from the National Key
+   Research and Development Program of China (2016YFD0200202), the National
+   Natural Science Foundation of China (21337005) and the Young Elite
+   Scientists Sponsorship Program by CAST.
+NR 26
+TC 9
+Z9 11
+U1 4
+U2 77
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD JAN
+PY 2018
+VL 191
+BP 373
+EP 380
+DI 10.1016/j.chemosphere.2017.10.085
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA FQ2SJ
+UT WOS:000418208000043
+PM 29054078
+DA 2024-03-20
+ER
+
+EF

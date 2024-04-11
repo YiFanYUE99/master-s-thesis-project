@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Liu, L
+   Jia, M
+   Li, RS
+   Yan, S
+   Tian, SN
+   Sun, W
+   Zhou, ZQ
+   Zhu, WT
+AF Meng, Zhiyuan
+   Liu, Li
+   Jia, Ming
+   Li, Ruisheng
+   Yan, Sen
+   Tian, Sinuo
+   Sun, Wei
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Impacts of Penconazole and Its Enantiomers Exposure on Gut Microbiota
+   and Metabolic Profiles in Mice
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE penconazole; enantiomers; gut microbiota; metabolic profiles
+ID ACID-METABOLISM; INFLAMMATION; DYSBIOSIS
+AB Exposure to chiral pesticides poses many potential health risks. In this study, we examined the impacts of exposure to penconazole and its enantiomers on gut microbiota and metabolic profiles in mice. The relative abundance of microbiota in cecal content significantly changed following exposure to penconazole and its enantiomers. At the genus level, the relative abundances of seven gut microflora were altered following exposure to (-)-penconazole. Both (+/-)-penconazole and (+)-penconazole caused significant changes in the relative abundances of five gut microflora. In addition, targeted serum metabolomics analysis showed disturbed metabolic profiles following exposure. Respectively, (+/-)-penconazole, (+)-penconazole, and (-)-penconazole exposure significantly altered the relative levels of 29, 23, and 36 metabolites. In general, exposure to penconazole and its enantiomers caused disorders in gut microbiota and metabolic profiles of mice. The potential health risks of penconazole and its enantiomers now require further evaluation.
+C1 [Meng, Zhiyuan; Jia, Ming; Li, Ruisheng; Yan, Sen; Tian, Sinuo; Sun, Wei; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Liu, Li] Yangzhou Univ, Sch Food Sci & Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+C3 China Agricultural University; Yangzhou University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; Meng, Zhiyuan/AFU-9894-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   Young Elite Scientists Sponsorship Program by CAST
+FX We gratefully acknowledge financial support from the National Key
+   Research and Development Program of China (2016YFD0200202) and the Young
+   Elite Scientists Sponsorship Program by CAST.
+NR 51
+TC 36
+Z9 38
+U1 6
+U2 159
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD JUL 31
+PY 2019
+VL 67
+IS 30
+BP 8303
+EP 8311
+DI 10.1021/acs.jafc.9b02856
+PG 9
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA IN9TB
+UT WOS:000479020200002
+PM 31298535
+DA 2024-03-20
+ER
+
+EF

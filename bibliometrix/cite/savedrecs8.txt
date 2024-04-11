@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, XR
+   Zhu, WT
+   Qiu, J
+   Zhang, P
+   Wang, Y
+   Zhou, ZQ
+AF Wang, Xinru
+   Zhu, Wentao
+   Qiu, Jing
+   Zhang, Ping
+   Wang, Yao
+   Zhou, Zhiqiang
+TI Enantioselective metabolism and toxic effects of metalaxyl on primary
+   hepatocytes from rat
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Oxidative damage; Cytotoxicity; Hepatocyte; Stereoselectivemetabolism;
+   Metalaxyl enantiomers; Metabolite
+ID OXIDATIVE STRESS; STEREOSELECTIVE METABOLISM; DRUG-METABOLISM;
+   RISK-ASSESSMENT; DEGRADATION; IDENTIFICATION; CYTOTOXICITY; ENANTIOMERS;
+   DISCOVERY; INDUCTION
+AB Enantiomers of chiral compounds often exhibit enantioselective adverse effects and biochemical processes in non-target organisms. In this study, enantioselective metabolism and toxic effects of metalaxyl enantiomers on primary rat hepatocytes were investigated. Stereoselectivity was observed on both degradation of metalaxyl and formation of metabolites. (-)-R-metalaxyl eliminated faster than (+)-S-metalaxyl, while the hydroxylmetalaxyl, demethylmetalaxyl, and didemethylmetalaxyl metabolites derived from 50-mu M (+)-S-metalaxyl after 24 h of incubation were approximately 1.57, 1.43, and 1.86 times more than that of (-)-R-metalaxyl, respectively. According to the methyl tetrazolium (MTT) assay, the EC50 values (24 h) for rac-, (+)-S-, and (-)-R-metalaxyl were 1788.22, 2066.73, and 2263.71 mu M, respectively. An accordant enantioselective effect on oxidative stress suggested that the enantioselective cytotoxicity induced by metalaxyl enantiomers may partly contribute to enantioselective oxidative damage and mitochondrial dysfunction. Such results could be of great importance for credible environmental and toxicological risk assessment of metalaxyl.
+C1 [Wang, Xinru; Zhu, Wentao; Zhang, Ping; Wang, Yao; Zhou, Zhiqiang] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Qiu, Jing] Chinese Acad Agr Sci, Key Lab Agroprod Qual & SafetyBeijing, Inst Qual Stand & Testing Technol Agroprod, Beijing, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Quality Standards & Testing Technology for Agro-Products,
+   CAAS
+RP Zhou, ZQ (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; Zhou,
+   Zhiqiang/HIR-4954-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21337005];
+   Chinese Universities Scientific Fund [2012RC026]
+FX We gratefully acknowledge financial support from the National Natural
+   Science Foundation of China (21207158, 21337005) and Chinese
+   Universities Scientific Fund (2012RC026).
+NR 34
+TC 9
+Z9 9
+U1 1
+U2 32
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD SEP
+PY 2016
+VL 23
+IS 18
+BP 18649
+EP 18656
+DI 10.1007/s11356-016-6797-8
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA DX5QH
+UT WOS:000384435800071
+PM 27306210
+DA 2024-03-20
+ER
+
+EF

@@ -1,0 +1,35 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 38458525
+DT Journal Article
+TI Risk mitigation strategy and mechanism analysis of neonicotinoid pesticides on earthworms.
+AU Xu, Bohan
+   Cui, Weihan
+   Tao, Li
+   Yang, Luze
+   Zhao, Xingmin
+SO Environmental pollution (Barking, Essex : 1987)
+VL 347
+PS 123719
+PY 2024
+PD 2024 Mar 06 (Epub 2024 Mar 06)
+LA English
+U1 1
+U2 1
+AB Neonicotinoid insecticides (NNIs) are a new class of widely used insecticides with certain risks to non-target organisms, like earthworms. The gray correlation method was used to calculate the comprehensive risk effect value of acute toxicity (LC50) and bioaccumulation (logKow) of NNIs on earthworms. A comprehensive effects three-dimensional quantitative structure-activity relationship (3D-QSAR) model was constructed, using NNIs molecular structures and the comprehensive effect value as the independent and dependent variables, respectively. One of the representatives guadipyr (GUA) was selected as the template molecule for the molecular design and modification. A total of 63 NNIs alternatives were designed with a reduced comprehensive value higher than 10%, and as high as 42%. After screening, 15 NNIs alternatives were screened with decreased acute toxicity to earthworms, bioaccumulation effects and improved functional property. The calculated primary acute risk quotient of earthworms shows that the designed NNIs alternatives have lower earthworm risks (reduction of 70.48-99.99%). Results also found that the electronic, geometric and topological parameters of NNIs are the key descriptors that affect NNIs alternatives' toxicity. The number of hydrophobic interaction amino acid residues in NNIs molecules also contributes to the acute toxicity and the bioaccumulation of NNIs alternatives on earthworms. This study aims to design and screen functionally improved and environmentally friendly NNIs alternatives that have low risk to earthworms and provide theoretical methods and new ideas for the risk control and development of pesticides represented by NNIs. Copyright © 2024 Elsevier Ltd. All rights reserved.
+C1 College of Resources and Environment, Jilin Agricultural University, Changchun, 130118, China. Electronic address: xbh2275850139@163.com.; College of Resources and Environment, Jilin Agricultural University, Changchun, 130118, China. Electronic address: 19274302086@163.com.; College of Resources and Environment, Jilin Agricultural University, Changchun, 130118, China. Electronic address: q3364367547@163.com.; College of Resources and Environment, Jilin Agricultural University, Changchun, 130118, China. Electronic address: Yanglz2022@outlook.com.; College of Resources and Environment, Jilin Agricultural University, Changchun, 130118, China. Electronic address: zhaoxingmin0704@163.com.
+SS Index Medicus
+ID 2D-QSAR model; 3D-QSAR model; Acute toxicity; Bioaccumulation; Low risk pesticide
+SN 1873-6424
+JC 8804476
+PA England
+SA Publisher
+RC  / 10 Mar 2024
+PE 06 Mar 2024
+DI 10.1016/j.envpol.2024.123719
+UT MEDLINE:38458525
+DA 2024-04-01
+ER
+
+EF

@@ -4,9 +4,9 @@ library(tidyverse)
 library(ggraph)
 library(tidygraph)
 library(igraph)
-setwd("D:/paper/paper")
-node <- read.xlsx("network.xlsx", sheetIndex = 1)
-edge <- read.xlsx("network.xlsx", sheetIndex = 2)
+setwd("D:/paper/paper/data")
+node <- read.xlsx("cleannetwork.xlsx", sheetIndex = 1)
+edge <- read.xlsx("cleannetwork.xlsx", sheetIndex = 2)
 #查找缺失的node
 dim(node)[1]
 mylist1=NULL

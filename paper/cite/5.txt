@@ -1,0 +1,58 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yap, CW
+AF Yap, Chun Wei
+TI PaDEL-Descriptor: An Open Source Software to Calculate Molecular
+   Descriptors and Fingerprints
+SO JOURNAL OF COMPUTATIONAL CHEMISTRY
+LA English
+DT Article
+DE molecular descriptor; open source; software
+ID GRAPH THEORETICAL APPROACH; QUANTITATIVE STRUCTURE;
+   PARTITION-COEFFICIENTS; CHEMICAL DESCRIPTORS; BIOLOGICAL-ACTIVITY;
+   ORGANIC-MOLECULES; VALIDATION; GEOMETRY; FEATURES; SPECTRA
+AB Introduction: PaDEL-Descriptor is a software for calculating molecular descriptors and fingerprints. The software currently calculates 797 descriptors (663 1D, 2D descriptors, and 134 3D descriptors) and 10 types of fingerprints. These descriptors and fingerprints are calculated mainly using The Chemistry Development Kit. Some additional descriptors and fingerprints were added, which include atom type electrotopological state descriptors, McGowan volume, molecular linear free energy relation descriptors, ring counts, count of chemical substructures identified by Laggner, and binary fingerprints and count of chemical substructures identified by Klekota and Roth.
+   Methods: PaDEL-Descriptor was developed using the Java language and consists of a library component and an interface component. The library component allows it to be easily integrated into quantitative structure activity relationship software to provide the descriptor calculation feature while the interface component allows it to be used as a standalone software. The software uses a Master/Worker pattern to take advantage of the multiple CPU cores that are present in most modern computers to speed up calculations of molecular descriptors.
+   Results: The software has several advantages over existing standalone molecular descriptor calculation software. It is free and open source, has both graphical user interface and command line interfaces, can work on all major platforms (Windows, Linux, MacOS), supports more than 90 different molecular file formats, and is multithreaded.
+   Conclusion: PaDEL-Descriptor is a useful addition to the currently available molecular descriptor calculation software. The software can be downloaded at http://padel.nus.edu.sg/software/padeldescriptor. (C) 2010 Wiley Periodicals, Inc. J Comput Chem 32: 1466-1474, 2011
+C1 Natl Univ Singapore, Dept Pharm, Pharmaceut Data Explorat Lab, Singapore 117548, Singapore.
+C3 National University of Singapore
+RP Yap, CW (corresponding author), Natl Univ Singapore, Dept Pharm, Pharmaceut Data Explorat Lab, Singapore 117548, Singapore.
+EM phayapc@nus.edu.sg
+RI Yap, Chun Wei/B-2587-2010
+OI Yap, Chun Wei/0000-0002-2004-3492
+FU National University of Singapore (NUS) [R-148-000-105-133]
+FX This work was supported by the National University of Singapore (NUS)
+   start-up grant R-148-000-105-133.
+NR 52
+TC 1789
+Z9 1873
+U1 30
+U2 306
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0192-8651
+EI 1096-987X
+J9 J COMPUT CHEM
+JI J. Comput. Chem.
+PD MAY
+PY 2011
+VL 32
+IS 7
+BP 1466
+EP 1474
+DI 10.1002/jcc.21707
+PG 9
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 741NT
+UT WOS:000288871100027
+PM 21425294
+OA hybrid
+DA 2024-04-01
+ER
+
+EF

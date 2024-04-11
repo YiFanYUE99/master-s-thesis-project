@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yusa, V
+   Millet, M
+   Coscolla, C
+   Pardo, O
+   Roca, M
+AF Yusa, Vicent
+   Millet, Maurice
+   Coscolla, Clara
+   Pardo, Olga
+   Roca, Marta
+TI Occurrence of biomarkers of pesticide exposure in non-invasive human
+   specimens
+SO CHEMOSPHERE
+LA English
+DT Review
+DE Biomonitoring; Pesticides; Urine; Hair; Breast milk
+ID HUMAN BREAST-MILK; OF-THE-ART; URINARY METABOLITE LEVELS; LONG-TERM
+   EXPOSURE; PREGNANT-WOMEN; PYRETHROID PESTICIDES; ORGANOPHOSPHATE
+   PESTICIDES; ORGANIC POLLUTANTS; MASS-SPECTROMETRY; DIALKYLPHOSPHATE
+   METABOLITES
+AB Biomonitoring has been used in many types of investigations, including national programmes and epidemiological studies, to explore the occurrence of biomarkers of pesticide exposure in the general population or relevant groups. This review discusses recent studies that measure levels of biomarkers of pesticide exposure in non-invasive human specimens such as urine, breast milk, meconium and hair. Specific and non-specific metabolites of organophosphate and pyrethroid insecticides have been widely investigated in urine, where some of the suitable biomarkers present rates of detection higher than 80%, which stand for an ongoing chronic exposure to traces of these chemicals. Hair is a promising emerging matrix, but some issues on its suitability and the biological relevance needs further research. Breast milk was used in research investigations focused mainly on legacy pesticides, which provide useful information about time trends. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Yusa, Vicent; Coscolla, Clara; Pardo, Olga; Roca, Marta] FISABIO Publ Hlth, Fdn Promot Hlth & Biomed Res Valencian Reg, Valencia 46020, Spain.
+   [Yusa, Vicent] Publ Hlth Lab Valencia, Valencia, Spain.
+   [Yusa, Vicent; Pardo, Olga] Univ Valencia, Dept Analyt Chem, E-46003 Valencia, Spain.
+   [Millet, Maurice] Univ Srasbourg, CNRS, ICPEES, Grp Physicochim Atmosphere,UMR 7515, Strasbourg, France.
+C3 University of Valencia; Universites de Strasbourg Etablissements
+   Associes; Universite de Strasbourg; Centre National de la Recherche
+   Scientifique (CNRS); CNRS - Institute of Chemistry (INC)
+RP Yusa, V (corresponding author), FISABIO Publ Hlth, Fdn Promot Hlth & Biomed Res Valencian Reg, 21 Ave Catalunya, Valencia 46020, Spain.
+EM yusa_vic@gva.es
+RI Smith, Keely/AAL-4913-2020; Roca, Marta/ABH-8595-2020; Yusa,
+   Vicent/L-3495-2014; Pardo Marin, Olga/S-1786-2018
+OI Roca, Marta/0000-0003-0708-6364; Yusa, Vicent/0000-0003-2817-1453;
+   Coscolla, Clara/0000-0001-5914-9721; Pardo Marin,
+   Olga/0000-0001-8922-6134
+FU FISABIO at the University of Strasbourg; FP7-ENV-2011 DENAMIC project
+   [282957]
+FX Vicent Yusa would like to thank FISABIO for a research stay scholarship
+   at the University of Strasbourg. This study had the support of de
+   FP7-ENV-2011 DENAMIC project (cod 282957).
+NR 99
+TC 47
+Z9 50
+U1 0
+U2 95
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD NOV
+PY 2015
+VL 139
+BP 91
+EP 108
+DI 10.1016/j.chemosphere.2015.05.082
+PG 18
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA CS1ZQ
+UT WOS:000361868000013
+PM 26070147
+DA 2024-04-07
+ER
+
+EF

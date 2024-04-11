@@ -1,0 +1,65 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tomiazzi, JS
+   Pereira, DR
+   Judai, MA
+   Antunes, PA
+   Favareto, APA
+AF Tomiazzi, Jamile Silveira
+   Pereira, Danillo Roberto
+   Judai, Meire Aparecida
+   Antunes, Patricia Alexandra
+   Alves Favareto, Ana Paula
+TI Performance of machine-learning algorithms to pattern recognition and
+   classification of hearing impairment in Brazilian farmers exposed to
+   pesticide and/or cigarette smoke
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Machine learning; Artificial intelligence; Pesticide; Smoking; Hearing
+   loss; Farmer
+ID WORKERS; HEALTH; SYSTEM
+AB The use of pesticides has been increasing in agriculture, leading to a public health problem. The aim of this study was to evaluate ototoxic effects in farmers who were exposed to cigarette smoke and/or pesticides and to identify possible classification patterns in the exposure groups. The sample included 127 participants of both sexes aged between 18 and 39, who were divided into the following four groups: control group (CG), smoking group (SG), pesticide group (PG), and smoking + pesticide group (SPG). Meatoscopy, pure tone audiometry, logoaudiometry, high-frequency thresholds, and immittance testing were performed. Data were evaluated by artificial neural network (ANN), K-nearest neighbors (K-NN), and support vector machine (SVM). There was symmetry between the right and left ears, an increase in the incidence of hearing loss at high frequency and of downward sloping audiometric curve configuration, and alteration of stapedial reflex in the three exposed groups. The machine-learning classifiers achieved good classification performance (control and exposed). The best classification results occur in high type (I and II) datasets (about 90% accuracy) in k-NN test. It is concluded that both xenobiotic substances have ototoxic potential; however, their combined use does not present additive or potentiating effects recognizable by the algorithms.
+C1 [Tomiazzi, Jamile Silveira; Pereira, Danillo Roberto; Antunes, Patricia Alexandra; Alves Favareto, Ana Paula] Univ Western Sao Paulo, UNOESTE, Grad Program Environm & Reg Dev, Presidente Prudente, SP, Brazil.
+   [Judai, Meire Aparecida] Univ Western Sao Paulo, UNOESTE, Fac Hlth Sci, Presidente Prudente, SP, Brazil.
+C3 Universidade do Oeste Paulista; Universidade do Oeste Paulista
+RP Favareto, APA (corresponding author), Univ Western Sao Paulo, UNOESTE, Grad Program Environm & Reg Dev, Presidente Prudente, SP, Brazil.
+EM anafavareto@unoeste.br
+RI Antunes, Patricia/Y-9232-2019
+OI Favareto, Ana Paula/0000-0001-8634-9198
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES) [001]; University of Western Sao Paulo (UNOESTE)
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) Finance Code 001. Grant
+   support was provided by University of Western Sao Paulo (UNOESTE).
+NR 56
+TC 14
+Z9 17
+U1 2
+U2 21
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD MAR
+PY 2019
+VL 26
+IS 7
+BP 6481
+EP 6491
+DI 10.1007/s11356-018-04106-w
+PG 11
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology
+GA HQ5MV
+UT WOS:000462457500021
+PM 30623325
+DA 2024-04-07
+ER
+
+EF

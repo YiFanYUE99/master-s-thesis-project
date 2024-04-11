@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ren, ZJ
+   Cai, TW
+   Wan, Y
+   Zeng, QH
+   Li, CY
+   Zhang, JJ
+   Ma, KS
+   He, S
+   Li, JH
+   Wan, H
+AF Ren, Zhijie
+   Cai, Tingwei
+   Wan, Yue
+   Zeng, Qinghong
+   Li, Chengyue
+   Zhang, Junjie
+   Ma, Kangsheng
+   He, Shun
+   Li, Jianhong
+   Wan, Hu
+TI Unintended consequences: Disrupting microbial communities of Nilaparvata
+   lugens with non-target pesticides
+SO PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Article
+DE Microbiome; Non-target insecticide; Fungicide; Exposure; Nilaparvata
+   lugens
+ID RESISTANCE; BACTERIAL; INSECTICIDES; WOLBACHIA; BIODEGRADATION;
+   SYMBIONTS; INFECTION; RESIDUES; STRAIN; CITRUS
+AB Insects are frequently exposed to a range of insecticides that can alter the structure of the commensal microbiome. However, the effects of exposure to non-target pesticides (including non-target insecticides and fungicides) on insect pest microbiomes are still unclear. In the present study, we exposed Nilaparvata lugens to three target insecticides (nitenpyram, pymetrozine, and avermectin), a non-target insecticide (chlorantraniliprole), and two fungicides (propiconazole and tebuconazole), and observed changes in the microbiome's structure and function. Our results showed that both non-target insecticide and fungicides can disrupt the microbiome's structure. Specifically, symbiotic bacteria of N. lugens were more sensitive to non-target insecticide compared to target insecticide, while the symbiotic fungi were more sensitive to fungicides. We also found that the microbiome in the field strain was more stable under pesticides exposure than the laboratory strain (a susceptible strain), and core microbial species g_Pseudomonas, s_Acinetobacter soli, g_Lactobacillus, s_Metarhizium minus, and s_Penicillium citrinum were significantly affected by specifically pesticides. Furthermore, the functions of symbiotic bacteria in nutrient synthesis were predicted to be significantly reduced by non-target insecticide. Our findings contribute to a better understanding of the impact of non-target pesticides on insect microbial communities and highlight the need for scientific and rational use of pesticides.
+C1 [Ren, Zhijie; Cai, Tingwei; Wan, Yue; Zeng, Qinghong; Li, Chengyue; Zhang, Junjie; Wan, Hu] Huazhong Agr Univ, State Key Lab Agr Microbiol, Wuhan 430070, Peoples R China.
+   [Ren, Zhijie; Cai, Tingwei; Wan, Yue; Zeng, Qinghong; Li, Chengyue; Zhang, Junjie; Ma, Kangsheng; He, Shun; Li, Jianhong; Wan, Hu] Huazhong Agr Univ, Coll Plant Sci & Technol, Hubei Insect Resources Utilizat & Sustainable Pest, Wuhan 430070, Peoples R China.
+C3 Huazhong Agricultural University; Huazhong Agricultural University
+RP Wan, H (corresponding author), Huazhong Agr Univ, State Key Lab Agr Microbiol, Wuhan 430070, Peoples R China.
+EM huwan@mail.hzau.edu.cn
+RI li, jianhong/D-3483-2009
+OI Cai, Tingwei/0000-0002-7877-5717
+FU National Natural Science Foundation of China [32222073, 32072462];
+   Fundamental Research Funds for the Central Universities [2662022ZKYJ002]
+FX Acknowledgments This work was supported by the National Natural Science
+   Foundation of China [32222073 and 32072462] , and the Fundamental
+   Research Funds for the Central Universities [2662022ZKYJ002] .
+NR 77
+TC 1
+Z9 1
+U1 23
+U2 32
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0048-3575
+EI 1095-9939
+J9 PESTIC BIOCHEM PHYS
+JI Pest. Biochem. Physiol.
+PD AUG
+PY 2023
+VL 194
+AR 105522
+DI 10.1016/j.pestbp.2023.105522
+EA JUL 2023
+PG 9
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA P0TY7
+UT WOS:001047863100001
+PM 37532306
+DA 2024-04-06
+ER
+
+EF

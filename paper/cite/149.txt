@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Powell, CD
+   Moseley, HNB
+AF Powell, Christian D.
+   Moseley, Hunter N. B.
+TI The mwtab Python Library for RESTful Access and Enhanced Quality
+   Control, Deposition, and Curation of the Metabolomics Workbench Data
+   Repository
+SO METABOLITES
+LA English
+DT Article
+DE metabolomics workbench; data validation; data deposition; python package
+ID STANDARDS
+AB The Metabolomics Workbench (MW) is a public scientific data repository consisting of experimental data and metadata from metabolomics studies collected with mass spectroscopy (MS) and nuclear magnetic resonance (NMR) analyses. MW has been constantly evolving; updating its 'mwTab' text file format, adding a JavaScript Object Notation (JSON) file format, implementing a REpresentational State Transfer (REST) interface, and nearly quadrupling the number of datasets hosted on the repository within the last three years. In order to keep up with the quickly evolving state of the MW repository, the 'mwtab' Python library and package have been continuously updated to mirror the changes in the 'mwTab' and JSONized formats and contain many new enhancements including methods for interacting with the MW REST interface, enhanced format validation features, and advanced features for parsing and searching for specific metabolite data and metadata. We used the enhanced format validation features to evaluate all available datasets in MW to facilitate improved curation and FAIRness of the repository. The 'mwtab' Python package is now officially released as version 1.0.1 and is freely available on GitHub and the Python Package Index (PyPI) under a Clear Berkeley Software Distribution (BSD) license with documentation available on ReadTheDocs.
+C1 [Powell, Christian D.] Univ Kentucky, Dept Comp Sci, Data Sci Program, Lexington, KY 40506 USA.
+   [Powell, Christian D.; Moseley, Hunter N. B.] Univ Kentucky, Markey Canc Ctr, Lexington, KY 40506 USA.
+   [Powell, Christian D.; Moseley, Hunter N. B.] Univ Kentucky, Superfund Res Ctr, Lexington, KY 40506 USA.
+   [Powell, Christian D.; Moseley, Hunter N. B.] Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40506 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Inst Biomed Informat, Lexington, KY 40506 USA.
+C3 University of Kentucky; University of Kentucky; University of Kentucky;
+   University of Kentucky; University of Kentucky
+RP Moseley, HNB (corresponding author), Univ Kentucky, Markey Canc Ctr, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Superfund Res Ctr, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Inst Biomed Informat, Lexington, KY 40506 USA.
+EM christian.powell@uky.edu; hunter.moseley@uky.edu
+OI Moseley, Hunter/0000-0003-3995-5368; Powell,
+   Christian/0000-0002-4242-080X
+FU NIH/NIEHS [P42ES007380]; NSF [2020026, 1419282]; NIH [R03OD030603]
+FX This research was funded by NIH/NIEHS, grant number P42ES007380 (UK
+   Superfund Research Center); NSF, grant number 1419282 (Moseley); NSF,
+   grant number 2020026 (Moseley); and NIH, grant number R03OD030603
+   (Moseley).
+NR 24
+TC 6
+Z9 7
+U1 1
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD MAR
+PY 2021
+VL 11
+IS 3
+AR 163
+DI 10.3390/metabo11030163
+PG 16
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA RE0RH
+UT WOS:000633872400001
+PM 33808985
+OA gold, Green Published
+DA 2024-04-08
+ER
+
+EF

@@ -1,0 +1,46 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dong, BZ
+AF Dong, Bizhang
+TI New Toxicological Endpoints of Pesticides: Perspectives on Metabolomics
+SO CURRENT ANALYTICAL CHEMISTRY
+LA English
+DT Article
+DE Pesticide; toxicological endpoints; metabolomics; sensitivity;
+   transformation product; co-exposure
+AB Food safety has received increasing attention, and pesticide contamination is one of the primary issues. Many toxicological endpoints have been established to evaluate the hazards of pesticides. However, the sensitivity of toxic endpoints is dominated by analytical methods. The risks of pesticides may be underestimated when using insensitive analytical methods to establish the toxicological endpoints. Therefore, it is necessary to find highly sensitive analytical approaches to develop a toxicological endpoint. Recently, metabolomics has been widely applied for investigating the toxicological mechanism of environmental pollutants in animals and plants with higher sensitivity. However, metabolomics has not been utilized to establish toxicological endpoints. Herein, the potential of metabolomics for toxicological endpoint establishment is briefly discussed.
+C1 [Dong, Bizhang] Univ Sci & Technol Beijing, Sch Chem & Biol Engn, Beijing, Peoples R China.
+C3 University of Science & Technology Beijing
+RP Dong, BZ (corresponding author), Univ Sci & Technol Beijing, Sch Chem & Biol Engn, Beijing, Peoples R China.
+EM idongbizhang@126.com
+OI Dong, Bizhang/0000-0002-9040-4513
+NR 27
+TC 0
+Z9 0
+U1 2
+U2 2
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1573-4110
+EI 1875-6727
+J9 CURR ANAL CHEM
+JI Curr. Anal. Chem.
+PY 2023
+VL 19
+IS 7
+BP 509
+EP 512
+DI 10.2174/0115734110275151231005183853
+PG 4
+WC Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA AF7W1
+UT WOS:001117125900002
+DA 2024-04-07
+ER
+
+EF

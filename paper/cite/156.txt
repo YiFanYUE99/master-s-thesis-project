@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shave, S
+   Dawson, JC
+   Athar, AM
+   Nguyen, CQ
+   Kasprowicz, R
+   Carragher, NO
+AF Shave, Steven
+   Dawson, John C.
+   Athar, Abdullah M.
+   Nguyen, Cuong Q.
+   Kasprowicz, Richard
+   Carragher, Neil O.
+TI Phenonaut: multiomics data integration for phenotypic space exploration
+SO BIOINFORMATICS
+LA English
+DT Article
+AB Data integration workflows for multiomics data take many forms across academia and industry. Efforts with limited resources often encountered in academia can easily fall short of data integration best practices for processing and combining high-content imaging, proteomics, metabolomics, and other omics data. We present Phenonaut, a Python software package designed to address the data workflow needs of migration, control, integration, and auditability in the application of literature and proprietary techniques for data source and structure agnostic workflow creation.
+C1 [Shave, Steven; Dawson, John C.; Carragher, Neil O.] Univ Edinburgh, Inst Genet & Canc, Canc Res UK Scotland Ctr, Edinburgh Canc Res, Crewe Rd South, Edinburgh EH4 2XR, Scotland.
+   [Shave, Steven; Athar, Abdullah M.; Kasprowicz, Richard] GlaxoSmithKline Med Res Ctr, Stevenage SG1 2NY, England.
+   [Nguyen, Cuong Q.] GlaxoSmithKline, Artificial Intelligence & Machine Learning, San Francisco, CA 94080 USA.
+C3 University of Edinburgh; GlaxoSmithKline; GlaxoSmithKline
+RP Shave, S; Carragher, NO (corresponding author), Univ Edinburgh, Inst Genet & Canc, Canc Res UK Scotland Ctr, Edinburgh Canc Res, Crewe Rd South, Edinburgh EH4 2XR, Scotland.
+EM s.shave@ed.ac.uk; n.carragher@ed.ac.uk
+OI Kasprowicz, Richard/0009-0000-1325-6716; Carragher,
+   Neil/0000-0001-5541-9747; Athar, Abdullah Muhammad/0000-0002-8326-9579;
+   Dawson, John/0000-0001-5713-1026; Nguyen, Cuong/0000-0002-5151-1893;
+   Shave, Steven/0000-0001-6996-3663
+FU UK Research and Innovation, Medical Research Council [MR/W003996/1]; GSK
+FX This work was supported by the UK Research and Innovation, Medical
+   Research Council research grant [MR/W003996/1] 'Accelerating medicine
+   development timelines through new approaches in knowledge extraction
+   from large biological datasets'. Development of material in this article
+   has been supported by GSK.
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1367-4811
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD APR 3
+PY 2023
+VL 39
+IS 4
+AR btad143
+DI 10.1093/bioinformatics/btad143
+PG 2
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA C7DU1
+UT WOS:000963487500002
+PM 36944259
+OA Green Published, gold
+DA 2024-04-08
+ER
+
+EF

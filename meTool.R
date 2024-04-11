@@ -31,7 +31,7 @@ library(meTool)
 devtools::document()
 
 #build a website for the package
-devtools::build_site()
+#devtools::build_site()
 
 #make package
 devtools::build()
@@ -42,6 +42,7 @@ devtools::build()
 devtools::check()
 
 #add related package to import
+#everytime add an usethis,retype : devtools::document()
 usethis::use_package("aplot")
 usethis::use_package("cowplot")
 usethis::use_package("patchwork")
@@ -53,6 +54,13 @@ usethis::use_package("ggraph")
 usethis::use_package("igraph")
 usethis::use_package("ggplot2")
 usethis::use_package("dplyr")
+usethis::use_package("rstatix")
+usethis::use_package("linkET")
+usethis::use_package("devtools")
+usethis::use_package("ggDoubleHeat")
+
+#为单个函数添加注释
+#Ctrl+Shift+Alt+R
 
 
 

@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kumari, P
+   Van Laethem, T
+   Duroux, D
+   Fillet, M
+   Hubert, P
+   Sacré, PY
+   Hubert, C
+AF Kumari, Priyanka
+   Van Laethem, Thomas
+   Duroux, Diane
+   Fillet, Marianne
+   Hubert, Phillipe
+   Sacre, Pierre-Yves
+   Hubert, Cedric
+TI A multi-target QSRR approach to model retention times of small molecules
+   in RPLC
+SO JOURNAL OF PHARMACEUTICAL AND BIOMEDICAL ANALYSIS
+LA English
+DT Article
+DE Reverse Phase Liquid Chromatography; Multi -target QSRR; Random Forest;
+   Molecular descriptors; Regression chain; Multitask learning; Problem
+   transformation; Algorithm adaptation
+ID PREDICTION; QSAR
+AB Quantitative structure-retention relationship models (QSRR) have been utilized as an alternative to costly and time-consuming separation analyses and associated experiments for predicting retention time. However, achieving 100 % accuracy in retention prediction is unrealistic despite the existence of various tools and approaches. The limitations of vast data availability and time complexity hinder the use of most algorithms for retention prediction. Therefore, in this study, we examined and compared two approaches for modelling retention time using a dataset of small molecules with retention times obtained at multiple conditions, referred to as multi-targets (five pH levels: 2.7, 3.5, 5, 6.5, and 8 at gradient times of 20 min of mobile phase). The first approach involved developing separate models for predicting retention time at each condition (single-target approach), while the second approach aimed to learn a single model for predicting retention across all conditions simultaneously (multi-target approach). Our findings highlight the advantages of the multi-target approach over the single-target modelling approach. The multi-target models are more efficient in terms of size and learning speed compared to the single-target models. These retention prediction models offer two-fold benefits. Firstly, they enhance knowledge and understanding of retention times, identifying molecular descriptors that contribute to changes in retention behaviour under different pH conditions. Secondly, these approaches can be extended to address other multi-target property prediction problems, such as multi-quantitative structure Property(X) relationship studies (mt-QS(X)R).
+C1 [Kumari, Priyanka; Van Laethem, Thomas; Hubert, Phillipe; Sacre, Pierre-Yves; Hubert, Cedric] Univ Liege ULiege, Dept Pharm, Lab Pharmaceut Analyt Chem, CIRM,Quartier Hop, B36 Tower 4, Ave Hippocrate, B-4000 Liege, Belgium.
+   [Kumari, Priyanka; Van Laethem, Thomas; Fillet, Marianne] Univ Liege ULiege, Lab Anal Med, CIRM, Quartier Hop, B36 Tower 4, Ave Hippocrate, B-4000 Liege, Belgium.
+   [Duroux, Diane] ETH AI Ctr, OAT X11, Andreasstr 5, CH-8092 Zurich, Switzerland.
+RP Kumari, P; Hubert, C (corresponding author), Univ Liege ULiege, Dept Pharm, Lab Pharmaceut Analyt Chem, CIRM,Quartier Hop, B36 Tower 4, Ave Hippocrate, B-4000 Liege, Belgium.
+EM priyanka.kumari@uliege.be; cedric.hubert@uliege.be
+RI Kumari, Priyanka/KCY-0528-2024
+OI Kumari, Priyanka/0000-0001-8415-2922
+FU FWO/FNRS Belgium EOS-programme [30897864]
+FX <BOLD>Funding</BOLD> This research was funded by FWO/FNRS Belgium
+   EOS-programme, grant number 30897864 "Chemical Information Mining in a
+   Complex World ".
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0731-7085
+EI 1873-264X
+J9 J PHARMACEUT BIOMED
+JI J. Pharm. Biomed. Anal.
+PD NOV 30
+PY 2023
+VL 236
+AR 115690
+DI 10.1016/j.jpba.2023.115690
+EA SEP 2023
+PG 8
+WC Chemistry, Analytical; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Pharmacology & Pharmacy
+GA S4YZ3
+UT WOS:001071252000001
+PM 37688907
+DA 2024-04-01
+ER
+
+EF

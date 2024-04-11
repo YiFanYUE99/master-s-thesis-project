@@ -1,0 +1,23 @@
+
+TY  - JOUR
+AU  - Trygg, Johan
+AU  - Wold, Svante
+TI  - Orthogonal projections to latent structures (O-PLS)
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+VL  - 16
+IS  - 3
+SN  - 0886-9383
+UR  - https://doi.org/10.1002/cem.695
+DO  - https://doi.org/10.1002/cem.695
+SP  - 119
+EP  - 128
+KW  - orthogonal projections to latent structures (O-PLS)
+KW  - orthogonal signal correction (OSC)
+KW  - NIPALS PLS
+KW  - multivariate data analysis
+KW  - calibration
+KW  - preprocessing
+PY  - 2002
+AB  - Abstract A generic preprocessing method for multivariate data, called orthogonal projections to latent structures (O-PLS), is described. O-PLS removes variation from X (descriptor variables) that is not correlated to Y (property variables, e.g. yield, cost or toxicity). In mathematical terms this is equivalent to removing systematic variation in X that is orthogonal to Y. In an earlier paper, Wold et al. (Chemometrics Intell. Lab. Syst. 1998; 44: 175?185) described orthogonal signal correction (OSC). In this paper a method with the same objective but with different means is described. The proposed O-PLS method analyzes the variation explained in each PLS component. The non-correlated systematic variation in X is removed, making interpretation of the resulting PLS model easier and with the additional benefit that the non-correlated variation itself can be analyzed further. As an example, near-infrared (NIR) reflectance spectra of wood chips were analyzed. Applying O-PLS resulted in reduced model complexity with preserved prediction ability, effective removal of non-correlated variation in X and, not least, improved interpretational ability of both correlated and non-correlated variation in the NIR spectra. Copyright ??2002 John Wiley & Sons, Ltd.
+ER  - 

@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lewis, KA
+   Tzilivakis, J
+   Warner, DJ
+   Green, A
+AF Lewis, Kathleen A.
+   Tzilivakis, John
+   Warner, Douglas J.
+   Green, Andrew
+TI An international database for pesticide risk assessments and management
+SO HUMAN AND ECOLOGICAL RISK ASSESSMENT
+LA English
+DT Article
+DE pesticides; risk assessments; database; data model; environmental fate;
+   environmental impact
+ID ENVIRONMENTAL IMPACTS; GROUNDWATER; WATER; MODEL; RESIDUES; SYSTEM;
+   TOOL; PREDICTION; TOXICITY; SOFTWARE
+AB Despite a changing world in terms of data sharing, availability, and transparency, there are still major resource issues associated with collating datasets that will satisfy the requirements of comprehensive pesticide risk assessments, especially those undertaken at a regional or national scale. In 1996, a long-term project was initiated to begin collating and formatting pesticide data to eventually create a free-to-all repository of data that would provide a comprehensive transparent, harmonized, and managed extensive dataset for all types of pesticide risk assessments. Over the last 20years, this database has been keeping pace with improving risk assessments, their associated data requirements, and the needs and expectations of database end users. In 2007, the Pesticide Properties DataBase (PPDB) was launched as a free-to-access website. Currently, the PPDB holds data for almost 2300 pesticide active substances and over 700 metabolites. For each substance around 300 parameters are stored, covering human health, environmental quality, and biodiversity risk assessments. With the approach of the twentieth anniversary of the database, this article seeks to elucidate the current data model, data sources, its validation, and quality control processes and describes a number of existing risk assessment applications that depend upon it.
+C1 [Lewis, Kathleen A.; Tzilivakis, John; Warner, Douglas J.; Green, Andrew] Univ Hertfordshire, Agr & Environm Res Unit, Coll Lane, Hatfield LU4 0DD, Herts, England.
+C3 University of Hertfordshire
+RP Lewis, KA (corresponding author), Univ Hertfordshire, Agr & Environm Res Unit, Coll Lane, Hatfield LU4 0DD, Herts, England.
+EM k.a.lewis@herts.ac.uk
+RI Warner, Doug/T-8872-2019; Lewis, Kathy Anne/H-4895-2019; Tzilivakis, Dr
+   John/H-3661-2019
+OI Warner, Doug/0000-0002-9136-9713; Lewis, Kathy Anne/0000-0002-1672-5968;
+   Tzilivakis, Dr John/0000-0003-4511-6712
+NR 63
+TC 984
+Z9 1043
+U1 36
+U2 370
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1080-7039
+EI 1549-7860
+J9 HUM ECOL RISK ASSESS
+JI Hum. Ecol. Risk Assess.
+PY 2016
+VL 22
+IS 4
+BP 1050
+EP 1064
+DI 10.1080/10807039.2015.1133242
+PG 15
+WC Biodiversity Conservation; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA DK1RT
+UT WOS:000374692200013
+OA Green Accepted
+HC Y
+HP N
+DA 2024-04-01
+ER
+
+EF

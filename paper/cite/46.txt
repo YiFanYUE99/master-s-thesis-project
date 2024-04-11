@@ -1,0 +1,36 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 37382014
+DT English Abstract; Journal Article
+TI [Characterization and identification of alkaloids in Phellodendri Chinensis Cortex and Phellodendri Amurensis Cortex based on UHPLC-IM-Q-TOF-MS].
+AU Wen, Shan-Shan
+   Li, Ping
+   Gao, Wen
+SO Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica
+VL 48
+IS 12
+PS 3294-3307
+PY 2023
+PD 2023 Jun
+LA Chinese
+U1 4
+U2 6
+AB A strategy combining collision cross section(CCS) prediction and quantitative structure-retention relationship(QSRR) model for quinoline and isoquinoline alkaloids was established based on UHPLC-IM-Q-TOF-MS and applied to Phellodendri Chinensis Cortex and Phellodendri Amurensis Cortex. The strategy included the following three steps.(1) The molecular features were extracted by the &quot;find features&quot; algorithm.(2) The potential quinoline and isoquinoline alkaloids were screened by filtering the original characteristic ions extracted from Phellodendri Chinensis Cortex and Phellodendri Amurensis Cortex by the established CCS vs m/z prediction interval.(3) According to the retention time of candidate compounds predicted by QSRR model, the chemical constituents were identified in combination with the characteristic fragment ions and pyrolysis law of secondary mass spectrometry. With the strategy, a total of 80 compounds were predicted, and 15 were identified accurately. The strategy is effective for the identification of small analogs of traditional Chinese medicine. 
+C1 School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198, China.
+MH *Alkaloids / chemistry; isolation & purification. *Drugs, Chinese Herbal / chemistry. Isoquinolines / chemistry; isolation & purification. Liquid Chromatography-Mass Spectrometry. *Phellodendron / chemistry. Quinolines / chemistry; isolation & purification
+SS Index Medicus
+ID Phellodendri Amurensis Cortex; Phellodendri Chinensis Cortex; collision cross-section; ion mobility mass spectrometry; isoquinoline alkaloids; quantitative structure-retention relationship; quinoline alkaloids
+CN 0 / cortex Phellodendron. 0 / Drugs, Chinese Herbal. 0 / Quinolines. 0 / Alkaloids. 0 / Isoquinolines
+SC Pharmacology & Pharmacy; Plant Sciences (provided by Clarivate Analytics)
+SN 1001-5302
+JC 8913656
+PA China
+SA MEDLINE
+RC  / 30 Jun 2023 / 29 Feb 2024
+DI 10.19540/j.cnki.cjcmm.20221107.201
+UT MEDLINE:37382014
+DA 2024-04-01
+ER
+
+EF

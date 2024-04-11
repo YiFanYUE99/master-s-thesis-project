@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Liu, L
+   Xi, YX
+   Jia, M
+   Yan, S
+   Tian, SN
+   Sun, W
+   Zhu, WT
+   Li, XF
+   Zhou, ZQ
+AF Meng, Zhiyuan
+   Liu, Li
+   Xi, Yexun
+   Jia, Ming
+   Yan, Sen
+   Tian, Sinuo
+   Sun, Wei
+   Zhu, Wentao
+   Li, Xuefeng
+   Zhou, Zhiqiang
+TI Different effects of exposure to penconazole and its enantiomers on
+   hepatic glycolipid metabolism of male mice
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Penconazole; Enantiomers; Metabolomics; Glycolipid metabolism
+ID GUT MICROBIOTA DYSBIOSIS; FUNGICIDE PENCONAZOLE; LIQUID-CHROMATOGRAPHY;
+   LIPID-METABOLISM; LIVER-DAMAGE; INFLAMMATION; DISORDER; HEXACONAZOLE;
+   DISSIPATION; VEGETABLES
+AB (+/-) - PEN is a chiral fungicide widely used to control powdery mildew in agriculture. Currently, only a few studies have investigated the toxic effects of (+/-) penconazole ((+/-) PEN) on non-target organisms, and whether (+/-) - PEN from the enantiomeric level have toxic effects remains unclear. In this study, we systematically evaluated the effects of exposure to (+/-) PEN, (+) PEN and (+/-) PEN on liver function in mice. Biochemical and histopathological analyses showed that exposure to (+/-) PEN and (-) -PEN led to significant liver damage and inflammation. However, exposure to (+) PEN treatment did not cause no adverse effects on liver function and inflammation. H-1-NMR-based metabolomics revealed that exposure to (+/-) PEN, (+) PEN and (-) -PEN led to the animals developing liver metabolic disorder that was caused by changes in glycolipid metabolism. Quantitative analysis of genes regulating glycolipid metabolism revealed that expression of gluconeogenesis and glycolytic pathway genes were altered in individuals exposed to (+/-) PEN, (+) PEN and (-) PEN. We also found that (+/-) PEN, (+) - PEN and (-) PEN have different effects on lipid metabolism of the liver. Exposure to (+/-) PEN and (+/-) PEN resulted in significant accumulation of lipids by regulating fatty acid synthesis, triglyceride synthesis, and fatty acid beta oxidation pathways. In summary, we found different toxicological effects in individuals exposed to (+/-) PEN, (+) PEN and (-) PEN. The results of this study are important for assessing the potential health risks of (+/-) - PEN. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Meng, Zhiyuan; Xi, Yexun; Jia, Ming; Yan, Sen; Tian, Sinuo; Sun, Wei; Zhu, Wentao; Li, Xuefeng; Zhou, Zhiqiang] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Liu, Li] Yangzhou Univ, Sch Food Sci & Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+C3 China Agricultural University; Yangzhou University
+RP Zhou, ZQ (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Meng, Zhiyuan/AFU-9894-2022; Zhou,
+   Zhiqiang/HIR-4954-2022; Zhu, Wentao/O-8964-2019
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21577171]
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202), and the
+   National Natural Science Foundation of China (21577171).
+NR 43
+TC 25
+Z9 25
+U1 8
+U2 136
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD FEB
+PY 2020
+VL 257
+AR 113555
+DI 10.1016/j.envpol.2019.113555
+PG 9
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA KN3NG
+UT WOS:000514746800063
+PM 31733957
+DA 2024-03-20
+ER
+
+EF

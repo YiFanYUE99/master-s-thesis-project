@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liang, YJ
+   Long, DX
+   Wang, SS
+   Wang, HP
+   Wu, YJ
+AF Liang, Yu-Jie
+   Long, Ding-Xin
+   Wang, Shanshan
+   Wang, Hui-Ping
+   Wu, Yi-Jun
+TI Metabolomic analysis of the serum and urine of rats exposed to diazinon,
+   dimethoate, and cypermethrin alone or in combination
+SO BMC PHARMACOLOGY & TOXICOLOGY
+LA English
+DT Article
+DE Multiple-pesticide exposure; Subacute toxicity; Organophosphate;
+   Pyrethroid; Metabolomics analysis
+ID OXIDATIVE STRESS; NMR; PESTICIDES; CHLORPYRIFOS; CARBAMATE; PROFILES;
+   SPECTROSCOPY; METABONOMICS; GENOTOXICITY; TOXICITY
+AB BackgroundMultiple pesticides are often used in combination for plant protection and public health. Therefore, it is important to analyze the physiological changes induced by multiple pesticides exposure. The objective of this study was to investigate the combined toxicity of the widely-used organophosphorus and pyrethroid pesticides diazinon, dimethoate, and cypermethrin.MethodsMale Wistar rats were administrated by gavage once daily with the three pesticides individual or in combination for consecutive 28 days. The metabolic components of serum and urine samples were detected by using 1H nuclear magnetic resonance (NMR)-based metabolomics method. Histopathological examination of liver and kidneys and serum biochemical determination were also carried out.ResultsThe results showed that after the 28-day subacute exposure, serum glutamic transaminase and albumin were significantly increased and blood urea nitrogen was significantly decreased in the rats exposed to the mixture of the pesticides compared with the control rats, suggesting that the co-exposure impaired liver and kidney function. Metabolomics analysis indicated that the indicators 14 metabolites were statistically significant altered in the rats after the exposure of the pesticides. The increase in 3-hydroxybutyric acid in urine or decrease of lactate and N-acetyl-L-cysteine in serum could be a potentially sensitive biomarker of the subchronic combined effects of the three insecticides. The reduction level of 2-oxoglutarate and creatinine in urine may be indicative of dysfunction of liver and kidneys.ConclusionIn summary, the exposure of rats to pesticides diazinon, dimethoate, and cypermethrin could cause disorder of lipid and amino acid metabolism, induction of oxidative stress, and dysfunction of liver and kidneys, which contributes to the understanding of combined toxic effects of the pesticides revealed by using the metabolomics analysis of the urine and serum profiles.
+C1 [Liang, Yu-Jie; Long, Ding-Xin; Wang, Hui-Ping; Wu, Yi-Jun] Chinese Acad Sci, Inst Zool, Lab Mol Toxicol, State Key Lab Integrated Management Pest Insects &, Beijing 100101, Peoples R China.
+   [Liang, Yu-Jie] Jining Med Univ, Sch Rehabil Med, Jining 272067, Shandong, Peoples R China.
+   [Long, Ding-Xin] Univ South China, Sch Publ Hlth, Hengyang 421001, Hunan, Peoples R China.
+   [Wang, Shanshan] Chinese Acad Agr Sci, Minist Agr, Key Lab Agroprod Qual & Safety, Inst Qual Stand & Testing Technol Agroprod, Beijing 100081, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Zoology, CAS; Jining Medical
+   University; University of South China; Chinese Academy of Agricultural
+   Sciences; Institute of Quality Standards & Testing Technology for
+   Agro-Products, CAAS; Ministry of Agriculture & Rural Affairs
+RP Wu, YJ (corresponding author), Chinese Acad Sci, Inst Zool, Lab Mol Toxicol, State Key Lab Integrated Management Pest Insects &, Beijing 100101, Peoples R China.
+EM wuyj@ioz.ac.cn
+RI Yujie, Liang/GLQ-6360-2022
+OI Yujie, Liang/0000-0002-0860-4859
+FU State Key Laboratory of Integrated Management of Pest Insects and
+   Rodents
+FX Not applicable.
+NR 44
+TC 1
+Z9 1
+U1 7
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 2050-6511
+J9 BMC PHARMACOL TOXICO
+JI BMC Pharmacol. Toxicol.
+PD JAN 2
+PY 2024
+VL 25
+IS 1
+AR 3
+DI 10.1186/s40360-023-00714-6
+PG 10
+WC Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Toxicology
+GA DX3Y1
+UT WOS:001135355600006
+PM 38167230
+OA gold
+DA 2024-04-07
+ER
+
+EF

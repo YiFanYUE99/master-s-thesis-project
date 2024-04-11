@@ -1,0 +1,77 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jia, M
+   Wang, Y
+   Wang, DZ
+   Teng, MM
+   Yan, J
+   Yan, S
+   Meng, ZY
+   Li, RS
+   Zhou, ZQ
+   Zhu, WT
+AF Jia, Ming
+   Wang, Yao
+   Wang, Dezhen
+   Teng, Miaomiao
+   Yan, Jin
+   Yan, Sen
+   Meng, Zhiyuan
+   Li, Ruisheng
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI The effects of hexaconazole and epoxiconazole enantiomers on metabolic
+   profile following exposure to zebrafish (<i>Danio rerio</i>) as well as
+   the histopathological changes
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Hexaconazole; Epoxiconazole; H-1 NMR-based metabolomics;
+   Histopathological changes
+ID STEM-CELL TEST; IN-VIVO; CYPROCONAZOLE; TOXICITY; SERUM
+AB Hexaconazole and epoxiconazole are the worldwidely used fungicides. However, limited information is known about the toxicological effects of their enantiomers on aquatic organisms. In this study, zebrafish were separately exposed to 100 and 1000 mu gL(-1) hexaconazole and epoxiconazole enantiomers for 21 d H-1 NMR-based metabolomics analysis showed that the exposure of low and high dose of hexaconazole enantiomers altered energy metabolism, lipid metabolism and amino acid metabolism of zebrafish, with the different metabolic profiles resulted from the same dose of (+)-hexaconazole and (-)-hexaconazole. Similar to hexaconazole enantiomers, the metabolic profiles, including the changes related to energy metabolism, lipid metabolism and amino acid metabolism, were demonstrated in low and high dose epoxiconazole enantiomers treatment groups. There are differences in the metabolic profiles of zebrafish between exposed to (+)-epoxiconazole and (-)-epoxiconazole of the same dose. The results of histological examination revealed that the exposure of both enantiomers for hexaconazole and epoxiconazole resulted in the similar histopathological changes. The exposure of hexaconazole and epoxiconazole enantiomers at low and high dose resulted the vacuolization and swell in the liver of the female and male zebrafish. Compared to female zebrafish, more liver damage was found in male zebrafish in the hexaconazole enantiomers exposure groups. The reduction of spermatids was observed in hexaconazole and epoxiconazole enantiomers treatment groups of both doses. Hexaconazole enantiomers exposure of low and high dose resulted the increase in the number of mature eggs, while such effect was not observed in epoxiconazole enantiomers exposure groups. Hexaconazole and epoxiconazole enantiomers exposure resulted in no changes in brains of female and male zebrafish. As a result, both triazole-based chiral bactericides, hexaconazole and epoxiconazole, have similar toxicological effects but their mechanisms of action are not exactly the same. The above results will play an important part in making the differences in toxic effects of hexaconazole and epoxiconazole enantiomers clear. What's more, it is an indispensable part for an integrated environmental risk assessment. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Jia, Ming; Wang, Yao; Wang, Dezhen; Yan, Jin; Yan, Sen; Meng, Zhiyuan; Li, Ruisheng; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Yan, Jin/AAE-5637-2022; Meng, Zhiyuan/AFU-9894-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019; Wang, Dezhen/K-2489-2016;
+   Zhou, Zhiqiang/HIR-4954-2022
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998;
+   Wang, Dezhen/0000-0003-3984-6946; Yan, Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21337005]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202) and the National Natural Science
+   Foundation of China (Contract grant number: 21337005).
+NR 28
+TC 49
+Z9 51
+U1 11
+U2 138
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD JUL
+PY 2019
+VL 226
+BP 520
+EP 533
+DI 10.1016/j.chemosphere.2019.03.140
+PG 14
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA HZ2WM
+UT WOS:000468709500057
+PM 30953897
+DA 2024-03-20
+ER
+
+EF

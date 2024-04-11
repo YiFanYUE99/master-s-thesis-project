@@ -1,0 +1,82 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chong, J
+   Soufan, O
+   Li, C
+   Caraus, I
+   Li, SZ
+   Bourque, G
+   Wishart, DS
+   Xia, JG
+AF Chong, Jasmine
+   Soufan, Othman
+   Li, Carin
+   Caraus, Iurie
+   Li, Shuzhao
+   Bourque, Guillaume
+   Wishart, David S.
+   Xia, Jianguo
+TI MetaboAnalyst 4.0: towards more transparent and integrative metabolomics
+   analysis
+SO NUCLEIC ACIDS RESEARCH
+LA English
+DT Article
+ID WEB-BASED TOOL; METAANALYSIS; WORKFLOW; DATABASE; SERVER
+AB We present a new update to MetaboAnalyst (version 4.0) for comprehensive metabolomic data analysis, interpretation, and integration with other omics data. Since the last major update in 2015, MetaboAnalyst has continued to evolve based on user feedback and technological advancements in the field. For this year's update, four newkey features have been added to MetaboAnalyst 4.0, including: (1) real-time R command tracking and display coupled with the release of a companion MetaboAnalystR package; (2) a MS Peaks to Pathways module for prediction of pathway activity from untargeted mass spectral data using themummichog algorithm; (3) a Biomarker Meta-analysis module for robust biomarker identification through the combination of multiple metabolomic datasets and (4) a Network Explorer module for integrative analysis of metabolomics, metagenomics, and/or transcriptomics data. The user interface of MetaboAnalyst 4.0 has been reengineered to provide a more modern look and feel, as well as to give more space and flexibility to introduce new functions. The underlying knowledgebases (compound libraries, metabolite sets, and metabolic pathways) have also been updated based on the latest data from the Human Metabolome Database (HMDB). A Docker image of MetaboAnalyst is also available to facilitate download and local installation of MetaboAnalyst. MetaboAnalyst 4.0 is freely available at http://metaboanalyst.ca.
+C1 [Chong, Jasmine; Soufan, Othman; Caraus, Iurie; Xia, Jianguo] McGill Univ, Inst Parasitol, Montreal, PQ, Canada.
+   [Li, Carin; Wishart, David S.] Univ Alberta, Dept Biol Sci, Edmonton, AB, Canada.
+   [Caraus, Iurie; Bourque, Guillaume; Xia, Jianguo] McGill Univ, Canadian Ctr Computat Genom, Montreal, PQ, Canada.
+   [Li, Shuzhao] Emory Univ, Sch Med, Dept Med, Atlanta, GA USA.
+   [Bourque, Guillaume] McGill Univ, Dept Human Genet, Montreal, PQ, Canada.
+   [Wishart, David S.] Univ Alberta, Dept Comp Sci, Edmonton, AB, Canada.
+   [Xia, Jianguo] McGill Univ, Dept Anim Sci, Montreal, PQ, Canada.
+C3 McGill University; University of Alberta; McGill University; Emory
+   University; McGill University; University of Alberta; McGill University
+RP Xia, JG (corresponding author), McGill Univ, Inst Parasitol, Montreal, PQ, Canada.; Xia, JG (corresponding author), McGill Univ, Canadian Ctr Computat Genom, Montreal, PQ, Canada.; Xia, JG (corresponding author), McGill Univ, Dept Anim Sci, Montreal, PQ, Canada.
+EM jeff.xia@mcgill.ca
+RI Xia, Jianguo/Z-1935-2019; Wishart, David Scott/ABI-3181-2020; Soufan,
+   Othman/AAZ-5986-2020; Chong, Jasmine/HCI-9390-2022; Soufan,
+   Othman/AAB-9324-2020; Bourque, Guillaume/AFR-2927-2022
+OI Xia, Jianguo/0000-0003-2040-2624; Soufan, Othman/0000-0002-4410-1853;
+   Bourque, Guillaume/0000-0002-3933-9656; Li, Shuzhao/0000-0002-7386-2539
+FU McGill University; Natural Sciences and Engineering Research Council of
+   Canada (NSERC); Canadian Institutes of Health Research (CIHR); Genome
+   Canada; Canada Research Chairs Program (CRC)
+FX McGill University; Natural Sciences and Engineering Research Council of
+   Canada (NSERC); Canadian Institutes of Health Research (CIHR); Genome
+   Canada; Canada Research Chairs Program (CRC). Funding for open access
+   charge: Genome Canada.
+NR 48
+TC 2643
+Z9 2833
+U1 39
+U2 489
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0305-1048
+EI 1362-4962
+J9 NUCLEIC ACIDS RES
+JI Nucleic Acids Res.
+PD JUL 2
+PY 2018
+VL 46
+IS W1
+BP W486
+EP W494
+DI 10.1093/nar/gky310
+PG 9
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA GM7NC
+UT WOS:000438374100076
+PM 29762782
+OA Green Published, gold, Green Submitted
+HC Y
+HP N
+DA 2024-04-08
+ER
+
+EF

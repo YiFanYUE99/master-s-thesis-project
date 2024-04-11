@@ -1,0 +1,60 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Szatkowska-Wandas, P
+   Koba, M
+   Smolinski, G
+   Wandas, J
+AF Szatkowska-Wandas, Paulina
+   Koba, Marcin
+   Smolinski, Grzegorz
+   Wandas, Jacek
+TI QSRR and QSAR Studies of Antitumor Drugs in View of their Biological
+   Activity Prediction
+SO MEDICINAL CHEMISTRY
+LA English
+DT Article
+DE Cytostatic drugs; Quantitative Structure Activity Relationship (QSAR);
+   Quantitative Structure Retention Relationship (QSRR)
+ID MULTIPLE LINEAR-REGRESSION; RETENTION RELATIONSHIPS
+AB Background: The QSRRs and QSARs are relatively new approaches to relate internal chemical structure and particular biological activity. This methodology is based on theory that mechanisms which took place into chromatography column are similar to those that occur in a living organism at the molecular level, for example when compounds penetrate into cells.
+   Objective: In this paper, we aim to describe different cytostatic activities of selected anticancer drugs as QSRR and QSAR models, and prove usefulness of connected QSRR and QSAR methodology in different types of studies.
+   Method: Chromatographic experiments using gradient RP-HPLC method and different C18 stationary phases were performed. As a result we obtained retention parameter log k(w). Moreover, to calculate descriptors, which characterize lipo-philicity of analyzed antitumor drugs, DryLab program was utilized. Molecular modeling studies were performed by using HyperChem program. Dragon software was used to calculate structural descriptors, and then selected descriptors were used to build QSRR and QSAR models. Obtained data were analyzed by multiple regression analysis (MLR).
+   Results: Experimental log kw and predicted log kw from QSRR models developed, were further used in QSAR analysis. The goodness of fit was in the range of R-2 = 0.75 -0.95, and the predictive performance of the models was Q(2) = 0.6-0.81.
+   Conclusion: Both QSRR and QSAR strategies presented in this paper, allowed predicting HPLC retention parameters and cytotoxic activities of anticancer medicines without the necessity to carry out time-consuming and expensive experimental tests.
+C1 [Szatkowska-Wandas, Paulina; Koba, Marcin; Smolinski, Grzegorz; Wandas, Jacek] Nicolaus Copernicus Univ, Coll Med Bydgoszcz, Fac Pharm, Dept Toxicol, Torun, Poland.
+C3 Nicolaus Copernicus University
+RP Koba, M (corresponding author), Nicolaus Copernicus Univ, Coll Med Bydgoszcz, Fac Pharm, Dept Toxicol, Torun, Poland.
+EM kobamar@cm.umk.pl
+RI Szatkowska-Wandas, Paulina/H-6740-2014; Koba, Marcin/D-4276-2014
+OI Koba, Marcin/0000-0003-0623-1443
+NR 13
+TC 3
+Z9 3
+U1 0
+U2 19
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1573-4064
+EI 1875-6638
+J9 MED CHEM
+JI Med. Chem.
+PY 2016
+VL 12
+IS 6
+BP 592
+EP 600
+DI 10.2174/1573406411666151002130028
+PG 9
+WC Chemistry, Medicinal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA DZ0ZR
+UT WOS:000385568700011
+PM 26427930
+DA 2024-04-02
+ER
+
+EF

@@ -1,0 +1,52 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Perisic-Janjic, NU
+   Podunavac-Kuzmanovic, SO
+AF Perisic-Janjic, Nada U.
+   Podunavac-Kuzmanovic, Sanja O.
+TI RPTLC study of QSRR and QSAR for some benzimidazole derivatives
+SO JPC-JOURNAL OF PLANAR CHROMATOGRAPHY-MODERN TLC
+LA English
+DT Article
+DE benzimidazole; RP (C-18) HPTLC; lipophilicity; antibacterial; activity;
+   QSRR; WAR
+ID PARTITION-COEFFICIENTS; ANTIBACTERIAL ACTIVITY; ANTIMICROBIAL ACTIVITY;
+   MEDICINAL CHEMISTRY; LIPOPHILICITY; AGENTS; PARAMETERS; IMIDAZOLE
+AB Quantitative structure-retention relationships (QSRR) and quantitative structure-activity relationships (QSAR) have been used to study the chromatographic behavior and antibacterial activity of different substituted benzimidazole derivatives active against Erwinia carotovora subsp. carotovora. Linear correlations were found between retention constants, R-M(0), and partition coefficients, logP, calculated by use of different software products (logP(Hyper), CSlogP, milogP, AlogP, IAlogP, ClogP, logP(Kow), and XlogP). A high-quality three-variable QSRR model was derived between R-M(0) and lipophilicity logP(Kow), hydration energy, and molar volume. A QSAR model was obtained between antibacterial activity and hydration energy, molar refractivity, and CSlogP. The developed QSRR and QSAR models were cross-validated by the high Q(2) values obtained by the leave-one-out method.
+C1 [Perisic-Janjic, Nada U.] Univ Novi Sad, Dept Chem, Fac Sci, Novi Sad 21000, Serbia.
+   [Podunavac-Kuzmanovic, Sanja O.] Univ Novi Sad, Fac Technol, Novi Sad 21000, Serbia.
+C3 University of Novi Sad; University of Novi Sad
+RP Perisic-Janjic, NU (corresponding author), Univ Novi Sad, Dept Chem, Fac Sci, Trg D,Obradovica 3, Novi Sad 21000, Serbia.
+EM nadap@uns.ns.ac.yu
+RI Podunavac-Kuzmanović, Sanja/HDL-9564-2022
+OI Podunavac-Kuzmanović, Sanja/0000-0002-4269-9206
+NR 37
+TC 17
+Z9 17
+U1 0
+U2 5
+PU AKADEMIAI KIADO ZRT
+PI BUDAPEST
+PA BUDAFOKI UT 187-189-A-3, H-1117 BUDAPEST, HUNGARY
+SN 0933-4173
+EI 1789-0993
+J9 JPC-J PLANAR CHROMAT
+JI JPC-J. Planar Chromatogr.-Mod. TLC
+PD APR
+PY 2008
+VL 21
+IS 2
+BP 135
+EP 141
+DI 10.1556/JPC.21.2008.2.11
+PG 7
+WC Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 305EK
+UT WOS:000256160400013
+DA 2024-04-02
+ER
+
+EF

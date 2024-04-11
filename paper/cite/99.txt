@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, J
+   Hu, Y
+   Zou, YL
+   Geng, JP
+   Wu, YL
+   Fan, RS
+   Kang, ZL
+AF Sun, Jie
+   Hu, Yan
+   Zou, Yulin
+   Geng, Jinping
+   Wu, Youli
+   Fan, Rongsheng
+   Kang, Zhiliang
+TI Identification of pesticide residues on black tea by fluorescence
+   hyperspectral technology combined with machine learning
+SO FOOD SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE black tea; pesticide residues; fluorescence hyperspectral; convolutional
+   neural network; random forest; non-destructive identification
+ID GREEN TEA; CONSUMPTION
+AB Black tea has a long history in China, but in export trade, pesticide residues often exceed the standard. To obtain a rapid, accurate, and non-destructive identification method of pesticide residues on black tea, the fluorescence hyperspectral data of dry black tea sprayed with distilled water and six pesticides were collected in this study. The spectra were preprocessed by multiplicative scatter correction (MSC) and standard normal variate (SNV). Then the uninformative variable elimination (UVE), successive projections algorithm (SPA), competitive adaptive re-weighted sampling (CARS), UVE-SPA, and CARS-SPA were used to feature extraction. This study proposes a machine learning model composed of a one-dimensional convolutional neural network backbone (1D CNN backbone) and a random forest classifier (RF classifier) to identify pesticide residues on black tea, and the 1D CNN-RF model was compared with three other machine learning models (support vector machine, RF, and 1D CNN). The results show that MSC-CARS-SPA-1D CNN-RF is the best model for identifying pesticide residues on black tea in which the accuracy of the test set is 99.05%. Combined with fluorescence hyperspectral technology, the proposed 1D CNN-RF model has great potential in the non-destructive identification of pesticide residues on black tea.
+C1 [Sun, Jie; Hu, Yan; Zou, Yulin; Geng, Jinping; Wu, Youli; Fan, Rongsheng; Kang, Zhiliang] Sichuan Agr Univ, Coll Mech & Elect Engn, Yaan, Peoples R China.
+C3 Sichuan Agricultural University
+RP Kang, ZL (corresponding author), Sichuan Agr Univ, Coll Mech & Elect Engn, Yaan, Peoples R China.
+EM 12200@sicau.edu.cn
+OI Hu, Yan/0000-0001-7029-8816; , Rongsheng Fan/0009-0005-2274-4347
+NR 41
+TC 6
+Z9 6
+U1 18
+U2 69
+PU SOC BRASILEIRA CIENCIA TECNOLOGIA ALIMENTOS
+PI CAMPINAS
+PA AV BRASIL 2880, CAXIA POSTAL 271 CEP 13001-970, CAMPINAS, SAO PAULO
+   00000, BRAZIL
+SN 0101-2061
+EI 1678-457X
+J9 FOOD SCI TECH-BRAZIL
+JI Food Sci. Technol.
+PY 2022
+VL 42
+AR e55822
+DI 10.1590/fst.55822
+PG 9
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA 4O8UI
+UT WOS:000854968300009
+OA gold
+DA 2024-04-07
+ER
+
+EF

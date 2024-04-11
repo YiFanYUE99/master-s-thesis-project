@@ -1,0 +1,82 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Yan, S
+   Sun, W
+   Yan, J
+   Teng, MM
+   Jia, M
+   Tian, SN
+   Zhou, ZQ
+   Zhu, WT
+AF Meng, Zhiyuan
+   Yan, Sen
+   Sun, Wei
+   Yan, Jin
+   Teng, Miaomiao
+   Jia, Ming
+   Tian, Sinuo
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Chlorothalonil induces obesity in mice by regulating host gut microbiota
+   and bile acids metabolism via FXR pathways
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Pesticides; Obesity; Gut microbiota; Bile acids metabolism; FXR signal
+   pathways
+ID CONTACT-DERMATITIS; INSULIN-RESISTANCE; RECEPTOR FXR; EXPOSURE; IMPACT;
+   POLLUTANTS; IRRITANT; RESIDUES; HEALTH; GROWTH
+AB As the most commonly used organochlorine pesticide nowadays, chlorothalonil (CHI), is ubiquitous in a natural environment and poses many adverse effects to organisms. Unfortunately, the toxicity mechanisms of CHI have not been clarified yet. This study found that the CHI based on ADI level could induce obesity in mice. In addition, CHI could induce an imbalance in the gut microbiota of mice. Furthermore, the results of the antibiotic treatment and gut microbiota transplantation experiments showed that the CHI could induce obesity in mice in a gut microbiota-dependent manner. Based on the results of targeted metabolomics and gene expression analysis, CHI could disturb the bile acids (BAs) metabolism of mice, causing the inhibition of the signal response of BAs re-ceptor FXR and leading to glycolipid metabolism disorders in liver and epiWAT of mice. The administration of FXR agonist GW4064 and CDCA could significantly improve the CHI-induced obesity in mice. In conclusion, CHI was found to induce obesity in mice by regulating the gut microbiota and BAs metabolism via the FXR signaling pathway. This study provides evidence linking the gut microbiota and pesticides exposure with the progression of obesity, demonstrating the key role of gut microbiota in the toxic effects of pesticides.
+C1 [Sun, Wei; Teng, Miaomiao; Jia, Ming; Tian, Sinuo; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Meng, Zhiyuan] Yangzhou Univ, Coll Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Yan, Sen] Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing 100193, Peoples R China.
+   [Yan, Jin] Suzhou Univ Sci & Technol, Sch Environm Sci & Engn, Suzhou 215009, Jiangsu, Peoples R China.
+C3 China Agricultural University; Yangzhou University; Suzhou University of
+   Science & Technology
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.; Meng, ZY (corresponding author), Yangzhou Univ, Coll Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+EM zymeng@yzu.edu.cn; wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/M-9713-2019; Zhang, Qing/IZQ-5273-2023; Meng,
+   Zhiyuan/AFU-9894-2022
+OI Meng, Zhiyuan/0000-0003-4352-8561
+FU Science and Technology Projects Fund of Yangzhou City [YZ2022075];
+   National Key Research and Development Program of China [2016YFD0200202];
+   Natural Sci-ence Foundation of the Jiangsu Higher Education Institutions
+   of China [21KJB210017]; Distinguished talent of Yangzhou City
+   [YZLYJFJH2021YXBS187]
+FX Acknowledgments This work was supported from the Science and Technology
+   Projects Fund of Yangzhou City (YZ2022075) , the National Key Research
+   and Development Program of China (2016YFD0200202) , the Natural Sci-ence
+   Foundation of the Jiangsu Higher Education Institutions of China
+   (21KJB210017) and the Distinguished talent of Yangzhou City
+   (YZLYJFJH2021YXBS187) .
+NR 69
+TC 3
+Z9 3
+U1 39
+U2 103
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD JUN 15
+PY 2023
+VL 452
+AR 131310
+DI 10.1016/j.jhazmat.2023.131310
+EA MAR 2023
+PG 16
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA D7TZ8
+UT WOS:000970728800001
+PM 37003002
+DA 2024-03-20
+ER
+
+EF

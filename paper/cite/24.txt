@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hamadache, M
+   Benkortbi, O
+   Hanini, S
+   Amrane, A
+   Khaouane, L
+   Moussa, CS
+AF Hamadache, Mabrouk
+   Benkortbi, Othmane
+   Hanini, Salah
+   Amrane, Abdeltif
+   Khaouane, Latifa
+   Moussa, Cherif Si
+TI A Quantitative Structure Activity Relationship for acute oral toxicity
+   of pesticides on rats: Validation, domain of application and prediction
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Acute toxicity; Pesticides; QSAR; Prediction; External validation
+ID ORGANOPHOSPHORUS PESTICIDES; APPLICABILITY DOMAIN; MAMMALIAN TOXICITY;
+   VARIABLE SELECTION; NEURAL-NETWORK; DAPHNIA-MAGNA; QSAR; RESIDUES;
+   MODELS; QSTR
+AB Quantitative Structure Activity Relationship (QSAR) models are expected to play an important role in the risk assessment of chemicals on humans and the environment. In this study, we developed a validated QSAR model to predict acute oral toxicity of 329 pesticides to rats because a few QSAR models have been devoted to predict the Lethal Dose 50 (LD50) of pesticides on rats. This QSAR model is based on 17 molecular descriptors, and is robust, externally predictive and characterized by a good applicability domain. The best results were obtained with a 17/9/1 Artificial Neural Network model trained with the Quasi Newton back propagation (BFGS) algorithm. The prediction accuracy for the external validation set was estimated by the Q(ext)(2) and the root mean square error (RMS) which are equal to 0.948 and 0.201, respectively. 98.6% of external validation set is correctly predicted and the present model proved to be superior to models previously published. Accordingly, the model developed in this study provides excellent predictions and can be used to predict the acute oral toxicity of pesticides, particularly for those that have not been tested as well as new pesticides. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Hamadache, Mabrouk; Benkortbi, Othmane; Hanini, Salah; Khaouane, Latifa; Moussa, Cherif Si] Univ Medea, Lab Biomat & Phenomenes Transport LBMPT, Medea 26000, Algeria.
+   [Amrane, Abdeltif] Univ Rennes 1, CNRS, Ecole Natl Super Chim Rennes, UMR 6226, F-35708 Rennes 7, France.
+C3 Universite Yahia Fares Medea; Centre National de la Recherche
+   Scientifique (CNRS); CNRS - Institute of Chemistry (INC); Universite de
+   Rennes; Ecole Nationale Superieure de Chimie de Rennes (ENSCR)
+RP Hamadache, M (corresponding author), Univ Medea, Lab Biomat & Phenomenes Transport LBMPT, Medea 26000, Algeria.
+EM mhamdeche@yahoo.fr; benkortbi_oth@yahoo.fr; s_hanini2002@yahoo.fr;
+   abdeltif.amrane@univ-rennes1.fr; latifa_khaouane@yahoo.fr;
+   simoussa_cherif@yahoo.fr
+RI Amrane, Abdeltif/AAG-5117-2020; SI-MOUSSA, Cherif/P-4080-2016
+OI SI-MOUSSA, Cherif/0000-0001-5727-2742; Benkortbi,
+   Othmane/0000-0002-1965-7171
+NR 61
+TC 64
+Z9 67
+U1 5
+U2 157
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD FEB 13
+PY 2016
+VL 303
+BP 28
+EP 40
+DI 10.1016/j.jhazmat.2015.09.021
+PG 13
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA CZ2SJ
+UT WOS:000366954600004
+PM 26513561
+OA Green Submitted
+DA 2024-04-01
+ER
+
+EF

@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hu, YT
+   Ma, BX
+   Wang, HT
+   Li, YJ
+   Zhang, YJ
+   Yu, GW
+AF Hu, Yating
+   Ma, Benxue
+   Wang, Huting
+   Li, Yujie
+   Zhang, Yuanjia
+   Yu, Guowei
+TI Non-Destructive Detection of Different Pesticide Residues on the Surface
+   of Hami Melon Classification Based on tHBA-ELM Algorithm and SWIR
+   Hyperspectral Imaging
+SO FOODS
+LA English
+DT Article
+DE pesticide residues; SWIR hyperspectral imaging; metaheuristic
+   optimization; machine learning; non-destructive detection
+ID MASS-SPECTROMETRY; NIR; SPECTROSCOPY; IDENTIFICATION; GREEN; WHEAT
+AB In the field of safety detection of fruits and vegetables, how to conduct non-destructive detection of pesticide residues is still a pressing problem to be solved. In response to the high cost and destructive nature of existing chemical detection methods, this study explored the potential of identifying different pesticide residues on Hami melon by short-wave infrared (SWIR) (spectral range of 1000-2500 nm) hyperspectral imaging (HSI) technology combined with machine learning. Firstly, the classification effects of classical classification models, namely extreme learning machine (ELM), support vector machine (SVM), and partial least squares discriminant analysis (PLS-DA) on pesticide residues on Hami melon were compared, ELM was selected as the benchmark model for subsequent optimization. Then, the effects of different preprocessing treatments on ELM were compared and analyzed to determine the most suitable spectral preprocessing treatment. The ELM model optimized by Honey Badger Algorithm (HBA) with adaptive t-distribution mutation strategy (tHBA-ELM) was proposed to improve the detection accuracy for the detection of pesticide residues on Hami melon. The primitive HBA algorithm was optimized by using adaptive t-distribution, which improved the structure of the population and increased the convergence speed. Compared the classification results of tHBA-ELM with HBA-ELM and ELM model optimized by genetic algorithm (GA-ELM), the tHBA-ELM model can accurately identify whether there were pesticide residues and different types of pesticides. The accuracy, precision, sensitivity, and F1-score of the test set was 93.50%, 93.73%, 93.50%, and 0.9355, respectively. Metaheuristic optimization algorithms can improve the classification performance of classical machine learning classification models. Among all the models, the performance of tHBA-ELM was satisfactory. The results indicated that SWIR-HSI coupled with tHBA-ELM can be used for the non-destructive detection of pesticide residues on Hami melon, which provided the theoretical basis and technical reference for the detection of pesticide residues in other fruits and vegetables.
+C1 [Hu, Yating; Ma, Benxue; Wang, Huting; Li, Yujie; Zhang, Yuanjia; Yu, Guowei] Shihezi Univ, Coll Mech & Elect Engn, Shihezi 832003, Peoples R China.
+   [Ma, Benxue; Wang, Huting] Minist Agr & Rural Affairs, Key Lab Northwest Agr Equipment, Shihezi 832003, Peoples R China.
+   [Ma, Benxue; Wang, Huting] Minist Educ, Engn Res Ctr Prod Mechanizat Oasis Characterist Ca, Shihezi 832003, Peoples R China.
+C3 Shihezi University; Ministry of Agriculture & Rural Affairs
+RP Ma, BX (corresponding author), Shihezi Univ, Coll Mech & Elect Engn, Shihezi 832003, Peoples R China.; Ma, BX (corresponding author), Minist Agr & Rural Affairs, Key Lab Northwest Agr Equipment, Shihezi 832003, Peoples R China.; Ma, BX (corresponding author), Minist Educ, Engn Res Ctr Prod Mechanizat Oasis Characterist Ca, Shihezi 832003, Peoples R China.
+EM hyt_0207@163.com; mbx_mac@shzu.edu.cn; xgb@shzu.edu.cn;
+   lyj_shzdx@163.com; zyj_shz@163.com; ygw986119533@163.com
+RI Yu, Guowei/HMD-4547-2023
+OI Yu, Guowei/0000-0002-5296-7905
+FU National Natural Science Foundation of China [32060411]
+FX This research was funded by the National Natural Science Foundation of
+   China, grant number 32060411.
+NR 63
+TC 1
+Z9 1
+U1 17
+U2 33
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2304-8158
+J9 FOODS
+JI Foods
+PD APR 25
+PY 2023
+VL 12
+IS 9
+AR 1773
+DI 10.3390/foods12091773
+PG 18
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA G2FM8
+UT WOS:000987379500001
+PM 37174311
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

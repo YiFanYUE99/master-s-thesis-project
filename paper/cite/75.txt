@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hajjo, R
+   Sabbah, DA
+   Bardaweel, SK
+   Tropsha, A
+AF Hajjo, Rima
+   Sabbah, Dima A.
+   Bardaweel, Sanaa K.
+   Tropsha, Alexander
+TI Identification of Tumor-Specific MRI Biomarkers Using Machine Learning
+   (ML)
+SO DIAGNOSTICS
+LA English
+DT Review
+DE biomarkers; imaging; machine learning; MRI; oncology
+ID IMAGING BIOMARKERS; BI-RADS; CANCER; STRATIFICATION; GUIDELINES;
+   FEATURES; VERSION; TIME
+AB The identification of reliable and non-invasive oncology biomarkers remains a main priority in healthcare. There are only a few biomarkers that have been approved as diagnostic for cancer. The most frequently used cancer biomarkers are derived from either biological materials or imaging data. Most cancer biomarkers suffer from a lack of high specificity. However, the latest advancements in machine learning (ML) and artificial intelligence (AI) have enabled the identification of highly predictive, disease-specific biomarkers. Such biomarkers can be used to diagnose cancer patients, to predict cancer prognosis, or even to predict treatment efficacy. Herein, we provide a summary of the current status of developing and applying Magnetic resonance imaging (MRI) biomarkers in cancer care. We focus on all aspects of MRI biomarkers, starting from MRI data collection, preprocessing and machine learning methods, and ending with summarizing the types of existing biomarkers and their clinical applications in different cancer types.
+C1 [Hajjo, Rima; Sabbah, Dima A.] Al Zaytoonah Univ Jordan, Fac Pharm, Dept Pharm, POB 130, Amman 11733, Jordan.
+   [Hajjo, Rima; Tropsha, Alexander] Univ North Carlina, Lab Mol Modeling, Div Chem Biol & Med Chem, Eshelman Sch Pharm, Chapel Hill, NC 27599 USA.
+   [Hajjo, Rima] Natl Ctr Epidem & Communicable Dis Control, Amman 11118, Jordan.
+   [Bardaweel, Sanaa K.] Univ Jordan, Sch Pharm, Dept Pharmaceut Sci, Amman 11942, Jordan.
+C3 Al-Zaytoonah University of Jordan; University of Jordan
+RP Hajjo, R (corresponding author), Al Zaytoonah Univ Jordan, Fac Pharm, Dept Pharm, POB 130, Amman 11733, Jordan.; Hajjo, R (corresponding author), Univ North Carlina, Lab Mol Modeling, Div Chem Biol & Med Chem, Eshelman Sch Pharm, Chapel Hill, NC 27599 USA.; Hajjo, R (corresponding author), Natl Ctr Epidem & Communicable Dis Control, Amman 11118, Jordan.
+EM rhajjo@gmail.com; dima.sabbah@zuj.edu.jo; s.bardaweel@ju.edu.jo;
+   alex_tropsha@unc.edu
+RI Bardaweel, Sanaa/C-2556-2015; Hajjo, Rima/GOV-3269-2022
+OI Sabbah, Dima/0000-0003-1428-5097; Tropsha,
+   Alexander/0000-0003-3802-8896; Bardaweel, Sanaa/0000-0002-4823-0708;
+   Hajjo, Rima/0000-0002-7090-5425
+FU Deanship of Scientific Research at AlZaytoonah University of Jordan
+   [2020-2019/17/03]
+FX R.H. and D.A.S. acknowledge support from the Deanship of Scientific
+   Research at AlZaytoonah University of Jordan (Grant number
+   2020-2019/17/03).
+NR 219
+TC 10
+Z9 10
+U1 11
+U2 45
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2075-4418
+J9 DIAGNOSTICS
+JI Diagnostics
+PD MAY
+PY 2021
+VL 11
+IS 5
+AR 742
+DI 10.3390/diagnostics11050742
+PG 27
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA SG9ZI
+UT WOS:000653797800001
+PM 33919342
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

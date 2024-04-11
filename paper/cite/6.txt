@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Moriwaki, H
+   Tian, YS
+   Kawashita, N
+   Takagi, T
+AF Moriwaki, Hirotomo
+   Tian, Yu-Shi
+   Kawashita, Norihito
+   Takagi, Tatsuya
+TI Mordred: a molecular descriptor calculator
+SO JOURNAL OF CHEMINFORMATICS
+LA English
+DT Article
+DE Molecular descriptor; QSPR; Cheminformatics; Calculation software;
+   Python
+ID AVAILABLE PYTHON PACKAGE; TOPOLOGICAL INDEXES; STRUCTURE-PROPERTY;
+   DESIGN
+AB Molecular descriptors are widely employed to present molecular characteristics in cheminformatics. Various molecular- descriptor-calculation software programs have been developed. However, users of those programs must contend with several issues, including software bugs, insufficient update frequencies, and software licensing constraints. To address these issues, we propose Mordred, a developed descriptor-calculation software application that can calculate more than 1800 two-and three-dimensional descriptors. It is freely available via GitHub. Mordred can be easily installed and used in the command line interface, as a web application, or as a high-flexibility Python package on all major platforms (Windows, Linux, and macOS). Performance benchmark results show that Mordred is at least twice as fast as the well-known PaDEL-Descriptor and it can calculate descriptors for large molecules, which cannot be accomplished by other software. Owing to its good performance, convenience, number of descriptors, and a lax licensing constraint, Mordred is a promising choice of molecular descriptor calculation software that can be utilized for cheminformatics studies, such as those on quantitative structure-property relationships.
+C1 [Moriwaki, Hirotomo; Tian, Yu-Shi; Takagi, Tatsuya] Osaka Univ, Grad Sch Pharmaceut Sci, 1-6 Yamada Oka, Suita, Osaka 5650871, Japan.
+   [Kawashita, Norihito] Kindai Univ, Fac Sci & Engn, 3-4-1 Kowakae, Higashiosaka, Osaka 5778502, Japan.
+C3 Osaka University; Kindai University (Kinki University)
+RP Moriwaki, H (corresponding author), Osaka Univ, Grad Sch Pharmaceut Sci, 1-6 Yamada Oka, Suita, Osaka 5650871, Japan.
+EM hirotomo.moriwaki@gmail.com
+RI Tian, Yu-Shi/AAM-2780-2021; Takagi, Tatsuya/AAV-3016-2020
+OI Tian, Yu-Shi/0000-0002-8988-9453; Kawashita,
+   Norihito/0000-0002-1740-7232; Moriwaki, Hirotomo/0000-0002-3122-8580;
+   TAKAGI, Tatsuya/0000-0002-0044-0722
+FU Japan Society for the Promotion of Science KAKENHI [JP15KT0017,
+   JP17K08235]; Hirose International Scholarship Foundation
+FX This work was supported by Japan Society for the Promotion of Science
+   KAKENHI (Grant No. JP15KT0017, JP17K08235) for author TT, and it was
+   partially supported by the Hirose International Scholarship Foundation
+   as a fellowship to author YST.
+NR 31
+TC 530
+Z9 568
+U1 36
+U2 176
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1758-2946
+J9 J CHEMINFORMATICS
+JI J. Cheminformatics
+PD FEB 6
+PY 2018
+VL 10
+AR 4
+DI 10.1186/s13321-018-0258-y
+PG 14
+WC Chemistry, Multidisciplinary; Computer Science, Information Systems;
+   Computer Science, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science
+GA FV1ST
+UT WOS:000424345600001
+PM 29411163
+OA gold, Green Published
+HC Y
+HP N
+DA 2024-04-01
+ER
+
+EF

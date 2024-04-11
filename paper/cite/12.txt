@@ -1,0 +1,64 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hancock, T
+   Put, R
+   Coomans, D
+   Vander Heyden, Y
+   Everingham, Y
+AF Hancock, T
+   Put, R
+   Coomans, D
+   Vander Heyden, Y
+   Everingham, Y
+TI A performance comparison of modem statistical techniques for molecular
+   descriptor selection and retention prediction in chromatographic QSRR
+   studies
+SO CHEMOMETRICS AND INTELLIGENT LABORATORY SYSTEMS
+LA English
+DT Article
+DE CART; bagging; random forests; gradient boosting; genetic algorithms;
+   QSRR; retention prediction
+ID LIQUID-CHROMATOGRAPHY; QUANTITATIVE STRUCTURE; STRUCTURE/RESPONSE
+   CORRELATIONS; SIMILARITY/DIVERSITY ANALYSIS; GETAWAY DESCRIPTORS;
+   PARAMETERS; REGRESSION; INDEXES
+AB As datasets are becoming larger, a solution to the problem of variable prediction, this problem is becoming harder. The problem is to define which subset of variables produces optimum predictions. The example studied aims to predict the chromatographic retention of 83 basic drugs on a Unisphere PBD column at pH 11.7 using 1272 molecular descriptors. The goal of this paper is to compare the relative performance of recently developed data mining methods, specifically classification and regression trees (CART), stochastic gradient boosting for tree-based models (Treeboost), and random forests (RF), with common statistical techniques in chemometrics; and genetic algorithms on multiple linear regression (GA-MLR), uninformative variable elimination partial least squares (UVE-PLS), and SIMPLS. The comparison will be performed primarily on predictive performance, but also on the variables found to be most important for the predictions. The results of this study indicated that, individually, GA-MLR (R-2=0.93) outperformed all models. Further analysis found that a combination approach of GA-MLR and Treeboost (R-2=0.98) further improved these results. (c) 2004 Elsevier B.V. All rights reserved.
+C1 James Cook Univ N Queensland, Stat & Intelligent Data Anal Grp, Townsville, Qld 4814, Australia.
+   Free Univ Brussels, Inst Pharmaceut, Dept Pharmaceut & Biomed Anal, B-1090 Brussels, Belgium.
+C3 James Cook University; Universite Libre de Bruxelles
+RP Hancock, T (corresponding author), James Cook Univ N Queensland, Stat & Intelligent Data Anal Grp, Townsville, Qld 4814, Australia.
+EM timothy.hancock@jcu.edu.au
+RI everingham, yvette/A-8399-2012
+OI Vander Heyden, Yvan/0000-0002-7788-9886; Everingham,
+   Yvette/0000-0002-2583-4365
+NR 48
+TC 115
+Z9 120
+U1 0
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-7439
+J9 CHEMOMETR INTELL LAB
+JI Chemometrics Intell. Lab. Syst.
+PD APR 28
+PY 2005
+VL 76
+IS 2
+BP 185
+EP 196
+DI 10.1016/j.chemolab.2004.11.001
+PG 12
+WC Automation & Control Systems; Chemistry, Analytical; Computer Science,
+   Artificial Intelligence; Instruments & Instrumentation; Mathematics,
+   Interdisciplinary Applications; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Chemistry; Computer Science; Instruments &
+   Instrumentation; Mathematics
+GA 918LE
+UT WOS:000228542500007
+DA 2024-04-01
+ER
+
+EF

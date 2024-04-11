@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ye, WX
+   Yan, TY
+   Zhang, C
+   Duan, L
+   Chen, W
+   Song, H
+   Zhang, YF
+   Xu, W
+   Gao, P
+AF Ye, Weixin
+   Yan, Tianying
+   Zhang, Chu
+   Duan, Long
+   Chen, Wei
+   Song, Hao
+   Zhang, Yifan
+   Xu, Wei
+   Gao, Pan
+TI Detection of Pesticide Residue Level in Grape Using Hyperspectral
+   Imaging with Machine Learning
+SO FOODS
+LA English
+DT Article
+DE hyperspectral imaging; pesticide residue; table grape; deep learning;
+   non-destructive detection
+ID LOGISTIC-REGRESSION; GEOGRAPHICAL ORIGIN; FEATURE-SELECTION;
+   CLASSIFICATION; IDENTIFICATION; DIFFERENTIATION; MODELS
+AB Rapid and accurate detection of pesticide residue levels can help to prevent the harm of pesticide residue. This study used visible/near-infrared (Vis-NIR) (376-1044 nm) and near-infrared (NIR) (915-1699 nm) hyperspectral imaging systems (HISs) to detect the level of pesticide residues. Three different varieties of grapes were sprayed with four levels of pesticides. Logistic regression (LR), support vector machine (SVM), random forest (RF), convolutional neural network (CNN), and residual neural network (ResNet) models were used to build classification models for pesticide residue levels. The saliency maps of CNN and ResNet were conducted to visualize the contribution of wavelengths. Overall, the results of NIR spectra performed better than those of Vis-NIR spectra. For Vis-NIR spectra, the best model was ResNet, with the accuracy of over 93%. For NIR spectra, LR was the best, with the accuracy of over 97%, but SVM, CNN, and ResNet also showed closed and fine results. The saliency map of CNN and ResNet presented similar and closed ranges of crucial wavelengths. Overall results indicated deep learning performed better than conventional machine learning. The study showed that the use of hyperspectral imaging technology combined with machine learning can effectively detect the level of pesticide residues in grapes.
+C1 [Ye, Weixin; Yan, Tianying; Duan, Long; Chen, Wei; Song, Hao; Gao, Pan] Shihezi Univ, Coll Informat Sci & Technol, Shihezi 832003, Peoples R China.
+   [Zhang, Chu] Huzhou Univ, Sch Informat Engn, Huzhou 313000, Peoples R China.
+   [Zhang, Yifan; Xu, Wei] Shihezi Univ, Coll Agr, Shihezi 832061, Peoples R China.
+   [Zhang, Yifan; Xu, Wei] Xinjiang Prod & Construct Corps Key Lab Special F, Shihezi 832003, Peoples R China.
+C3 Shihezi University; Huzhou University; Shihezi University
+RP Gao, P (corresponding author), Shihezi Univ, Coll Informat Sci & Technol, Shihezi 832003, Peoples R China.; Xu, W (corresponding author), Shihezi Univ, Coll Agr, Shihezi 832061, Peoples R China.; Xu, W (corresponding author), Xinjiang Prod & Construct Corps Key Lab Special F, Shihezi 832003, Peoples R China.
+EM yeweixin@stu.shzu.edu.cn; yantianying@163.com; chuzh@zjhu.edu.cn;
+   duanlong@stu.shzu.edu.cn; chenwei@stu.shzu.edu.cn;
+   songhao@stu.shzu.edu.cn; zyf1005225469@163.com; xuwei0412@shzu.edu.cn;
+   gp_inf@shzu.edu.cn
+RI Gao, Pan/HJG-6953-2022; Ye, Xin wei/GPX-4372-2022; Yan,
+   Tianying/AAW-3619-2020
+OI Gao, Pan/0000-0002-7781-3005; Yan, Tianying/0000-0002-5811-3476; Zhang,
+   Chu/0000-0001-6760-3154
+FU National Natural Science Foundation of China [61965014, 32060685];
+   Scientific and Technological Research Projects in Key Areas of Xinjiang
+   Production and Construction Corps (XPCC) [2020AB005]
+FX This research was funded by the National Natural Science Foundation of
+   China, grant numbers 61965014 and 32060685, and the Scientific and
+   Technological Research Projects in Key Areas of Xinjiang Production and
+   Construction Corps (XPCC) grant number 2020AB005.
+NR 64
+TC 21
+Z9 21
+U1 52
+U2 168
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2304-8158
+J9 FOODS
+JI Foods
+PD JUN
+PY 2022
+VL 11
+IS 11
+AR 1609
+DI 10.3390/foods11111609
+PG 16
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA 1Z1NT
+UT WOS:000808600400001
+PM 35681359
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

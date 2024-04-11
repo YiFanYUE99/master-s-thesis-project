@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Tian, SN
+   Sun, W
+   Liu, L
+   Yan, S
+   Huang, SR
+   Zhu, WT
+   Zhou, ZQ
+AF Meng, Zhiyuan
+   Tian, Sinuo
+   Sun, Wei
+   Liu, Li
+   Yan, Sen
+   Huang, Shiran
+   Zhu, Wentao
+   Zhou, Zhiqiang
+TI Effects of exposure to prothioconazole and its metabolite
+   prothioconazole-desthio on oxidative stress and metabolic profiles of
+   liver and kidney tissues in male mice
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Prothioconazole; Prothioconazole-desthio; Oxidative stress; Metabolic
+   profile
+ID BIOMARKER RESPONSES; LIPID-PEROXIDATION; ANTIOXIDANTS; GLUTAMINE;
+   TOXICITY
+AB Prothioconazole (PTC), a popular agricultural fungicide, and its main metabolite prothioconazole-desthio (PTCd) are receiving great attention due to their toxicological effects in the non-target organisms. This study investigated their dosage-dependent (1 and 5 mg/kg BW/day) toxicological effects on oxidative stress and metabolic profiles of liver and kidney tissues using male mice. PTC and PTCd significantly inhibited the growth phenotype including body weights gain, liver and kidney indices. Furthermore, these effects were deeply investigated using the biomarkers of oxidative stress, and metabolomics. Notably, these effects were dose and tissue-dependent. Specifically, the more serious impacts involving oxidative stress and metabolic disorders were observed in the high concentration treatment groups. Also, the liver tissue was more severely affected than the kidney tissue. Lastly, the change in oxidative stress biomarkers and metabolomics profile revealed that PTCd induced more severe toxic effects than the parent compound PTC. In brief, these results indicate that exposure to PTC and PTCd could cause potential health risks in mammals. (C)2020 Elsevier Ltd. All rights reserved.
+C1 [Meng, Zhiyuan; Tian, Sinuo; Sun, Wei; Yan, Sen; Huang, Shiran; Zhu, Wentao; Zhou, Zhiqiang] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Liu, Li] Yangzhou Univ, Sch Food Sci & Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+C3 China Agricultural University; Yangzhou University
+RP Zhou, ZQ (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; Zhou, Zhiqiang/HIR-4954-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge financial support from the National Key
+   Research and Development Program of China (2016YFD0200202). The authors
+   thank the members of the laboratory animal center in China Agriculture
+   University for their assistance in animal care.
+NR 36
+TC 29
+Z9 29
+U1 9
+U2 144
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD JAN 15
+PY 2021
+VL 269
+AR 116215
+DI 10.1016/j.envpol.2020.116215
+PG 11
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA PN4CS
+UT WOS:000604429000116
+PM 33310497
+DA 2024-03-20
+ER
+
+EF

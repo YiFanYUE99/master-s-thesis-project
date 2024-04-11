@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, P
+   Zhu, WT
+   Wang, DZ
+   Yan, J
+   Wang, Y
+   He, L
+AF Zhang, Ping
+   Zhu, Wentao
+   Wang, Dezhen
+   Yan, Jin
+   Wang, Yao
+   He, Lin
+TI Enantioselective Effects of Metalaxyl Enantiomers on Breast Cancer Cells
+   Metabolic Profiling Using HPLC-QTOF-Based Metabolomics
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+LA English
+DT Article
+DE metalaxyl; metabolomics; enantiomers; HPLC-QTOF; metabolic perturbations
+ID IN-VITRO; CYTOKINE PRODUCTION; PESTICIDES; CHOLINE; SYSTEMS; STATISTICS;
+   INDUCTION; RESPONSES; EXPOSURE; RECEPTOR
+AB In this study, an integrative high-performance liquid chromatography coupled with quadrupole time-of-flight tandem mass spectrometry (HPLC-QTOF) based metabolomics approach was performed to evaluate the enantioselective metabolic perturbations in MCF-7 cells after treatment with R-metalaxyl and S-metalaxyl, respectively. Untargeted metabolomics profile, multivariate pattern recognition, metabolites identification, and pathway analysis were determined after metalaxyl enantiomer exposure. Principal component analysis (PCA) and partitial least-squares discriminant analysis (PLS-DA) directly reflected the enantioselective metabolic perturbations induced by metalaxyl enantiomers. On the basis of multivariate statistical results, a total of 49 metabolites including carbohydrates, amino acids, nucleotides, fatty acids, organic acids, phospholipids, indoles, derivatives, etc. were found to be the most significantly changed metabolites and metabolic fluctuations caused by the same concentration of R-metalaxyl and S-metalaxyl were enantioselective. Pathway analysis indicated that R-metalaxyl and S-metalaxyl mainly affected the 7 and 10 pathways in MCF-7 cells, respectively, implying the perturbed pathways induced by metalaxyl enantiomers were also enantioselective. Furthermore, the significantly perturbed metabolic pathways were highly related to energy metabolism, amino acid metabolism, lipid metabolism, and antioxidant defense. Such results provide more specific insights into the enantioselective metabolic effects of chiral pesticides in breast cancer progression, reveal the underlying mechanisms, and provide available data for the health risk assessments of chiral environmental pollutants at the molecular level.
+C1 [Zhang, Ping; He, Lin] Southwest Univ, Coll Plant Protect, Chongqing 400715, Peoples R China.
+   [Zhu, Wentao; Wang, Dezhen; Yan, Jin; Wang, Yao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 Southwest University - China; China Agricultural University
+RP He, L (corresponding author), Southwest Univ, Coll Plant Protect, Chongqing 400715, Peoples R China.
+EM pingz@swu.edu.cn; wentaozhu@cau.edu.cn; wangdezhen@cau.edu.cn;
+   ping17028@gmail.com; yaow@cau.edu.cn; helinok@vip.tom.com
+RI Zhu, Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022; Wang,
+   Dezhen/K-2489-2016
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946
+FU National Natural Science Foundation of China [21207158, 21337005]
+FX This study was financially supported by the National Natural Science
+   Foundation of China (21207158, 21337005).
+NR 50
+TC 10
+Z9 12
+U1 1
+U2 41
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-6596
+EI 1422-0067
+J9 INT J MOL SCI
+JI Int. J. Mol. Sci.
+PD JAN
+PY 2017
+VL 18
+IS 1
+AR 142
+DI 10.3390/ijms18010142
+PG 16
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA EJ2HL
+UT WOS:000393030600140
+PM 28085117
+OA Green Submitted, Green Published, gold
+DA 2024-03-20
+ER
+
+EF

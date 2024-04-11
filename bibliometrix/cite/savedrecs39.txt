@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tian, SN
+   Yan, H
+   Meng, ZY
+   Jia, M
+   Sun, W
+   Huang, SR
+   Wang, Y
+   Zhou, ZQ
+   Diao, JL
+   Zhu, WT
+AF Tian, Sinuo
+   Yan, Hang
+   Meng, Zhiyuan
+   Jia, Ming
+   Sun, Wei
+   Huang, Shiran
+   Wang, Yu
+   Zhou, Zhiqiang
+   Diao, Jinling
+   Zhu, Wentao
+TI Prothioconazole and prothioconazole-desthio induced different
+   hepatotoxicities via interfering with glycolipid metabolism in mice
+SO PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Article
+DE Liver; Metabolomic modulations; PCR array; Prothioconazole;
+   Prothioconazole-desthio
+ID FATTY LIVER; TISSUE DISTRIBUTION; EXPOSURE; TOXICOKINETICS; OBESITY;
+   CELL
+AB Prothioconazole (PTA), a new triazole fungicide, has been widely used worldwide. A recent study has confirmed that PTA and its main metabolite prothioconazole-desthio (dPTA) interfere with the liver metabolism in reptiles. However, little is known about liver toxicity of these two pollutants in mammals. Here, female mice were orally exposed to PTA (1.5 mg/kg body weight/day) and dPTA (1.5 mg/kg body weight/day) for 30 days. Additionally, growth phenotype and indexes related to serum and liver function were examined. Using metabolomics and gene expression analysis, PTA- and dPTA-induced hepatotoxicity was studied to clarify its potential underlying mechanism of action. Together, the results indicated that PTA and dPTA exposure caused changes in growth phenotypes, including elevated blood glucose levels, triglyceride accumulation, and damage of liver function. Additionally, exposure to PTA and dPTA caused changes in genes and metabolites related to glycolipid metabolism in female mice, thereby interfering with the pyruvate metabolism and glycolysis/gluconeogenesis pathways, ultimately leading to hepatic metabolism disorders. In particular, the effect of dPTA on hepatotoxicity has been proven to be more significant than that of PTA. Thus, these findings help us understand the underlying mechanism of action of PTA and dPTA exposure-induced hepatotoxicity in mammals and possibly humans.
+C1 [Tian, Sinuo; Meng, Zhiyuan; Jia, Ming; Sun, Wei; Huang, Shiran; Wang, Yu; Zhou, Zhiqiang; Diao, Jinling; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Yan, Hang] Hebei Univ Chinese Med, Sch Basic Med, Shijiazhuang 050200, Hebei, Peoples R China.
+   [Meng, Zhiyuan] Yangzhou Univ, Sch Hort & Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+C3 China Agricultural University; Hebei University of Chinese Medicine;
+   Yangzhou University
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Zhou, Zhiqiang/HIR-4954-2022; Meng,
+   Zhiyuan/AFU-9894-2022; zhou, zhou/HPE-9525-2023
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; 
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge financial support from the National Key
+   Research and Development Program of China (2016YFD0200202) and the 2115
+   Talent Development Program of China Agricultural University.
+NR 46
+TC 13
+Z9 13
+U1 10
+U2 75
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0048-3575
+EI 1095-9939
+J9 PESTIC BIOCHEM PHYS
+JI Pest. Biochem. Physiol.
+PD JAN
+PY 2022
+VL 180
+AR 104983
+DI 10.1016/j.pestbp.2021.104983
+EA DEC 2021
+PG 9
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA XX0DP
+UT WOS:000735978300007
+PM 34955176
+DA 2024-03-20
+ER
+
+EF

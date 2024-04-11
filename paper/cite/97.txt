@@ -1,0 +1,53 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tang, M
+   Guo, JY
+   Shen, Z
+AF Tang, Man
+   Guo, Junying
+   Shen, Zhen
+TI Rapid detection of carbendazim residue in tea by machine learning
+   assisted electrochemical sensor
+SO JOURNAL OF FOOD MEASUREMENT AND CHARACTERIZATION
+LA English
+DT Article
+DE Machine learning; Electrochemical sensor; Carbendazim; Tea; Food safety;
+   Pesticide residue; CuO/rGO/NPAN electrode; Selectivity; Sensitivity;
+   Rapid detection
+ID PESTICIDE-RESIDUES; N-PHENYLGLYCINE; QUALITY; NANOCOMPOSITES
+AB The presence of pesticide residues in agricultural products, such as tea, poses significant health risks to consumers and has become a major concern for the food industry. Carbendazim, a widely used fungicide, has been identified as one of the harmful contaminants in tea. Rapid and accurate detection of carbendazim residues is therefore essential for ensuring food safety and quality. In this study, we propose a novel machine learning-assisted electrochemical sensor based on a CuO/reduced graphene oxide (rGO)/poly N-phenylglycine (NPAN) composite electrode for the rapid detection of carbendazim residues in tea. The CuO/rGO/NPAN electrode offers enhanced selectivity and sensitivity, enabling reliable detection of carbendazim even in the presence of other pesticides. By systematically evaluating various machine learning models and preprocessing techniques, we optimize the sensor's performance and achieve accurate classification and identification of carbendazim residues. Our research contributes to the field of food safety assessment by introducing a novel electrode design and demonstrating the effectiveness of machine learning-assisted electrochemical sensors for the detection of carbendazim residues in tea.
+C1 [Tang, Man; Guo, Junying; Shen, Zhen] Nanyang Inst Technol, Sch Comp & Software, Nanyang 473000, Peoples R China.
+C3 Nanyang Institute of Technology
+RP Shen, Z (corresponding author), Nanyang Inst Technol, Sch Comp & Software, Nanyang 473000, Peoples R China.
+EM 1nytman2022@163.com
+NR 34
+TC 2
+Z9 2
+U1 23
+U2 23
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 2193-4126
+EI 2193-4134
+J9 J FOOD MEAS CHARACT
+JI J. Food Meas. Charact.
+PD DEC
+PY 2023
+VL 17
+IS 6
+BP 6363
+EP 6369
+DI 10.1007/s11694-023-02112-2
+EA SEP 2023
+PG 7
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA LI9C1
+UT WOS:001074217200001
+DA 2024-04-07
+ER
+
+EF

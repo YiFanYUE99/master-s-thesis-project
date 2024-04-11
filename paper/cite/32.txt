@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Benigni, R
+   de Knecht, J
+AF Benigni, Romualdo
+   de Knecht, Joop
+TI The future of the QSAR Toolbox: Moving to less uncertainty in predictive
+   toxicology
+SO TOXICOLOGY LETTERS
+LA English
+DT Meeting Abstract
+CT 50th Congress of the European-Societies-of-Toxicology
+CY SEP 07-10, 2014
+CL Edinburgh, SCOTLAND
+SP European Soc Toxicol, British Toxicol Soc, Soc Toxicol
+C1 [Benigni, Romualdo; de Knecht, Joop] OECD, Paris, France.
+C3 Organisation for Economic Co-operation & Development (OECD)
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 17
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-4274
+EI 1879-3169
+J9 TOXICOL LETT
+JI Toxicol. Lett.
+PD SEP 10
+PY 2014
+VL 229
+SU S
+MA PS3.1-O1
+BP S7
+EP S7
+DI 10.1016/j.toxlet.2014.06.051
+PG 1
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Toxicology
+GA AO2FY
+UT WOS:000341134000019
+DA 2024-04-01
+ER
+
+EF

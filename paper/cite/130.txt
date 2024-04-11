@@ -1,0 +1,89 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mesnage, R
+   Bowyer, RCE
+   El Balkhi, S
+   Saint-Marcoux, F
+   Gardere, A
+   Ducarmon, QR
+   Geelen, AR
+   Zwittink, RD
+   Tsoukalas, D
+   Sarandi, E
+   Paramera, EI
+   Spector, T
+   Steves, CJ
+   Antoniou, MN
+AF Mesnage, Robin
+   Bowyer, Ruth C. E.
+   El Balkhi, Souleiman
+   Saint-Marcoux, Franck
+   Gardere, Arnaud
+   Ducarmon, Quinten Raymond
+   Geelen, Anoecim Robecca
+   Zwittink, Romy Danielle
+   Tsoukalas, Dimitris
+   Sarandi, Evangelia
+   Paramera, Efstathia, I
+   Spector, Timothy
+   Steves, Claire J.
+   Antoniou, Michael N.
+TI Impacts of dietary exposure to pesticides on faecal microbiome
+   metabolism in adult twins
+SO ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE Pesticides; Biomonitoring; Gut microbiota; Dietary habits; Food intake
+ID ORGANIC-ACIDS; CHILDREN; CHLORPYRIFOS; METAGENOMICS; PATHWAYS
+AB Background Dietary habits have a profound influence on the metabolic activity of gut microorganisms and their influence on health. Concerns have been raised as to whether the consumption of foodstuffs contaminated with pesticides can contribute to the development of chronic disease by affecting the gut microbiome. We performed the first pesticide biomonitoring survey of the British population, and subsequently used the results to perform the first pesticide association study on gut microbiome composition and function from the TwinsUK registry. Methods Dietary exposure of 186 common insecticide, herbicide, or fungicide residues and the faecal microbiome in 65 twin pairs in the UK was investigated. We evaluated if dietary habits, geographic location, or the rural/urban environment, are associated with the excretion of pesticide residues. The composition and metabolic activity of faecal microbiota was evaluated using shotgun metagenomics and metabolomics respectively. We performed a targeted urine metabolomics analysis in order to evaluate whether pesticide urinary excretion was also associated with physiological changes. Results Pyrethroid and/or organophosphorus insecticide residues were found in all urine samples, while the herbicide glyphosate was found in 53% of individuals. Food frequency questionnaires showed that residues from organophosphates were higher with increased consumption of fruit and vegetables. A total of 34 associations between pesticide residue concentrations and faecal metabolite concentrations were detected. Glyphosate excretion was positively associated with an overall increased bacterial species richness, as well as to fatty acid metabolites and phosphate levels. The insecticide metabolite Br2CA, reflecting deltamethrin exposure, was positively associated with the phytoestrogens enterodiol and enterolactone, and negatively associated with some N-methyl amino acids. Urine metabolomics performed on a subset of samples did not reveal associations with the excretion of pesticide residues. Conclusions The consumption of conventionally grown fruit and vegetables leads to higher ingestion of pesticides with unknown long-term health consequences. Our results highlight the need for future dietary intervention studies to understand effects of pesticide exposure on the gut microbiome and possible health consequences.
+C1 [Mesnage, Robin; Antoniou, Michael N.] Kings Coll London, Guys Hosp, Fac Life Sci & Med, Dept Med & Mol Genet,Gene Express & Therapy Grp, London SE1 9RT, England.
+   [Bowyer, Ruth C. E.; Spector, Timothy; Steves, Claire J.] Kings Coll London, Dept Twin Res & Genet Epidemiol, London, England.
+   [El Balkhi, Souleiman; Saint-Marcoux, Franck; Gardere, Arnaud] CHU Limoges, Serv Pharmacol Toxicol & Pharmacovigilance, UF Toxicol Analyt Environm & Sante Travail, Limoges, France.
+   [Ducarmon, Quinten Raymond; Geelen, Anoecim Robecca; Zwittink, Romy Danielle] Leiden Univ, Med Ctr, Ctr Microbiome Anal & Therapeut, Leiden, Netherlands.
+   [Tsoukalas, Dimitris; Sarandi, Evangelia] Metabol Med Clin, Hlth Clin Autoimmune & Chron Dis, Athens 10674, Greece.
+   [Paramera, Efstathia, I] NEOLAB SA, Med Lab, 125 Michalakopoulu Str, Athens 11527, Greece.
+C3 University of London; King's College London; Guy's & St Thomas' NHS
+   Foundation Trust; University of London; King's College London; CHU
+   Limoges; Leiden University; Leiden University Medical Center (LUMC);
+   Leiden University - Excl LUMC
+RP Antoniou, MN (corresponding author), Kings Coll London, Guys Hosp, Fac Life Sci & Med, Dept Med & Mol Genet,Gene Express & Therapy Grp, London SE1 9RT, England.
+EM michael.antoniou@kcl.ac.uk
+RI Ducarmon, Quinten/GOH-2862-2022; Sarandi, Evangelia/IWE-3338-2023;
+   TSOUKALAS, DIMITRIS/JNS-3199-2023; Zwittink, Romy D/Y-5653-2018
+OI Sarandi, Evangelia/0000-0003-3058-429X; TSOUKALAS,
+   DIMITRIS/0000-0001-6885-6209; Bowyer, Ruth/0000-0002-6941-8160;
+   Ducarmon, Quinten/0000-0001-7077-2127
+FU Sustainable Food Alliance (USA)
+FX This work was funded by the Sustainable Food Alliance (USA) whose
+   support is gratefully acknowledged.
+NR 80
+TC 14
+Z9 14
+U1 2
+U2 24
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1476-069X
+J9 ENVIRON HEALTH-GLOB
+JI Environ. Health
+PD MAY 3
+PY 2022
+VL 21
+IS 1
+AR 46
+DI 10.1186/s12940-022-00860-0
+PG 14
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 0X6RN
+UT WOS:000789831100001
+PM 35501856
+OA Green Published, gold, Green Submitted
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,53 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, Sen
+   Meng, Zhi-yuan
+   Zhu, Wen-tao
+   Zhou, Zhi-qiang
+TI Application of metabolomics in pesticide environmental toxicology.
+SO Chinese Journal of Pesticide Science
+VL 21
+IS Z1
+PS 815-822
+PY 2019
+U1 0
+U2 6
+AB Pesticides are widely used worldwide, but their toxic effects pose a
+   serious threat to humans and non-target organisms in the environment.
+   The traditional evaluation methods have limited observation indicators,
+   low evaluation efficiency, and insufficient sensitivity, which cannot
+   fully meet the current evaluation needs. As a new research method,
+   metabolomics studies the metabolic activities and states of living
+   organisms from the overall level. It has the advantages of comprehensive
+   evaluation, high evaluation efficiency and high sensitivity. It has been
+   widely used in the study of pesticide environmental toxicology. This
+   paper reviews the progress of metabolomics research and its application
+   in pesticide environmental toxicology.
+UT CABI:20219804333
+DT Journal article
+LA Chinese
+C1 College of Science, China Agricultural University, China
+   College of Science, China Agricultural University, China
+   College of Science, China Agricultural University, China
+   College of Science, China Agricultural University, China
+PU Editorial Office of Chinese Journal of Pesticide Science
+PI Beijing, China
+SC Chemistry; Environmental Sciences & Ecology; Toxicology (provided by
+   Clarivate Analytics)
+SN 1008-7303
+CC HH400Pesticides and Drugs (General); VV810Human Toxicology and Poisoning
+   (NEW March 2000)
+DE application; evaluation; functional genomics; indicators; metabolomics;
+   nontarget organisms; pesticides; reviews; toxicity; toxicology
+OR man
+BD Homo; Hominidae; primates; mammals; vertebrates; Chordata; animals;
+   eukaryotes
+UR https://eng.oversea.cnki.net/kcms/detail/detail.aspx?dbCode=cjfd&QueryID=9&CurRe
+UR https://eng.oversea.cnki.net/kcms/detail/detail.aspx?dbCode=cjfd&QueryID=9&CurRe
+UR https://eng.oversea.cnki.net/kcms/detail/detail.aspx?dbCode=cjfd&QueryID=9&CurRe
+UR https://eng.oversea.cnki.net/kcms/detail/detail.aspx?dbCode=cjfd&QueryID=9&CurRe
+DA 2024-04-07
+ER
+
+EF

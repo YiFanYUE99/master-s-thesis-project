@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Riquelme, G
+   Zabalegui, N
+   Marchi, P
+   Jones, CM
+   Monge, ME
+AF Riquelme, Gabriel
+   Zabalegui, Nicolas
+   Marchi, Pablo
+   Jones, Christina M.
+   Monge, Maria Eugenia
+TI A Python-Based Pipeline for Preprocessing LC-MS Data for Untargeted
+   Metabolomics Workflows
+SO METABOLITES
+LA English
+DT Article
+DE data cleaning; preprocessing; Python; untargeted metabolomics; reference
+   materials; data curation; system suitability; signal drift; quality
+   control
+ID MINIMUM REPORTING STANDARDS; MASS-SPECTROMETRY DATA; PLATFORM
+AB Preprocessing data in a reproducible and robust way is one of the current challenges in untargeted metabolomics workflows. Data curation in liquid chromatography-mass spectrometry (LC-MS) involves the removal of biologically non-relevant features (retention time, m/z pairs) to retain only high-quality data for subsequent analysis and interpretation. The present work introduces TidyMS, a package for the Python programming language for preprocessing LC-MS data for quality control (QC) procedures in untargeted metabolomics workflows. It is a versatile strategy that can be customized or fit for purpose according to the specific metabolomics application. It allows performing quality control procedures to ensure accuracy and reliability in LC-MS measurements, and it allows preprocessing metabolomics data to obtain cleaned matrices for subsequent statistical analysis. The capabilities of the package are shown with pipelines for an LC-MS system suitability check, system conditioning, signal drift evaluation, and data curation. These applications were implemented to preprocess data corresponding to a new suite of candidate plasma reference materials developed by the National Institute of Standards and Technology (NIST; hypertriglyceridemic, diabetic, and African-American plasma pools) to be used in untargeted metabolomics studies in addition to NIST SRM 1950 Metabolites in Frozen Human Plasma. The package offers a rapid and reproducible workflow that can be used in an automated or semi-automated fashion, and it is an open and free tool available to all users.
+C1 [Riquelme, Gabriel; Zabalegui, Nicolas; Monge, Maria Eugenia] Consejo Nacl Invest Cient & Tecn CONICET, Ctr Invest Bionanociencias CIBION, Godoy Cruz 2390,C1425FQD, Buenos Aires, DF, Argentina.
+   [Riquelme, Gabriel; Zabalegui, Nicolas] Univ Buenos Aires, Dept Quim Inorgan Analit & Quim Fis, Fac Ciencias Exactas & Nat, Ciudad Univ,C1428EGA, Buenos Aires, DF, Argentina.
+   [Marchi, Pablo] Univ Buenos Aires, Fac Ingn, Paseo Colon 850,C1063ACV, Buenos Aires, DF, Argentina.
+   [Jones, Christina M.] NIST, Mat Measurement Lab, Gaithersburg, MD 20899 USA.
+C3 Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);
+   University of Buenos Aires; University of Buenos Aires; National
+   Institute of Standards & Technology (NIST) - USA
+RP Monge, ME (corresponding author), Consejo Nacl Invest Cient & Tecn CONICET, Ctr Invest Bionanociencias CIBION, Godoy Cruz 2390,C1425FQD, Buenos Aires, DF, Argentina.
+EM gabriel.riquelme@cibion.conicet.gov.ar;
+   nicolas.zabalegui@cibion.conicet.gov.ar; pmarchi@fi.uba.ar;
+   christina.jones@nist.gov; maria.monge@cibion.conicet.gov.ar
+OI Zabalegui, Nicolas/0000-0003-4151-8984; Monge,
+   Maria/0000-0001-6517-5301; Riquelme, Gabriel/0000-0002-1606-9462
+FU CONICET (Consejo Nacional de Investigaciones Cientificas y Tecnicas,
+   Argentina) [PUE 055]; National Agency of Scientific and Technological
+   Promotion [PRH-PICT-2015-0022, PICT-2018-02137]
+FX This research received partial funding from the CONICET (Consejo
+   Nacional de Investigaciones Cientificas y Tecnicas, Argentina, PUE 055
+   project) and the National Agency of Scientific and Technological
+   Promotion (PRH-PICT-2015-0022 and PICT-2018-02137 projects).
+NR 39
+TC 17
+Z9 18
+U1 1
+U2 32
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD OCT
+PY 2020
+VL 10
+IS 10
+AR 416
+DI 10.3390/metabo10100416
+PG 14
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA OL3CX
+UT WOS:000585219600001
+PM 33081373
+OA gold, Green Published
+DA 2024-04-08
+ER
+
+EF

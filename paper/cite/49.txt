@@ -1,0 +1,65 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Szatkowska-Wandas, P
+   Koba, M
+   Kuchcicka, A
+   Kurek, S
+   Daghir-Wojtkowiak, E
+   Baczek, T
+AF Szatkowska-Wandas, Paulina
+   Koba, Marcin
+   Kuchcicka, Agata
+   Kurek, Sylwia
+   Daghir-Wojtkowiak, Emilia
+   Baczek, Tomasz
+TI The Application of Connected QSRR and QSAR Strategies to Predict the
+   Physicochemical Interaction of Acridinone Derivatives with DNA
+SO COMBINATORIAL CHEMISTRY & HIGH THROUGHPUT SCREENING
+LA English
+DT Article
+DE Acridinones; antitumor activity; physicochemical binding to DNA; QSAR
+   (Quantitative Structure Activity Relationship); QSRR (Quantitative
+   Structure Retention Relationship)
+ID PERFORMANCE LIQUID-CHROMATOGRAPHY; ANTITUMOR; RETENTION; CLASSIFICATION;
+   LIPOPHILICITY; C-1305
+AB Acridinone derivatives as imidazoacridinones and triazoloacridinones are the new potent antitumor agents characterized by different mechanisms of action related to their ability to interact with DNA. The analysis undertaken in this study involves searching of QSAR (Quantitative Structure- Activity Relationship) and QSRR (Quantitative Structure-Retention Relationship) models, which would allow to predict the biological activity of acridinones expressed as the ability to stabilize the secondary structure of DNA (Delta T), based on their structural parameters and chromatographic retention data. For this purpose, 20 acridinone derivatives were subjected to chromatographic analyses and molecular modeling, followed by statistical analyses using multiple linear regression method (MLR). As a novelty aspect, except for RP- HPLC approach, hydrophilic interaction chromatography (HILIC) columns were tested. As a result of performed analysis, appropriate QSAR and QSRR models were obtained, and each model was analyzed in terms of prediction of acridinones' ability to interact with DNA. Derived QSAR and QSRR models were characterized as one, with good prediction performance. Conclusively, the proposed connected QSAR and QSRR strategies allow to predict in silico the ability of acridinones to interact with DNA without the necessity of performing any biological experiments under in vitro and in vivo conditions.
+C1 [Szatkowska-Wandas, Paulina; Koba, Marcin; Kuchcicka, Agata; Kurek, Sylwia; Daghir-Wojtkowiak, Emilia] Nicolaus Copernicus Univ, Coll Med, Fac Pharm, Dept Toxicol, PL-85094 Bydgoszcz, Poland.
+   [Baczek, Tomasz] Med Univ Gdansk, Fac Pharm, Dept Pharmaceut Chem, PL-80416 Gdansk, Poland.
+C3 Nicolaus Copernicus University; Fahrenheit Universities; Medical
+   University Gdansk
+RP Koba, M (corresponding author), Nicolaus Copernicus Univ, Coll Med, Fac Pharm, Dept Toxicol, Dr A Jurasza 2, PL-85094 Bydgoszcz, Poland.
+EM kobamar@cm.umk.pl
+RI Baczek, Tomasz/K-6467-2018; Szatkowska-Wandas, Paulina/H-6740-2014;
+   Koba, Marcin/D-4276-2014
+OI Baczek, Tomasz/0000-0001-6468-1974; Koba, Marcin/0000-0003-0623-1443
+NR 16
+TC 3
+Z9 3
+U1 0
+U2 11
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1386-2073
+EI 1875-5402
+J9 COMB CHEM HIGH T SCR
+JI Comb. Chem. High Throughput Screen
+PY 2014
+VL 17
+IS 10
+BP 820
+EP 826
+PG 7
+WC Biochemical Research Methods; Chemistry, Applied; Pharmacology &
+   Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry; Pharmacology & Pharmacy
+GA AY8BL
+UT WOS:000347779300002
+PM 25387726
+DA 2024-04-02
+ER
+
+EF

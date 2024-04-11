@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mauri, A
+   Consonni, V
+   Pavan, M
+   Todeschini, R
+AF Mauri, Andrea
+   Consonni, Viviana
+   Pavan, Manuela
+   Todeschini, Roberto
+TI Dragon software: An easy approach to molecular descriptor calculations
+SO MATCH-COMMUNICATIONS IN MATHEMATICAL AND IN COMPUTER CHEMISTRY
+LA English
+DT Article
+AB Due to the relevance that molecular descriptors are constantly gaining in several scientific fields, software for the calculation of molecular descriptors have become very important tools for the scientists. In this paper, the main characteristics of DRAGON software for the calculation of molecular descriptors are shortly illustrated.
+C1 Univ Milan, Dept Environm Sci, Milano Chemometr & QSAR Res Grp, I-20126 Milan, Italy.
+C3 University of Milan
+RP Mauri, A (corresponding author), Univ Milan, Dept Environm Sci, Milano Chemometr & QSAR Res Grp, Pza Sci 1, I-20126 Milan, Italy.
+RI Todeschini, Roberto/B-5868-2014; Mauri, Andrea/AAZ-5953-2021
+OI Todeschini, Roberto/0000-0002-6454-4192; Mauri,
+   Andrea/0000-0002-1966-4347; Consonni, Viviana/0000-0001-6252-9805
+NR 5
+TC 466
+Z9 505
+U1 2
+U2 69
+PU UNIV KRAGUJEVAC, FACULTY  SCIENCE
+PI KRAGUJEVAC
+PA PO BOX 60, KRAGUJEVAC 34000, YUGOSLAVIA
+SN 0340-6253
+J9 MATCH-COMMUN MATH CO
+JI Match-Commun. Math. Cmput. Chem.
+PY 2006
+VL 56
+IS 2
+BP 237
+EP 248
+PG 12
+WC Chemistry, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications; Mathematics, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science; Mathematics
+GA 115HL
+UT WOS:000242725300001
+DA 2024-04-01
+ER
+
+EF

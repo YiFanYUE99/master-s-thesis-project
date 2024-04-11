@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shen, YK
+   Zhao, ER
+   Zhang, W
+   Baccarelli, AA
+   Gao, F
+AF Shen, Yike
+   Zhao, Ercheng
+   Zhang, Wei
+   Baccarelli, Andrea A.
+   Gao, Feng
+TI Predicting pesticide dissipation half-life intervals in plants with
+   machine learning models
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Machine Learning; Pesticide; Dissipation half-life; Extended
+   connectivity fingerprints; Molecular structure; Gradient boosting
+   regression tree
+ID MICROBIAL-DEGRADATION; LIVES; EXPOSURE; RESIDUES; RISK; FATE
+AB Pesticide dissipation half-life in plants is an important factor to assessing environmental fate of pesticides and establishing pre-harvest intervals critical to good agriculture practices. However, empirically measured pesticide dissipation half-lives are highly variable and the accurate prediction with models is challenging. This study utilized a dataset of pesticide dissipation half-lives containing 1363 datapoints, 311 pesticides, 10 plant types, and 4 plant component classes. Novel dissipation half-life intervals were proposed and predicted to account for high variations in empirical data. Four machine learning models (i.e., gradient boosting regression tree [GBRT], random forest [RF], supporting vector classifier [SVC], and logistic regression [LR]) were developed to predict dissipation half-life intervals using extended connectivity fingerprints (ECFP), temperature, plant type, and plant component class as model inputs. GBRT-ECFP had the best model performance with F1-microbinary score of 0.698 +/- 0.010 for the binary classification compared with other machine learning models (e.g., LR-ECFP, F1-micro binary= 0.662 +/- 0.009). Feature importance analysis of molecular structures in the binary classification identified aromatic rings, carbonyl group, organophosphate, =C-H, and N-containing heterocyclic groups as important substructures related to pesticide dissipation half-lives. This study suggests the utility of machine learning models in assessing the environmental fate of pesticides in agricultural crops.
+C1 [Shen, Yike; Baccarelli, Andrea A.; Gao, Feng] Columbia Univ, Mailman Sch Publ Hlth, Dept Environm Hlth Sci, New York, NY 10032 USA.
+   [Zhao, Ercheng] Inst Plant Protect, Beijing Acad Agr & Forestry Sci, Beijing 100097, Peoples R China.
+   [Zhang, Wei] Michigan State Univ, Dept Plant Soil & Microbial Sci, E Lansing, MI 48823 USA.
+   [Zhang, Wei] Michigan State Univ, 1066 Bogue ST RM A516, E Lansing, MI 48824 USA.
+   [Gao, Feng] Columbia Univ Mailman Sch Publ Hlth, Dept Environm Hlth Sci, 630 W168th St Room 16-416, New York, NY 10032 USA.
+C3 Columbia University; Beijing Academy of Agriculture & Forestry Sciences
+   (BAAFS); Michigan State University; Michigan State University; Columbia
+   University
+RP Zhang, W (corresponding author), Michigan State Univ, 1066 Bogue ST RM A516, E Lansing, MI 48824 USA.; Gao, F (corresponding author), Columbia Univ Mailman Sch Publ Hlth, Dept Environm Hlth Sci, 630 W168th St Room 16-416, New York, NY 10032 USA.
+EM weizhang@msu.edu; fg2539@cumc.columbia.edu
+RI Zhang, Wei/B-4219-2011; Shen, Yike/AGA-5203-2022
+OI Zhang, Wei/0000-0002-2937-1732; Gao, Feng/0000-0002-1641-2101; Shen,
+   Yike/0000-0001-8480-8258
+FU National Institute of Environmental Health Sciences, United States
+   [R35ES031688, P30ES009089]; Hatch Act Formula Grant from USDA National
+   Institute of Food and Agriculture, United States [1012794, 1021038];
+   National Natural Science Foundation of China, China (NSFC) [31301694]
+FX The work was supported by grants R35ES031688 and P30ES009089 from
+   National Institute of Environmental Health Sciences, United States (to
+   AAB, primary) , the Hatch Act Formula Grant (1012794; 1021038) from USDA
+   National Institute of Food and Agriculture, United States (to WZ) , and
+   the National Natural Science Foundation of China, China (NSFC, No.
+   31301694) (to EZ) . Graphic abstract was created with Bio-Render.com .
+NR 68
+TC 15
+Z9 15
+U1 18
+U2 67
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD AUG 15
+PY 2022
+VL 436
+AR 129177
+DI 10.1016/j.jhazmat.2022.129177
+EA MAY 2022
+PG 8
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA 1X2UU
+UT WOS:000807315800004
+PM 35643003
+OA hybrid
+DA 2024-04-07
+ER
+
+EF

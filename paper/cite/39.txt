@@ -1,0 +1,57 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ciura, K
+AF Ciura, Krzesimir
+TI Modeling of small molecule's affinity to phospholipids using IAM-HPLC
+   and QSRR approach enhanced by similarity-based machine algorithms
+SO JOURNAL OF CHROMATOGRAPHY A
+LA English
+DT Article
+DE Immobilized artificial membrane; chromatography; Quantitative
+   structure-retention relationships; Similarity-based machine learning;
+   QSRR
+ID ARTIFICIAL MEMBRANE CHROMATOGRAPHY; STRUCTURE-RETENTION RELATIONSHIPS;
+   BLOOD-BRAIN-BARRIER; HUMAN SERUM-ALBUMIN; LIQUID-CHROMATOGRAPHY;
+   BIOMIMETIC PROPERTIES; STATIONARY PHASES; PREDICTION; INDEXES; DRUGS
+AB Immobilized artificial membrane chromatography (IAM) has been proposed as a more biosimilar alternative to classical lipophilicity measurement. Determination of small molecule's affinity to phospholipids can be supported for predicting their behavior in the human body. Therefore, a better understanding of the molecular interaction mechanism between small xenobiotics and phospholipids can accelerate drug discovery. Here, the quantitative structure-retention relationships (QSRR) approach was integrated with mechanistic descriptors calculated using Chemicalize software to propose an easy-to-interpretation QSRR model. Considering the heterogeneous character of the data set, locally weighted least squares kernel regression belonging to similaritybased machine learning methods have been applied. The results showed that lipophilicity, charge, and maximum projection area determine molecule binding to phospholipids. Full validation of the obtained model based on OECD recommendations has been performed and the applicability domain was defined using the probability-oriented distance-based approach. The high values of predictive squared correlation coefficient (Q2), and small root mean square error of prediction (RMSEP), 0.812 and 6.739, respectively, confirmed that the obtained QSRR model is not well-fitted to the training data but also showed prediction power. Additionally, only 1.5% of molecules from the training set and 2.8% from the validation test are outside the applicability domain, confirming great predictive abilities.
+C1 [Ciura, Krzesimir] Med Univ Gdansk, Fac Pharm, Dept Phys Chem, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+   [Ciura, Krzesimir] QSAR Lab Ltd, Trzy Lipy 3St, PL-80172 Gdansk, Poland.
+C3 Fahrenheit Universities; Medical University Gdansk
+RP Ciura, K (corresponding author), Med Univ Gdansk, Fac Pharm, Dept Phys Chem, Al Gen J Hallera 107, PL-80416 Gdansk, Poland.
+EM krzesimir.ciura@gumed.edu.pl
+FU National Science Centre of Poland [2022/47/D/NZ7/01043]
+FX This research was funded by the National Science Centre of Poland (grant
+   number 2022/47/D/NZ7/01043) . I also thank Prof. Paola Gra-matica for
+   free academic licenses for the use of QSARINS software. Additionally, I
+   would thank Karol & Lstrok;ubniewski for technical support in
+   Chemicalize descriptors calculation.
+NR 49
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0021-9673
+EI 1873-3778
+J9 J CHROMATOGR A
+JI J. Chromatogr. A
+PD JAN 11
+PY 2024
+VL 1714
+AR 464549
+DI 10.1016/j.chroma.2023.464549
+EA DEC 2023
+PG 8
+WC Biochemical Research Methods; Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA DO0N2
+UT WOS:001132874500001
+PM 38056392
+DA 2024-04-01
+ER
+
+EF

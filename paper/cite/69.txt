@@ -1,0 +1,109 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, LL
+   Ma, CC
+   Wei, DD
+   Wang, M
+   Xu, QQ
+   Wang, J
+   Song, Y
+   Huo, WQ
+   Jing, T
+   Wang, CJ
+   Mao, ZX
+AF Wang, Lulu
+   Ma, Cuicui
+   Wei, Dandan
+   Wang, Mian
+   Xu, Qingqing
+   Wang, Juan
+   Song, Yu
+   Huo, Wenqian
+   Jing, Tao
+   Wang, Chongjian
+   Mao, Zhenxing
+TI Health risks of neonicotinoids chronic exposure and its association with
+   glucose metabolism: A case-control study in rural China*
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Plasma neonicotinoids; Type 2 diabetes mellitus; Impaired fasting
+   glucose; Testosterone; A case -control study
+ID INSULIN-RESISTANCE; OXIDATIVE STRESS; ANTIOXIDANT ENZYMES;
+   DIABETES-MELLITUS; LOW TESTOSTERONE; SEX-HORMONES; FEMALE RATS; TYPE-2;
+   TOXICITY; MEN
+AB Since neonicotinoids (NNIs) are widely used around the world, they are extensively distributed in the environment and frequently occurred in humans. This study was conducted to assess the risk of NNIs residues in vegetables and fruits in Henan province, and evaluate the associations of NNIs single and mixed exposure with glucose metabolism, and further explore whether testosterone mediated these relationships in Henan rural population. The data of vegetables and fruits were collected from Henan Province in 2020-2021, and participants were drawn from the Henan Rural Cohort study. Hazard quotient (HQ) and hazard index (HI) were used to assess the risk of exposure to the individual and combined NNIs through vegetables or fruits intake. Relative potency factor (RPF) method was utilized to normalize each NNIs to imidacloprid (IMIRPF). Generalized linear models were used to explore the effects of each NNIs and IMIRPF on glucose metabolism. Weight quartile sum (WQS) regression and Bayesian kernel machine regression (BKMR) model were applied to estimate the effect of NNIs mixtures on glucose metabolism. Mediation analysis was employed to explore whether testosterone mediated these relationships. The HQs and HI in both vegetables and fruits were much lower than 1, which indicated that NNIs in vegetables and fruits were not expected to cause significant adverse effects. However, plasma natural logarithm nitenpyram (Ln_NIT), Ln_thiacloprid-amid (Ln_THD-A), and Ln_IMIeq were positively associated with type 2 diabetes mellitus (T2DM) (odds ratio (OR) (95% confidence interval (CI)): 1.12 (1.05, 1.19), 1.21 (1.10, 1.32), and 1.48 (1.22, 1.80)). Both WQS regression and BKMR models observed significantly positive associations between NNIs mixture exposure and T2DM. Testosterone partially mediated these associations among women (PE = 6.67%). These findings suggest that human NNIs exposure may impair glucose metabolism and could contribute to rising rates of T2DM, and it's necessary to regulate the use of pesticides in rural areas.
+C1 [Wang, Lulu; Ma, Cuicui; Wei, Dandan; Xu, Qingqing; Wang, Juan; Wang, Chongjian; Mao, Zhenxing] Zhengzhou Univ, Coll Publ Hlth, Dept Epidemiol & Biostat, Zhengzhou, Henan, Peoples R China.
+   [Wang, Mian; Song, Yu; Huo, Wenqian] Zhengzhou Univ, Coll Publ Hlth, Dept Occupat & Environm Hlth Sci, Zhengzhou, Henan, Peoples R China.
+   [Jing, Tao] Huazhong Univ Sci & Technol, Tongji Med Coll, Sch Publ Hlth, Wuhan, Hubei, Peoples R China.
+   [Mao, Zhenxing] Zhengzhou Univ, Biostat Coll Publ Hlth, Dept Epidemiol, 100 Kexue Ave, Zhengzhou 450001, Henan, Peoples R China.
+C3 Zhengzhou University; Zhengzhou University; Huazhong University of
+   Science & Technology; Zhengzhou University
+RP Mao, ZX (corresponding author), Zhengzhou Univ, Biostat Coll Publ Hlth, Dept Epidemiol, 100 Kexue Ave, Zhengzhou 450001, Henan, Peoples R China.
+EM maozhr@gmail.com
+RI zhang, xu/JXX-7692-2024; wang, lin/HZK-4145-2023; wang,
+   mengyi/KEI-9461-2024; Wang, Chao/JHT-6081-2023; Gu, b/JNS-4761-2023;
+   liu, xingyu/JXW-9444-2024; Yang, YiChen/KEI-0140-2024; Wang,
+   Peipei/JUF-6950-2023; Lu, Jia/JVO-6891-2024; xiao, wei/KCK-6954-2024;
+   chen, yan/JRY-4645-2023; Li, Xiaoli/JVZ-4089-2024; Zhang,
+   Xiaoyu/JXR-6386-2024; zhao, yujie/JLL-1283-2023; li,
+   cheng/KCZ-0615-2024; zhang, wen/JXN-0191-2024; Li, Binxu/KDO-3273-2024;
+   zhang, xiaoyu/KEJ-0657-2024; Wang, Xuechun/JRX-6509-2023; liu,
+   kaiyuan/JHU-0258-2023; Xu, Qing/JWP-4901-2024; Zhang, Kai/KBD-3312-2024;
+   zhang, ling/JXW-6931-2024; zhang, xinyi/JWA-0980-2024; Li,
+   Yuanxiang/KCX-8706-2024; Zhang, Xiaoxi/KBP-8753-2024; wang,
+   hongyuan/JWP-2279-2024; wang, jiaqi/JSL-7112-2023; LI,
+   LIXIN/KFS-0074-2024; LEI, LEI/JTS-4675-2023; li, fang/KDO-8841-2024;
+   lin, qing/JTU-4293-2023; lei, lei/JSL-3106-2023; wang, yi/JYO-8193-2024;
+   chen, bin/KBQ-8114-2024; Jing, Tao/V-8255-2019; Yang,
+   Lili/JTT-5215-2023; Li, jiaqi/JOZ-6395-2023
+OI chen, bin/0000-0002-3398-1314; Jing, Tao/0000-0002-1755-9578; Yang,
+   Lili/0009-0008-2926-484X; Huo, Wenqian/0000-0002-7898-093X
+FU National Natural Science Foun-dation of China [42177415, 21806146];
+   Scientific and Technological Innovation of Colleges and Universities in
+   Henan Prov-ince Talent Support Program [22HASTIT044]; Post-doctoral
+   Science Foundation of China [2020T130604, 2021M702934]; Young Backbone
+   Teachers Program of Colleges and Universities in Henan Province
+   [2021GGJS015]; Science and Technique Foundation of Henan Province
+   [212102310074]; Excellent Youth Development Foundation of Zhengzhou
+   University [2021ZDGGJS057]
+FX Funding source This research was supported by the National Natural
+   Science Foun-dation of China (Grant No. 42177415, 21806146) , the
+   Scientific and Technological Innovation of Colleges and Universities in
+   Henan Prov-ince Talent Support Program (Grant No. 22HASTIT044) , the
+   Post-doctoral Science Foundation of China (Grant No.: 2020T130604,
+   2021M702934) , the Young Backbone Teachers Program of Colleges and
+   Universities in Henan Province (Grant No. 2021GGJS015) , the Science and
+   Technique Foundation of Henan Province (Grant No. 212102310074) , and
+   the Excellent Youth Development Foundation of Zhengzhou University
+   (Grant No. 2021ZDGGJS057) .
+NR 77
+TC 0
+Z9 0
+U1 23
+U2 32
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD OCT 1
+PY 2023
+VL 334
+AR 122213
+DI 10.1016/j.envpol.2023.122213
+EA JUL 2023
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA O9RY3
+UT WOS:001047129500001
+PM 37467917
+DA 2024-04-06
+ER
+
+EF

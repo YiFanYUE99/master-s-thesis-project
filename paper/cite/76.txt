@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chang, CH
+   Lin, CH
+   Lane, HY
+AF Chang, Chun-Hung
+   Lin, Chieh-Hsin
+   Lane, Hsien-Yuan
+TI Machine Learning and Novel Biomarkers for the Diagnosis of Alzheimer's
+   Disease
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+LA English
+DT Review
+DE machine learning; deep learning; AI; biomarker; Alzheimer&#8217; s
+   disease
+AB Background: Alzheimer's disease (AD) is a complex and severe neurodegenerative disease that still lacks effective methods of diagnosis. The current diagnostic methods of AD rely on cognitive tests, imaging techniques and cerebrospinal fluid (CSF) levels of amyloid-beta 1-42 (A beta 42), total tau protein and hyperphosphorylated tau (p-tau). However, the available methods are expensive and relatively invasive. Artificial intelligence techniques like machine learning tools have being increasingly used in precision diagnosis. Methods: We conducted a meta-analysis to investigate the machine learning and novel biomarkers for the diagnosis of AD. Methods: We searched PubMed, the Cochrane Central Register of Controlled Trials, and the Cochrane Database of Systematic Reviews for reviews and trials that investigated the machine learning and novel biomarkers in diagnosis of AD. Results: In additional to A beta and tau-related biomarkers, biomarkers according to other mechanisms of AD pathology have been investigated. Neuronal injury biomarker includes neurofiliament light (NFL). Biomarkers about synaptic dysfunction and/or loss includes neurogranin, BACE1, synaptotagmin, SNAP-25, GAP-43, synaptophysin. Biomarkers about neuroinflammation includes sTREM2, and YKL-40. Besides, d-glutamate is one of coagonists at the NMDARs. Several machine learning algorithms including support vector machine, logistic regression, random forest, and naive Bayes) to build an optimal predictive model to distinguish patients with AD from healthy controls. Conclusions: Our results revealed machine learning with novel biomarkers and multiple variables may increase the sensitivity and specificity in diagnosis of AD. Rapid and cost-effective HPLC for biomarkers and machine learning algorithms may assist physicians in diagnosing AD in outpatient clinics.
+C1 [Chang, Chun-Hung; Lin, Chieh-Hsin; Lane, Hsien-Yuan] China Med Univ, Inst Clin Med Sci, Taichung 40402, Taiwan.
+   [Chang, Chun-Hung; Lane, Hsien-Yuan] China Med Univ Hosp, Dept Psychiat, Taichung 40402, Taiwan.
+   [Chang, Chun-Hung; Lane, Hsien-Yuan] China Med Univ Hosp, Brain Dis Res Ctr, Taichung 40402, Taiwan.
+   [Chang, Chun-Hung] China Med Univ, An Nan Hosp, Tainan 709025, Taiwan.
+   [Lin, Chieh-Hsin; Lane, Hsien-Yuan] China Med Univ, Grad Inst Biomed Sci, Taichung 40402, Taiwan.
+   [Lin, Chieh-Hsin] Chang Gung Univ, Coll Med, Kaohsiung Chang Gung Mem Hosp, Kaohsiung 83301, Taiwan.
+   [Lin, Chieh-Hsin] Chang Gung Univ, Sch Med, Taoyuan 83301, Taiwan.
+   [Lane, Hsien-Yuan] Asia Univ, Coll Med & Hlth Sci, Dept Psychol, Taichung 41354, Taiwan.
+C3 China Medical University Taiwan; China Medical University Taiwan; China
+   Medical University Hospital - Taiwan; China Medical University Taiwan;
+   China Medical University Hospital - Taiwan; China Medical University
+   Taiwan; Chang Gung University; Chang Gung Memorial Hospital; Chang Gung
+   University; Asia University Taiwan
+RP Lin, CH; Lane, HY (corresponding author), China Med Univ, Inst Clin Med Sci, Taichung 40402, Taiwan.; Lane, HY (corresponding author), China Med Univ Hosp, Dept Psychiat, Taichung 40402, Taiwan.; Lane, HY (corresponding author), China Med Univ Hosp, Brain Dis Res Ctr, Taichung 40402, Taiwan.; Lin, CH; Lane, HY (corresponding author), China Med Univ, Grad Inst Biomed Sci, Taichung 40402, Taiwan.; Lin, CH (corresponding author), Chang Gung Univ, Coll Med, Kaohsiung Chang Gung Mem Hosp, Kaohsiung 83301, Taiwan.; Lin, CH (corresponding author), Chang Gung Univ, Sch Med, Taoyuan 83301, Taiwan.; Lane, HY (corresponding author), Asia Univ, Coll Med & Hlth Sci, Dept Psychol, Taichung 41354, Taiwan.
+EM chang763@gmail.com; cyndi36@gmail.com; hylane@gmail.com
+RI Chang, Chun-Hung/AAT-1641-2021
+OI Lane, Hsien-Yuan/0000-0003-2162-8174; Chang,
+   Chun-Hung/0000-0003-2949-5855
+FU Ministry of Science and Technology, Taiwan [MOST 107-2628-B-182A-002,
+   108-2628-B-182A-002, 109-2628-B-182A-002, 109-2314-B-039-039-MY3];
+   National Health Research Institutes [NHRI-EX109-10816NC,
+   NHRI-EX110-10816NC]; Kaohsiung Chang Gung Me-morial Hospital
+   [CMRPG8G1391, CMRPG8K1461]; China Medical University Hospital
+   [HHC-109-13]
+FX This work was supported by the Ministry of Science and Technology,
+   Taiwan (MOST 107-2628-B-182A-002; 108-2628-B-182A-002;
+   109-2628-B-182A-002; 109-2314-B-039-039-MY3), the National Health
+   Research Institutes (NHRI-EX109-10816NC; NHRI-EX110-10816NC), Kaohsiung
+   Chang Gung Me-morial Hospital (CMRPG8G1391; CMRPG8K1461), and China
+   Medical University Hospital (HHC-109-13).
+NR 64
+TC 69
+Z9 70
+U1 14
+U2 52
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1422-0067
+J9 INT J MOL SCI
+JI Int. J. Mol. Sci.
+PD MAR
+PY 2021
+VL 22
+IS 5
+AR 2761
+DI 10.3390/ijms22052761
+PG 12
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA QV9WB
+UT WOS:000628311200001
+PM 33803217
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

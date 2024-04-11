@@ -1,0 +1,77 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Sun, W
+   Liu, W
+   Wang, Y
+   Jia, M
+   Tian, SN
+   Chen, XJ
+   Zhu, WT
+   Zhou, ZQ
+AF Meng, Zhiyuan
+   Sun, Wei
+   Liu, Wan
+   Wang, Yu
+   Jia, Ming
+   Tian, Sinuo
+   Chen, Xiaojun
+   Zhu, Wentao
+   Zhou, Zhiqiang
+TI A common fungicide tebuconazole promotes colitis in mice via regulating
+   gut microbiota
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Tebuconazole; Colitis; Gut microbiota; Metabolic profile
+ID INFLAMMATORY BOWEL DISEASES; ARYL-HYDROCARBON RECEPTOR;
+   AKKERMANSIA-MUCINIPHILA; ENVIRONMENTAL-FACTORS; EXPOSURE; METABOLISM;
+   TRYPTOPHAN; DYSBIOSIS; IMPACTS
+AB As a common fungicide, tebuconazole are ubiquitous in the natural environment and poses many potential risks. In this study, we examined the effects of exposure to tebuconazole on colitis in mice and explored its underlying mechanism. Specifically, exposure to tebuconazole could cause structural damage and inflammatory cell infiltration in colon tissue, activate the expression of inflammation-related genes, disrupt the expression of barrier function-related genes, and induce the colonic inflammation in mice. Similarly, exposure to tebuconazole could also exacerbate DSS-induced colitis in mice. In addition, we found that tebuconazole also could change the composition of the gut microbiota. In particular, tebuconazole significantly increases the relative abundance of Akkermansia of mice. Moreover, tebuconazole resulted in metabolic profiles disorders of the serum, leading to significant changes in the relative contents of metabolites involving glycolipid metabolism and amino acid metabolism. Particularly, the results of the gut microbiota transplantation experiment showed that exposure to tebuconazole could induced colonic inflammation in mice in a gut microbiota-dependent manner. Taken together, these results indicated that tebuconazole could induce colitis in mice via regulating gut microbiota. Our findings strongly support the concept that the gut microbiota is a key trigger of inflammatory bowel disease caused by pesticide intake.
+C1 [Meng, Zhiyuan; Chen, Xiaojun] Yangzhou Univ, Sch Hort & Plant Protect, Dept Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Sun, Wei; Wang, Yu; Jia, Ming; Tian, Sinuo; Zhu, Wentao; Zhou, Zhiqiang] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Liu, Wan] Nanjing Univ Chinese, Dept Digest, Tradit Chinese Med Hosp Xuzhou City, Xuzhou 221003, Jiangsu, Peoples R China.
+C3 Yangzhou University; China Agricultural University
+RP Zhou, ZQ (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI LI, Xiang/JBJ-8387-2023; Meng, Zhiyuan/AFU-9894-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019; Zhou,
+   Zhiqiang/HIR-4954-2022
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; 
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge financial support from the National Key
+   Research and Development Program of China (2016YFD0200202) and the 2115
+   Talent Development Program of China Agricultural University. The authors
+   thank the members from the laboratory animal center in China Agriculture
+   University for their assistance of animal care.
+NR 47
+TC 12
+Z9 12
+U1 13
+U2 86
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD JAN 1
+PY 2022
+VL 292
+AR 118477
+DI 10.1016/j.envpol.2021.118477
+EA NOV 2021
+PN B
+PG 13
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA YJ0OY
+UT WOS:000744239800004
+PM 34763016
+DA 2024-03-20
+ER
+
+EF

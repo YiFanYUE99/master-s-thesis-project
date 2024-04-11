@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu, HR
+   Cai, CL
+   Zhang, XJ
+   Li, WK
+   Ma, ZQ
+   Feng, JT
+   Liu, XL
+   Lei, P
+AF Liu, Hanru
+   Cai, Chonglin
+   Zhang, Xingjia
+   Li, Wenkui
+   Ma, Zhiqing
+   Feng, Juntao
+   Liu, Xili
+   Lei, Peng
+TI Discovery of Novel Cinnamic Acid Derivatives as Fungicide Candidates
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE cinnamic acid; oxime ester; fungicidal activity; QSAR
+ID ANTIFUNGAL ACTIVITY; ANTIOXIDANT; DESIGN
+AB Structural diversity derivatization from natural products is an important and effective method of discovering novel green pesticides. Cinnamic acids are abundant in plants, and their unparalleled structures endow them with various excellent biological activities. A series of novel cinnamic oxime esters were designed and synthesized to develop high antifungal agrochemicals. The antifungal activity, structure-activity relationship, and action mechanism were systematically studied. Compounds 7i, 7u, 7v, and 7x exhibited satisfactory activity against Gaeumannomyces graminis var. tritici, with inhibition rates of >= 90% at 50 mu g/mL. Compounds 7z and 7n demonstrated excellent activities against Valsa mali and Botrytis cinerea, with median effective concentration (EC50) values of 0.71 and 1.41 mu g/mL, respectively. Compound 7z exhibited 100% protective and curative activities against apple Valsa canker at 200 mu g/mL. The control effects of 7n against gray mold on tomato fruits and leaves were all >96%, exhibiting superior or similar effects to those of the commercial fungicide boscalid. Furthermore, the quantitative structure-activity relationship was established to guide the further design of higher-activity compounds. The preliminary results on the action mechanism revealed that 7n treatment could disrupt the function of the nucleus and mitochondria, leading to reactive oxygen species accumulation and cell membrane damage. Its primary biochemical mechanism may be inhibiting fungal ergosterol biosynthesis. The novel structure, simple synthesis, and excellent activity of cinnamic oxime esters render them promising potential fungicides.
+C1 [Liu, Hanru; Cai, Chonglin; Zhang, Xingjia; Li, Wenkui; Ma, Zhiqing; Feng, Juntao; Liu, Xili; Lei, Peng] Northwest A&F Univ, Coll Plant Protect, Key Lab Plant Protect Resources & Pest Management, Minist Educ, Yangling 712100, Shaanxi, Peoples R China.
+   [Li, Wenkui; Ma, Zhiqing; Feng, Juntao; Lei, Peng] Northwest A&F Univ, Shaanxi Res Ctr Biopesticide Engn & Technol, Yangling 712100, Shaanxi, Peoples R China.
+   [Liu, Xili] Northwest A&F Univ, State Key Lab Crop Stress Biol Arid Areas, Yangling 712100, Shaanxi, Peoples R China.
+C3 Northwest A&F University - China; Northwest A&F University - China;
+   Northwest A&F University - China
+RP Lei, P (corresponding author), Northwest A&F Univ, Coll Plant Protect, Key Lab Plant Protect Resources & Pest Management, Minist Educ, Yangling 712100, Shaanxi, Peoples R China.; Lei, P (corresponding author), Northwest A&F Univ, Shaanxi Res Ctr Biopesticide Engn & Technol, Yangling 712100, Shaanxi, Peoples R China.
+EM peng.lei@nwafu.edu.cn
+FU Key Research and Development Program of Shaanxi Province
+   [2023-YBNY-244]; Natural Science Basic Research Program of Shaanxi
+   Province [2022JM-106]; National Natural Science Foundation of China
+   [32001930]; Technology Innovation Guidance Special Fund of Shaanxi
+   Province [2020QFY07-03]
+FX This work was financially supported by the Key Research and Development
+   Program of Shaanxi Province (2023-YBNY-244), the Natural Science Basic
+   Research Program of Shaanxi Province (2022JM-106), the National Natural
+   Science Foundation of China (32001930), and the Technology Innovation
+   Guidance Special Fund of Shaanxi Province (2020QFY07-03).
+NR 32
+TC 0
+Z9 0
+U1 15
+U2 15
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD JAN 25
+PY 2024
+VL 72
+IS 5
+BP 2492
+EP 2500
+DI 10.1021/acs.jafc.3c05655
+PG 9
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Index Chemicus (IC)
+SC Agriculture; Chemistry; Food Science & Technology
+GA HH1V1
+UT WOS:001158518400001
+PM 38271672
+DA 2024-04-01
+ER
+
+EF

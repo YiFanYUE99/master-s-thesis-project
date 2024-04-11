@@ -1,0 +1,94 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, X
+   Zhang, MZ
+   Lu, T
+   Chen, SY
+   Sun, X
+   Guan, YS
+   Zhang, YY
+   Zhang, T
+   Sun, RL
+   Hang, B
+   Wang, XR
+   Chen, MJ
+   Chen, Y
+   Xia, YK
+AF Yang, Xu
+   Zhang, Mingzhi
+   Lu, Ting
+   Chen, Shiyao
+   Sun, Xian
+   Guan, Yusheng
+   Zhang, Yiyun
+   Zhang, Ting
+   Sun, Rongli
+   Hang, Bo
+   Wang, Xinru
+   Chen, Minjian
+   Chen, Ying
+   Xia, Yankai
+TI Metabolomics study and meta-analysis on the association between maternal
+   pesticide exposome and birth outcomes
+SO ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Pesticides; Birth outcomes; Mecarbam; Hexachlorocyclohexane;
+   Metabolomics
+ID ORGANOCHLORINE PESTICIDES; CORD BLOOD; PRENATAL EXPOSURE; FETAL-GROWTH;
+   WEIGHT; PREGNANCY; HORMONE; SERUM; METABOLITES; VALIDATION
+AB Background: Pregnant women are exposed to a number of pesticides which are widely used in China. Their potential risks on reproduction and infants are still unknown.
+   Objective: We aimed to investigate whether infants birth weight and length of gestation were associated with levels of various pesticides in maternal blood based on Nanjing Medical University (NMU) affiliated hospitals data and meta-analysis, and also to explore the possible intermediate metabolomics pathways.
+   Methods: Eligible subjects (n = 102) were included in this study from the affiliated hospitals of NMU. Gas chromatography tandem mass spectrometry (GC/MS) and Q-Exactive mass spectrometer (QE) were used to detect 37 pesticides (9 organophosphorus pesticides, 7 organochlorine pesticides, 5 carbamate pesticides, and 16 others) and 161 metabolites (53 in animo acid metabolism 47 in lipid metabolism, 18 in carbohydrate metabolism, 14 in nucleotide metabolism and 29 in other metabolisms) in maternal blood, respectively. Multi-linear regression and Bayesian kernel machine regression (BKMR) were performed to identify the association of single/ mixed pesticide exposure in maternal blood with birth weight and length of gestation. Moreover, we conducted a meta-analysis including additional 2497 subjects to evaluate whether exposure to key pesticide, beta-hexachlorocyclohexane (beta-HCH) was associated with decreased birth weight globally. Mediation analysis was used to explore the metabolic alteration mediating the association between key pesticide exposure and birth outcomes.
+   Results: We found that decreased birth weight was significantly associated with increasing levels of mecarbam and beta-HCH. We did not find any association between length of gestation and these pesticides. Among pesticides with detection rate more than 50%, BKMR analysis found an overall negative association of mixed pesticides exposure with birth weight, and verified that beta-HCH was the key pesticide for such effect. Meta-analysis revealed a significantly negative association between exposure to beta-HCH and birth weight. Metabolomics identified three metabolites and five metabolites as significant mediators for the effect of mecarbam and beta-HCH, respectively, among which glyceraldehyde and its related glycerolipid metabolism and thyroxine and its related thyroid hormone metabolism were found to be the mostly enriched mediating metabolic pathway.
+   Conclusions: Based on the comprehensive pesticide exposome and metabolome wide associational study combined with meta-analysis, we found that prenatal exposure to beta-HCH and mecarbam decreased birth weight via disrupting thyroid hormone metabolism and glyceraldehyde metabolism, providing new insights into the toxic effects of exposure to pesticides on birth outcomes.
+C1 [Yang, Xu; Zhang, Mingzhi; Lu, Ting; Chen, Shiyao; Sun, Xian; Guan, Yusheng; Zhang, Yiyun; Wang, Xinru; Chen, Minjian; Xia, Yankai] Nanjing Med Univ, Sch Publ Hlth, State Key Lab Reprod Med, Nanjing 211166, Peoples R China.
+   [Yang, Xu; Zhang, Mingzhi; Lu, Ting; Chen, Shiyao; Sun, Xian; Guan, Yusheng; Zhang, Yiyun; Wang, Xinru; Chen, Minjian; Xia, Yankai] Nanjing Med Univ, Sch Publ Hlth, Key Lab Modern Toxicol, Minist Educ, Nanjing 211166, Peoples R China.
+   [Zhang, Ting; Chen, Ying] Nanjing Med Univ, Wuxi Maternal & Child Hlth Hosp, Wuxi 214002, Jiangsu, Peoples R China.
+   [Sun, Rongli] Southeast Univ, Sch Publ Hlth, Key Lab Environm Med Engn, Minist Educ, Nanjing 210009, Peoples R China.
+   [Hang, Bo] Lawrence Berkeley Natl Lab, Biol Syst & Engn Div, Berkeley, CA 94720 USA.
+C3 Nanjing Medical University; Nanjing Medical University; Nanjing Medical
+   University; Southeast University - China; United States Department of
+   Energy (DOE); Lawrence Berkeley National Laboratory
+RP Chen, MJ; Xia, YK (corresponding author), Nanjing Med Univ, Ctr Global Hlth, Sch Publ Hlth, State Key Lab Reprod Med, 101 Longmian Rd, Nanjing 211166, Peoples R China.; Chen, Y (corresponding author), Nanjing Med Univ, Wuxi Maternal & Child Hlth Hosp, Cent Lab, 48 Huaishu Lane, Wuxi 214002, Jiangsu, Peoples R China.
+EM minjianchen@njmu.edu.cn; yingchen8@163.com; yankaixia@njmu.edu.cn
+RI Yang, Xu/HTR-5306-2023; Wang, Xin/HZL-4695-2023; cheng,
+   shu/IZE-4788-2023; Wang, Xin/AAN-8435-2021; Wang,
+   Xiaoqiang/IQS-3727-2023; CAO, ying/KFA-2972-2024; Wang,
+   Xin/JCE-2009-2023; YANG, DAN/KCL-5217-2024; Wang, Xinhua/ISR-8520-2023
+OI Wang, Xin/0000-0002-4457-7376; Wang, Xin/0000-0002-4457-7376; 
+FU National Natural Science Foundation of China [81630085, 81872650];
+   Medical Science and Technology Projects of Jiangsu Proyince [BE2016633]
+FX This work was supported by the National Natural Science Foundation of
+   China (81630085, 81872650); Medical Science and Technology Projects of
+   Jiangsu Proyince (BE2016633).
+NR 74
+TC 32
+Z9 37
+U1 11
+U2 75
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0013-9351
+EI 1096-0953
+J9 ENVIRON RES
+JI Environ. Res.
+PD MAR
+PY 2020
+VL 182
+AR 109087
+DI 10.1016/j.envres.2019.109087
+PG 10
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA KP2TP
+UT WOS:000516094400086
+PM 32069748
+DA 2024-04-07
+ER
+
+EF

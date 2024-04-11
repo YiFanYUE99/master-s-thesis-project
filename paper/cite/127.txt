@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lin, Jia-yi
+   Xie, Ju
+   Zhu, Yue-ping
+   Xie, Wen-yu
+TI Metabolomics and its application in environmental toxicology.
+SO Current Biotechnology
+VL 12
+IS 5
+PS 683-689
+PY 2022
+U1 0
+U2 1
+AB As a part of system biology, metabolomics is widely used in biomedical
+   research because of its fast analysis. At present, the studies of
+   metabolomics in environmental toxicology mainly focus on single
+   pollutants, and the complex situation of contaminated areas should also
+   be considered. The application of metabolomics in environmental
+   toxicology was reviewed by introducing metabolomics and its development
+   process. We also summarized the respective characteristics of the
+   current mainstream metabolomics technology, and discussed the research
+   and application progress of metabolomics in the toxicity evaluation of
+   environmental heavy metals, organic pollutants and antibiotics, and
+   environmental stress tolerance evaluation. At last, we pointed point out
+   that the application of metabolomics in environmental toxicology needs
+   to be strengthened. The paper was expected to provide reference for the
+   application reasearch of metabonomics in environmental toxicology.
+UT CABI:20230019045
+DT Journal article
+LA Chinese
+C1 Guangdong Provincial Key Laboratory of Petrochemical Pollution Process
+   and Control, Key Laboratory of Petrochemical Pollution Control of
+   Guangdong Higher Education Institutes, Guangdong University of
+   Petrochemical Technology, Guangdong Maoming 525000, China
+   Guangdong Provincial Key Laboratory of Petrochemical Pollution Process
+   and Control, Key Laboratory of Petrochemical Pollution Control of
+   Guangdong Higher Education Institutes, Guangdong University of
+   Petrochemical Technology, Guangdong Maoming 525000, China
+   Guangdong Provincial Key Laboratory of Petrochemical Pollution Process
+   and Control, Key Laboratory of Petrochemical Pollution Control of
+   Guangdong Higher Education Institutes, Guangdong University of
+   Petrochemical Technology, Guangdong Maoming 525000, China
+   Guangdong Provincial Key Laboratory of Petrochemical Pollution Process
+   and Control, Key Laboratory of Petrochemical Pollution Control of
+   Guangdong Higher Education Institutes, Guangdong University of
+   Petrochemical Technology, Guangdong Maoming 525000, China
+EM lero_lin@163.com
+EM gdmmzyp@163.com
+PU Editorial Department of Current Biotechnology
+PI Beijing, China
+SC Environmental Sciences & Ecology; Genetics & Heredity; Biochemistry &
+   Molecular Biology; Chemistry; Toxicology (provided by Clarivate
+   Analytics)
+SN 2095-2341
+CC PP600Pollution and Degradation; ZZ360General Molecular Biology
+   (Discontinued March 2000); XX400Industrial Wastes and Effluents;
+   HH430Pesticide and Drug Residues and Ecotoxicology (NEW March 2000)
+DE metabolomics; toxicity; toxicology; pollutants; reviews; heavy metals;
+   antibiotics; antibiotic residues; organic compounds; tolerance; drug
+   residues
+NR 48 ref.
+DI 10.19586/j.2095-2341.2022.0057
+UR https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2022.0057
+UR https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2022.0057
+UR https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2022.0057
+UR https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2022.0057
+DA 2024-04-07
+ER
+
+EF

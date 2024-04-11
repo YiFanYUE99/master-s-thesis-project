@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Teng, MM
+   Zhu, WT
+   Wang, DZ
+   Qi, SZ
+   Wang, Y
+   Yan, J
+   Dong, K
+   Zheng, MQ
+   Wang, CJ
+AF Teng, Miaomiao
+   Zhu, Wentao
+   Wang, Dezhen
+   Qi, Suzhen
+   Wang, Yao
+   Yan, Jin
+   Dong, Kai
+   Zheng, Mingqi
+   Wang, Chengju
+TI Metabolomics and transcriptomics reveal the toxicity of difenoconazole
+   to the early life stages of zebrafish (<i>Danio rerio</i>)
+SO AQUATIC TOXICOLOGY
+LA English
+DT Article
+DE Difenoconazole; Metabolomics; Transcriptomics; Toxicity; Zebrafish
+ID EMBRYONIC-DEVELOPMENT; LIPID-METABOLISM; EXPOSURE; MODEL
+AB Difenoconazole is widely used to inhibit the growth of fungi, but its residue in the water environment may threaten ecosystem and human health. Here, H-1 nuclear magnetic resonance (NMR) and LC MS/MS based metabolomics and transcriptomics approaches were used to assess the response of zebrafish to difenoconazole exposure. Early life stages of zebrafish were exposed to difenoconazole at environmentally relevant concentrations for 168 h. Their comparison with the control group suggested an adverse development and disturbance of steroid hormones and VTG. KEGG pathway analysis identified five biological processes on the basis of differentially expressed genes (DEGs), as well as altered metabolites and amino acids in zebrafish following difenoconazole exposure. These affected processes included energy metabolism, amino acids metabolism, lipid metabolism, nucleotide metabolism, and an immune-related pathway. Collectively, these results bring us closer to an incremental understanding of the toxic effects of difenoconazole on zebrafish in its early development, and lend support to the continued use of the early life stages of zebrafish as a classical model to evaluate underlying environmental risks of xenobiotics in aquatic organisms.
+C1 [Teng, Miaomiao; Zhu, Wentao; Wang, Dezhen; Wang, Yao; Yan, Jin; Zheng, Mingqi; Wang, Chengju] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+   [Qi, Suzhen] Chinese Acad Agr Sci, Inst Apiculture Res, Beijing, Peoples R China.
+   [Dong, Kai] Shandong Ruan Gas Co, Dongying, Shandong, Peoples R China.
+C3 China Agricultural University; Institute of Apicultural Research, CAAS;
+   Chinese Academy of Agricultural Sciences
+RP Zheng, MQ; Wang, CJ (corresponding author), China Agr Univ, Coll Sci, Beijing, Peoples R China.
+EM mqzheng@cau.edu.cn; wangchengju@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Wang, Dezhen/K-2489-2016; Yan,
+   Jin/AAE-5637-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946; 
+FU National Key Research and Development Program of China [2016YFD0200504]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200504)
+NR 52
+TC 79
+Z9 83
+U1 25
+U2 266
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0166-445X
+EI 1879-1514
+J9 AQUAT TOXICOL
+JI Aquat. Toxicol.
+PD JAN
+PY 2018
+VL 194
+BP 112
+EP 120
+DI 10.1016/j.aquatox.2017.11.009
+PG 9
+WC Marine & Freshwater Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Marine & Freshwater Biology; Toxicology
+GA FU1YA
+UT WOS:000423644200013
+PM 29175743
+DA 2024-03-20
+ER
+
+EF

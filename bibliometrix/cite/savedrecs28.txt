@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yao, CY
+   Sheng, J
+   Yan, S
+   Tian, SN
+   Meng, ZY
+   Zhou, ZQ
+   Zhu, WT
+AF Yao, Chenyang
+   Sheng, Jing
+   Yan, Sen
+   Tian, Sinuo
+   Meng, Zhiyuan
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Enantioselectivity effects of imazethapyr enantiomers to metabolic
+   responses in mice
+SO PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Article
+DE Imazethapyr; Chirality; Oxidative stress; Metabolomics
+ID ENVIRONMENTAL RISK-ASSESSMENT; OXIDATIVE STRESS; REACTIVE OXYGEN;
+   CIS-BIFENTHRIN; TOXICITY; IMMUNOTOXICITY; SEPARATION; PHENYLALANINE;
+   BIOMARKERS; INDUCTION
+AB Imazethapyr (IMZT) is a typical chiral pesticide with two enantiomers with the R-IMZT having the main herbicidal activity. However, the enantioselectivity of the effects of IMZT enantiomers on human and animals is still unclear. In this study, a nuclear magnetic resonance (NMR)-based metabolomics method and determination of oxidative stress were used to evaluate the enantioselectivity of IMZT enantiomers in mice. The results showed that the R-IMZT caused larger disturbances of endogenous metabolites and the S-IMZT had stronger interferences to oxidation defense system. The significantly perturbed metabolic pathways in mice exposed to the R-enantiomer were the valine, leucine and isoleucine biosynthesis pathway as well as the phenylalanine, tyrosine and tryptophan biosynthesis pathway. However, exposure of mice to the S-enantiomer did not significantly affect the metabolic pathways, but exposure led to an increase of catalase (CAT) activity and an increase in malondialdehyde (MDA) content in the liver. These results indicate that we need to conduct a more comprehensive assessment of the health risks of pesticide monomers in the future. In a word, these results provide more evidence for assessing the differences in health risks of IMZT enantiomers to mammals as well as provide more references for the promotion and use of pesticide monomers in the future.
+C1 [Yao, Chenyang; Sheng, Jing; Yan, Sen; Tian, Sinuo; Meng, Zhiyuan; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Coll Sci, Beijing 100193, Peoples R China.
+   [Yan, Sen; Tian, Sinuo; Meng, Zhiyuan; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; zhou, zhou/HPE-9525-2023; Zhu,
+   Wentao/O-8964-2019; Meng, Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Innovation Training Program for College Students [201810019161]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202) and the National Innovation Training
+   Program for College Students (201810019161).
+NR 50
+TC 6
+Z9 7
+U1 3
+U2 55
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0048-3575
+EI 1095-9939
+J9 PESTIC BIOCHEM PHYS
+JI Pest. Biochem. Physiol.
+PD SEP
+PY 2020
+VL 168
+AR 104619
+DI 10.1016/j.pestbp.2020.104619
+PG 8
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA MQ4MC
+UT WOS:000552867500004
+PM 32711760
+DA 2024-03-20
+ER
+
+EF

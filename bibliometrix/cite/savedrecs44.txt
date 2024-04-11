@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Yan, ZX
+   Sun, W
+   Bao, X
+   Feng, WJ
+   Gu, YT
+   Tian, SN
+   Wang, JJ
+   Chen, XJ
+   Zhu, WT
+AF Meng, Zhiyuan
+   Yan, Zixin
+   Sun, Wei
+   Bao, Xin
+   Feng, Wenjing
+   Gu, Yuntong
+   Tian, Sinuo
+   Wang, Jianjun
+   Chen, Xiaojun
+   Zhu, Wentao
+TI Azoxystrobin Disrupts Colonic Barrier Function in Mice<i> via</i>
+   Metabolic Disorders Mediated by Gut Microbiota
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE azoxystrobin; colonic barrier function; gut microbiota; metabolic
+   profile
+ID OXIDATIVE STRESS; INFLAMMATION; EXPOSURE; TAURINE; DAMAGE
+AB The widespread use of azoxystrobin (AZO) over the past few decades has drawn great attention to its environmental health effects. The objective of the present study was to explore the effects of AZO on intestinal barrier function in mice from the perspective of gut microbiota. Specifically, exposure to AZO could cause colonic barrier dysfunction in mice. Meanwhile, AZO could also cause dysbiosis of gut microbiota. Further studies revealed that the metabolic profile of the microbiota was significantly disturbed with AZO exposure. Last but not least, we confirmed that the gut microbiota played a central role in AZO-induced colonic barrier dysfunction through the gut microbiota transplantation experiment. Gut microbiota mediated colonic barrier dysfunction induced by AZO via inducing dysbiosis of the microbiota metabolic profile. The findings of this study strongly support a new insight that the gut microbiota can be a key target of health risks of pesticides.
+C1 [Meng, Zhiyuan; Yan, Zixin; Bao, Xin; Feng, Wenjing; Gu, Yuntong; Wang, Jianjun; Chen, Xiaojun] Yangzhou Univ, Coll Plant Protect, Joint Int Res Lab Agr & Agriprod Safety, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Meng, Zhiyuan; Sun, Wei; Tian, Sinuo; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 Yangzhou University; China Agricultural University
+RP Chen, XJ (corresponding author), Yangzhou Univ, Coll Plant Protect, Joint Int Res Lab Agr & Agriprod Safety, Yangzhou 225009, Jiangsu, Peoples R China.; Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM cxj@yzu.edu.cn; wentaozhu@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; zhang, xueying/JMB-7808-2023; Zhu,
+   Wentao/O-8964-2019; feng, wen/HTS-9745-2023
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998;
+   chen, xiaojun/0000-0002-0832-6123
+FU Science and Technology Projects Fund of Yangzhou City; Distinguished
+   talent of Yangzhou City; Practicality and Innovation Training Project
+   for Graduate Students in Jiangsu Province;  [YZ2022075]; 
+   [YZLYJFJH2021YXBS187];  [SJCX21_1625]
+FX Funding The Science and Technology Projects Fund of Yangzhou City
+   (YZ2022075) , Distinguished talent of Yangzhou City
+   (YZLYJFJH2021YXBS187) , and Practicality and Innovation Training Project
+   for Graduate Students in Jiangsu Province (SJCX21_1625) .
+NR 54
+TC 6
+Z9 6
+U1 26
+U2 63
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD JAN 11
+PY 2023
+VL 71
+IS 1
+BP 789
+EP 801
+DI 10.1021/acs.jafc.2c05543
+EA JAN 2023
+PG 13
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA K4VN0
+UT WOS:000911972400001
+PM 36594455
+DA 2024-03-20
+ER
+
+EF

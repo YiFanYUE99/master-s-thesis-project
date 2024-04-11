@@ -1,0 +1,78 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bittremieux, W
+   Levitsky, L
+   Pilz, M
+   Sachsenberg, T
+   Huber, F
+   Wang, MX
+   Dorrestein, PC
+AF Bittremieux, Wout
+   Levitsky, Lev
+   Pilz, Matteo
+   Sachsenberg, Timo
+   Huber, Florian
+   Wang, Mingxun
+   Dorrestein, Pieter C.
+TI Unified and Standardized Mass Spectrometry Data Processing in Python
+   Using spectrum_utils
+SO JOURNAL OF PROTEOME RESEARCH
+LA English
+DT Article; Early Access
+DE mass spectrometry; proteomics; metabolomics; Python; open source
+ID REPOSITORY; METABOLOMICS; PACKAGE
+AB spectrum_utils is a Python package for mass spectrometry data processing and visualization. Since its introduction, spectrum_utils has grown into a fundamental software solution that powers various applications in proteomics and metabolomics, ranging from spectrum preprocessing prior to spectrum identification and machine learning applications to spectrum plotting from online data repositories and assisting data analysis tasks for dozens of other projects. Here, we present updates to spectrum_utils, which include new functionality to integrate mass spectrometry community data standards, enhanced mass spectral data processing, and unified mass spectral data visualization in Python.
+C1 [Levitsky, Lev] Russian Acad Sci, V L Talrose Inst Energy Problems Chem Phys, N N Semenov Fed Res Ctr Chem Phys, Moscow 119334, Russia.
+   [Pilz, Matteo; Sachsenberg, Timo] Univ Tubingen, Inst Bioinformat & Med Informat, D-72076 Tubingen, Germany.
+   [Huber, Florian] Univ Appl Sci Dusseldorf, Ctr Digitalisat & Digital, D-40476 Dusseldorf, Germany.
+   [Wang, Mingxun] Univ Calif Riverside, Dept Comp Sci, Riverside, CA 92507 USA.
+   [Dorrestein, Pieter C.] Univ Calif San Diego, Skaggs Sch Pharm & Pharmaceut Sci, La Jolla, CA 92093 USA.
+   [Dorrestein, Pieter C.] Univ Calif San Diego, Collaborat Mass Spectrometry Innovat Ctr, La Jolla, CA 92093 USA.
+   [Bittremieux, Wout] Univ Antwerp, Dept Comp Sci, B-2020 Antwerp, Belgium.
+   [Bittremieux, Wout] Biomed Informat Network Antwerpen biomina, B-2020 Antwerp, Belgium.
+C3 Russian Academy of Sciences; Eberhard Karls University of Tubingen;
+   University of California System; University of California Riverside;
+   University of California System; University of California San Diego;
+   University of California System; University of California San Diego;
+   University of Antwerp
+RP Bittremieux, W (corresponding author), Univ Antwerp, Dept Comp Sci, B-2020 Antwerp, Belgium.; Bittremieux, W (corresponding author), Biomed Informat Network Antwerpen biomina, B-2020 Antwerp, Belgium.
+EM wout.bittremieux@uantwerpen.be
+RI Dorrestein, Pieter/D-5012-2012; Wang, Mingxun/HGV-1545-2022; Levitsky,
+   Lev/G-9702-2017; Huber, Florian/F-6191-2011
+OI Wang, Mingxun/0000-0001-7647-6097; Levitsky, Lev/0000-0002-4048-0876;
+   Huber, Florian/0000-0002-3535-9406; Bittremieux,
+   Wout/0000-0002-3105-1359; Pilz, Matteo/0000-0002-7470-0806
+FU BBSRC-NSF [2152526]; National Institutes of Health [R03OD034493]; Div Of
+   Biological Infrastructure; Direct For Biological Sciences [2152526]
+   Funding Source: National Science Foundation
+FX This research was supported by BBSRC-NSF award 2152526 and National
+   Institutes of Health award R03OD034493.
+NR 51
+TC 4
+Z9 5
+U1 10
+U2 25
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1535-3893
+EI 1535-3907
+J9 J PROTEOME RES
+JI J. Proteome Res.
+PD 2023 JAN 23
+PY 2023
+DI 10.1021/acs.jproteome.2c00632
+EA JAN 2023
+PG 7
+WC Biochemical Research Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA 8M3NO
+UT WOS:000924376400001
+PM 36688502
+OA Green Submitted
+DA 2024-04-08
+ER
+
+EF

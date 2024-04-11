@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, Y
+   Teng, MM
+   Wang, DZ
+   Yan, J
+   Miao, JY
+   Zhou, ZQ
+   Zhu, WT
+AF Wang, Yao
+   Teng, Miaomiao
+   Wang, Dezhen
+   Yan, Jin
+   Miao, Jiyan
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Enantioselective bioaccumulation following exposure of adult zebrafish
+   (<i>Danio rerio</i>) to epoxiconazole and its effects on metabolomic
+   profile as well as genes expression
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Epoxiconazole; H-1 NMR-based metabolomics; Enantioselective
+   bioaccumulation; Genes expression
+ID GOLDFISH CARASSIUS-AURATUS; PEROXISOMAL BETA-OXIDATION; PERMETHRIN
+   ENANTIOMERS; DEVELOPMENTAL TOXICITY; UNCOUPLING-PROTEIN; METABONOMICS;
+   DEGRADATION; FUNGICIDES; INDUCTION; ACID
+AB Although epoxiconazole is the worldwidely used fungicide, limited information is known about its toxic effects and bioaccumulation behavior in freshwater ecosystems. In this study, zebrafish were exposed to epoxiconazole at concentrations of 100 and 1000 mu g L-1 for 21 d. H-1 NMR-based metabolomics analysis showed that low- and high-dose epoxiconazole exposure resulted in two similar but not identical patterns for the change of endogenous metabolites related to energy, lipid and amino acid metabolism. The expression of genes associated with mitochondrial respiratory chain, ATP synthesis and fatty acid beta-oxidation were further measured to explore the reason for the disturbed energy metabolism, finding epoxiconazole had an inhibition effect on the genes expression of the above ways. Significant enantio-selectivity was observed with (+)-epoxiconazole enrichment in the bioaccumulation process. These results will be of great importance in understanding the toxic effects induced by epoxiconazole and provide important basis for its comprehensive environmental assessment. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Wang, Yao; Wang, Dezhen; Yan, Jin; Miao, Jiyan; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Wang, Dezhen/K-2489-2016; zhou, zhou/HPE-9525-2023; Yan,
+   Jin/AAE-5637-2022; Zhou, Zhiqiang/HIR-4954-2022; Zhu, Wentao/O-8964-2019
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998
+FU National Natural Science Foundation of China [21337005]; National Key
+   Research and Development Program of China [2016YFD0200202]
+FX This work was supported by the National Natural Science Foundation of
+   China (Contract grant number: 21337005) and the National Key Research
+   and Development Program of China (2016YFD0200202).
+NR 46
+TC 37
+Z9 39
+U1 9
+U2 184
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD OCT
+PY 2017
+VL 229
+BP 264
+EP 271
+DI 10.1016/j.envpol.2017.05.087
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA FG3AW
+UT WOS:000410010200027
+PM 28601015
+DA 2024-03-20
+ER
+
+EF

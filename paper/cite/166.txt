@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kotli, M
+   Piir, G
+   Maran, U
+AF Kotli, Mihkel
+   Piir, Geven
+   Maran, Uko
+TI Pesticide effect on earthworm lethality via interpretable machine
+   learning
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE QSAR; Earthworm acute toxicity; Random forest; Genetic algorithm;
+   Bayesian optimization
+ID BIO-CONCENTRATION FACTOR; QSAR DATA-BANK; CHEMICAL-STRUCTURE; ACUTE
+   TOXICITY; PREDICTION; ALGORITHM; IMPACTS; RISKS; MODEL; ACID
+AB Earthworms are among the most important animals (invertebrates) for soil health. Many chemical substances released into nature for agricultural development, such as pesticides, may have unwanted effects on those organisms. However, it is essential to understand the extent of the impact of chemicals on soil health first and then make the proper decisions for regulatory or commercial purposes. We hypothesize that there is an expressible quantitative structure-activity relationship (QSAR) between the structure of pesticide compounds and the acute toxicity effect of earthworm species Eisenia fetida. The description of this relationship allows for a better assessment of the impact of chemicals on the said earthworm. To describe this relationship, a dataset of chemicals was collected from open-access sources to develop a mathematical model. A novel approach, combining genetic algorithm and Bayesian optimization, was used to select structural features into the model and to optimize model parameters. The final QSAR classification model was created with the Random Forest algorithm and exhibited good prediction Accuracy of 0.78 on training set and 0.80 on test set. The model representation follows FAIR principles and is available on QsarDB.org.
+C1 [Kotli, Mihkel; Piir, Geven; Maran, Uko] Univ Tartu, Inst Chem, Tartu, Estonia.
+C3 University of Tartu
+RP Maran, U (corresponding author), Univ Tartu, Inst Chem, Tartu, Estonia.
+EM uko.maran@ut.ee
+OI Piir, Geven/0000-0002-7381-2689
+FU Ministry of Education and Research, Republic of Estonia, through the
+   Estonian Research Council [PRG1509]; Ministry of Environment, Republic
+   of Estonia [4-4/22/19]; Ministry of Social Affairs, Republic of Estonia
+   [3-4/1593-1]; European Union [101057014]
+FX The authors thank Dr. Sulev Sild (University of Tartu) for his insight
+   and discussion regarding technical software matters and issues. This
+   work was supported by the Ministry of Education and Research, Republic
+   of Estonia, through the Estonian Research Council (grant number PRG1509)
+   , Ministry of Environment, Republic of Estonia (grant 4-4/22/19) ,
+   Ministry of Social Affairs, Republic of Estonia (grant 3-4/1593-1) and
+   European Union through Horizon Europe Health Framework Pro- gramme
+   project "Partnership for the Assessment of Risks from Chemicals (Grant
+   ID 101057014) ".
+NR 79
+TC 0
+Z9 0
+U1 59
+U2 59
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD JAN 5
+PY 2024
+VL 461
+AR 132577
+DI 10.1016/j.jhazmat.2023.132577
+EA OCT 2023
+PG 11
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA U8GM7
+UT WOS:001087131400001
+PM 37793249
+DA 2024-04-08
+ER
+
+EF

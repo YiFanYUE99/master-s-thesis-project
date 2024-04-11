@@ -1,0 +1,70 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dockès, J
+   Varoquaux, G
+   Poline, JB
+AF Dockes, Jerome
+   Varoquaux, Gael
+   Poline, Jean-Baptiste
+TI Preventing dataset shift from breaking machine-learning biomarkers
+SO GIGASCIENCE
+LA English
+DT Review
+DE biomarker; machine learning; generalization; dataset shift
+ID COVARIATE SHIFT; BIAS; VALIDATION; INFERENCE; SPECTRUM; SEX
+AB Machine learning brings the hope of finding new biomarkers extracted from cohorts with rich biomedical measurements. A good biomarker is one that gives reliable detection of the corresponding condition. However, biomarkers are often extracted from a cohort that differs from the target population. Such a mismatch, known as a dataset shift, can undermine the application of the biomarker to new individuals. Dataset shifts are frequent in biomedical research, e.g., because of recruitment biases. When a dataset shift occurs, standard machine-learning techniques do not suffice to extract and validate biomarkers. This article provides an overview of when and how dataset shifts break machine-learning-extracted biomarkers, as well as detection and correction strategies.
+C1 [Dockes, Jerome; Varoquaux, Gael; Poline, Jean-Baptiste] McGill Univ, 845 Sherbrooke St W, Montreal, PQ H3A 0G4, Canada.
+   [Varoquaux, Gael] INRIA, Rocquencourt, France.
+C3 McGill University; Inria
+RP Dockès, J (corresponding author), McGill Univ, Neuro Montreal Neurol Inst Hosp, Fac Med & Hlth Sci, NeuroDataSci ORIGAMI Lab,McConnell Brain Imaging, 845 Sherbrooke St W, Montreal, PQ H3A 0G4, Canada.
+EM jerome@dockes.org
+FU National Institutes of Health (NIH) [NIH-NIBIB P41 EB019936, NIH-NIMH
+   R01 MH083320, NIH RF1 MH120021]; National Institute Of Mental Health
+   [R01MH096906]; Canada First Research Excellence Fund; Brain Canada
+   Foundation; Montreal Neurological Institute; Agence Nationale de la
+   Recherche [ANR-17-CE23-0018]; Agence Nationale de la Recherche (ANR)
+   [ANR-17-CE23-0018] Funding Source: Agence Nationale de la Recherche
+   (ANR)
+FX This work was partially funded by the National Institutes of Health
+   (NIH) NIH-NIBIB P41 EB019936 (ReproNim) NIH-NIMH R01 MH083320
+   (CANDIShare) and NIH RF1 MH120021 (NIDM), the National Institute Of
+   Mental Health under Award Number R01MH096906 (Neurosynth), the Canada
+   First Research Excellence Fund, awarded to McGill University for the
+   Healthy Brains for Healthy Lives initiative and the Brain Canada
+   Foundation with support from Health Canada, Health Canada, through the
+   Canada Brain Research Fund in partnership with the Montreal Neurological
+   Institute. This work made used of the NeuroHub platform.This work was
+   funded by Agence Nationale de la Recherche project DirtyData
+   -ANR-17-CE23-0018
+NR 80
+TC 23
+Z9 25
+U1 5
+U2 33
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 2047-217X
+J9 GIGASCIENCE
+JI GigaScience
+PD SEP
+PY 2021
+VL 10
+IS 9
+AR giab055
+DI 10.1093/gigascience/giab055
+EA SEP 2021
+PG 11
+WC Biology; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Science & Technology - Other
+   Topics
+GA WI7DK
+UT WOS:000708517600002
+PM 34585237
+OA Green Submitted, gold, Green Published
+DA 2024-04-07
+ER
+
+EF

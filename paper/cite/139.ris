@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Szymańska, Ewa
+AU  - Saccenti, Edoardo
+AU  - Smilde, Age K.
+AU  - Westerhuis, Johan A.
+PY  - 2012
+DA  - 2012/06/01
+TI  - Double-check: validation of diagnostic statistics for PLS-DA models in metabolomics studies
+JO  - Metabolomics
+SP  - 3
+EP  - 16
+VL  - 8
+IS  - 1
+AB  - Partial Least Squares-Discriminant Analysis (PLS-DA) is a PLS regression method with a special binary ‘dummy’ y-variable and it is commonly used for classification purposes and biomarker selection in metabolomics studies. Several statistical approaches are currently in use to validate outcomes of PLS-DA analyses e.g. double cross validation procedures or permutation testing. However, there is a great inconsistency in the optimization and the assessment of performance of PLS-DA models due to many different diagnostic statistics currently employed in metabolomics data analyses. In this paper, properties of four diagnostic statistics of PLS-DA, namely the number of misclassifications (NMC), the Area Under the Receiver Operating Characteristic (AUROC), Q2 and Discriminant Q2 (DQ2) are discussed. All four diagnostic statistics are used in the optimization and the performance assessment of PLS-DA models of three different-size metabolomics data sets obtained with two different types of analytical platforms and with different levels of known differences between two groups: control and case groups. Statistical significance of obtained PLS-DA models was evaluated with permutation testing. PLS-DA models obtained with NMC and AUROC are more powerful in detecting very small differences between groups than models obtained with Q2 and Discriminant Q2 (DQ2). Reproducibility of obtained PLS-DA models outcomes, models complexity and permutation test distributions are also investigated to explain this phenomenon. DQ2 and Q2 (in contrary to NMC and AUROC) prefer PLS-DA models with lower complexity and require higher number of permutation tests and submodels to accurately estimate statistical significance of the model performance. NMC and AUROC seem more efficient and more reliable diagnostic statistics and should be recommended in two group discrimination metabolomic studies.
+SN  - 1573-3890
+UR  - https://doi.org/10.1007/s11306-011-0330-3
+DO  - 10.1007/s11306-011-0330-3
+ID  - Szymańska2012
+ER  - 

@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Qiao, LS
+   Cai, YL
+   He, YS
+   Jiang, LD
+   Huo, XQ
+   Zhang, YL
+AF Qiao, Lian Sheng
+   Cai, Yi-Lian
+   He, Yu-Su
+   Jiang, Lu-Di
+   Huo, Xiao-Qian
+   Zhang, Yan-Ling
+TI Trend of Multi-Scale QSAR in Drug Design
+SO ASIAN JOURNAL OF CHEMISTRY
+LA English
+DT Review
+DE QSAR; Multi-scale; Atom; Fragment; Multi-target; Cell
+ID IN-SILICO DISCOVERY; MULTITARGET INHIBITORS; MULTIDIMENSIONAL QSAR;
+   MODEL DEVELOPMENT; R(M)(2) METRICS; BINDING MODE; 3D-QSAR; PREDICTION;
+   PROTEINS; AFFINITY
+AB Quantitative structure activity relationship (QSAR) is a common method for drug designing. The classification methods Of conventional QSAR often consider the dimensions of research measures or the variety of biological activity. The research objects of traditional QSAR are always at the mesoseopic-scale. With the multi-scale development of drugs different strategies of QSAR should be adopted based on the characteristics of an object at a specific scale, which gradually caused the multi-scale development of QSAR in recent years. hi this paper,:a new classification method of multi-scale QSAR was presented and the existing six QSAR technologies were classified into three scales,Wherein, atom-based QSAR belongs to micro-scale, fragment-based QSAR and small molecular-based QSAR-belong to mesoscopic-scale, While macroscopic scale includes macromolecule based QSAR, multi-target-based QSAR and cell based QSAR.This paper hackles the basic concept, historical origins, mature technologies and recent research results of each multi-scale QSAR methods. Generally speaking, multi-scale QSAR is more applicable to QSAR Model in today's trends of drug design. And the new research ideas for further development of QSAR are presented in this review.
+C1 [Qiao, Lian Sheng; Cai, Yi-Lian; He, Yu-Su; Jiang, Lu-Di; Huo, Xiao-Qian; Zhang, Yan-Ling] Beijing Univ Chinese Med, Res Ctr TCM Informat Engn, Beijing 100102, Peoples R China.
+C3 Beijing University of Chinese Medicine
+RP Zhang, YL (corresponding author), Beijing Univ Chinese Med, Res Ctr TCM Informat Engn, Beijing 100102, Peoples R China.
+EM collean_zhang@163.com
+RI ZHAO, S/IWV-4219-2023; Qiao, Liansheng/D-2001-2019
+OI Qiao, Liansheng/0000-0001-5750-7994
+FU National Natural Science Foundation of China [81173522]; National
+   Undergraduate Innovative Training Project [201310026069]
+FX Authors would like to acknowledge the financial support by the National
+   Natural Science Foundation of China (No. 81173522) and the National
+   Undergraduate Innovative Training Project (No. 201310026069).
+NR 61
+TC 3
+Z9 3
+U1 11
+U2 73
+PU ASIAN JOURNAL OF CHEMISTRY
+PI SAHIBABAD
+PA 11/100 RAJENDRA NAGAR, SECTOR 3,, SAHIBABAD 201 005, GHAZIABAD, INDIA
+SN 0970-7077
+EI 0975-427X
+J9 ASIAN J CHEM
+JI Asian J. Chem.
+PD SEP
+PY 2014
+VL 26
+IS 18
+BP 5917
+EP 5922
+DI 10.14233/ajchem.2014.18490
+PN B
+PG 6
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA AS0GI
+UT WOS:000343955700002
+OA hybrid
+DA 2024-04-01
+ER
+
+EF

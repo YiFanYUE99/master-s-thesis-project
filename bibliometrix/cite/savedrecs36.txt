@@ -1,0 +1,75 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jia, M
+   Teng, MM
+   Tian, SU
+   Yan, J
+   Meng, ZY
+   Yan, S
+   Li, RS
+   Zhou, ZQ
+   Zhu, WT
+AF Jia, Ming
+   Teng, Miaomiao
+   Tian, Sinuo
+   Yan, Jin
+   Meng, Zhiyuan
+   Yan, Sen
+   Li, Ruisheng
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Effects of penconazole enantiomers exposure on hormonal disruption in
+   zebrafish Danio rerio (Hamilton, 1822)
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Fungicide; Penconazole; Enantiomer; Zebrafish; Endocrine disrupting
+ID ENVIRONMENTALLY RELEVANT CONCENTRATIONS; FUNGICIDE PENCONAZOLE;
+   DIFENOCONAZOLE; DISSIPATION; RESPONSES; GENES; SOILS
+AB PEN is a widely used triazole fungicide, usually used to control grape white rot. In the process of agricultural use, PEN will be scattered to the soil and water environment, which brings certain environmental safety risks. In this study, we used a 200-mu g/L solution of Rac-PEN, (+)-PEN, and (-)-PEN to perform a 28-day exposure test on zebrafish. The results showed that long-term low-dose PEN exposure did not significantly change the growth factor K and the number of spawning of zebrafish. However, the content of four important hormones vitellogenin, 17 beta-estradiol, testosterone, and 11-ketotestosterone in zebrafish has changed significantly. Furthermore, we measured the expression of hypothalamus-pituitary-gonads-liver (HPGL) axis-related genes, and the results showed that the expressions of related genes in the brain, gonads, and liver all changed significantly. Combining the above results, we can conclude that PEN has obvious endocrine disrupting effect on zebrafish, and has gender-specific endocrine effects. Meanwhile, Rac-PEN and (+)-PEN had stronger effects on the endocrine system of zebrafish than (-)-PEN.
+C1 [Jia, Ming; Tian, Sinuo; Yan, Jin; Meng, Zhiyuan; Yan, Sen; Li, Ruisheng; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Coll Sci, Innovat Ctr Pesticide Res, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Coll Sci, Innovat Ctr Pesticide Res, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Meng, Zhiyuan/AFU-9894-2022; Zhu,
+   Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022; Zhou, Zhiqiang/HIR-4954-2022
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21337005]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202) and the National Natural Science
+   Foundation of China (Contract grant number: 21337005).
+NR 30
+TC 3
+Z9 3
+U1 9
+U2 56
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD AUG
+PY 2021
+VL 28
+IS 32
+BP 43476
+EP 43482
+DI 10.1007/s11356-021-13446-z
+EA APR 2021
+PG 7
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA TZ2KZ
+UT WOS:000638072900004
+PM 33834344
+DA 2024-03-20
+ER
+
+EF

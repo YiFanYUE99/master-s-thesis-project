@@ -1,0 +1,53 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sadeghi, M
+   Mohammadinasab, E
+   Isfahani, TM
+AF Sadeghi, Mostafa
+   Mohammadinasab, Esmat
+   Isfahani, Tahereh Momeni
+TI QSPR models for predicting the Kovats retention indices of synthetic
+   ester derivatives based on pyrethrin essential oil
+SO JOURNAL OF ESSENTIAL OIL RESEARCH
+LA English
+DT Article
+DE BP-ANN; BW-MLR; QSPR; Kovats retention index; pyrethrin essential oil
+ID MEAN-SQUARE ERROR; STRUCTURE/RESPONSE CORRELATIONS; SIMILARITY/DIVERSITY
+   ANALYSIS; GETAWAY DESCRIPTORS; PESTICIDE-RESIDUES; GENETIC ALGORITHMS;
+   QSAR; DESIGN; PARTITION; CHEMISTRY
+AB In this study, the chromatographic characteristics of 100 different pyrethroids including ester derivatives of cyclopropanecarboxylic acids were analyzed by measuring their logarithmic kovats retention index (log KRI) using a quantitative structure-retention relationship (QSRR). The log KRI of the studied pyrethroids were modeled by genetic algorithm-structure retention relationships (GA-QSRR) based on linear and nonlinear regression models. The descriptors such as HNar, H0v, and H5p, which express the GETAWAY (geometry, topology, and atom-weights assembly) compound descriptors, have a reasonable correlation with the log KRI. We assessed the predictive strength of the BP-ANN model and demonstrated the potential of the model using various statistical parameters. The statistical parameters such as Q2F1, Q2F2, Q2F3, AAD, RMSE and CCC were used to evaluate the predictive ability of the BP-ANN model. In predicting the log KRI of pyrethroids, the results indicated that the BP-ANN model is more reliable and accurate than the BW-MLR model.
+C1 [Sadeghi, Mostafa; Mohammadinasab, Esmat; Isfahani, Tahereh Momeni] Islamic Azad Univ, Dept Chem, Arak Branch, Arak, Iran.
+C3 Islamic Azad University
+RP Mohammadinasab, E (corresponding author), Islamic Azad Univ, Dept Chem, Arak Branch, Arak, Iran.
+EM Es.mohammadinasab@iau.ac.ir
+NR 92
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1041-2905
+EI 2163-8152
+J9 J ESSENT OIL RES
+JI J. Essent. Oil Res.
+PD NOV 2
+PY 2023
+VL 35
+IS 6
+BP 542
+EP 562
+DI 10.1080/10412905.2023.2265376
+EA NOV 2023
+PG 21
+WC Chemistry, Applied; Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Food Science & Technology
+GA CS2R8
+UT WOS:001101803300001
+DA 2024-04-01
+ER
+
+EF

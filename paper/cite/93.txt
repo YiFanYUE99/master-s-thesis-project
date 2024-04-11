@@ -1,0 +1,57 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Indu
+   Baghel, AS
+   Bhardwaj, A
+   Ibrahim, W
+AF Indu
+   Baghel, Anurag Singh
+   Bhardwaj, Arpit
+   Ibrahim, Wubshet
+TI Optimization of Pesticides Spray on Crops in Agriculture using Machine
+   Learning
+SO COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+LA English
+DT Article
+ID BHOPAL GAS TRAGEDY
+AB Pesticides are chemicals used to eradicate pests. Not only are they used for plant protection and livestock in agriculture, but they are also used in public areas to kill mosquitoes, cockroaches, and other pests. Approximately 95% of the pesticides produced are only used in agriculture for crop protection. Every country wants to increase crop production. To protect their crops from pests, farmers must use pesticides. Exposure to pesticides is increasing day by day, whether occupationally or environmentally. This has resulted in an increase in crop production, but it has numerous adverse effects on human health, animal health, and the environment. Farmers repeatedly use the same pesticides on their crops, which is detrimental to human health and the environment. In this research, according to authors, the repetition of pesticides in agriculture is controlled using adjuvant and machine learning algorithms. An adjuvant is a chemical agent that is inserted within the pesticide product for enhanced pesticide performance. By utilizing an algorithm for machine learning, it is no longer necessary to repeatedly spray the same pesticide over the entire crop field in order to determine which sections of the crop field still require repeated pesticide spraying. In this research, the authors predict that 72.5% of insecticides are used in India. Logical regression classification, polynomial regression, and K-nearest neighbor algorithm (KNN) are applied to detect this required field.
+C1 [Indu; Baghel, Anurag Singh] Gautam Buddha Univ, USICT, Dept Comp Sci & Engn, Greater Noida, India.
+   [Bhardwaj, Arpit] BML Munjal Univ, Dept Comp Sci & Engn, Gurugram, India.
+   [Ibrahim, Wubshet] Ambo Univ, Dept Math, Ambo, Ethiopia.
+C3 Gautam Buddha University; BML Munjal University; Ambo University
+RP Ibrahim, W (corresponding author), Ambo Univ, Dept Math, Ambo, Ethiopia.
+EM indumalik92@gmail.com; asb.at@gbu.ac.in; arpitgsits17@gmail.com;
+   wubshet.ibrahim@ambou.edu.et
+RI Baghel, Anurag/H-9895-2015
+OI Baghel, Anurag/0000-0001-8053-8916; MALIK, INDU/0000-0003-3080-001X;
+   Ibrahim, Wubshet/0000-0003-2281-8842
+NR 29
+TC 4
+Z9 4
+U1 1
+U2 5
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1687-5265
+EI 1687-5273
+J9 COMPUT INTEL NEUROSC
+JI Comput. Intell. Neurosci.
+PD SEP 5
+PY 2022
+VL 2022
+AR 9408535
+DI 10.1155/2022/9408535
+PG 10
+WC Mathematical & Computational Biology; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematical & Computational Biology; Neurosciences & Neurology
+GA 5R9LF
+UT WOS:000874824200005
+PM 36105633
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

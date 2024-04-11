@@ -1,0 +1,73 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Teng, MM
+   Qi, SZ
+   Zhu, WT
+   Wang, Y
+   Wang, DZ
+   Yang, Y
+   Li, H
+   Li, CL
+   Dong, K
+   Wang, CJ
+AF Teng, Miaomiao
+   Qi, Suzhen
+   Zhu, Wentao
+   Wang, Yao
+   Wang, Dezhen
+   Yang, Yang
+   Li, Hui
+   Li, Chenglong
+   Dong, Kai
+   Wang, Chengju
+TI Sex-specific effects of difenoconazole on the growth hormone endocrine
+   axis in adult zebrafish (<i>Danio rerio</i>)
+SO ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+LA English
+DT Article
+DE Difenoconazole; Zebrafish; GH/IGF axis; Growth endocrine; Sex-specific
+ID MEDAKA ORYZIAS-MELASTIGMA; FACTOR IGF SYSTEM; JAPANESE EEL; INSULIN;
+   EXPRESSION; EXPOSURE; IDENTIFICATION; LIVER; GH; MECHANISM
+AB Difenoconazole, as one of the most widely used triazole fungicides, is applied to protect crops, fruits, and vegetables. It has been reported that difenoconazole can enter the environment and impair aquatic organisms, but whether difenoconazole can disrupt the growth hormone (GH) balance in adult zebrafish (Danio rerio) is still unclear. In this study, adult female and male zebrafish were exposed to difenoconazole (0, 5, 50, and 500 mu g/L) for seven days. The results revealed that the bioaccumulation of difenoconazole and its primary metabolite difenoconazole alcohol in females were both larger than that in males. In females, the growth of the liver and ovary were inhibited, which may be due to the decreased transcription of the key genes igf1a, igf2a, and igf2b in both organs. Male fish growth was promoted in response to the increased expression of genes relevant to the GH/insulin-like growth factor axis (GH/IGF) axis in the brain, liver, and testis as well as increased GH levels. It was found that difenoconazole interfered with the growth endocrine system and sex-specifically altered the expression of GH/IGF axis related genes in adult zebrafish after a short-term exposure.
+C1 [Teng, Miaomiao; Zhu, Wentao; Wang, Yao; Wang, Dezhen; Yang, Yang; Li, Hui; Li, Chenglong; Wang, Chengju] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+   [Qi, Suzhen] Chinese Acad Agr Sci, Inst Apiculture Res, Beijing, Peoples R China.
+   [Dong, Kai] Shandong Ruan Gas Co, Beijing, Shandong, Peoples R China.
+C3 China Agricultural University; Institute of Apicultural Research, CAAS;
+   Chinese Academy of Agricultural Sciences
+RP Wang, CJ (corresponding author), China Agr Univ, Coll Sci, Beijing, Peoples R China.
+EM wangchengju@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Wang, Dezhen/K-2489-2016
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946
+FU National Key Research and Development Program of China [2016YFD0200504]
+FX This research was supported by the National Key Research and Development
+   Program of China (Grant no. 2016YFD0200504)
+NR 59
+TC 33
+Z9 34
+U1 9
+U2 106
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0147-6513
+EI 1090-2414
+J9 ECOTOX ENVIRON SAFE
+JI Ecotox. Environ. Safe.
+PD OCT
+PY 2017
+VL 144
+BP 402
+EP 408
+DI 10.1016/j.ecoenv.2017.06.052
+PG 7
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA FE9JN
+UT WOS:000408520100049
+PM 28651189
+DA 2024-03-20
+ER
+
+EF

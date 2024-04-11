@@ -1,0 +1,48 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pandey, V
+AF Pandey, Vandana
+TI Predictionof Environmental FateandToxicityofInsecticidesUsing
+   Multi-Target QSAR Approach
+SO CHEMISTRY & BIODIVERSITY
+LA English
+DT Article
+DE descriptors; insecticides; lipophilicity; Mt-QSAR; risk assessment;
+   toxicology
+ID ACUTE TOXICITY; PESTICIDES; DERIVATIVES; VALIDATION
+AB Ecotoxicological risk assessments form the foundation of regulatory decisions for industrial chemicals used in various sectors. In this study, a multi-target-QSAR model established by a backpropagation neural network trained with the Levenberg-Marquardt (LM) algorithm was used to construct a statistically robust and easily interpretable Mt-QSAR model with high external predictability for the simultaneous prediction of the environmental fate in form of octanol-water partition coefficient (LogP), (BCF) and acute oral toxicity in mammals and birds (LD50rat) and (LD50bird) for a wide range of chemical structural classes of insecticides. Principal component analysis was performed on descriptors selected by the SW-MLR method, and the selected PCs were used for constructing the SW-MLR-PCA-ANN model. The developed well-trained model (RMSE=0.83, MPE=0.004, CCC=0.82, IIC=0.78, R2=0.69) was statistically robust as indicated by the external validation parameters (RMSE=0.93, MPE=0.008, CCC=0.77, IIC=0.68, R2=0.61). The AD of the developed Mt-QSAR model was also defined to identify the most reliable predictions. Finally, the missing values in the dataset for the aforementioned targets were predicted using the constructed Mt-QSAR model. The proposed approach can be used for simultaneous prediction of the environmental fate of new insecticides, especially ones that haven ' t been tested yet.
+   image
+C1 [Pandey, Vandana] Kurukshetra Univ, Dept Chem, Kurukshetra 136119, Haryana, India.
+C3 Kurukshetra University
+RP Pandey, V (corresponding author), Kurukshetra Univ, Dept Chem, Kurukshetra 136119, Haryana, India.
+EM vandanap.chem@kuk.ac.in
+NR 64
+TC 0
+Z9 0
+U1 4
+U2 4
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1612-1872
+EI 1612-1880
+J9 CHEM BIODIVERS
+JI Chem. Biodivers.
+PD JAN
+PY 2024
+VL 21
+IS 1
+DI 10.1002/cbdv.202301213
+EA DEC 2023
+PG 10
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA FC3G0
+UT WOS:001126240800001
+PM 38109053
+DA 2024-04-01
+ER
+
+EF

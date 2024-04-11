@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Thompson, PT
+   Moseley, HNB
+AF Thompson, P. Travis
+   Moseley, Hunter N. B.
+TI MESSES: Software for Transforming Messy Research Datasets into Clean
+   Submissions to Metabolomics Workbench for Public Sharing
+SO METABOLITES
+LA English
+DT Article
+DE data sharing; dataset deposition; metadata capture; data transformation;
+   Python programming language; Metabolomics Workbench
+ID METABOLIGHTS; REPOSITORY; STANDARDS
+AB In recent years, the FAIR guiding principles and the broader concept of open science has grown in importance in academic research, especially as funding entities have aggressively promoted public sharing of research products. Key to public research sharing is deposition of datasets into online data repositories, but it can be a chore to transform messy unstructured data into the forms required by these repositories. To help generate Metabolomics Workbench depositions, we have developed the MESSES (Metadata from Experimental SpreadSheets Extraction System) software package, implemented in the Python 3 programming language and supported on Linux, Windows, and Mac operating systems. MESSES helps transform tabular data from multiple sources into a Metabolomics Workbench specific deposition format. The package provides three commands, extract, validate, and convert, that implement a natural data transformation workflow. Moreover, MESSES facilitates richer metadata capture than is typically attempted by manual efforts. The source code and extensive documentation is hosted on GitHub and is also available on the Python Package Index for easy installation.
+C1 [Thompson, P. Travis; Moseley, Hunter N. B.] Univ Kentucky, Superfund Res Ctr, Lexington, KY 40536 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40536 USA.
+   [Moseley, Hunter N. B.] Ctr Clin & Translat Sci, Lexington, KY 40536 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Markey Canc Ctr, Lexington, KY 40536 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Inst Biomed Informat, Lexington, KY 40536 USA.
+C3 University of Kentucky; University of Kentucky; University of Kentucky;
+   University of Kentucky
+RP Moseley, HNB (corresponding author), Univ Kentucky, Superfund Res Ctr, Lexington, KY 40536 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40536 USA.; Moseley, HNB (corresponding author), Ctr Clin & Translat Sci, Lexington, KY 40536 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Markey Canc Ctr, Lexington, KY 40536 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Inst Biomed Informat, Lexington, KY 40536 USA.
+EM hunter.moseley@uky.edu
+OI Moseley, Hunter/0000-0003-3995-5368
+FU The authors would like to acknowledge the large continual effort that
+   Shankar Subramaniam, Eoin Fahy, and the whole MW/UC San Diego team have
+   put into maintaining and expanding the repository.
+FX The authors would like to acknowledge the large continual effort that
+   Shankar Subramaniam, Eoin Fahy, and the whole MW/UC San Diego team have
+   put into maintaining and expanding the repository.
+NR 22
+TC 0
+Z9 0
+U1 1
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD JUL
+PY 2023
+VL 13
+IS 7
+AR 842
+DI 10.3390/metabo13070842
+PG 25
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA S5FH3
+UT WOS:001071418400001
+PM 37512549
+OA Green Published, Green Submitted, gold
+DA 2024-04-08
+ER
+
+EF

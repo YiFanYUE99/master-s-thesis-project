@@ -1,0 +1,44 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Guha, R
+AF Guha, Rajarshi
+TI Chemical Informatics functionality in R
+SO JOURNAL OF STATISTICAL SOFTWARE
+LA English
+DT Article
+DE R; Java; CDK; PubChem; cheminformatics
+ID COEFFICIENTS; PREDICTION
+AB The flexibility and scope of the R programming environment has made it a popular choice for statistical modeling and scientific prototyping in a number of fields. In the field of chemistry, R provides several tools for a variety of problems related to statistical modeling of chemical information. However, one aspect common to these tools is that they do not have direct access to the information that is available from chemical structures, such as contained in molecular descriptors. We describe the rcdk package that provides the R user with access to the CDK, a Java framework for cheminformatics. As a result, it is possible to read in a variety of molecular formats, calculate molecular descriptors and evaluate fingerprints. In addition, we describe the rpubchem that will allow access to the data in PubChem, a public repository of molecular structures and associated assay data for approximately 8 million compounds. Currently, the package allows access to structural information as well as some simple molecular properties from PubChem. In addition the package allows access to bio-assay data from the PubChem FTP servers.
+C1 Indiana Univ, Sch Informat, Bloomington, IN 47408 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Guha, R (corresponding author), Indiana Univ, Sch Informat, Bloomington, IN 47408 USA.
+EM rguha@indiana.edu
+NR 23
+TC 188
+Z9 205
+U1 1
+U2 13
+PU JOURNAL STATISTICAL SOFTWARE
+PI LOS ANGELES
+PA UCLA DEPT STATISTICS, 8130 MATH SCIENCES BLDG, BOX 951554, LOS ANGELES,
+   CA 90095-1554 USA
+SN 1548-7660
+J9 J STAT SOFTW
+JI J. Stat. Softw.
+PD JAN
+PY 2007
+VL 18
+IS 5
+PG 16
+WC Computer Science, Interdisciplinary Applications; Statistics &
+   Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 134EZ
+UT WOS:000244067600001
+OA gold
+DA 2024-04-01
+ER
+
+EF

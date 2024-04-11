@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, L
+   Liang, HW
+   Zhao, TT
+   Liu, Y
+   Yan, S
+   Zhu, WT
+AF Li, Li
+   Liang, Hongwu
+   Zhao, Tingting
+   Liu, Yu
+   Yan, Sen
+   Zhu, Wentao
+TI Differential effects of thiamethoxam and clothianidin exposure on their
+   tissue distribution and chronic toxicity in mice
+SO CHEMICO-BIOLOGICAL INTERACTIONS
+LA English
+DT Article
+DE Clothianidin; Distribution; Gut microbiota; Metabolomics; Thiamethoxam
+ID ENVIRONMENTAL RISKS
+AB The frequent application of second-generation neonicotinoids thiamethoxam (TMX) and clothianidin (CLO) has led to a high detectable rate in environment samples and poses threats to nontarget organisms and human beings, however, the information on the influences of long-term exposure at low doses was limited. In this study, the tissue distribution of TMX and CLO in mice at acceptable daily intake (ADI) level and 5 x ADI was determined and the health effects were assessed. TMX and CLO were detected in the liver, serum, lung, heart and kidney in the TMX exposure groups, which indicated that TMX degraded to CLO in mice. Residue levels of TMX in tissues increased with the increasing of doses. The concentrations of CLO in different tissues in the CLO exposure groups were in the order C-kidney > C-lung > C-heart > C-liver. Measurement of biochemical indicators, combined with metabolomic analysis of liver, kidney, and cecal contents, examination of changes in the gut microbiota, and histopathological assessment indicated that both TMX and CLO affected energy absorption and lipid metabolism in mice and destroyed tissue structures. Furthermore, we found that CLO had a stronger effect on metabolism in mice, despite its lower acute toxicity. These results have prompted us to consider the chronic toxicity and potential hazards of chemicals in future risk assessments.
+C1 [Li, Li] Shanxi Agr Univ, Coll Plant Protect, Taiyuan 030031, Peoples R China.
+   [Liang, Hongwu; Zhao, Tingting; Liu, Yu] Inner Mongolia Univ, Sch Ecol & Environm, Inner Mongolia Key Lab Environm Pollut Control Wa, Hohhot 010021, Peoples R China.
+   [Yan, Sen; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Coll Sci, Innovat Ctr Pesticide Res, Beijing 100193, Peoples R China.
+C3 Shanxi Agricultural University; Inner Mongolia University; China
+   Agricultural University
+RP Li, L (corresponding author), 81 Longcheng St, Taiyuan 030031, Peoples R China.
+EM sxaulili@sxau.edu.cn
+RI liang, hongwu/GYQ-6665-2022; Zhu, Wentao/O-8964-2019
+OI Zhu, Wentao/0000-0001-6371-7998; Li, Li/0000-0003-2206-6804; Yan,
+   Sen/0000-0001-7361-6285
+FU Fundamental Research Program of Shanxi Province [20210302124131]
+FX This study was supported by the Fundamental Research Program of Shanxi
+   Province (20210302124131).
+NR 58
+TC 5
+Z9 5
+U1 14
+U2 44
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0009-2797
+EI 1872-7786
+J9 CHEM-BIOL INTERACT
+JI Chem.-Biol. Interact.
+PD OCT 1
+PY 2022
+VL 366
+AR 110149
+DI 10.1016/j.cbi.2022.110149
+EA SEP 2022
+PG 9
+WC Biochemistry & Molecular Biology; Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Pharmacology & Pharmacy; Toxicology
+GA 6E2BA
+UT WOS:000883186300001
+PM 36084723
+DA 2024-03-20
+ER
+
+EF

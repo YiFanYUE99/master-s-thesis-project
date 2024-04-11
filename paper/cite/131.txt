@@ -1,0 +1,78 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Malla, MA
+   Dubey, A
+   Kori, RK
+   Sharma, V
+   Kumar, A
+   Yadav, S
+   Kumari, S
+AF Malla, Muneer Ahmad
+   Dubey, Anamika
+   Kori, Rajeesh Kumar
+   Sharma, Vandana
+   Kumar, Ashwani
+   Yadav, Shweta
+   Kumari, Sheena
+TI GC-MS based untargeted metabolomics reveals the metabolic response of
+   earthworm (<i>Eudrilus eugeniae</i>) after chronic combinatorial
+   exposure to three different pesticides
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID TIME-DEPENDENT RESPONSES; EISENIA-FOETIDA; CAENORHABDITIS-ELEGANS;
+   TOXICITY; BIOACCUMULATION; CHLORPYRIFOS; CARBOFURAN; GLYPHOSATE;
+   MIXTURES; FETIDA
+AB In this study GC-MS-based untargeted metabolomics was used to identify the metabolic response of earthworm; Eudrilus eugeniae exposed to sub-lethal concentrations of chlorpyrifos-CHL, cypermethrin-CYP, Glyphosate-GLY, and Combined-C (all three pesticides) at the concentrations of 3, 6, and 12 mg/kg. Principal component analysis of the obtained datasets revealed a clear distinction between the control and treatment groups. The mean weight of the worms in the treated groups decreased significantly (p < 0.05). Among the identified metabolites, oleic acid (similar to 93.47%), lysine (similar to 92.20%), glutamic acid (similar to 91.81%), leucine (similar to 90.20%), asparagine (similar to 94.20%), methionine (similar to 92.27%), malic acid (similar to 93.37%), turanose (similar to 95.04%), maltose (similar to 92.36%), cholesta-3,5-diene (similar to 86.11%), galactose (similar to 93.20%), cholesterol (similar to 91.56%), tocopherol (similar to 85.09%), decreased significantly (p < 0.05), whereas myoinositol (similar to 83%) and isoleucine (78.09%) increased significantly (p < 0.05) upon exposure to the CHL, CYP, GLY, and C. Overall, the findings suggest that earthworms might be a new entry point for the pesticides into the food chain. The present study highlights that metabolomics can be a reliable approach to understand the effect of different xenobiotics including pesticides on the metabolic response of earthworms.
+C1 [Malla, Muneer Ahmad; Yadav, Shweta] Dr Hari Singh Gour Vishwavidyalaya, Cent Univ, Dept Zool, Sagar 470003, MP, India.
+   [Malla, Muneer Ahmad; Dubey, Anamika; Kumar, Ashwani] Dr Hari Singh Gour Vishwavidyalaya, Cent Univ, Dept Bot, Metagen & Secret Res Lab, Sagar 470003, MP, India.
+   [Kori, Rajeesh Kumar] Minist Youth & Sports, GOI, Natl Dope Testing Lab, IRMS, New Delhi, India.
+   [Sharma, Vandana] Indian Inst Integrat Med, CSIR, Qual Control & Qual Assurance Div, Canal Rd, Jammu 180001, India.
+   [Kumar, Ashwani] Univ Allahabad, Cent Univ, Dept Bot, Metagen & Secret Res Lab, Prayagraj 211002, UP, India.
+   [Kumari, Sheena] Durban Univ Technol, Inst Water & Wastewater Technol, ZA-4001 Durban, South Africa.
+C3 Dr. Hari Singh Gour University; Dr. Hari Singh Gour University; Council
+   of Scientific & Industrial Research (CSIR) - India; CSIR - Indian
+   Institute of Integrative Medicine (IIIM); University of Allahabad;
+   Durban University of Technology
+RP Kumar, A (corresponding author), Dr Hari Singh Gour Vishwavidyalaya, Cent Univ, Dept Bot, Metagen & Secret Res Lab, Sagar 470003, MP, India.; Kumar, A (corresponding author), Univ Allahabad, Cent Univ, Dept Bot, Metagen & Secret Res Lab, Prayagraj 211002, UP, India.
+EM ashwaniiitd@hotmail.com
+RI Kumari, Sheena/AAF-8318-2019; Dubey, Dr. Anamika/AAH-1834-2019; KUMAR,
+   ASHWANI/B-6408-2012
+OI Kumari, Sheena/0000-0002-3436-8263; Dubey, Dr.
+   Anamika/0000-0003-1200-8379; KUMAR, ASHWANI/0000-0002-8453-3183; Malla,
+   Muneer Ahmad/0000-0001-7878-6240
+FU National Research Foundation of South Africa [129358]
+FX AcknowledgementsMM would like to acknowledge University Ph.D. Fellowship
+   for financial support. SK would like to acknowledge the National
+   Research Foundation of South Africa (UID number 129358) for financial
+   support.
+NR 85
+TC 2
+Z9 2
+U1 13
+U2 23
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 26
+PY 2023
+VL 13
+IS 1
+AR 8583
+DI 10.1038/s41598-023-35225-1
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA I2IL0
+UT WOS:001001070500021
+PM 37237073
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,82 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, Y
+   Chen, D
+   Xu, YZ
+   Ma, LL
+   Du, MY
+   Li, P
+   Yin, ZB
+   Xu, HH
+   Wu, XZ
+AF Zhang, Yue
+   Chen, Dong
+   Xu, Yizhu
+   Ma, Lianlian
+   Du, Mingyi
+   Li, Ping
+   Yin, Zhibin
+   Xu, Hanhong
+   Wu, Xinzhou
+TI Stereoselective toxicity mechanism of neonicotinoid dinotefuran in
+   honeybees: New perspective from a spatial metabolomics study
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Chiral pesticides; Stereoselectivity; Energy metabolism; Metabolic
+   cross-regulation; Spatial differentiation; MSI
+ID METABOLISM; BEE; THIAMETHOXAM; FORMULATION; BRAIN; FATE
+AB Development of stereoisomeric neonicotinoid pesticides with lower toxicity is key to preventing global population declines of honeybees, whereas little is known about the in situ metabolic regulation of honeybees in response to stereoisomeric pesticides. Herein, we demonstrate an integrated mass spectrometry imaging (MSI) and untargeted metabolomics method to disclose disturbed metabolic expression levels and spatial differentiation in honeybees (Apis cerana) associated with stereoisomeric dinotefuran. This method affords a metabolic network mapping capability regarding a wide range of metabolites involved in multiple metabolic pathways in honeybees. Metabolomics results indicate more metabolic pathways of honeybees can be significantly affected by S-(+)-dinotefuran than R-(-)-dinotefuran, such as tricarboxylic acid (TCA) cycle, glyoxylate and dicarboxylate metabolism, and various amino acid metabolisms. MSI results demonstrate the cross-regulation and spatial differentiation of crucial metabolites involved in the TCA cycle, purine, glycolysis, and amino acidmetabolisms within honeybees. Taken together, the integrated MSI and metabolomics results indicated the higher toxicity of S-(+)-dinotefuran arises from metabolic pathway disturbance and its inhibitory role in the energy metabolism, resulting in significantly reduced degradation rates of detoxification mechanisms. From the view of spatial metabolomics, our findings provide novel perspectives for the development and applications of pure chiral agrochemicals. (C) 2021 Elsevier B.V. All rights reserved.
+C1 [Zhang, Yue; Chen, Dong; Xu, Yizhu; Ma, Lianlian; Du, Mingyi; Li, Ping; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, Minist Educ, State Key Lab Conservat & Utilizat Subtrop Agrobi, Guangzhou 510642, Peoples R China.
+   [Zhang, Yue; Chen, Dong; Xu, Yizhu; Ma, Lianlian; Du, Mingyi; Li, Ping; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, Minist Educ, Key Lab Nat Pesticide & Chem Biol, Guangzhou 510642, Peoples R China.
+   [Yin, Zhibin] Guangdong Acad Agr Sci, Agrobiol Gene Res Ctr, Guangzhou 510640, Peoples R China.
+   [Zhang, Yue] South China Agr Univ, Coll Plant Protect, Key Lab Biopesticide Creat & Applicat Guangdong P, Guangzhou 510642, Peoples R China.
+C3 South China Agricultural University; South China Agricultural
+   University; Guangdong Academy of Agricultural Sciences; South China
+   Agricultural University
+RP Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, Minist Educ, State Key Lab Conservat & Utilizat Subtrop Agrobi, Guangzhou 510642, Peoples R China.; Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, Minist Educ, Key Lab Nat Pesticide & Chem Biol, Guangzhou 510642, Peoples R China.; Yin, ZB (corresponding author), Guangdong Acad Agr Sci, Agrobiol Gene Res Ctr, Guangzhou 510640, Peoples R China.
+EM zbyin@agrogene.ac.cn; hhxu@scan.edu.cn; wuxz@scau.edu.cn
+RI Yin, Zhibin/I-3780-2017
+OI Yin, Zhibin/0000-0002-2434-4495
+FU National Natural Science Foundation of China [31901911, 21904142];
+   Natural Science Foundation of Guangdong Province [2019A1515011521];
+   Science and Technology Planning Project of Guangzhou [201904010248];
+   Special Fund for Scientific Innovation StrategyConstruction of High
+   Level Academy of Agriculture Science [R2021YJ-QG004]
+FX We are grateful to the financial support from National Natural Science
+   Foundation of China (Nos. 31901911 and 21904142). We also acknowledge
+   the Natural Science Foundation of Guangdong Province (No.
+   2019A1515011521) and the Science and Technology Planning Project of
+   Guangzhou (No. 201904010248). This work is also supported by a Special
+   Fund for Scientific Innovation StrategyConstruction of High Level
+   Academy of Agriculture Science (No. R2021YJ-QG004).
+NR 51
+TC 14
+Z9 16
+U1 38
+U2 203
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD FEB 25
+PY 2022
+VL 809
+AR 151116
+DI 10.1016/j.scitotenv.2021.151116
+EA JAN 2022
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA YH5ZS
+UT WOS:000743246100007
+PM 34688756
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,65 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lapcharoensuk, R
+   Fhaykamta, C
+   Anurak, W
+   Chadwut, W
+   Sitorus, A
+AF Lapcharoensuk, Ravipat
+   Fhaykamta, Chawisa
+   Anurak, Watcharaporn
+   Chadwut, Wasita
+   Sitorus, Agustami
+TI Nondestructive Detection of Pesticide Residue (Chlorpyrifos) on Bok Choi
+   (<i>Brassica rapa</i> subsp. Chinensis) Using a Portable NIR
+   Spectrometer Coupled with a Machine Learning Approach
+SO FOODS
+LA English
+DT Article
+DE NIR spectroscopy; machine learning; bok choi; pesticide
+ID NEAR-INFRARED SPECTROSCOPY; COMPONENTS; CUCUMBER
+AB The contamination of agricultural products, such as vegetables, by pesticide residues has received considerable attention worldwide. Pesticide residue on vegetables constitutes a potential risk to human health. In this study, we combined near infrared (NIR) spectroscopy with machine learning algorithms, including partial least-squares discrimination analysis (PLS-DA), support vector machine (SVM), artificial neural network (ANN), and principal component artificial neural network (PC-ANN), to identify pesticide residue (chlorpyrifos) on bok choi. The experimental set comprised 120 bok choi samples obtained from two small greenhouses that were cultivated separately. We performed pesticide and pesticide-free treatments with 60 samples in each group. The vegetables for pesticide treatment were fortified with 2 mL/L of chlorpyrifos 40% EC residue. We connected a commercial portable NIR spectrometer with a wavelength range of 908-1676 nm to a small single-board computer. We analyzed the pesticide residue on bok choi using UV spectrophotometry. The most accurate model correctly classified 100% of the samples used in the calibration set in terms of the content of chlorpyrifos residue on samples using SVM and PC-ANN with raw data spectra. Thus, we tested the model using an unknown dataset of 40 samples to verify the robustness of the model, which produced a satisfactory F1-score (100%). We concluded that the proposed portable NIR spectrometer coupled with machine learning approaches (PLS-DA, SVM, and PC-ANN) is appropriate for the detection of chlorpyrifos residue on bok choi.
+C1 [Lapcharoensuk, Ravipat; Fhaykamta, Chawisa; Anurak, Watcharaporn; Chadwut, Wasita; Sitorus, Agustami] King Mongkuts Inst Technol, Sch Engn, Dept Agr Engn, Bangkok 10520, Thailand.
+   [Sitorus, Agustami] Natl Res & Innovat Agcy BRIN, Res Ctr Appropriate Technol, Subang 41213, Indonesia.
+C3 King Mongkuts University of Technology North Bangkok; National Research
+   & Innovation Agency of Indonesia (BRIN)
+RP Lapcharoensuk, R (corresponding author), King Mongkuts Inst Technol, Sch Engn, Dept Agr Engn, Bangkok 10520, Thailand.
+EM ravipat.la@kmitl.ac.th
+OI Lapcharoensuk, Ravipat/0000-0003-3544-5977
+FU King Mongkut's Institute of Technology Ladkrabang (KMITL)
+   [FRB650028/0258]; National Science, Research and Innovation Fund (NSRF)
+FX This study is part of the project entitled An Integrated Technology for
+   Sustainable Development on Agricultural Industry by King Mongkut's
+   Institute of Technology Ladkrabang (KMITL). Research funding (funding
+   number: FRB650028/0258) was supported by the National Science, Research
+   and Innovation Fund (NSRF).
+NR 58
+TC 6
+Z9 7
+U1 23
+U2 41
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2304-8158
+J9 FOODS
+JI Foods
+PD MAR
+PY 2023
+VL 12
+IS 5
+AR 955
+DI 10.3390/foods12050955
+PG 13
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA 9T9XP
+UT WOS:000947376200001
+PM 36900472
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

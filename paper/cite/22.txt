@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Bora, A
+   Crisan, L
+   Borota, A
+   Funar-Timofei, S
+   Ilia, G
+AF Bora, Alina
+   Crisan, Luminita
+   Borota, Ana
+   Funar-Timofei, Simona
+   Ilia, Gheorghe
+BE Roy, K
+TI Ecotoxicological QSAR Modeling of Organophosphorus and Neonicotinoid
+   Pesticides
+SO ECOTOXICOLOGICAL QSARS
+SE Methods in Pharmacology and Toxicology
+LA English
+DT Article; Book Chapter
+DE QSAR; QSTR; Toxicity; Organophosphorus; Neonicotinoid; Environment;
+   Acetylcholinesterase; Agrochemical; Ecology; Bioconcentration factor
+ID NICOTINIC ACETYLCHOLINE-RECEPTOR; INSECTICIDAL ACTIVITY;
+   CRYSTAL-STRUCTURE; IMIDACLOPRID DERIVATIVES; NEUROBLOCKING POTENCIES;
+   PHOSPHORYLATION SITE; SELECTIVE TOXICITY; ENVIRONMENTAL FATE; MOLECULAR
+   DOCKING; RISK-ASSESSMENT
+AB Organophosphorus and neonicotinoid pesticides are important agrochemicals used worldwide. The beginning of the quantitative structure-activity/toxicity relationship (QSAR/QSTR) field, after the 1960s, is related to the study of the organophosphorus pesticide activity. QSARs have been recognized as an important research direction in the field of medicinal, analytical chemistry, toxicology, pharmaceutical, and environmental chemistry. The main aim of QSAR/QSTR models is to find reliable relationships between the biological activity/toxicity and the experimental or theoretical compound molecular descriptors, to design new structures with improved target properties and safety profile. In this chapter, successful QSAR models are presented for the ecotoxicological data of organophosphorus and neonicotinoid pesticides. In particular, QSAR models for organophosphorus aquatic and terrestrial organism ecotoxicity; for the neonicotinoid toxicity against the honeybees, Musca domestica L., American cockroach, and aphids (Aphis craccivora and Myzus persicae); and for the inhibition ability of acetylcholinesterase and other enzymes by organophosphorus pesticides are presented. The literature data indicate a large variety of QSAR approaches employed in these published studies. In case of organophosphorus pesticides, many available ecotoxicity data for human beings and animals were employed in the computational studies. For the neonicotinoid pesticides a limited number of QSAR models were reported, especially due to the lack of the degradability and aquatic organism toxicity data. The ligand-based combined with structure-based approaches remain a powerful tool in the design of new environment-friendly and less toxic organophosphorus and neonicotinoid pesticides.
+C1 [Bora, Alina; Crisan, Luminita; Borota, Ana; Funar-Timofei, Simona; Ilia, Gheorghe] Coriolan Dragulescu Inst Chem, Timisoara, Romania.
+   [Ilia, Gheorghe] West Univ Timisoara, Fac Chem Biol & Geog, Timisoara, Romania.
+C3 Romanian Academy of Sciences; Institute of Chemistry, Timisoara; West
+   University of Timisoara
+RP Bora, A (corresponding author), Coriolan Dragulescu Inst Chem, Timisoara, Romania.
+RI ILIA, GHEORGHE/A-6419-2010; Borota, Ana/AFL-9809-2022
+OI ILIA, GHEORGHE/0000-0002-2262-6122; Borota, Ana/0000-0003-1138-8357;
+   Crisan, Luminita/0000-0001-7148-5701
+FU "Coriolan Dragulescu" Institute of Chemistry of the Romanian Academy
+   [1.1/2018]
+FX This work was financially supported by the Project No. 1.1/2018 of the
+   "Coriolan Dragulescu" Institute of Chemistry of the Romanian Academy.
+   Alina Bora, Luminita Crisan, and Ana Borota contributed equally to this
+   work.
+NR 124
+TC 2
+Z9 2
+U1 4
+U2 21
+PU HUMANA PRESS INC
+PI TOTOWA
+PA 999 RIVERVIEW DR, STE 208, TOTOWA, NJ 07512-1165 USA
+SN 1557-2153
+EI 1940-6053
+BN 978-1-0716-0150-1; 978-1-0716-0149-5
+J9 METHOD PHARMACOL TOX
+JI Methods Pharmacol. Toxicol.
+PY 2020
+BP 513
+EP 544
+DI 10.1007/978-1-0716-0150-1_21
+D2 10.1007/978-1-0716-0150-1
+PG 32
+WC Chemistry, Analytical; Ecology; Toxicology
+WE Book Citation Index – Science (BKCI-S)
+SC Chemistry; Environmental Sciences & Ecology; Toxicology
+GA BR8WA
+UT WOS:000674448200022
+DA 2024-04-01
+ER
+
+EF

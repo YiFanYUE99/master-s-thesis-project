@@ -1,0 +1,40 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Werner, DJ
+   Worthington, SM
+   Snelling, LK
+AF Werner, DJ
+   Worthington, SM
+   Snelling, LK
+TI 'China Pearl' peach
+SO JOURNAL AMERICAN POMOLOGICAL SOCIETY
+LA English
+DT Article
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER POMOLOGICAL SOC
+PI UNIVERSITY PK
+PA 102 TYSON BUILDING, UNIVERSITY PK, PA 16802 USA
+SN 1527-3741
+J9 J AMER POMOLOG SOC
+JI J. Amer. Pomolog. Soc.
+PD APR
+PY 2002
+VL 56
+IS 2
+BP 69
+EP 71
+PG 3
+WC Agronomy; Horticulture
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA 543XT
+UT WOS:000175128700002
+DA 2024-04-01
+ER
+
+EF

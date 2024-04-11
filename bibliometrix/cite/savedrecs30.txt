@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, S
+   Tian, SN
+   Meng, ZY
+   Yan, J
+   Jia, M
+   Li, RS
+   Zhou, ZQ
+   Zhu, WT
+AF Yan, Sen
+   Tian, Sinuo
+   Meng, Zhiyuan
+   Yan, Jin
+   Jia, Ming
+   Li, Ruisheng
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Imbalance of gut microbiota and fecal metabolites in offspring female
+   mice induced by nitenpyram exposure during pregnancy
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Neonicotinoid insecticides; Nitenpyram; Serum glucose; Gut microbiota;
+   Fecal metabolomics
+ID DIET-INDUCED ADIPOSITY; NEONICOTINOID INSECTICIDES; RISK-ASSESSMENT;
+   PESTICIDES; RESISTANCE; MECHANISMS; RESIDUES; IMPACT
+AB Ubiquitous exposure to the neonicotinoid insecticide nitenpyram has raised concerns about its potential toxicity. In this study, we explored its health effects on the female offspring of mice that had been exposed during pregnancy. We found that exposure of pregnant mice to nitenpyram resulted in decreased levels of serum triglycerides, total cholesterol, and glucose in female offspring, and additional research uncovered gut microbiota disturbances, accompanied by abnormal fecal metabolic profiles. Based on Pearson correlation analysis, we found that decreased abundance of Lactobacillus may play the most critical role, and changes in gut bacterial purine metabolism, BCAAs metabolism, and the TCA cycle are all closely related to the abundance of Lactobacillus. In summary, these results help explain the observed serum biochemical abnormalities and provide new insights into the intergenerational toxicity of nitenpyram. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Yan, Sen; Tian, Sinuo; Meng, Zhiyuan; Yan, Jin; Jia, Ming; Li, Ruisheng; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; Zhou, Zhiqiang/HIR-4954-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202).
+NR 50
+TC 24
+Z9 24
+U1 11
+U2 138
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD DEC
+PY 2020
+VL 260
+AR 127506
+DI 10.1016/j.chemosphere.2020.127506
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA NW7KB
+UT WOS:000575197000014
+PM 32673867
+DA 2024-03-20
+ER
+
+EF

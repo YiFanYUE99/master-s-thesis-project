@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Farnoud, A
+   Ohnmacht, AJ
+   Meinel, M
+   Menden, MP
+AF Farnoud, Ali
+   Ohnmacht, Alexander J.
+   Meinel, Martin
+   Menden, Michael P.
+TI Can artificial intelligence accelerate preclinical drug discovery and
+   precision medicine?
+SO EXPERT OPINION ON DRUG DISCOVERY
+LA English
+DT Editorial Material
+DE Artificial intelligence; machine learning; deep learning; drug
+   discovery; pharmacogenomics; biomarkers; precision medicine
+ID CANCER
+C1 [Farnoud, Ali; Ohnmacht, Alexander J.; Meinel, Martin; Menden, Michael P.] Helmholtz Ctr Munich, Inst Computat Biol, Munich, Germany.
+   [Ohnmacht, Alexander J.; Menden, Michael P.] Ludwig Maximilians Univ Munchen, Dept Biol, Munich, Germany.
+   [Meinel, Martin] Tech Univ Munich, Dept Dermatol & Allergy, Munich, Germany.
+   [Menden, Michael P.] German Ctr Diabet Res DZD eV, Munich, Germany.
+C3 Helmholtz Association; Helmholtz-Center Munich - German Research Center
+   for Environmental Health; University of Munich; Technical University of
+   Munich
+RP Menden, MP (corresponding author), Helmholtz Ctr Munich, Inst Computat Biol, Munich, Germany.
+EM michael.menden@helmholtz-muenchen.de
+RI Fitzgerald, Michael P/C-2642-2009; Farnoud, Ali/AAW-6839-2021; Poole,
+   Michael S/K-6707-2013; Poli, Michael/HLV-9800-2023
+OI Farnoud, Ali/0000-0002-9298-5497; Menden, Michael/0000-0003-0267-5792;
+   Meinel, Martin/0000-0002-4042-6247
+FU European Research Council [950293]; European Research Council (ERC)
+   [950293] Funding Source: European Research Council (ERC)
+FX The authors are supported by a H2020 European Research Council grant
+   under No. 950293.
+NR 24
+TC 2
+Z9 2
+U1 11
+U2 28
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1746-0441
+EI 1746-045X
+J9 EXPERT OPIN DRUG DIS
+JI Expert. Opin. Drug Discov.
+PD JUL 3
+PY 2022
+VL 17
+IS 7
+BP 661
+EP 665
+DI 10.1080/17460441.2022.2090540
+EA JUN 2022
+PG 5
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 3J9VD
+UT WOS:000813632900001
+PM 35708267
+OA Bronze
+DA 2024-04-07
+ER
+
+EF

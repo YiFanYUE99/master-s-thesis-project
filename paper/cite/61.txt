@@ -1,0 +1,64 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jeschke, P
+   Nauen, R
+   Schindler, M
+   Elbert, A
+AF Jeschke, Peter
+   Nauen, Ralf
+   Schindler, Michael
+   Elbert, Alfred
+TI Overview of the Status and Global Strategy for Neonicotinoids
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE neonicotinoid insecticides; agonist; acetylcholine receptor;
+   acetylcholine-binding protein; application methods; resistance
+   management; homology model
+ID ACETYLCHOLINE-BINDING-PROTEIN; CHLORONICOTINYL INSECTICIDE;
+   CRYSTAL-STRUCTURE; EFFICACY; RESISTANCE; RECEPTOR; TRANSLOCATION;
+   RECOGNITION; METABOLITES; REVEALS
+AB In recent years, neonicotinoid insecticides have been the fastest growing class of insecticides in modern crop protection, with widespread use against a broad spectrum of sucking and certain chewing pests. As potent agonists, they act selectively on insect nicotinic acetylcholine receptors (nAChRs), their molecular target site. The discovery of neonicotinoids can be considered as a milestone in insecticide research and greatly facilitates the understanding of functional properties of the insect nAChRs. In this context, the crystal structure of the acetylcholine-binding proteins provides the theoretical foundation for designing homology models of the corresponding receptor ligand binding domains within the nAChRs, a useful basis for virtual screening of chemical libraries and rational design of novel insecticides acting on these practically relevant channels. Because of the relatively low risk for nontarget organisms and the environment, the high target specificity of neonicotinoid insecticides, and their versatility in application methods, this important class has to be maintained globally for integrated pest management strategies and insect resistance management programs. Innovative concepts for life-cycle management, jointly with the introduction of generic products, have made neonicotinoids the most important chemical class for the insecticide market.
+C1 [Jeschke, Peter] Bayer CropSci AG, Res Insecticides Chem Insecticides, D-40789 Monheim, Germany.
+   [Nauen, Ralf] Bayer CropSci AG, Res Biol, D-40789 Monheim, Germany.
+   [Schindler, Michael] Bayer CropSci AG, Discovery Res, D-40789 Monheim, Germany.
+   [Elbert, Alfred] Bayer CropSci AG, Agron Dev, D-40789 Monheim, Germany.
+C3 Bayer AG; Bayer CropScience; Bayer AG; Bayer CropScience; Bayer AG;
+   Bayer CropScience; Bayer AG; Bayer CropScience
+RP Jeschke, P (corresponding author), Bayer CropSci AG, Res Insecticides Chem Insecticides, Bldg 6240,Alfred Nobel Str 50, D-40789 Monheim, Germany.
+EM peter.jeschke@bayercropscience.com
+RI Nauen, Ralf/AAG-5840-2019
+OI Nauen, Ralf/0000-0002-7525-8589; Schindler, Michael/0000-0002-5141-636X
+NR 90
+TC 1278
+Z9 1464
+U1 54
+U2 896
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD APR 13
+PY 2011
+VL 59
+IS 7
+SI SI
+BP 2897
+EP 2908
+DI 10.1021/jf101303g
+PG 12
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA 743WQ
+UT WOS:000289050400021
+PM 20565065
+DA 2024-04-06
+ER
+
+EF

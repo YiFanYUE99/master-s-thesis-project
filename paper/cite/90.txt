@@ -1,0 +1,36 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Harris, E
+AF Harris, Emily
+TI Machine Learning Algorithms Failed to Find Depression Biomarker
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT News Item; Early Access
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 0098-7484
+EI 1538-3598
+J9 JAMA-J AM MED ASSOC
+JI JAMA-J. Am. Med. Assoc.
+PD 2024 FEB 20
+PY 2024
+DI 10.1001/jama.2023.28339
+EA FEB 2024
+PG 1
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA GW3S7
+UT WOS:001155676600004
+PM 38294824
+DA 2024-04-07
+ER
+
+EF

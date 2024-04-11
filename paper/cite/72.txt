@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, XL
+   Su, H
+   Wang, J
+   Li, GP
+   Feng, HQ
+   Zhang, JY
+AF Wang, Xueli
+   Su, Heng
+   Wang, Juan
+   Li, Guoping
+   Feng, Hongqiang
+   Zhang, Jinyong
+TI Monitoring of insecticide resistance for Apolygus lucorum populations in
+   the apple orchard in China
+SO CROP PROTECTION
+LA English
+DT Article
+DE Apolygus lucorum; Pesticides; Apple orchard; Glass -vial bioassays;
+   Artificial diet bioassays; Field population
+ID HEMIPTERA-MIRIDAE; ARTIFICIAL DIET; MULTIPLE CROPS; BT COTTON; PLANT
+   BUG; CHLORPYRIFOS; HETEROPTERA; COLEOPTERA; AREAS; HOSTS
+AB Apolygus lucorum (Meyer-Dur) (Hemiptera: Miridae) is an important piercing-sucking pest that has been recorded on more than 200 host plants in China. In recent years, its damage to apple trees has become more and more serious, resulting in malformed fruit and even fruit shedding. It is primarily controlled with insecticides. However, the current status of insecticide resistance of A. lucorum in the apple orchard is rarely reported. In this study, we determined the susceptibility of one laboratory population and six geographic field populations of A. lucorum to ten chemical and six botanical insecticides by glass-vial and artificial diet bioassays. The results showed that among the ten chemical insecticides, bifenthrin exhibited the highest toxicity to this pest by glassvial bioassays than other insecticides, followed by chlorpyrifos, and then one of the neonicotinoid insecticides nitenpyram. In the artificial diet bioassays, the LC50 values of the avermectin insecticides to A. lucorum populations were significantly lower than those of other classes of insecticides, followed by neonicotinoid insecticides. Among six botanical pesticides, veratramine and pyrethrins showed higher toxicity to A. lucorum populations, while rotenone and cnidiadin exhibited poor effects. The results indicated that chlorpyrifos, bifenthrin, avermectin, and emamectin benzoate could be recommended to mix or rotate with botanical pesticides veratramine and pyrethrins in controlling A. lucorum in the apple orchard. Our study would provide valuable information for choosing alternative insecticides and for insecticide resistance management of A. lucorum.
+C1 [Wang, Xueli; Su, Heng; Zhang, Jinyong] Chinese Acad Agr Sci, Minist Agr & Rural Affairs, Zhengzhou Fruit Res Inst, Key Lab Fruit Breeding Technol, Zhengzhou, Peoples R China.
+   [Wang, Juan] Sejong Univ, Coll Life Sci, Div Integrat Biosci & Biotechnol, Seoul 05006, South Korea.
+   [Li, Guoping; Feng, Hongqiang] Henan Acad Agr Sci, Inst Plant Protect, Minist Agr & Rural Affairs, Key Lab Integrated Pest Management Crops Southern, Zhengzhou 450002, Peoples R China.
+C3 Ministry of Agriculture & Rural Affairs; Chinese Academy of Agricultural
+   Sciences; Zhengzhou Fruit Research Institute, CAAS; Sejong University;
+   Henan Academy of Agricultural Sciences; Ministry of Agriculture & Rural
+   Affairs
+RP Zhang, JY (corresponding author), Chinese Acad Agr Sci, Minist Agr & Rural Affairs, Zhengzhou Fruit Res Inst, Key Lab Fruit Breeding Technol, Zhengzhou, Peoples R China.
+EM zhangjinyong@caas.cn
+FU Scientific Institution Basal Research Fund of ZFRI, CAAS [ZGS202210];
+   Central Public-interest Scientific Institution Basal Research Fund
+   [1610192022203]; Central Public-interest Scientific Institution Basal
+   Research Fund [1610192023301]; Henan Province Key RD Project
+   [232102110070]; Henan Province Promotion Project [232102110070]
+FX This work was supported by Scientific Institution Basal Research Fund of
+   ZFRI, CAAS (ZGS202210), Central Public-interest Scientific Institution
+   Basal Research Fund (1610192022203), Central Public-interest Scientific
+   Institution Basal Research Fund (1610192023301), and Henan Province Key
+   R&D and Promotion Projects (232102110070).
+NR 30
+TC 2
+Z9 2
+U1 9
+U2 11
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0261-2194
+EI 1873-6904
+J9 CROP PROT
+JI Crop Prot.
+PD AUG
+PY 2023
+VL 170
+AR 106279
+DI 10.1016/j.cropro.2023.106279
+EA MAY 2023
+PG 8
+WC Agronomy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA J3YE4
+UT WOS:001008994800001
+DA 2024-04-06
+ER
+
+EF

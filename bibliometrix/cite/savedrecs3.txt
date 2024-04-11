@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, Y
+   Zhu, WT
+   Qiu, J
+   Wang, XR
+   Zhang, P
+   Yan, J
+   Zhou, ZQ
+AF Wang, Yao
+   Zhu, Wentao
+   Qiu, Jing
+   Wang, Xinru
+   Zhang, Ping
+   Yan, Jin
+   Zhou, Zhiqiang
+TI Monitoring tryptophan metabolism after exposure to hexaconazole and the
+   enantioselective metabolism of hexaconazole in rat hepatocytes <i>in
+   vitro</i>
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Hexaconazole; Enantioselevtive metabolism; Cytotoxicity; Tryptophan
+   metabolism
+ID STEM-CELL TEST; INDOLEAMINE 2,3-DIOXYGENASE; IMMUNE ACTIVATION;
+   TOXICITY; LIVER; EXPRESSION; MORPHOLOGY; INDUCTION; CULTURE; LIGAND
+AB In the present study, the enantioselective metabolism, cytotoxicity of hexaconazole and its influence on tryptophan metabolism in rat hepatocytes in vitro were investigated. Following the exposure of primary rat hepatocytes to rac-hexaconazole, the concentrations of its enantiomers in the media were determined by chiral high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). The half-lives (t(1/2)) of (+)-hexaconazole and (-)-hexaconazole were 5.17 hand 19.80 h, respectively, indicating that the metabolic process was enantioselective with (-)-hexaconazole enrichment. Using the MTT method, the EC50 values of rac-hexaconazole, (+)-hexaconazole and (-)-hexaconazole after 12 h of exposure were determined to be 71.62, 62.71 and 67.94 mu M, respectively. Tryptophan metabolism was monitored using metabolomics profiling techniques. Hexaconazole and its enantiomers caused the down-regulation of tryptophan levels and the up-regulation of kynurenine (KYN) levels, suggesting a role for hexaconazole in the activation of the KYN pathway and providing information for the mechanism of its toxicity. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Wang, Yao; Zhu, Wentao; Wang, Xinru; Zhang, Ping; Yan, Jin; Zhou, Zhiqiang] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Qiu, Jing] Chinese Acad Agr Sci, Inst Qual Stand & Testing Technol Agroprod, Key Lab Agroprod Qual & Safety, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Quality Standards & Testing Technology for Agro-Products,
+   CAAS
+RP Zhou, ZQ (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Yan, Jin/AAE-5637-2022; Zhou, Zhiqiang/HIR-4954-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21337005];
+   Chinese Universities Scientific Fund [2012RC026]
+FX We gratefully acknowledge the financial support from the National
+   Natural Science Foundation of China (Contract grant number: 21207158 and
+   21337005) and the Chinese Universities Scientific Fund (2012RC026).
+NR 48
+TC 14
+Z9 14
+U1 2
+U2 100
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD SEP 15
+PY 2015
+VL 295
+BP 9
+EP 16
+DI 10.1016/j.jhazmat.2015.04.006
+PG 8
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA CK3PG
+UT WOS:000356127400002
+PM 25863579
+DA 2024-03-20
+ER
+
+EF

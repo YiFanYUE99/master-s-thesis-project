@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pan, LX
+   Zhou, CG
+   Jing, J
+   Zhuang, M
+   Zhang, JC
+   Wang, K
+   Zhang, HY
+AF Pan, Lixiang
+   Zhou, Chenguang
+   Jing, Jing
+   Zhuang, Ming
+   Zhang, Jingcheng
+   Wang, Kai
+   Zhang, Hongyan
+TI Metabolomics analysis of cucumber fruit in response to foliar fertilizer
+   and pesticides using UHPLC-Q-Orbitrap-HRMS
+SO FOOD CHEMISTRY
+LA English
+DT Article
+DE Metabolomics; Foliar fertilizer; Pesticide; Cucumber fruit; Organic
+   acids; Antioxidant capacity
+ID OXIDATIVE STRESS; METABOLISM; ROOTS; ACIDS; L.
+AB Pesticides and fertilizers are often used to improve the yield and quality of cucumber fruit. In this study, the effect of pesticide applied with or without foliar fertilizer on the cucumber fruit metabolism was investigated. The results showed that the mixed use of pesticides and foliar fertilizer could significantly increase the contents of organic acids and the antioxidant level. When pesticide was used without foliar fertilizer, cucumber fruit upregulated (1.3 times) shikimate-phenylpropanoid pathway and improved the antioxidant capacity to deal with the pesticide stress. However, the tricarboxylic acid cycle was up-regulated 1.1 times and the antioxidant capacity was improved to promote the pesticide dissipation when pesticide was applied with foliar fertilizer. These observations indicate that the mixed application of foliar fertilizer and pesticides can regulate related metabolites and metabolic pathways, improve the quality and antioxidant capacity of cucumber fruit, and promote the dissipation of pesticides.
+C1 [Pan, Lixiang; Jing, Jing; Zhuang, Ming; Zhang, Jingcheng; Zhang, Hongyan] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Zhou, Chenguang] Jiangsu Univ, Sch Food & Biol Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+   [Wang, Kai] China Agr Univ, Natl Acad Agr Green Dev, Coll Resources & Environm Sci, Key Lab Plant Soil Interact,MOE, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Jiangsu University; China Agricultural
+   University
+RP Zhang, HY (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.; Wang, K (corresponding author), China Agr Univ, Natl Acad Agr Green Dev, Coll Resources & Environm Sci, Key Lab Plant Soil Interact,MOE, Beijing 100193, Peoples R China.
+EM kaiwang_ly@cau.edu.cn; hongyan@cau.edu.cn
+RI Zhou, Chenguang/HZI-5474-2023
+NR 40
+TC 18
+Z9 18
+U1 32
+U2 127
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0308-8146
+EI 1873-7072
+J9 FOOD CHEM
+JI Food Chem.
+PD FEB 1
+PY 2022
+VL 369
+AR 130960
+DI 10.1016/j.foodchem.2021.130960
+EA SEP 2021
+PG 9
+WC Chemistry, Applied; Food Science & Technology; Nutrition & Dietetics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Food Science & Technology; Nutrition & Dietetics
+GA WA9DO
+UT WOS:000703182800001
+PM 34500210
+DA 2024-04-07
+ER
+
+EF

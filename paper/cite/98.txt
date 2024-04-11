@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, M
+   Pan, QL
+   Wang, J
+   Wang, ZP
+   Peng, CF
+AF Li, Min
+   Pan, Qiuli
+   Wang, Jun
+   Wang, Zhouping
+   Peng, Chifang
+TI Machine learning-assisted fluorescence sensor array for qualitative and
+   quantitative analysis of pyrethroid pesticides
+SO FOOD CHEMISTRY
+LA English
+DT Article
+DE Pyrethroid pesticides; Fluorescence sensor array; Machine learning
+   algorithm; Dye replacement
+ID NANOPARTICLES
+AB The simultaneous detection of multiple residues of pyrethroid pesticides (PPs) on vegetables and fruits is still challenging using traditional nanosensing methods due to the high structural similarity of PPs. In this work, sensor arrays composed of three nanocomposite complexes (rhodamine B-CD@Au, rhodamine 6G-CD@Au, and coumarin 6-CD@Au) were constructed to discriminate between structurally similar PPs. Four PPs, deltamethrin, fenvalerate, cyfluthrin, and fenpropathrin, were successfully discriminated. The ability of these sensor units was derived from the different affinity between receptor/analyte and receptor/dye, as well as the non-linear relationship between fluorescence signal and analyte concentration. Upon multivariate pattern recognition analysis, the array performed high-throughput identification of four PPs in unknown samples with 100% classification accuracy. In addition, good accuracy of predicting concentration using the "stepwise prediction" strategy combined with the machine learning method was achieved.
+C1 [Li, Min; Wang, Zhouping; Peng, Chifang] Jiangnan Univ, State Key Lab Food Sci & Technol, Wuxi 214122, Peoples R China.
+   [Li, Min; Wang, Zhouping; Peng, Chifang] Jiangnan Univ, Sch Food Sci & Technol, Wuxi 214122, Peoples R China.
+   [Wang, Zhouping; Peng, Chifang] Jiangnan Univ, Natl Engn Res Ctr Funct Food, Wuxi 214122, Peoples R China.
+   [Pan, Qiuli; Wang, Jun] Shandong Inst Food & Drug Control, Xinluo Rd 2749, Jinan 250101, Shandong, Peoples R China.
+C3 Jiangnan University; Jiangnan University; Jiangnan University
+RP Peng, CF (corresponding author), Jiangnan Univ, State Key Lab Food Sci & Technol, Wuxi 214122, Peoples R China.
+EM pcf@jiangnan.edu.cn
+RI Li, Shiyue/KFA-3709-2024; li, xinyi/KEI-6391-2024; yang,
+   zhou/KBB-6972-2024; Huang, Weilin/AFN-0574-2022; PENG,
+   CHENG/KCL-2506-2024; Wang, Jiacheng/ABE-5948-2020; Liu,
+   Chenyu/KBQ-8899-2024; li, fei/JYP-3334-2024; lei, lei/JSL-3106-2023
+OI Huang, Weilin/0000-0003-1692-4868; Wang, Jiacheng/0000-0003-4327-1508; 
+FU National Natural Science Foundation of China [31871879]; National Key
+   Research, Development Program [2022YFD2101105]; Shandong Institute for
+   Food and Drug Control [SDIFDC-KF-4-2022002]
+FX All authors made contributions to the manuscript and have approved the
+   final version of the script. We thank the support of the National
+   Natural Science Foundation of China (31871879) , the National Key
+   Research, Development Program (2022YFD2101105) and Funding from Shandong
+   Institute for Food and Drug Control (SDIFDC-KF-4-2022002) .
+NR 41
+TC 0
+Z9 0
+U1 41
+U2 46
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0308-8146
+EI 1873-7072
+J9 FOOD CHEM
+JI Food Chem.
+PD FEB 1
+PY 2024
+VL 433
+AR 137368
+DI 10.1016/j.foodchem.2023.137368
+EA SEP 2023
+PG 9
+WC Chemistry, Applied; Food Science & Technology; Nutrition & Dietetics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Food Science & Technology; Nutrition & Dietetics
+GA S6TO6
+UT WOS:001072475000001
+PM 37688823
+DA 2024-04-07
+ER
+
+EF

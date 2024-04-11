@@ -1,0 +1,80 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, P
+   Wang, S
+   He, YH
+   Xu, YY
+   Shi, DM
+   Yang, FR
+   Yu, WZ
+   Zhu, WT
+   He, L
+AF Zhang, Ping
+   Wang, Sheng
+   He, Yuhan
+   Xu, Yangyang
+   Shi, Dongmei
+   Yang, Furong
+   Yu, Weizhong
+   Zhu, Wentao
+   He, Lin
+TI Identifying Metabolic Perturbations and Toxic Effects of
+   <i>Rac</i>-Metalaxyl and Metalaxyl-M in Mice Using Integrative NMR and
+   UPLC-MS/MS Based Metabolomics
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+LA English
+DT Article
+DE metalaxyl; metabolomics; metabolic perturbation; amino acids; tryptophan
+   metabolism; NMR; UPLC-MS; MS
+ID ENANTIOSELECTIVE DEGRADATION; AMINO-ACIDS; STRESS-RESPONSE; EXPOSURE
+AB Although metabolic perturbations are sensitive indicators for low-dose toxic effects, the metabolic mechanisms affected by rac-metalaxyl and metalaxyl-M in mammals from a metabolic profiling perspective remain unclear. In this study, the metabolic perturbations and toxic effects of rac-metalaxyl and metalaxyl-M in mice were carefully investigated using integrative nuclear magnetic resonance (NMR) and ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) based metabolomics. Histopathology, NMR-based untargeted urine profile, multivariate pattern recognition, metabolite identification, pathway analysis, UPLC-MS/MS based targeted serum amino acids, and tryptophan pathway analysis were determined after rac-metalaxyl and metalaxyl-M exposure, individually. Histopathology indicated that metalaxyl-M induced greater hepatocellular inflammatory, necrosis, and vacuolation in mice than rac-metalaxyl at the same exposure dosage. The metabolic perturbations induced by rac-metalaxyl and metalaxyl-M were directly separated using partial least-squares discriminant analysis (PLS-DA). Furthermore, metabolite identification and pathway analysis indicated that rac-metalaxyl mainly induced ten urine metabolite changes and four pathway fluctuations. However, metalaxyl-M induced 19 urine metabolite changes and six pathway fluctuations. Serum amino acids and tryptophan pathway metabolite changes induced by rac-metalaxyl and metalaxyl-M were also different even at the same exposure level. Such results may provide specific insight into the metabolic perturbations and toxic effects of rac-metalaxyl and metalaxyl-M, and contribute to providing available data for health risk assessments of rac-metalaxyl and metalaxyl-M at a metabolomics level.
+C1 [Zhang, Ping; Wang, Sheng; He, Yuhan; Xu, Yangyang; Shi, Dongmei; Yang, Furong; Yu, Weizhong; He, Lin] Southwest Univ, Coll Plant Protect, Key Lab Entomol & Pest Control Engn, Chongqing 400715, Peoples R China.
+   [Zhang, Ping; Wang, Sheng; He, Yuhan; Xu, Yangyang; Shi, Dongmei; Yang, Furong; Yu, Weizhong; He, Lin] Southwest Univ, Acad Agr Sci, Chongqing 400715, Peoples R China.
+   [Zhang, Ping; He, Yuhan; He, Lin] Southwest Univ, State Cultivat Base Crop Stress Biol Southern Mt, Chongqing 400715, Peoples R China.
+   [Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+C3 Southwest University - China; Southwest University - China; Chinese
+   Academy of Agricultural Sciences; Southwest University - China; China
+   Agricultural University
+RP Zhang, P; He, L (corresponding author), Southwest Univ, Coll Plant Protect, Key Lab Entomol & Pest Control Engn, Chongqing 400715, Peoples R China.; Zhang, P; He, L (corresponding author), Southwest Univ, Acad Agr Sci, Chongqing 400715, Peoples R China.; Zhang, P; He, L (corresponding author), Southwest Univ, State Cultivat Base Crop Stress Biol Southern Mt, Chongqing 400715, Peoples R China.
+EM pingz@swu.edu.cn; zpcauz@163.com; hm20161027@163.com; zp8708@163.com;
+   shidm48@163.com; yfr200111@163.com; yuweizhong147@163.com;
+   pingz028@163.com; helinok@vip.tom.com
+RI HE, yuhan/HNJ-3598-2023; Zhu, Wentao/O-8964-2019
+OI Zhu, Wentao/0000-0001-6371-7998
+FU National Natural Science Foundation of China [31801745]; Natural Science
+   Foundation of Chongqing, China [cstc2019jcyj-msxmX0403]; Fundamental
+   Research Funds for the Central Universities [XDJK2017C067]
+FX This research was funded by the National Natural Science Foundation of
+   China (31801745), Natural Science Foundation of Chongqing, China
+   (cstc2019jcyj-msxmX0403) and Fundamental Research Funds for the Central
+   Universities (XDJK2017C067).
+NR 46
+TC 9
+Z9 11
+U1 1
+U2 42
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1422-0067
+J9 INT J MOL SCI
+JI Int. J. Mol. Sci.
+PD NOV
+PY 2019
+VL 20
+IS 21
+AR 5457
+DI 10.3390/ijms20215457
+PG 17
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA JQ4VU
+UT WOS:000498946100215
+PM 31683916
+OA gold, Green Published
+DA 2024-03-20
+ER
+
+EF

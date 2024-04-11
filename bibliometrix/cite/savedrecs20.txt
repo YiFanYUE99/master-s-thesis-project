@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Teng, MM
+   Zhu, WT
+   Wang, DZ
+   Yan, J
+   Qi, SZ
+   Song, M
+   Wang, CJ
+AF Teng, Miaomiao
+   Zhu, Wentao
+   Wang, Dezhen
+   Yan, Jin
+   Qi, Suzhen
+   Song, Min
+   Wang, Chengju
+TI Acute exposure of zebrafish embryo (<i>Danio rerio</i>) to flutolanil
+   reveals its developmental mechanism of toxicity via disrupting the
+   thyroid system and metabolism
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Flutolanil; Zebrafish embryo; Thyroid endocrine disruption; Metabolomics
+ID DECABROMODIPHENYL ETHER BDE-209; GENE-EXPRESSION; ENDOCRINE DISRUPTION;
+   ADULT ZEBRAFISH; HORMONE; LARVAE; METABOLOMICS; DIFENOCONAZOLE; FISH;
+   AXIS
+AB Flutolanil, an amide fungicide, had been detected frequently in aquatic environments; it is thus potentially a great risk to aquatic organisms and human health. Therefore, we investigated the developmental toxicity and the potential mechanism of thyroid endocrine disruption induced by flutolanil based on H-1 NMR metabolomics analysis using a zebrafish model. Hatching of zebrafish embryo exposed to flutolanil was inhibited at 72 hpf (hour post-fertilization) and survival and body length at 96 hpf. In addition, increased teratogenic effects on embryos were observed, including pericardial edema, spine deformation, and tail malformation. Furthermore, flutolanil induced slower heartbeat and larger pericardial area in the treated groups than control group. Transcription levels of TRH, TSHR, TPO, Diol, TR alpha, and UGT1ab were significantly altered after flutolanil exposure. Metabolomics analysis further indicated that flutolanil induced alterations of energy, amino acids, nucleotide, lipids, and fatty acid metabolism. Our study also indicated that flutolanil exposure led to alterations of endogenous metabolites, which induced the thyroid endocrine disruption in zebrafish. Ultimately, embryonic developmental toxicity was caused by flutolanil. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Teng, Miaomiao; Zhu, Wentao; Wang, Dezhen; Yan, Jin; Wang, Chengju] China Agr Univ, Coll Sci, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Qi, Suzhen] Chinese Acad Agr Sci, Inst Apiculture Res, Beijing 100093, Peoples R China.
+   [Song, Min] Taian Acad Agr Sci, Tai An 271000, Shandong, Peoples R China.
+C3 China Agricultural University; Institute of Apicultural Research, CAAS;
+   Chinese Academy of Agricultural Sciences
+RP Wang, CJ (corresponding author), China Agr Univ, Coll Sci, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wangchengju@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022; Wang,
+   Dezhen/K-2489-2016
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946
+FU National Key Research and Development Program of China [2016YFD0200504]
+FX This work was supported by National Key Research and Development Program
+   of China (2016YFD0200504).
+NR 64
+TC 38
+Z9 41
+U1 16
+U2 276
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD NOV
+PY 2018
+VL 242
+BP 1157
+EP 1165
+DI 10.1016/j.envpol.2018.07.092
+PN B
+PG 9
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA GV7DQ
+UT WOS:000446282600014
+PM 30114598
+DA 2024-03-20
+ER
+
+EF

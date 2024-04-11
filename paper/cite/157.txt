@@ -1,0 +1,86 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kontou, EE
+   Walter, A
+   Alka, O
+   Pfeuffer, J
+   Sachsenberg, T
+   Mohite, OS
+   Nuhamunada, M
+   Kohlbacher, O
+   Weber, T
+AF Kontou, Eftychia E.
+   Walter, Axel
+   Alka, Oliver
+   Pfeuffer, Julianus
+   Sachsenberg, Timo
+   Mohite, Omkar S.
+   Nuhamunada, Matin
+   Kohlbacher, Oliver
+   Weber, Tilmann
+TI UmetaFlow: an untargeted metabolomics workflow for high-throughput data
+   processing and analysis
+SO JOURNAL OF CHEMINFORMATICS
+LA English
+DT Article
+DE Untargeted metabolomics; Processing; Analysis; High-throughput workflow;
+   Software
+ID LIQUID-CHROMATOGRAPHY; MASS; DISCOVERY; SOFTWARE; SPECTRA; OPENMS
+AB Metabolomics experiments generate highly complex datasets, which are time and work-intensive, sometimes even error-prone if inspected manually. Therefore, new methods for automated, fast, reproducible, and accurate data processing and dereplication are required. Here, we present UmetaFlow, a computational workflow for untargeted metabolomics that combines algorithms for data pre-processing, spectral matching, molecular formula and structural predictions, and an integration to the GNPS workflows Feature-Based Molecular Networking and Ion Identity Molecular Networking for downstream analysis. UmetaFlow is implemented as a Snakemake workflow, making it easy to use, scalable, and reproducible. For more interactive computing, visualization, as well as development, the workflow is also implemented in Jupyter notebooks using the Python programming language and a set of Python bindings to the OpenMS algorithms (pyOpenMS). Finally, UmetaFlow is also offered as a web-based Graphical User Interface for parameter optimization and processing of smaller-sized datasets. UmetaFlow was validated with in-house LC-MS/MS datasets of actinomycetes producing known secondary metabolites, as well as commercial standards, and it detected all expected features and accurately annotated 76% of the molecular formulas and 65% of the structures. As a more generic validation, the publicly available MTBLS733 and MTBLS736 datasets were used for benchmarking, and UmetaFlow detected more than 90% of all ground truth features and performed exceptionally well in quantification and discriminating marker selection. We anticipate that UmetaFlow will provide a useful platform for the interpretation of large metabolomics datasets.
+C1 [Kontou, Eftychia E.; Mohite, Omkar S.; Nuhamunada, Matin; Weber, Tilmann] Tech Univ Denmark, Novo Nordisk Fdn Ctr Biosustainabil, Kemitorvet Bldg 220, DK-2800 Lyngby, Denmark.
+   [Walter, Axel; Alka, Oliver; Sachsenberg, Timo; Kohlbacher, Oliver] Eberhard Karls Univ Tubingen, Dept Comp Sci, Appl Bioinformat, Sand 14, D-72076 Tubingen, Germany.
+   [Walter, Axel; Alka, Oliver; Sachsenberg, Timo; Kohlbacher, Oliver] Univ Tubingen, Inst Bioinformat & Med Informat, Sand 14, D-72076 Tubingen, Germany.
+   [Kohlbacher, Oliver] Univ Hosp Tubingen, Translat Bioinformat, Schaffhausenstr 77, D-72072 Tubingen, Germany.
+   [Pfeuffer, Julianus] Zuse Inst Berlin, Visual & Data Centr Comp, Takustr 7, D-14195 Berlin, Germany.
+   [Pfeuffer, Julianus] Free Univ Berlin, Algorithm Bioinformat, Takustr 9, D-14195 Berlin, Germany.
+C3 Technical University of Denmark; Eberhard Karls University of Tubingen;
+   Eberhard Karls University of Tubingen; Eberhard Karls University of
+   Tubingen; Eberhard Karls University Hospital; Zuse Institute Berlin;
+   Free University of Berlin
+RP Weber, T (corresponding author), Tech Univ Denmark, Novo Nordisk Fdn Ctr Biosustainabil, Kemitorvet Bldg 220, DK-2800 Lyngby, Denmark.
+EM tiwe@biosustain.dtu.dk
+RI Weber, Tilmann/C-7159-2009; Kohlbacher, Oliver/B-7310-2008
+OI Weber, Tilmann/0000-0002-8260-5120; Mohite, Omkar/0000-0002-3240-1656
+FU Novo Nordisk Foundation [NNF20CC0035580, NNF16OC0021746]; German
+   Ministry for Research and Education (BMBF), German Network for
+   Bioinformatics infrastructure [FKZ: 31A535A]; Forschungscampus MODAL
+   [3FO18501]; Deutsche Forschungsgemeinschaft (DFG, German Research
+   Foundation) [TRR 261/1, Z03]
+FX The work of EEK, TW, OM and MN is supported by grants of the Novo
+   Nordisk Foundation [NNF20CC0035580, NNF16OC0021746]. TS was supported by
+   the German Ministry for Research and Education (BMBF) as part of the
+   German Network for Bioinformatics infrastructure (FKZ: 31A535A). JP was
+   funded as part of the Forschungscampus MODAL (project grant 3FO18501).
+   AW and OK are supported by the Deutsche Forschungsgemeinschaft (DFG,
+   German Research Foundation TRR 261/1,Z03).
+NR 40
+TC 5
+Z9 5
+U1 7
+U2 12
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1758-2946
+J9 J CHEMINFORMATICS
+JI J. Cheminformatics
+PD MAY 12
+PY 2023
+VL 15
+IS 1
+AR 52
+DI 10.1186/s13321-023-00724-w
+PG 12
+WC Chemistry, Multidisciplinary; Computer Science, Information Systems;
+   Computer Science, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science
+GA G3WF6
+UT WOS:000988492200001
+PM 37173725
+OA gold, Green Published
+DA 2024-04-08
+ER
+
+EF

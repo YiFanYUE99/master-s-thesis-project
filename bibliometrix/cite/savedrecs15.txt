@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Miao, JY
+   Wang, DZ
+   Yan, J
+   Wang, Y
+   Teng, MM
+   Zhou, ZQ
+   Zhu, WT
+AF Miao, Jiyan
+   Wang, Dezhen
+   Yan, Jin
+   Wang, Yao
+   Teng, Miaomiao
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Comparison of subacute effects of two types of pyrethroid insecticides
+   using metabolomics methods
+SO PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Article
+DE Bifenthrin; Lambda-cyhalothrin; Metabolomics; H-1 NMR; LC-MS/MS
+ID LAMBDA-CYHALOTHRIN; OXIDATIVE STRESS; METABONOMIC ANALYSIS;
+   ASCORBIC-ACID; RATS; MICE; BIFENTHRIN; EXPOSURE; LIVER; ERYTHROCYTES
+AB In this study, H-1 NMR based metabolomics analysis, LC-MS/MS based serum metabolomics and histopathology techniques were used to investigate the toxic effects of subacute exposure to two types of pyrethroid insecticides bifenthrin and lambda-cyhalothrin in mice. Metabolomic analysis of tissues extracts and serum showed that these two types of pyrethroid insecticides resulted in alterations of metabolites in the liver, kidney and serum of mice. Based on the altered metabolites, several significant pathways were identified, which are associated with gut microbial metabolism, lipid metabolism, nucleotide catabolism, tyrosine metabolism and energy metabolism. The results showed that bifenthrin and lambda-cyhalothrin have similarities in disruption of metabolic pathways in kidney, indicating that the toxicological mechanisms of these two types of insecticides have some likeness to each other. This study may provide novel insight into revealing differences of toxicological mechanisms between these two types of pyrethroid insecticides.
+C1 [Miao, Jiyan; Wang, Dezhen; Yan, Jin; Wang, Yao; Teng, Miaomiao; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM jiyanmiao@cau.edu.cn; wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; zhou, zhou/HPE-9525-2023; Wang,
+   Dezhen/K-2489-2016; Zhu, Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; 
+FU National Key Research and Development Program of China [2016YFD0200202];
+   Young Elite Scientists Sponsorship Program by CAST [YESS20150164]
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202), and Young
+   Elite Scientists Sponsorship Program by CAST (YESS20150164).
+NR 37
+TC 15
+Z9 16
+U1 4
+U2 66
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0048-3575
+EI 1095-9939
+J9 PESTIC BIOCHEM PHYS
+JI Pest. Biochem. Physiol.
+PD NOV
+PY 2017
+VL 143
+BP 161
+EP 167
+DI 10.1016/j.pestbp.2017.08.002
+PG 7
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA FP8JB
+UT WOS:000417887700023
+PM 29183587
+DA 2024-03-20
+ER
+
+EF

@@ -1,0 +1,36 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 27603023
+DT Journal Article; Review
+TI Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data Analysis.
+AU Xia, Jianguo
+   Wishart, David S
+SO Current protocols in bioinformatics
+VL 55
+PS 14.10.1-14.10.91
+PY 2016
+PD 2016 09 07
+LA English
+U1 5
+U2 143
+AB MetaboAnalyst (http://www.metaboanalyst.ca) is a comprehensive Web application for metabolomic data analysis and interpretation. MetaboAnalyst handles most of the common metabolomic data types from most kinds of metabolomics platforms (MS and NMR) for most kinds of metabolomics experiments (targeted, untargeted, quantitative). In addition to providing a variety of data processing and normalization procedures, MetaboAnalyst also supports a number of data analysis and data visualization tasks using a range of univariate, multivariate methods such as PCA (principal component analysis), PLS-DA (partial least squares discriminant analysis), heatmap clustering and machine learning methods. MetaboAnalyst also offers a variety of tools for metabolomic data interpretation including MSEA (metabolite set enrichment analysis), MetPA (metabolite pathway analysis), and biomarker selection via ROC (receiver operating characteristic) curve analysis, as well as time series and power analysis. This unit provides an overview of the main functional modules and the general workflow of the latest version of MetaboAnalyst (MetaboAnalyst 3.0), followed by eight detailed protocols. © 2016 by John Wiley & Sons, Inc. Copyright © 2016 John Wiley & Sons, Inc.
+C1 Institute of Parasitology, McGill University, Sainte Anne de Bellevue, Quebec, Canada.; Department of Animal Science, McGill University, Sainte Anne de Bellevue, Quebec, Canada.; Department of Microbiology and Immunology, McGill University, Montreal, Quebec, Canada.; Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada.; Department of Biological Sciences, University of Alberta, Edmonton, Alberta, Canada.; National Research Council, National Institute for Nanotechnology (NINT), Edmonton, Alberta, Canada.
+OI Xia, Jianguo/0000-0003-2040-2624
+MH Cluster Analysis. Internet. Metabolomics / *methods. *Software
+SS Index Medicus
+ID ROC curve; Web application; batch effect correction; biomarker analysis; chemometrics; integrative pathway analysis; metabolic pathway analysis; metabolite set enrichment analysis; metabolomics; power analysis; sample size estimation
+SC Mathematics; Computer Science; Biochemistry & Molecular Biology (provided by Clarivate Analytics)
+SN 1934-340X
+JC 101157830
+PA United States
+GI  / CIHRCanadian Institutes of Health Research (CIHR)
+SA MEDLINE
+RC  / 06 Nov 2017 / 27 Nov 2020
+PE 07 Sep 2016
+DI 10.1002/cpbi.11
+UT MEDLINE:27603023
+DA 2024-04-08
+ER
+
+EF

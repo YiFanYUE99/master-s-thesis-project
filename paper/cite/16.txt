@@ -1,0 +1,37 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 38029938
+DT Journal Article
+TI Unveiling first report on in silico modeling of aquatic toxicity of organic chemicals to Labeo rohita (Rohu) employing QSAR and q-RASAR.
+AU Gallagher, Andrea
+   Kar, Supratik
+SO Chemosphere
+VL 349
+PS 140810
+PY 2024
+PD 2024 Feb (Epub 2023 Nov 28)
+LA English
+U1 1
+U2 1
+AB Labeo rohita, a fish species within the Carp family, holds significant dietary and aquacultural importance in South Asian countries. However, the habitats of L. rohita often face exposure to various harmful pesticides and organic compounds originating from industrial and agricultural runoff. It is challenging to individually investigate the effects of each potentially harmful compound. In such cases, in silico techniques like Quantitative Structure-Activity Relationship (QSAR) and quantitative Read-Across Structure-Activity Relationship (q-RASAR) can be employed to construct algorithmic models capable of simultaneously assessing the toxicity of numerous compounds. We utilized the US EPA's ToxValDB database to curate data regarding acute median lethal concentration (LC50) toxicity for L. rohita. The experimental variables included study type (mortality), study duration (ranging from 0.25h to 4h), exposure route (static, flowthrough, and renewal), exposure method (drinking water), and types of chemicals (industrial chemicals and pharmaceuticals). Using this dataset, we developed regression-based QSAR and q-RASAR models to predict chemical toxicity to L. rohita based on chemical descriptors. The key descriptors for predicting the toxicity of L. rohita in the regression-based QSAR model include F05[S-Cl], SpMax_EA(ri), s4_relPathLength_2, and SpDiam_AEA(ed). These descriptors can be employed to estimate the toxicity of untested compounds and aid in the development of compounds with lower toxicity based on the presence or absence of these descriptors. Both the QSAR and q-RASAR models serve as valuable tools for understanding the chemicals' structural features responsible for toxicity and for filling gaps in aquatic toxicity data by predicting the toxicity of newly untested compounds in relation to L. rohita. Finally, the developed best model was employed to predict 297 external chemicals, the most toxic substances to L. rohita were identified as cyhalothrin, isobornyl thiocyanatoacetate, and paclobutrzol, while the least toxic ones included ethyl acetate, ethylthiourea, and n-butyric acid. Copyright © 2023 Elsevier Ltd. All rights reserved.
+C1 Chemometrics and Molecular Modeling Laboratory, Department of Chemistry, Kean University, 1000 Morris Avenue, Union, NJ, 07083, USA.; Chemometrics and Molecular Modeling Laboratory, Department of Chemistry, Kean University, 1000 Morris Avenue, Union, NJ, 07083, USA. Electronic address: skar@kean.edu.
+RI Kar, Supratik/H-8868-2019
+OI Kar, Supratik/0000-0002-9411-2091
+MH Animals. Computer Simulation. *Cyprinidae. Lethal Dose 50. Organic Chemicals / toxicity. Quantitative Structure-Activity Relationship. *Toxins, Biological
+SS Index Medicus
+ID Aquatic toxicity; LC(50); Labeo rohita; QSAR; Risk assessment; USEPA; q-RASAR
+CN 0 / Toxins, Biological. 0 / Organic Chemicals
+SC Biochemistry & Molecular Biology; Pharmacology & Pharmacy; Computer Science; Zoology; Toxicology (provided by Clarivate Analytics)
+SN 1879-1298
+JC 0320657
+PA England
+SA MEDLINE
+RC  / 10 Jan 2024 / 10 Jan 2024
+PE 28 Nov 2023
+DI 10.1016/j.chemosphere.2023.140810
+UT MEDLINE:38029938
+DA 2024-04-01
+ER
+
+EF

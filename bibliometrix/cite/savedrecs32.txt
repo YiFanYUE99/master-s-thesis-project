@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, W
+   Meng, ZY
+   Li, RS
+   Zhang, RK
+   Jia, M
+   Yan, S
+   Tian, SN
+   Zhou, ZQ
+   Zhu, WT
+AF Sun, Wei
+   Meng, Zhiyuan
+   Li, Ruisheng
+   Zhang, Renke
+   Jia, Ming
+   Yan, Sen
+   Tian, Sinuo
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Joint effects of microplastic and dufulin on bioaccumulation, oxidative
+   stress and metabolic profile of the earthworm (<i>Eisenia fetida</i>)
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Dufulin; Microplastic; Bioaccumulation; Oxidative stress; Metabolic
+   profile; Earthworm
+ID GASTROINTESTINAL-TRACT; LIPID-PEROXIDATION; HUMAN HEALTH; PESTICIDES;
+   POLLUTION; MECHANISM; BENEFITS; CANCER
+AB Microplastics and pesticides are identified as two environmental pollutants that have an adverse impact on the environment. The knowledge about the combined exposure of pesticides and microplastics may facilitate further assessment of their ecotoxicity. In this study, we investigated joint effects of microplastic and dufulin on bioaccumulation, oxidative stress and metabolic profile of the earthworm. Bioaccumulation analysis showed that the bio-soil accumulation factor of dufulin in earthworms reached its maximum value on the 14th day, and microplastics could significantly increase the bioaccumulation of dufulin in earthworms. Biochemical analysis showed that the oxidative damage of earthworms could be observed on the 14th day of the exposure to dufulin, while the oxidative damage of earthworms could be observed on the 7th day of the combined exposure to microplastics and dufulin, and it could still be observed on the 14th day. H-1-NMR-based metabolomics revealed that the exposure of dufulin significantly altered the relative abundances of 14 metabolites and two metabolic pathways, but the combined exposure of dufulin and microplastics significantly changed the relative abundances of 21 metabolites and three metabolic pathways. It could be seen that microplastics could aggravate the oxidative damage and the interference with the metabolic profile caused by dufulin to earthworms. The results of this study could provide effective information for the risk assessment of dufulin and microplastic in environmental safety. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Sun, Wei; Meng, Zhiyuan; Li, Ruisheng; Zhang, Renke; Jia, Ming; Yan, Sen; Tian, Sinuo; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; Zhou, Zhiqiang/HIR-4954-2022; Zhu,
+   Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202), we
+   gratefully acknowledge the BioNMR facility in Tsinghua University Branch
+   of China National Center for Protein Sciences(Beijing).
+NR 43
+TC 58
+Z9 64
+U1 56
+U2 418
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD JAN
+PY 2021
+VL 263
+AR 128171
+DI 10.1016/j.chemosphere.2020.128171
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA PA7HQ
+UT WOS:000595802200248
+PM 33297140
+DA 2024-03-20
+ER
+
+EF

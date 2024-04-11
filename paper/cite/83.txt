@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shellman, MH
+   Shellman, YG
+AF Shellman, Melody H.
+   Shellman, Yiqun G.
+TI Human against Machine? Machine Learning Identifies MicroRNA Ratios as
+   Biomarkers for Melanoma
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+LA English
+DT Editorial Material
+AB Identification of quantitative molecular biomarkers to distinguish melanoma from nevi is highly desirable. Expressions of microRNAs (miRNAs) are promising candidates but lack consensus in many studies. Torres et al. (2020) utilized a machine learning pipeline to identify miRNA ratios as strong biomarkers. Results indicate that machine learning, although powerful, requires human input to identify high quality biomarker signatures.
+C1 [Shellman, Melody H.] Georgia Inst Technol, H Milton Stewart Sch Ind & Syst Engn, Atlanta, GA 30332 USA.
+   [Shellman, Yiqun G.] Univ Colorado, Dept Dermatol, Sch Med, Anschutz Med Campus,Mail Stop 8127, Aurora, CO 80045 USA.
+   [Shellman, Yiqun G.] Univ Colorado, Gates Ctr Regenerat Med, Anschutz Med Campus, Aurora, CO USA.
+C3 University System of Georgia; Georgia Institute of Technology;
+   University of Colorado System; University of Colorado Anschutz Medical
+   Campus; University of Colorado System; University of Colorado Anschutz
+   Medical Campus
+RP Shellman, YG (corresponding author), Univ Colorado, Dept Dermatol, Sch Med, Anschutz Med Campus,Mail Stop 8127, Aurora, CO 80045 USA.
+EM Yiqun.Shellman@CUAnschutz.edu
+OI Shellman, Melody/0000-0002-8453-0097; Shellman,
+   Yiqun/0000-0003-0598-5753
+NR 10
+TC 5
+Z9 5
+U1 1
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-202X
+EI 1523-1747
+J9 J INVEST DERMATOL
+JI J. Invest. Dermatol.
+PD JAN
+PY 2020
+VL 140
+IS 1
+BP 18
+EP 20
+PG 3
+WC Dermatology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Dermatology
+GA JW9TF
+UT WOS:000503387800006
+PM 31864430
+OA Bronze
+DA 2024-04-07
+ER
+
+EF

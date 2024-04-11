@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zeng, WJ
+   Qiu, YQ
+   Huang, YT
+   Luo, ZY
+AF Zeng, Wenjie
+   Qiu, Yunqi
+   Huang, Yanting
+   Luo, Zhuoya
+TI Quantitative structure-retention relationship by databases of illegal
+   additives
+SO JOURNAL OF FOOD COMPOSITION AND ANALYSIS
+LA English
+DT Article
+DE QSRR; Illegal additive; MRMR; Exponential Gaussian Process Regression;
+   Model; Machine learning; Database
+ID CONSISTENT FORCE-FIELD; PREDICTION; CONFORMATIONS; TIME; ENTHALPIES;
+   VIBRATIONS; CHARMM
+AB The importance of small molecule retention time in detecting illegal additives cannot be overstated. In order to provide a basis for identification in small-scale databases lacking corresponding chemical standards, a quantitative structure-retention relationship (QSRR) model was developed using two liquid chromatography databases under the same column but with different mobile phases. The QSRR model workflow includes feature extraction, feature selection, model construction and evaluation. Molecular descriptors were calculated by molecules optimized using Consistent force field (CFF) and Chemistry at HARvard Macromolecular Mechanicets (CHARMm) force field during the feature extraction stage. Two selection algorithms, minimum redundancymaximum relevance (MRMR) and F-test, were compared during the feature selection stage. Five categories of machine learning algorithms, Regression Trees (Reg-T), Support Vector Machines (SVM), Gaussian Process Regression Models (GPR), Ensembles of Trees, and Kernel approximation models, were compared during the model construction phase resulting in 14 models being obtained. The best-performing model was found to be the Exponential Gaussian Process Regression Model (E-GPR). This was tested on Database 1 with coefficient of determination (R2)= 0.84 & PLUSMN; 0.02 and on Database 2 with R2 = 0.83 & PLUSMN; 0.03. The results indicate that this QSRR model can accurately predict retention times for small molecules within small-scale databases.
+C1 [Zeng, Wenjie] Guangzhou Med Univ, Sch Pharmaceut Sci, 1 Xinzao Rd, Guangzhou 511436, Peoples R China.
+   [Qiu, Yunqi; Huang, Yanting; Luo, Zhuoya] Guangdong Inst Drug Control, NMPA Key Lab Rapid Drug Inspect Technol, 766 Shenzhou Rd, Guangzhou 510663, Peoples R China.
+C3 Guangzhou Medical University
+RP Luo, ZY (corresponding author), Guangdong Inst Drug Control, NMPA Key Lab Rapid Drug Inspect Technol, 766 Shenzhou Rd, Guangzhou 510663, Peoples R China.
+EM lzyGDIDC@163.com
+OI Luo, Zhuoya/0000-0003-1878-220X
+FU Science and Technology Planning Project of Guangdong Province
+   [2018B020207008, 2021B1111610005]; Project of Guangdong Medical Product
+   Administration [2022ZDZ01]
+FX This work was supported by Science and Technology Planning Project of
+   Guangdong Province (2018B020207008 and 2021B1111610005) and Project of
+   Guangdong Medical Product Administration (2022ZDZ01) .
+NR 48
+TC 0
+Z9 0
+U1 2
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0889-1575
+EI 1096-0481
+J9 J FOOD COMPOS ANAL
+JI J. Food Compos. Anal.
+PD SEP
+PY 2023
+VL 122
+AR 105500
+DI 10.1016/j.jfca.2023.105500
+EA JUL 2023
+PG 7
+WC Chemistry, Applied; Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Food Science & Technology
+GA N3OR8
+UT WOS:001036151700001
+DA 2024-04-01
+ER
+
+EF

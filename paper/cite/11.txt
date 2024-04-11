@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kaliszan, R
+AF Kaliszan, Roman
+TI QSRR: Quantitative Structure-(Chromatographic) retention relationships
+SO CHEMICAL REVIEWS
+LA English
+DT Review
+ID PERFORMANCE LIQUID-CHROMATOGRAPHY; HUMAN SERUM-ALBUMIN;
+   ARTIFICIAL-MEMBRANE CHROMATOGRAPHY; WATER PARTITION-COEFFICIENTS;
+   MICROEMULSION ELECTROKINETIC CHROMATOGRAPHY; CHIRAL STATIONARY-PHASE;
+   PARTIAL LEAST-SQUARES; MOLECULAR DESCRIPTOR SELECTION; SOLVATION ENERGY
+   RELATIONSHIPS; P-OW VALUES
+C1 Med Univ Gdansk, Dept Biopharmaceut & Pharmacodynam, Gen Ja Hallera 107, PL-80416 Gdansk, Poland.
+C3 Fahrenheit Universities; Medical University Gdansk
+RP Kaliszan, R (corresponding author), Med Univ Gdansk, Dept Biopharmaceut & Pharmacodynam, Gen Ja Hallera 107, PL-80416 Gdansk, Poland.
+EM roman.kaliszan@amg.gda.pl
+RI Kaliszan, Roman/E-4784-2011
+NR 365
+TC 413
+Z9 437
+U1 2
+U2 126
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0009-2665
+EI 1520-6890
+J9 CHEM REV
+JI Chem. Rev.
+PD JUL
+PY 2007
+VL 107
+IS 7
+BP 3212
+EP 3246
+DI 10.1021/cr068412z
+PG 35
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 188NM
+UT WOS:000247926600009
+PM 17595149
+DA 2024-04-01
+ER
+
+EF

@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kluzek, S
+   Matteiz, TA
+AF Kluzek, S.
+   Matteiz, T. A.
+TI Machine-learning for osteoarthritis research
+SO OSTEOARTHRITIS AND CARTILAGE
+LA English
+DT Editorial Material
+ID BIG DATA
+C1 [Kluzek, S.] Univ Oxford, Oxford, England.
+   [Matteiz, T. A.] St Louis Univ, Neurosurg Dept, St Louis, MO 63103 USA.
+C3 University of Oxford; Saint Louis University
+RP Kluzek, S (corresponding author), Univ Oxford, Oxford, England.
+EM stefankluzek@doctors.net.uk
+OI Kluzek, Stefan/0000-0002-0696-7541
+NR 15
+TC 4
+Z9 4
+U1 2
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1063-4584
+EI 1522-9653
+J9 OSTEOARTHR CARTILAGE
+JI Osteoarthritis Cartilage
+PD JUL
+PY 2019
+VL 27
+IS 7
+BP 977
+EP 978
+DI 10.1016/j.joca.2019.04.005
+PG 2
+WC Orthopedics; Rheumatology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Orthopedics; Rheumatology
+GA IC8RJ
+UT WOS:000471248900002
+PM 31002937
+OA Bronze
+DA 2024-04-07
+ER
+
+EF

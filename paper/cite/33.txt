@@ -1,0 +1,80 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pizzo, F
+   Lombardo, A
+   Manganaro, A
+   Cappelli, CI
+   Petoumenou, MI
+   Albanese, F
+   Roncaglioni, A
+   Brandt, M
+   Benfenati, E
+AF Pizzo, Fabiola
+   Lombardo, Anna
+   Manganaro, Alberto
+   Cappelli, Claudia I.
+   Petoumenou, Maria I.
+   Albanese, Federica
+   Roncaglioni, Alessandra
+   Brandt, Marc
+   Benfenati, Emilio
+TI Integrated <i>in silico</i> strategy for PBT assessment and
+   prioritization under REACH
+SO ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Persistence; Bioaccumulation; Toxicity; In silico; Multi-criteria
+   decision making
+ID QSAR MODELS; PARTITION-COEFFICIENTS; AQUATIC TOXICITY; RISK-ASSESSMENT;
+   LOG-P; CHEMICALS; BIOCONCENTRATION; PERSISTENCE; INDEX; BIODEGRADABILITY
+AB Chemicals may persist in the environment, bioaccumulate and be toxic for humans and wildlife, posing great concern. These three properties, persistence (P), bioaccumulation (B), and toxicity (T) are the key targets of the PBT-hazard assessment. The European regulation for the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) requires assessment of PBT-properties for all chemicals that are produced or imported in Europe in amounts exceeding 10 tonnes per year, checking whether the criteria set out in REACH Annex XIII are met, so the substance should therefore be considered to have properties of very high concern. Considering how many substances can fall under the REACH regulation, there is a pressing need for new strategies to identify and screen large numbers fast and inexpensively. An efficient non-testing screening approach to identify PBT candidates is necessary, as a valuable alternative to money- and time-consuming laboratory tests and a good start for prioritization since few tools exist (e.g. the PBT profiler developed by US EPA).
+   The aim of this work was to offer a conceptual scheme for identifying and prioritizing chemicals for further assessment and if appropriate further testing, based on their PBT-potential, using a non-testing screening approach. We integrated in silico models (using existing and developing new ones) in a final algorithm for screening and ranking PBT-potential, which uses experimental and predicted values as well as associated uncertainties. The Multi-Criteria Decision-Making (MCDM) theory was used to integrate the different values. Then we compiled a new set of data containing known PBT and non-PBT substances, in order to check how well our approach clearly differentiated compounds labeled as PBT from those labeled as non-PBT. This indicated that the integrated model distinguished between PBT from non-PBT compounds. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Pizzo, Fabiola; Lombardo, Anna; Cappelli, Claudia I.; Petoumenou, Maria I.; Albanese, Federica; Roncaglioni, Alessandra; Benfenati, Emilio] IRCCS Ist Ric Farmacol Mario Negri, Dept Environm Hlth Sci, Lab Environm Chem & Toxicol, Via La Masa 19, I-20159 Milan, Italy.
+   [Manganaro, Alberto] Kode Srl, Via Nino Pisano 14, I-56122 Pisa, Italy.
+   [Brandt, Marc] Umweltbundesamt UBA German Fed Environm Agcy, Worlitzer Pl 1, D-06844 Dessau Rosslau, Germany.
+C3 Istituto di Ricerche Farmacologiche Mario Negri IRCCS
+RP Lombardo, A (corresponding author), IRCCS Ist Ric Farmacol Mario Negri, Dept Environm Hlth Sci, Lab Environm Chem & Toxicol, Via La Masa 19, I-20159 Milan, Italy.
+EM anna.lombardo@marionegri.it
+RI Roncaglioni, Alessandra/J-8483-2018; Benfenati, Emilio/AAA-9022-2020
+OI Roncaglioni, Alessandra/0000-0002-1734-0939; Benfenati,
+   Emilio/0000-0002-3976-5989; Manganaro, Alberto/0000-0002-0280-7401;
+   Lombardo, Anna/0000-0002-8364-4797
+FU Project: Prioritization of chemicals: a methodology embracing PBT
+   parameters into a unified strategy (PROMETHEUS) [371,363,414, Z
+   6-80710/5]
+FX Project: Prioritization of chemicals: a methodology embracing PBT
+   parameters into a unified strategy (PROMETHEUS), Research ID:
+   371,363,414, Business ID: Z 6-80710/5 commissioned by the German
+   Environment Agency and thank the German Federal Ministry for the
+   Environment, Nature Conservation, Building and Nuclear Safety.
+NR 46
+TC 29
+Z9 29
+U1 3
+U2 67
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0013-9351
+EI 1096-0953
+J9 ENVIRON RES
+JI Environ. Res.
+PD NOV
+PY 2016
+VL 151
+BP 478
+EP 492
+DI 10.1016/j.envres.2016.08.014
+PG 15
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA EA2HO
+UT WOS:000386413600052
+PM 27567352
+DA 2024-04-01
+ER
+
+EF

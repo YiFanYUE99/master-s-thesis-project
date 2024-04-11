@@ -1,0 +1,84 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang Jingping
+   Liu Tianbao
+   Wu Guozhi
+   Wu Xinmin
+Z2 张静平
+   刘天宝
+   吴国志
+   吴新民
+TI DFT study on substituted aromatic compounds' caused acute toxicities to
+   on Daphnia Magna Straus
+Z1 用DFT研究取代芳烃对大型蚤的急毒性
+Z3 计算机与应用化学
+SO Computers and Applied Chemistry
+VL 27
+IS 6
+BP 839
+EP 843
+AR 1001-4160(2010)27:6<839:YDYJQD>2.0.TX;2-R
+PY 2010
+LA Chinese
+DT Article
+DE substituted aromatic compound; Daphnia Magna Straus; density functional
+   theory(DFT); quantitative structure-activity relationships(QSAR)
+Z5 取代芳烃; 大型蚤; 密度泛函理论; 定量构效关系
+AB The DFT-B3LYP method, with the basis set 6-311G~(**), was employed to
+   calculate the molecular geometries and electronic structures of 24
+   substituted aromatic compounds.
+   E_(HOMO),E_(LUMO),DeltaE,E_(NHOMO),E_(NLUMO),E_T,QH~+,Q~-,muand V were
+   selected as structural descriptors. According to the type of
+   substituents, the acute toxicity(-lgEC_(50)) of these compounds to
+   Daphnia Magna Straus along with hydrophobicity quantified by the
+   1-octanol/water partition coefficient(log Kow) and the above ten
+   structural parameters, was used to establish the quantitative
+   structure-activity relationships(QSAR).The results indicate that the
+   frontier orbital energies and log Kow have important contribution to the
+   toxicity of those aromatics, and the electronic transfer interactions
+   between the chemicals and biological molecules are the chiefly toxic
+   actions of the aromatics without halogen or nitro group to the Daphnia
+   Magna Straus. For other aromatics, their toxicities were correlated to
+   log Kow too. A highly predictive model was ob tained for all objective
+   compounds:-lgEC_(50)=8.243+0.293 log
+   Kow+8.180DeltaE-25.457E_(NLUMO)+14.180E_(NHOMO),n=24,R=0.955,q~2=0.898,S
+   E=0.143, F=79.408,P=0.000
+Z4 用DFT-B3LYP方法,在较高基组6-311G~(**)水平,全优化计算24种取代芳烃化合物.
+   从中获得分子最高占用和最低空轨道能(E_(HOMO)和E_(LUMO))、前线轨道能级差(△E=E_(HOMO)-E_(LUMO))、分子次最高
+   占用和次最低空轨道能(E_(NHOMO)和E_(NLUMO))、分子总能量(E_T)、氢原子所带的最高正电荷(Q_H~+)、最负非氢原子的静电荷
+   (Q~-)、分子偶极矩(mu)和分子体积(V). 文献中的辛醇/水分配系数(log
+   K_(OW)),按取代基类型分类和标题化合物研究大型蚤急性毒性(-lgEC_(50))的定量构效关系(QSAR).
+   结果表明,前线轨道能级和疏水性均对取代芳烃毒性作用有重要贡献.
+   没有卤素或硝基的芳烃对大型蚤的毒性作用主要以与生物分子发生电子转移等化学反应为主,含有卤素或硝基的芳烃的毒性作用还与疏水性有关.
+   对24种标题物作多元线性回归,所得模型(-lgEC_(50)=8.243+0.293 log
+   K_(OW)+8.180△E-25.457E_(NLUMO)+14.180E_(NHOMO),n=24,R=0.955,q~2=0.898,SE
+   =0.143,F=79.408,P=0.000)具有较高的毒性预测作用
+C1 Zhang Jingping, Department of Chemistry and Food Science, Chizhou
+   College, Chizhou, Anhui 247000, China.
+   Liu Tianbao, Department of Chemistry and Food Science, Chizhou College,
+   Chizhou, Anhui 247000, China.
+   Wu Guozhi, Department of Chemistry and Food Science, Chizhou College,
+   Chizhou, Anhui 247000, China.
+   Wu Xinmin, Department of Chemistry and Food Science, Chizhou College,
+   Chizhou, Anhui 247000, China.
+Z6 张静平, 池州学院化学与食品科学系, 池州, 安徽 247000, 中国.
+   刘天宝, 池州学院化学与食品科学系, 池州, 安徽 247000, 中国.
+   吴国志, 池州学院化学与食品科学系, 池州, 安徽 247000, 中国.
+   吴新民, 池州学院化学与食品科学系, 池州, 安徽 247000, 中国.
+EM zhangjp_2680@163.com; tianbaoliu1979@126.com
+Z7 zhangjp_2680@163.com; tianbaoliu1979@126.com
+NR 26
+Z8 2
+Z9 2
+U1 0
+U2 0
+FU 安徽省自然科学基金资助项目; 安徽省高等学校省级优秀青年人才基金资助项目; 池州学院化学材料与工程实验中心资助项目
+SN 1001-4160
+PG 5
+SC Chemistry (provided by Clarivate Analytics)
+UT CSCD:3942564
+DA 2024-04-08
+ER
+
+EF

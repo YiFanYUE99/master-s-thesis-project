@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, ZH
+AF Zhang, Zhongheng
+TI Machine learning method for the management of acute kidney injury: more
+   than just treating biomarkers individually
+SO BIOMARKERS IN MEDICINE
+LA English
+DT Editorial Material
+DE acute kidney injury; big data; biomarkers; critical care; machine
+   learning; prediction
+ID PREDICTION
+AB "the ML approach provides a large number of mathematical algorithms to help to establish and realize precise medicine in the management of AKI."
+C1 [Zhang, Zhongheng] Zhejiang Univ, Sir Run Run Shaw Hosp, Dept Emergency Med, Sch Med, Hangzhou 310016, Zhejiang, Peoples R China.
+C3 Zhejiang University
+RP Zhang, ZH (corresponding author), Zhejiang Univ, Sir Run Run Shaw Hosp, Dept Emergency Med, Sch Med, Hangzhou 310016, Zhejiang, Peoples R China.
+EM zh_zhang1984@zju.edu.cn
+RI Zhang, Zhongheng/E-1282-2011
+OI Zhang, Zhongheng/0000-0002-2336-5323
+FU Zhejiang Engineering Research Center of Intelligent Medicine from the
+   First Affiliated Hospital of Wenzhou Medical University [2016E10011];
+   public welfare research project of Zhejiang province [LGF18H150005];
+   National Natural Science Foundation of China [81901929]; Scientific
+   research project of Zhejiang Education Commission [Y201737841]
+FX Z Zhang received funding from Zhejiang Engineering Research Center of
+   Intelligent Medicine (grant number 2016E10011) from the First Affiliated
+   Hospital of Wenzhou Medical University, The public welfare research
+   project of Zhejiang province (grant number LGF18H150005), the National
+   Natural Science Foundation of China (grant number 81901929) and
+   Scientific research project of Zhejiang Education Commission (grant
+   number Y201737841). The author has no other relevant affiliations or
+   financial involvement with any organization or entity with a financial
+   interest in or financial conflict with the subject matter or materials
+   discussed in the manuscript apart from those disclosed.
+NR 18
+TC 6
+Z9 6
+U1 0
+U2 11
+PU FUTURE MEDICINE LTD
+PI LONDON
+PA UNITEC HOUSE, 3RD FLOOR, 2 ALBERT PLACE, FINCHLEY CENTRAL, LONDON, N3
+   1QB, ENGLAND
+SN 1752-0363
+EI 1752-0371
+J9 BIOMARK MED
+JI Biomark. Med.
+PD OCT
+PY 2019
+VL 13
+IS 15
+BP 1251
+EP 1253
+DI 10.2217/bmm-2019-0363
+PG 3
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA JE3FN
+UT WOS:000490579500001
+PM 31559832
+OA Bronze
+DA 2024-04-07
+ER
+
+EF

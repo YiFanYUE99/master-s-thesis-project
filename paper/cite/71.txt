@@ -1,0 +1,78 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhu, XH
+   Wei, Q
+   Wan, PJ
+   Wang, WX
+   Lai, FX
+   He, JC
+   Fu, Q
+AF Zhu, Xuhui
+   Wei, Qi
+   Wan, Pinjun
+   Wang, Weixia
+   Lai, Fengxiang
+   He, Jiachun
+   Fu, Qiang
+TI Effect of Paclobutrazol Application on Enhancing the Efficacy of
+   Nitenpyram against the Brown Planthopper, <i>Nilaparvata lugens</i>
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+LA English
+DT Article
+DE Nilaparvata lugens; paclobutrazol; nitenpyram; synergetic effect; total
+   phenolic; hydrogen peroxide
+ID INDUCED DEFENSE RESPONSE; GROWTH-REGULATOR; PLANT DEFENSE; RICE;
+   RESISTANCE; INSECTICIDES; ACCUMULATION; INDUCTION; TOLERANCE; STAL
+AB The brown planthopper (BPH), Nilaparvata lugens, is one of the most destructive rice pests in Asia. It has already developed a high level of resistance to many commonly used insecticides including nitenpyram (NIT), which is a main synthetic insecticide that is used to control BPH with a much shorter persistence compared to other neonicotinoid insecticides. Recently, we found that an exogenous supplement of paclobutrazol (PZ) could significantly enhance the efficacy of NIT against BPH, and the molecular mechanism underlying this synergistic effect was explored. The results showed that the addition of a range of 150-300 mg/L PZ increased the toxicity of NIT against BPH with the highest mortalities of 78.0-87.0% on the 16th day after treatments, and PZ could also significantly prolong the persistence of the NIT efficacies. Further investigation suggested that PZ directly increased the content of flavonoids and H2O2 in rice and increased the activity of polyphenol oxidase, which might be involved in the constitutive defense of rice in advance. Additionally, there was an interaction between PZ and BPH infestation, indicating that PZ might activate the host defense responses. Therefore, PZ increased the efficacy of NIT against the brown planthoppers by enhancing the constitutive and inducible defense responses of rice. Our study showed for the first time that PZ could contribute to improving the control effects of insecticides via inducing the defense responses in rice plants against BPH, which provided an important theoretical basis for developing novel pest management strategies in the field.
+C1 [Zhu, Xuhui; Wei, Qi; Wan, Pinjun; Wang, Weixia; Lai, Fengxiang; He, Jiachun; Fu, Qiang] China Natl Rice Res Inst, State Key Lab Rice Biol & Breeding, Hangzhou 311401, Peoples R China.
+C3 Chinese Academy of Agricultural Sciences; China National Rice Research
+   Institute, CAAS
+RP Wei, Q; Fu, Q (corresponding author), China Natl Rice Res Inst, State Key Lab Rice Biol & Breeding, Hangzhou 311401, Peoples R China.
+EM 82101201157@caas.cn; weiqi01@caas.cn; wanpinjun@caas.cn;
+   wangweixia@caas.cn; laifengxiang@caas.cn; hejiachun@caas.cn;
+   fuqiang@caas.cn
+RI Fu, Qi/HTT-2030-2023; WEI, QI/JAN-7375-2023; Wei, Qi/D-3918-2017; Wan,
+   Pin-Jun/IQU-9234-2023
+OI Zhu, Xuhui/0009-0000-7845-4086
+FU National Key Ramp;D Program of China [2021YFD1401100]; Key Ramp;D
+   Program of Zhejiang Province, China [2022C02047]; Rice Pest Management
+   Research Group of the Agricultural Science and Technology Innovation
+   Program of China Academy of Agricultural Science
+   [CAAS-ASTIP-2016-CNRRI]; China Agricultural Research System [CARS-01-38]
+FX This work was supported by the National Key R & D Program of China
+   (2021YFD1401100), Key R & D Program of Zhejiang Province, China (No.
+   2022C02047), Rice Pest Management Research Group of the Agricultural
+   Science and Technology Innovation Program of China Academy of
+   Agricultural Science (CAAS-ASTIP-2016-CNRRI) and China Agricultural
+   Research System (CARS-01-38).
+NR 54
+TC 0
+Z9 0
+U1 9
+U2 18
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-6596
+EI 1422-0067
+J9 INT J MOL SCI
+JI Int. J. Mol. Sci.
+PD JUL
+PY 2023
+VL 24
+IS 13
+AR 10490
+DI 10.3390/ijms241310490
+PG 14
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA M1UZ6
+UT WOS:001028111100001
+PM 37445669
+OA Green Published, gold
+DA 2024-04-06
+ER
+
+EF

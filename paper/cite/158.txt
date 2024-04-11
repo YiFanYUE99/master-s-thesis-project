@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mock, A
+   Warta, R
+   Dettling, S
+   Brors, B
+   Jäger, D
+   Herold-Mende, C
+AF Mock, Andreas
+   Warta, Rolf
+   Dettling, Steffen
+   Brors, Benedikt
+   Jaeger, Dirk
+   Herold-Mende, Christel
+TI MetaboDiff: an R package for differential metabolomic analysis
+SO BIOINFORMATICS
+LA English
+DT Article
+AB Comparative metabolomics comes of age through commercial vendors offering metabolomics for translational researchers outside the mass spectrometry field. The MetaboDiff packages aims to provide a low-level entry to differential metabolomic analysis with R by starting off with the table of metabolite measurements. As a key functionality, MetaboDiffs offers the exploration of sample traits in a data-derived metabolic correlation network.
+   Availability and implementation: The MetaboDiff R package is platform-independent, available at http://github. com/andreasmock/MetaboDiff/and released under the MIT licence. The package documentation comprises a step-by-step markdown tutorial.
+C1 [Mock, Andreas; Warta, Rolf; Dettling, Steffen; Herold-Mende, Christel] Heidelberg Univ Hosp, Div Expt Neurosurg, D-69120 Heidelberg, Germany.
+   [Mock, Andreas; Warta, Rolf; Dettling, Steffen; Brors, Benedikt; Jaeger, Dirk; Herold-Mende, Christel] German Canc Consortium DKTK, D-69120 Heidelberg, Germany.
+   [Mock, Andreas; Jaeger, Dirk] Natl Ctr Tumor Dis NCT, Dept Med Oncol, D-69120 Heidelberg, Germany.
+   [Brors, Benedikt] German Canc Res Ctr DIKE, Div Appl Bioinformat, D-69120 Heidelberg, Germany.
+C3 Ruprecht Karls University Heidelberg; Helmholtz Association; German
+   Cancer Research Center (DKFZ); Helmholtz Association; German Cancer
+   Research Center (DKFZ); Ruprecht Karls University Heidelberg
+RP Mock, A (corresponding author), Heidelberg Univ Hosp, Div Expt Neurosurg, D-69120 Heidelberg, Germany.; Mock, A (corresponding author), German Canc Consortium DKTK, D-69120 Heidelberg, Germany.; Mock, A (corresponding author), Natl Ctr Tumor Dis NCT, Dept Med Oncol, D-69120 Heidelberg, Germany.
+EM andreas.mock@med.uni-heidelberg.de
+RI Brors, Benedikt/E-5620-2013; Mock, Andreas/HKV-3382-2023
+OI Brors, Benedikt/0000-0001-5940-3101; Mock, Andreas/0000-0002-3332-9166
+FU Anni Hofmann Stiftung
+FX This work was supported by the Anni Hofmann Stiftung (CHM).
+NR 8
+TC 33
+Z9 35
+U1 1
+U2 8
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1460-2059
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD OCT 1
+PY 2018
+VL 34
+IS 19
+BP 3417
+EP 3418
+DI 10.1093/bioinformatics/bty344
+PG 2
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA GV8XO
+UT WOS:000446434300031
+PM 29718102
+OA Green Published, Green Submitted, hybrid
+DA 2024-04-08
+ER
+
+EF

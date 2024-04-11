@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dalmolin, SP
+   Dreon, DB
+   Thiesen, FV
+   Dallegrave, E
+AF Dalmolin, Suelen Pizzolatto
+   Dreon, Danielly Bassani
+   Thiesen, Flavia Valladao
+   Dallegrave, Eliane
+TI Biomarkers of occupational exposure to pesticides: Systematic review of
+   insecticides
+SO ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY
+LA English
+DT Review
+DE Biomarkers; Metabolites; Insecticides; Pesticides; Occupational
+   monitoring
+ID CHLORPYRIFOS EXPOSURE; LONGITUDINAL ASSESSMENT; PYRETHROID EXPOSURE;
+   OXIDATIVE STRESS; PARAOXONASE 1; TIME COURSES; HEALTH; WORKERS;
+   POPULATION; FARMERS
+AB Introduction: Pesticides are widely used around the world, and rural workers have greater risk of poisoning. The use of biomarkers for insecticides can contribute to the diagnosis and prevention of poisoning.
+   Objective: To identify, in the scientific literature, the biomarkers of occupational exposure to insecticides of different insecticide classes.
+   Methods: The PubMed, Lilacs and Embase databases were analyzed using a systematic search strategy and in accordance with the criteria established by the PRISMA methodology. Articles with information related to the use of biomarkers to identify active ingredients, or insecticide metabolites, or effects on the human biological matrices were analyzed.
+   Results: A total of 840 studies was found, and 30 met the selection criteria. The search identified 118 results for insecticide biomarkers, of which 45% were of exposure, 42% of effect, and 14% of susceptibility. Additionally, 78 were possible biomarkers, and only 67 confirmed to be different biomarkers for insecticides. Acetylcholinesterase (AChE), butyrylcholinesterase (BuChE) and 3,5,6-trichloro-2-pyridinol (TCP-y), specific for Chlorpyrifos, were among the most common biomarkers identified; however, most metabolites found were nonspecific.
+   Conclusion: Various insecticide biomarkers were mentioned; nonetheless, only a few are specific and used to identify the wide range of insecticides to which farm workers are exposed.
+C1 [Dalmolin, Suelen Pizzolatto] Univ Fed Rio Grande do Sul, Expt Res Ctr, Clin Hosp Porto Alegre, Grad Program Med Sci, Porto Alegre, RS, Brazil.
+   [Dreon, Danielly Bassani; Dallegrave, Eliane] Fed Univ Hlth Sci Porto Alegre, Grad Program Hlth Sci, Lab Toxicol Res, Porto Alegre, RS, Brazil.
+   [Thiesen, Flavia Valladao] Pontificia Univ Catolica Rio Grande do Sul, Hlth Sci Sch, Porto Alegre, RS, Brazil.
+   [Dallegrave, Eliane] Fed Univ Hlth Sci Porto Alegre, Dept Pharmacosci, Porto Alegre, RS, Brazil.
+C3 Universidade Federal do Rio Grande do Sul; Pontificia Universidade
+   Catolica Do Rio Grande Do Sul
+RP Dalmolin, SP (corresponding author), Univ Fed Rio Grande do Sul, Expt Res Ctr, Clin Hosp Porto Alegre, Grad Program Med Sci, Porto Alegre, RS, Brazil.
+EM su_dalmolin@hotmail.com
+RI thiesen, flavia/A-3470-2017
+OI thiesen, flavia/0000-0003-4907-6789
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior -Brasil
+   (CAPES)
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior -Brasil (CAPES) for fellowships.
+NR 67
+TC 25
+Z9 25
+U1 4
+U2 32
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1382-6689
+EI 1872-7077
+J9 ENVIRON TOXICOL PHAR
+JI Environ. Toxicol. Pharmacol.
+PD APR
+PY 2020
+VL 75
+AR 103304
+DI 10.1016/j.etap.2019.103304
+PG 11
+WC Environmental Sciences; Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Pharmacology & Pharmacy; Toxicology
+GA LF3JM
+UT WOS:000527317100003
+PM 31841723
+DA 2024-04-07
+ER
+
+EF

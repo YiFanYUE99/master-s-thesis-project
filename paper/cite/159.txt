@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Salzer, L
+   Witting, M
+   Schmitt-Kopplin, P
+AF Salzer, Liesa
+   Witting, Michael
+   Schmitt-Kopplin, Philippe
+TI MobilityTransformR: an R package for effective mobility transformation
+   of CE-MS data
+SO BIOINFORMATICS
+LA English
+DT Article
+AB A Summary: We present MobilityTransformR, an R/Bioconductor package for the effective mobility scaling of capillary zone electrophoresis-mass spectrometry (CE-MS) data. It uses functionality from different R packages that are frequently used for data processing and analysis in MS-based metabolomics workflows, allowing the subsequent use of reproducible transformed CE-MS data in existing workflows.
+C1 [Salzer, Liesa; Schmitt-Kopplin, Philippe] Helmholtz Zentrum Munchen, Res Unit Analyt BioGeoChem, D-85764 Neuherberg, Germany.
+   [Witting, Michael; Schmitt-Kopplin, Philippe] Tech Univ Munich, TUM Sch Life Sci, Chair Analyt Food Chem, D-85354 Freising Weihenstephan, Germany.
+   [Witting, Michael] Helmholtz Zentrum Munchen, Metabol & Prote Core, D-85764 Neuherberg, Germany.
+C3 Helmholtz Association; Helmholtz-Center Munich - German Research Center
+   for Environmental Health; Technical University of Munich; Helmholtz
+   Association; Helmholtz-Center Munich - German Research Center for
+   Environmental Health
+RP Witting, M (corresponding author), Tech Univ Munich, TUM Sch Life Sci, Chair Analyt Food Chem, D-85354 Freising Weihenstephan, Germany.; Witting, M (corresponding author), Helmholtz Zentrum Munchen, Metabol & Prote Core, D-85764 Neuherberg, Germany.
+EM michael.witting@helmholtz-muenchen.de
+RI Schmitt-Kopplin, Philippe/H-6271-2011
+OI Schmitt-Kopplin, Philippe/0000-0003-0824-2664; Salzer,
+   Liesa/0000-0003-0761-0656; Witting, Michael/0000-0002-1462-4426
+FU Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+   [431572533]
+FX This research was funded by the Deutsche Forschungsgemeinschaft (DFG,
+   German Research Foundation)--Project number 431572533 (MetClassNet).
+NR 11
+TC 4
+Z9 4
+U1 0
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1367-4811
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD AUG 10
+PY 2022
+VL 38
+IS 16
+BP 4044
+EP 4045
+DI 10.1093/bioinformatics/btac441
+EA JUL 2022
+PG 2
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA 3R3KQ
+UT WOS:000824856700001
+PM 35781328
+OA Bronze
+DA 2024-04-08
+ER
+
+EF

@@ -1,0 +1,79 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Erguven, Gokhan Onder
+   Yildirim, Numan
+   Yildirim, Nuran Cikcikoglu
+TI Use of oxidative biomarkers in the evaluation of bioremediation
+   efficiency.
+SO AGBIOL 2021. III International Agricultural, Biological & Life Science
+   Conference, Edirne, Turkey, 1-3 September 2021. Proceedings
+PS 714-722
+PY 2021
+U1 0
+U2 0
+AB Bioremediation of pesticide contaminated sites with bacteria that are
+   adapted to these pesticides or genetically engineered for biodegradation
+   of persistent organic pollutants are a study area that is currently
+   being explored as an alternative remediation techniques. Biomarkers have
+   been developed to track the survival and efficiency of specific
+   agricultural soil bacteria that are used as inocula for bioremediation
+   of pesticide contaminated agricultural fields. Examples of biomarkers
+   like catalase (CAT), glutathione S-transferase.(GST), cytochrome P4501A1
+   (CYP1A1) activities in Gammarus pulex can be useful for these kind of
+   studies. Other biomarkers can also be used for monitoring of microbial
+   inocula used for bioaugmentation or bioremediation of pesticide
+   contaminated receiving environments. The choice of biomarker and
+   monitoring system depends on the particular site, bacterial strain and
+   sensitivity and specificity of detection required. According to the
+   results of the most studies, CYP1A1, CAT, and GST activities in G. pulex
+   sanctioned the capability of soil bacteria in bioremediation of
+   pesticides. Isolated and enriched bacteria and microbial consortia can
+   be helpful for decrease of the chemical oxygen demand (COD) and
+   biochemical oxygen demand (BOD5), pH and dissolved oxygen parameters of
+   the pesticide contaminated aquatic environments. This means these
+   parameters can give a useful alternative opinion for screening the
+   active material of the pesticide. As we know, monitoring the active
+   material of the pesticides with chromotographic methods and using these
+   devices are very expensive. At the final phase of the bioremediation
+   step, it was determined that these bacteria have efficient
+   bioremediation properties at a rate of up to 80%. According to recent
+   studies soil bacteria can be used for bioremediate the receiving
+   environments that are polluted by pesticides. The treatment efficiency
+   of these bacteria can be determined by monitoring changes in some
+   biochemical biomarkers in G. pulex.
+UT CABI:20220173355
+DT Conference paper
+LA English
+CT AGBIOL 2021. III International Agricultural, Biological & Life Science
+   Conference, Edirne, Turkey, 1-3 September 2021.
+C1 Department of Political Science and Public Administration, Department of
+   Urbanization and Environmental Issues, Faculty of Economics and
+   Administrative Sciences, Munzur University, Tunceli, Turkey
+   Department of Plant and Animal Production, Tunceli Vocational School,
+   Munzur University, Tunceli, Turkey
+   Department of Veterinary Medicine, Laboratorian and Veterinarian Health
+   Programme, Pertek Sakine Genc Vocational School, Munzur University,
+   Tunceli, Turkey
+PU Trakya University
+PI Edirne, Turkey
+SC Environmental Sciences & Ecology; Agriculture; Biotechnology & Applied
+   Microbiology; Microbiology; Chemistry; Toxicology (provided by Clarivate
+   Analytics)
+BN 9789753743013
+CC PP600Pollution and Degradation; JJ100Soil Biology; XX700Biodegradation;
+   ZZ394Biochemistry and Physiology of Microorganisms (NEW March 2000);
+   HH430Pesticide and Drug Residues and Ecotoxicology (NEW March 2000)
+DE bioremediation; monitoring; biochemical markers; biochemical oxygen
+   demand; catalase; chemical oxygen demand; enzymes; glutathione;
+   pollutants; screening; soil bacteria; survival; glutathione transferase;
+   cytochrome P-450; enzyme activity; pesticides; pesticide residues; soil
+   flora; biological markers
+OR Gammarus pulex; Bacteria
+BD Gammarus; Gammaridae; Amphipoda; Malacostraca; Crustacea; arthropods;
+   invertebrates; animals; eukaryotes; prokaryotes
+NR 43 ref.
+DA 2024-04-07
+ER
+
+EF

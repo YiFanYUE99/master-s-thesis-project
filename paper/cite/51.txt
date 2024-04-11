@@ -1,0 +1,52 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Buszewski, B
+   Michel, M
+AF Buszewski, Boguslaw
+   Michel, Monika
+TI Quantitative Structure-Retention Relationship Studies as an Analytical
+   Tool in the Determination and Modeling of Pesticide Residues in Plant
+   Organisms
+SO JOURNAL OF AOAC INTERNATIONAL
+LA English
+DT Article
+ID SOLID-PHASE DISPERSION; LIQUID-CHROMATOGRAPHY; SAMPLE-PREPARATION; ROOT
+   UPTAKE; CARBENDAZIM RESIDUE; MATHEMATICAL-MODEL; CHEMICALS; STATIONARY;
+   SOIL; XENOBIOTICS
+AB Crop models use mathematical equations to simulate the physical and chemical processes that generally control the uptake, translocation, and sorption of pesticides in all parts of plants. Our interest is focused on method optimization to determine the new compounds using stationary and mobile phases with different physicochemical properties. The work deals with five fungicides composed of nitrogen-containing heterocycles, 1,2,4-triazoles. The sample preparation liquid extraction and solid-phase-based methods are used to determine and model the pesticide residues in plants organisms. Analysis of these compounds is generally carried out by GC or HPLC coupled to different detectors, especially to mass spectrometers, in hyphenated techniques that have been extremely developed in recent years. The relationships between the chromatographic retention factor (k) and those physicochemical properties that are relevant in quantitative structure-retention relationship (QSRR) studies were investigated. The accuracy of the simple linear regressions between the chromatographic retention and the descriptors for all of the compounds was satisfactory (correlation coefficient 0.83 <= R-2 <= 0.99). The QSRR models of these nitrogen-containing heterocyclic compounds could be predicted with a multiple linear regression equation having the statistical index R-2 = 1.00. Evaluation of chromatographic properties of the new stationary phases and description of the molecular separation mechanism using the QSRR method, including molecular modeling, were performed. A universal model is presented that links the physicochemical parameters describing the fungicide compounds with the anatomical, physiological, and biochemical properties of the plant.
+C1 [Buszewski, Boguslaw] Nicolaus Copernicus Univ, Fac Chem, PL-87100 Torun, Poland.
+   [Michel, Monika] Plant Protect Inst NRI, Pesticide Residue Lab, PL-60318 Poznan, Poland.
+C3 Nicolaus Copernicus University
+RP Buszewski, B (corresponding author), Nicolaus Copernicus Univ, Fac Chem, 7 Gagarin St, PL-87100 Torun, Poland.
+EM bbusz@chem.uni.torun.pl
+RI Buszewski, BogusÅ‚aw/AAT-5316-2020; Buszewski, Bogusław/A-3187-2009
+NR 54
+TC 5
+Z9 5
+U1 0
+U2 10
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1060-3271
+EI 1944-7922
+J9 J AOAC INT
+JI J. AOAC Int.
+PD NOV-DEC
+PY 2010
+VL 93
+IS 6
+BP 1703
+EP 1714
+PG 12
+WC Chemistry, Analytical; Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Food Science & Technology
+GA 705RW
+UT WOS:000286156600004
+PM 21313797
+DA 2024-04-02
+ER
+
+EF

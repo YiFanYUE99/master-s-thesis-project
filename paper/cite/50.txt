@@ -1,0 +1,56 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Szatkowska-Wandas, P
+   Koba, M
+AF Szatkowska-Wandas, Paulina
+   Koba, Marcin
+TI Prediction of Acridinones' Ability to Interstrand DNA Crosslinks
+   Formation Using Connected QSRR and QSAR Analysis
+SO LETTERS IN DRUG DESIGN & DISCOVERY
+LA English
+DT Article
+DE Quantitative structure-activity relationships (QSAR); quantitative
+   structure-retention relationships (QSRR); multiple linear regression
+   (MLR); high-Performance Liquid Chromatography (HPLC); acridinones;
+   interstrand DNA crosslinks; molecular modeling descriptors
+ID STRUCTURE-RETENTION RELATIONSHIPS; ANTITUMOR-ACTIVITY; CHROMATOGRAPHY;
+   DERIVATIVES; IMIDAZOACRIDINONE; AFFINITY
+AB QSAR studies to predict acridinones' ability to interstrand DNA crosslinks formation were performed. The study is based on experimental, as well as predicted retention data (log k) and was conducted by connected QSRR and QSAR strategy. For this purpose, chromatography analysis of acridinone derivatives was utilized. Moreover, computer modeling of the above-mentioned compounds was performed. Afterwards, statistical analysis of the obtained results was performed by two different HPLC stationary phases: phosphatidylcholine (IAM) and alpha(1)-glycoprotein (AGP). This approach allowed determining retention parameter log k, which characterizes binding affinity of acridinones to phospholipids or proteins. Moreover, molecular modeling was performed based on the chemical structure of considered acridinones using HyperChem 8.0 program (HyperCube Inc., Gainesville, FL, USA). Structural descriptors were obtained from Dragon 6.0 software (Talete, Italy).
+   Those data were used to create general QSAR equations. Derived QSAR models described acridinones' ability to interstrand DNA crosslinks formation (C-0) depending on HPLC retention parameters, whereas log k parameter obtained by HPLC analysis was mostly dependent on molecular descriptors calculated.
+   Additionally, the predictive performance of obtained QSARs and QSRRs models allowed us to predict the ability to interstrand DNA crosslinks formation by acridinones derivatives. It also enabled us to predict their chromatographic retention parameters. Proposed connected QSRR and QSAR approach could be a useful tool for in silico experiments, which verifies acridinones' activity, without any in vivo biological test.
+C1 [Szatkowska-Wandas, Paulina; Koba, Marcin] Nicholas Copernicus Univ, Fac Pharm, Dept Toxicol, Coll Med, PL-85094 Bydgoszcz, Poland.
+C3 Nicolaus Copernicus University; Ludwik Rydygier Collegium Medicum
+RP Koba, M (corresponding author), Nicholas Copernicus Univ, Fac Pharm, Dept Toxicol, Coll Med, PL-85094 Bydgoszcz, Poland.
+EM kobamar@cm.umk.pl
+RI Szatkowska-Wandas, Paulina/H-6740-2014; Koba, Marcin/D-4276-2014
+OI Koba, Marcin/0000-0003-0623-1443
+NR 20
+TC 1
+Z9 2
+U1 0
+U2 3
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1570-1808
+EI 1875-628X
+J9 LETT DRUG DES DISCOV
+JI Lett. Drug Des. Discov.
+PY 2016
+VL 13
+IS 5
+BP 387
+EP 394
+DI 10.2174/1570180812666151003001801
+PG 8
+WC Chemistry, Medicinal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA DK4JI
+UT WOS:000374883700005
+DA 2024-04-02
+ER
+
+EF

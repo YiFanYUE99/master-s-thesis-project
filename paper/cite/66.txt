@@ -1,0 +1,83 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Du, QK
+   Shan, YP
+   Hu, HY
+   Wu, CC
+   Wang, D
+   Song, XP
+   Ma, YJ
+   Xi, JP
+   Ren, XL
+   Ma, XY
+   Ma, Y
+AF Du, Qiankun
+   Shan, Yongpan
+   Hu, Hongyan
+   Wu, Changcai
+   Wang, Dan
+   Song, Xianpeng
+   Ma, Yajie
+   Xi, Jianping
+   Ren, Xiangliang
+   Ma, Xiaoyan
+   Ma, Yan
+TI Fitness effect and transcription profile reveal sublethal effect of
+   nitenpyram on the predator <i>Chrysopa pallens</i> (Neuroptera:
+   Chrysopidae)
+SO ARCHIVES OF INSECT BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Article
+DE age-stage two sex life table; ecotoxicology; green lacewing; sublethal
+   dosage
+ID COLEOPTERA-COCCINELLIDAE; THIAMETHOXAM; INSECT; ANNOTATION; EXPRESSION;
+   RESISTANCE; RESIDUES; PROTEIN; LETHAL; RATES
+AB Although neonicotinoids are widely used and important insecticide, there are growing concerns about their effect on nontarget insects and other organisms. Moreover, the effects of nitenpyram (NIT), a second generation of neonicotinoid insecticides, on Chrysopa pallens are still unclear. Therefore, this study purposed to investigate the acute toxicity of NIT to C. pallens using the spotting method. To examine the potential effects of a sublethal dose of NIT (LD30, 1.85 ng of active ingredient per insect) on C. pallens, we constructed the life tables and analyzed the transcriptome data. The life table results showed that the period of second instar larvae, adult pre-oviposition period and total pre-oviposition period were significantly prolonged after exposure to sublethal dose of NIT, but had no significant effects on the other instars, longevity, oviposition days, and fecundity. The population parameters, including the preadult survival rate, gross reproduction rate, net reproductive rate, the intrinsic rate of increase, and finite rate of increase, were not significantly affected, and only the mean generation time was significantly prolonged by NIT. Transcriptome analysis showed that there were 68 differentially expressed genes (DEGs), including 50 upregulated genes and 18 downregulated genes. Moreover, 13 DEGs related to heat shock protein, nose resistant to fluoxetine protein 6, and prophenoloxidas were upregulated. This study showed the potential effects of sublethal doses of NIT on C. pallens and provided a theoretical reference for the comprehensive application of chemical and biological control in integrated pest management.
+C1 [Du, Qiankun; Ren, Xiangliang; Ma, Xiaoyan; Ma, Yan] Zhengzhou Univ, Natl Key Lab Cotton Biobreeding & Integrated Utili, Zhengzhou Res Base, Zhengzhou, Peoples R China.
+   [Du, Qiankun; Shan, Yongpan; Hu, Hongyan; Wu, Changcai; Wang, Dan; Song, Xianpeng; Ma, Yajie; Xi, Jianping; Ren, Xiangliang; Ma, Xiaoyan; Ma, Yan] Chinese Acad Agr Sci, Inst Cotton Res, Natl Key Lab Cotton Biobreeding & Integrated Utili, Anyang, Peoples R China.
+   [Ren, Xiangliang; Ma, Xiaoyan] Chinese Acad Agr Sci, Western Agr Res Ctr, Changji, Peoples R China.
+   [Ren, Xiangliang; Ma, Xiaoyan; Ma, Yan] Zhengzhou Univ, Natl Key Lab Cotton Biobreeding & Integrated Utili, Zhengzhou Res Base, Zhengzhou 450001, Peoples R China.
+C3 Zhengzhou University; Chinese Academy of Agricultural Sciences;
+   Institute of Cotton Research, CAAS; Chinese Academy of Agricultural
+   Sciences; Zhengzhou University
+RP Ren, XL; Ma, XY; Ma, Y (corresponding author), Zhengzhou Univ, Natl Key Lab Cotton Biobreeding & Integrated Utili, Zhengzhou Res Base, Zhengzhou 450001, Peoples R China.
+EM renxiangliang@caas.cn; maxy_caas@126.com; aymayan@126.com
+RI li, chunlin/KFS-0761-2024
+OI wu, changcai/0000-0003-0336-8962
+FU China Agriculture Research System [1610162023025]; China Agriculture
+   Research System, Central Public-interest Scientific Institution Basal
+   Research Fund; Xinjiang Uygur Autonomous Region of China
+FX This work was supported by China Agriculture Research System, Central
+   Public-interest Scientific Institution Basal Research Fund (No.
+   1610162023025), and the "Tianchi Talent" on Doctor scheme introduced in
+   the Xinjiang Uygur Autonomous Region of China.
+NR 69
+TC 0
+Z9 0
+U1 17
+U2 17
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0739-4462
+EI 1520-6327
+J9 ARCH INSECT BIOCHEM
+JI Arch. Insect Biochem. Physiol.
+PD JAN
+PY 2024
+VL 115
+IS 1
+AR e22073
+DI 10.1002/arch.22073
+PG 15
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA CU7S7
+UT WOS:001127822300001
+PM 38288485
+DA 2024-04-06
+ER
+
+EF

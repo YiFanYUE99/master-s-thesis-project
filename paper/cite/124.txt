@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu, L
+   Wu, QC
+   Miao, XY
+   Fan, TL
+   Meng, ZY
+   Chen, XJ
+   Zhu, WT
+AF Liu, Li
+   Wu, Qinchao
+   Miao, Xinyi
+   Fan, Tianle
+   Meng, Zhiyuan
+   Chen, Xiaojun
+   Zhu, Wentao
+TI Study on toxicity effects of environmental pollutants based on
+   metabolomics: A review
+SO CHEMOSPHERE
+LA English
+DT Review
+DE Metabolomics; Toxicity; Environmental pollutants; Muti-omics
+ID MUSSEL MYTILUS-GALLOPROVINCIALIS; GUT MICROBIOTA DYSBIOSIS; EARTHWORM
+   RESPONSES; HEAVY-METALS; POLYCHLORINATED-BIPHENYLS; INDUCED
+   NEPHROTOXICITY; H-1-NMR METABOLOMICS; AGRICULTURAL SOILS; OXIDATIVE
+   STRESS; DANIO-RERIO
+AB In the past few decades, the toxic effects of environmental pollutants on non-target organisms have received more and more attention. As a new omics technology, metabolomics can clarify the metabolic homeostasis of the organism at the overall level by studying the changes in the relative contents of endogenous metabolites in the organism. Recently, a large number of studies have used metabolomics technology to study the toxic effects of environmental pollutants on organisms. In this review, we reviewed the analysis processes and data processes of metabolomics and its application in the study of the toxic effects of environmental pollutants including heavy metals, pesticides, polychlorinated biphenyls, polycyclic aromatic hydrocarbons, polybrominated diphenyl ethers and microplastics. In addition, we emphasized that the combination of metabolomics and other omics technologies will help to explore the toxic mechanism of environmental pollutants and provide new research ideas for the toxicological evaluation of environmental pollutants.
+C1 [Liu, Li] Yangzhou Univ, Sch Food Sci & Engn, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Wu, Qinchao; Miao, Xinyi; Fan, Tianle; Meng, Zhiyuan; Chen, Xiaojun] Yangzhou Univ, Sch Hort & Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Zhu, Wentao] China Agr Univ, Coll Sci, Dept Appl Chem, Innovat Ctr Pesticide Res, Beijing 100193, Peoples R China.
+C3 Yangzhou University; Yangzhou University; China Agricultural University
+RP Meng, ZY (corresponding author), Yangzhou Univ, Sch Hort & Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+EM zymeng@yzu.edu.cn
+RI Fan, Tianle/AAP-3979-2021; Zhu, Wentao/O-8964-2019; Meng,
+   Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561
+FU Key Research and Development Program of Jiangsu Province [BE2019340];
+   Science and Technology Projects Fund of Yangzhou City [YZ2020178];
+   Natural Science Foundation of the Jiangsu Higher Education Institutions
+   of China [19KJB610028]
+FX We gratefully acknowledge the financial support received from Key
+   Research and Development Program of Jiangsu Province (BE2019340) , the
+   Science and Technology Projects Fund of Yangzhou City (YZ2020178) , and
+   the Natural Science Foundation of the Jiangsu Higher Education
+   Institutions of China (19KJB610028) .
+NR 143
+TC 58
+Z9 61
+U1 58
+U2 400
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD JAN
+PY 2022
+VL 286
+AR 131815
+DI 10.1016/j.chemosphere.2021.131815
+EA AUG 2021
+PN 2
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA WD0IF
+UT WOS:000704630900011
+PM 34375834
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dai, P
+   Wang, QQ
+   Teng, P
+   Jiao, J
+   Li, YF
+   Xia, Q
+   Zhang, WH
+AF Dai, Peng
+   Wang, Qingqing
+   Teng, Peng
+   Jiao, Jian
+   Li, Yufei
+   Xia, Qing
+   Zhang, Weihua
+TI Design, Synthesis, Antifungal Activity, and 3D-QASR of Novel Oxime
+   Ether-Containing Coumarin Derivatives as Potential Fungicides
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE coumarin derivatives; oxime ether; antifungalactivity; scanning electron
+   microscopy; 3D-QSAR
+ID MICROWAVE-ASSISTED SYNTHESIS; OSTHOLE; BEARING; 3D-QSAR; AGENTS
+AB Structural modification of natural products is an effective approach for improving antifungal activity and has, therefore, been used extensively in the development of new agrochemical products. In this work, a series of novel coumarin derivatives containing oxime ether structures were designed, synthesized, and evaluated for antifungal activity. Some of the designed compounds exhibited promising antifungal activities against tested fungi, and compounds 4a, 4c, 5a, and 6b had EC50 values equivalent to those of commercial fungicides. Compound 6b was the most promising candidate fungicide against Rhizoctonia solani (EC50 = 0.46 mu g/mL). In vivo antifungal bioassays suggested that compounds 5a and 6b could serve as novel agricultural antifungals. Furthermore, microscopy demonstrated that compound 6b induced the sprawling growth of hyphae, distorted the outline of cell walls, and reduced mitochondrial numbers. Additionally, the effects of the substituent steric, electrostatic, hydrophobic, and hydrogen-bond fields were elucidated using an accurate and reliable three-dimensional quantitative structure-activity relationship (3D-QSAR) model. The results presented here will guide the discovery of potential novel fungicides for plant disease control in agriculture.
+C1 [Dai, Peng; Wang, Qingqing; Teng, Peng; Jiao, Jian; Li, Yufei; Xia, Qing; Zhang, Weihua] Nanjing Agr Univ, Coll Sci, Jiangsu Key Lab Pesticide Sci, Nanjing 210095, Peoples R China.
+C3 Nanjing Agricultural University
+RP Xia, Q; Zhang, WH (corresponding author), Nanjing Agr Univ, Coll Sci, Jiangsu Key Lab Pesticide Sci, Nanjing 210095, Peoples R China.
+EM xiaq@njau.edu.cn; zhangweihua@njau.edu.cn
+RI Dai, Peng/KFS-6221-2024
+OI Dai, Peng/0000-0003-0663-8016; Zhang, Wei-Hua/0000-0003-1994-5306; Xia,
+   Qing/0000-0003-0831-025X
+FU National Key Research and Development Program of China [32372581];
+   National Natural Science Foundation of China [2021YFD1700102]; National
+   Key Research and Development Program of China
+FX This work was supported by the National Natural Science Foundation of
+   China (32372581) and the National Key Research and Development Program
+   of China (2021YFD1700102).
+NR 44
+TC 0
+Z9 0
+U1 2
+U2 2
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD MAR 8
+PY 2024
+VL 72
+IS 11
+BP 5983
+EP 5992
+DI 10.1021/acs.jafc.3c06032
+EA MAR 2024
+PG 10
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA LR4L0
+UT WOS:001181875000001
+PM 38456397
+DA 2024-04-01
+ER
+
+EF

@@ -1,0 +1,87 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, J
+   Feng, X
+   Yuan, W
+   Zhang, J
+   Zhu, S
+   Xu, L
+   Li, H
+   Song, J
+   Rao, X
+   Liao, S
+   Wang, Z
+   Si, H
+AF Wang, J.
+   Feng, X.
+   Yuan, W.
+   Zhang, J.
+   Zhu, S.
+   Xu, L.
+   Li, H.
+   Song, J.
+   Rao, X.
+   Liao, S.
+   Wang, Z.
+   Si, H.
+TI Development of terpenoid repellents against <i>Aedes albopictus</i>: a
+   combined study of biological activity evaluation and computational
+   modelling
+SO SAR AND QSAR IN ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Pinene; terpenoid derivatives; QSAR; repellent activity; odorant-binding
+   proteins
+ID ODORANT BINDING-PROTEIN; MOSQUITO REPELLENTS; ANOPHELES-GAMBIAE; QSAR;
+   RECEPTORS; TOXICITY; PRODUCTS; TARGETS
+AB To explore novel terpenoid repellents, 22 candidate terpenoid derivatives were synthesized and tested for their electroantennogram (EAG) responses and repellent activities against Aedes albopictus. The results from the EAG experiments revealed that 5-(2-hydroxypropan-2-yl)-2-methylcyclohex-2-en-1-yl formate (compound 1) induced distinct EAG responses in female Aedes albopictus. At concentrations of 0.1, 1, 10, 100, and 1000 mg/L, the EAG response values for compound 1 were 179.59, 183.99, 190.38, 193.80, and 196.66 mV, demonstrating comparable or superior effectiveness to DEET. Repellent activity analysis indicated significant repellent activity for compound 1, closest to the positive control DEET. The in silico assessment of the ADMET profile of compound 1 indicates that it successfully passed the ADMET evaluation. Molecular docking studies exhibited favourable binding of compound 1 to the active site of the odorant binding protein (OBP) of Aedes albopictus, involving hydrophobic forces and hydrogen bond interactions with residues in the OBP pocket. The QSAR model highlighted the influential role of hydrogen-bonding receptors, positively charged surface area of weighted atoms, polarity parameters of molecules, and maximum nuclear-nuclear repulsion force of carbon-carbon bonds on the relative EAG response values of the tested compounds. This study holds substantial significance for the advancement of new terpenoid repellents.
+C1 [Wang, J.; Feng, X.; Yuan, W.; Zhang, J.; Zhu, S.; Xu, L.; Li, H.; Liao, S.; Wang, Z.; Si, H.] Jiangxi Agr Univ, Coll Forestry, East China Woody Fragrance & Flavor Engn Res Ctr N, Nanchang, Peoples R China.
+   [Wang, J.; Feng, X.; Yuan, W.; Zhang, J.; Zhu, S.; Xu, L.; Li, H.; Liao, S.; Wang, Z.; Si, H.] Grassland Adm, Nanchang, Peoples R China.
+   [Song, J.] Univ Michigan Flint, Dept Nat Sci, Flint, MI USA.
+   [Rao, X.] Huaqiao Univ, Coll Chem Engn, Xiamen, Peoples R China.
+C3 Jiangxi Agricultural University; University of Michigan System;
+   University of Michigan Flint; Huaqiao University
+RP Liao, S; Wang, Z; Si, H (corresponding author), Jiangxi Agr Univ, Coll Forestry, East China Woody Fragrance & Flavor Engn Res Ctr N, Nanchang, Peoples R China.
+EM liaosl@jxau.edu.cn; zongdewang@163.com; hongyansi16@163.com
+RI ; Brinks, Ralph/A-6194-2015
+OI Vordenbaumen, Stefan/0000-0001-5725-5483; Brinks,
+   Ralph/0000-0003-0961-6592
+FU National Natural Science Foundation of China; Centre of Pharmaceutical
+   Technology of Tsinghua University
+FX We thank the Centre of Pharmaceutical Technology of Tsinghua University
+   for the support of Schrodinger software and molecular docking.
+NR 51
+TC 0
+Z9 0
+U1 2
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1062-936X
+EI 1029-046X
+J9 SAR QSAR ENVIRON RES
+JI SAR QSAR Environ. Res.
+PD FEB 1
+PY 2024
+VL 35
+IS 2
+BP 71
+EP 89
+DI 10.1080/1062936X.2024.2306327
+EA FEB 2024
+PG 19
+WC Chemistry, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications; Environmental Sciences; Mathematical & Computational
+   Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science; Environmental Sciences & Ecology;
+   Mathematical & Computational Biology; Toxicology
+GA HV6Q1
+UT WOS:001158656600001
+PM 38323577
+DA 2024-04-01
+ER
+
+EF

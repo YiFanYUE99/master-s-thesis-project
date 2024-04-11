@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Benchikh, I
+   Ziani, K
+   Mateos, AG
+   Khaled, BM
+AF Benchikh, Imen
+   Ziani, Kaddour
+   Mateos, Antonio Gonzalez
+   Khaled, Boumediene Meghit
+TI Non-acute exposure of neonicotinoids, health risk assessment, and
+   evidence integration: a systematic review
+SO CRITICAL REVIEWS IN TOXICOLOGY
+LA English
+DT Review; Early Access
+DE Neonicotinoids; sub-lethal toxicity; animal studies; humans;
+   insecticides; systematic review
+ID REPRODUCTIVE ORGAN SYSTEM; CLOTHIANIDIN EXPOSURE; OXIDATIVE STRESS;
+   IMIDACLOPRID INSECTICIDE; LACTATIONAL EXPOSURE; ANTIOXIDANT ENZYMES;
+   TERM EXPOSURE; FEMALE RATS; MALE-MICE; IN-VIVO
+AB Neonicotinoid pesticides are utilized against an extensive range of insects. A growing body of evidence supports that these neuro-active insecticides are classified as toxicants in invertebrates. However, there is limited published data regarding their toxicity in vertebrates and mammals. the current systematic review is focused on the up-to-date knowledge available for several neonicotinoid pesticides and their non-acute toxicity on rodents and human physiology. Oral lethal dose 50 (LD50) of seven neonicotinoids (i.e. imidacloprid, acetamiprid, clothianidin, dinotefuran, thiamethoxam, thiacloprid, and nitenpyram) was initially identified. Subsequently, a screening of the literature was conducted to collect information about non-acute exposure to these insecticides. 99 studies were included and assessed for their risk of bias and level of evidence according to the Office of Health and Translation (OHAT) framework. All the 99 included papers indicate evidence of reproductive toxicity, hepatotoxicity, nephrotoxicity, neurotoxicity, immunotoxicity, and oxidative stress induction with a high level of evidence in the health effect of rodents and a moderate level of evidence for human health. The most studied type of these insecticides among 99 papers was imidacloprid (55 papers), followed by acetamiprid (22 papers), clothianidin (21 papers), and thiacloprid (11 papers). While 10 of 99 papers assessed the relationship between clothianidin, thiamethoxam, dinotefuran, and nitenpyram, showing evidence of liver injury, dysfunctions of oxidative stress markers in the reproductive system, and intestinal toxicity. This systematic review provides a comprehensive overview of the potential risks caused by neonicotinoid insecticides to humans and rodents with salient health effects. However, further research is needed to better emphasize and understand the patho-physiological mechanisms of these insecticides, taking into account various factors that can influence their toxicity.
+C1 [Benchikh, Imen] Belhadj Bouchaib Univ, Fac Nat Sci & Life, Dept Biol, Lab Appl Hydrol & Environm, Ain Temouchent, Algeria.
+   [Benchikh, Imen; Khaled, Boumediene Meghit] Univ Djillali Liabes Sidi Bel Abbes, Fac Nat Sci & Life, Dept Biol, Pathol Agrobiotechnol & Sante Lab NuPABS, Sidi Bel Abbes, Algeria.
+   [Ziani, Kaddour] Univ Saida Dr Tahar Moulay, Lab Biotoxicol Pharmacognosy & Valorizat Plants, Dept Biol, POB 138, Saida 20000, Algeria.
+   [Mateos, Antonio Gonzalez] Univ Extremadura, Dept Physiol, Cell Biol & Commun Res Grp, Caceres, Spain.
+C3 University Djillali Liabes Sidi Bel Abbes; Universidad de Extremadura
+RP Benchikh, I (corresponding author), Belhadj Bouchaib Univ, Fac Nat Sci & Life, Dept Biol, Lab Appl Hydrol & Environm, Ain Temouchent, Algeria.
+EM imen.benchikh@univ-temouchent.edu.dz
+RI Khaled, Meghit Boumediene/C-4834-2014
+OI Khaled, Meghit Boumediene/0000-0001-5281-2498; benchikh,
+   Imen/0000-0001-8928-2304
+NR 146
+TC 0
+Z9 0
+U1 11
+U2 11
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1040-8444
+EI 1547-6898
+J9 CRIT REV TOXICOL
+JI Crit. Rev. Toxicol.
+PD 2024 MAR 10
+PY 2024
+DI 10.1080/10408444.2024.2310593
+EA MAR 2024
+PG 20
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA KS1R5
+UT WOS:001181868700001
+PM 38470098
+DA 2024-04-06
+ER
+
+EF

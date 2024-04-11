@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, L
+   Wang, YH
+   Hao, WY
+   Chang, J
+   Pan, YF
+   Li, JZ
+   Wang, HL
+AF Yang, Lu
+   Wang, Yinghuan
+   Hao, Weiyu
+   Chang, Jing
+   Pan, Yifan
+   Li, Jianzhong
+   Wang, Huili
+TI Modeling pesticides toxicity to <i>Sheepshead minnow</i> using QSAR
+SO ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+LA English
+DT Article
+DE QSAR; Sheepshead minnow; Ecotoxicity; Pesticides
+ID PHYSICOCHEMICAL PARAMETERS; CORRELATION-COEFFICIENT; VALIDATION;
+   PREDICTION; REGRESSION; EVALUATE; INDEXES
+AB Nowadays, the environmental risk caused by the widespread use of pesticides and their ubiquitous residuals has received more and more attention in academia and regulatory agencies. Due to the large number of pesticides used in agriculture and their adverse effects on all living organisms and the numerous end-points, it is necessary to employ the in silico tools to quickly highlight hazardous pesticides. In this study, we have evaluated the toxicity of pesticides against Sheepshead minnow with the Quantitative Structure-Activity Relationship (QSAR) approach. The models for the specific-type (insecticides, herbicides and fungicides) as well as the general-type (combing all the specific-type pesticides and some microbicides, nematicides, etc.) pesticides were developed using the Genetic Algorithm and the Multiple Linear Regression method, subsequently validated with various metrics. The validation results suggested that the obtained models were highly robust, externally predictive and characterized by a broad applicability domain. Considering the modeling descriptors, the toxicity of pesticides would increase with the lipophilicity and decrease with the polarity and hydrophilicity. Most electrotopological state descriptors contribute negatively to the toxicity, while the influence of topological structure descriptors mainly depends on the physiochemical information they encode. The models proposed in this paper would be useful in filling the data gaps, prioritizing and then focusing experiments on more hazardous pesticides.
+C1 [Yang, Lu; Wang, Yinghuan; Hao, Weiyu; Chang, Jing; Pan, Yifan; Li, Jianzhong; Wang, Huili] Chinese Acad Sci, Res Ctr Ecoenvironm Sci, 18 Shuangqing Rd, Beijing 100085, Peoples R China.
+   [Yang, Lu; Pan, Yifan] Univ Chinese Acad Sci, Yuquan RD 19A, Beijing 100049, Peoples R China.
+C3 Chinese Academy of Sciences; Research Center for Eco-Environmental
+   Sciences (RCEES); Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS
+RP Wang, HL (corresponding author), Chinese Acad Sci, Res Ctr Ecoenvironm Sci, 18 Shuangqing Rd, Beijing 100085, Peoples R China.
+EM huiliwang@rcees.ac.cn
+RI wang, jian/HRB-9588-2023; wang, huimin/HDM-8421-2022; YU,
+   Wei/HTP-9667-2023; wang, hao/HSE-7975-2023; wang, hui/GRS-4730-2022;
+   wang, hui/HSG-6135-2023; Wang, Hui/HMU-9512-2023; WANG,
+   HUIYUAN/IXX-2427-2023
+FU National Natural Science Foundation of China [41807478]
+FX The present work was supported by the National Natural Science
+   Foundation of China (Contract Grant number: 41807478).
+NR 43
+TC 20
+Z9 22
+U1 2
+U2 31
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0147-6513
+EI 1090-2414
+J9 ECOTOX ENVIRON SAFE
+JI Ecotox. Environ. Safe.
+PD APR 15
+PY 2020
+VL 193
+AR 110352
+DI 10.1016/j.ecoenv.2020.110352
+PG 7
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA KW9RD
+UT WOS:000521519900034
+PM 32120163
+DA 2024-04-01
+ER
+
+EF

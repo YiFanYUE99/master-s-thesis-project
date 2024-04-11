@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Parinet, J
+AF Parinet, Julien
+TI Predicting reversed-phase liquid chromatographic retention times of
+   pesticides by deep neural networks
+SO HELIYON
+LA English
+DT Article
+DE Pesticides; QSRR; Molecular descriptors; Deep neural network;
+   Reversed-phase liquid chromatography; Selection of inputs
+ID SUSPECT; MODELS
+AB To be able to predict reversed phase liquid chromatographic (RPLC) retention times of contaminants is an asset in order to solve food contamination issues. The development of quantitative structure-retention relationship models (QSRR) requires selection of the best molecular descriptors and machine-learning algorithms. In the present work, two main approaches have been tested and compared, one based on an extensive literature review to select the best set of molecular descriptors (16), and a second with diverse strategies in order to select among 1545 molecular descriptors (MD), 16 MD. In both cases, a deep neural network (DNN) were optimized through a gridsearch.
+C1 [Parinet, Julien] Univ Paris Est, Lab Food Safety, ANSES, F-94700 Maisons Alfort, France.
+C3 Agence Nationale de Securite Sanitaire de l'Alimentation, de
+   l'Environnement du Travail (ANSES); Laboratoire de Securite Aliments;
+   Ecole Nationale Veterinaire d'Alfort (ENVA)
+RP Parinet, J (corresponding author), Univ Paris Est, Lab Food Safety, ANSES, F-94700 Maisons Alfort, France.
+EM julien.parinet@anses.fr
+OI Parinet, Julien/0000-0003-0119-0929
+FU Agence Nationale de la Recherche [ANR19-CE21-0002]
+FX This work was supported by Agence Nationale de la Recherche
+   (ANR19-CE21-0002).
+NR 22
+TC 6
+Z9 6
+U1 8
+U2 21
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD DEC
+PY 2021
+VL 7
+IS 12
+AR e08563
+DI 10.1016/j.heliyon.2021.e08563
+EA DEC 2021
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA YD9SF
+UT WOS:000740772600004
+PM 34950792
+OA gold, Green Published
+DA 2024-04-02
+ER
+
+EF

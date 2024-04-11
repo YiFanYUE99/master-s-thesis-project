@@ -1,0 +1,52 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fine, J
+   Mann, AKP
+   Aggarwal, P
+AF Fine, Jonathan
+   Mann, Amanda K. Peterson
+   Aggarwal, Pankaj
+TI Structure Based Machine Learning Prediction of Retention Times for LC
+   Method Development of Pharmaceuticals
+SO PHARMACEUTICAL RESEARCH
+LA English
+DT Article; Early Access
+DE Chromatography; Machine learning; Method development; QSRR
+ID MODEL
+AB PurposeSignificant resources are spent on developing robust liquid chromatography (LC) methods with optimum conditions for all project in the pipeline. Although, data-driven computer assisted modelling has been implemented to shorten the method development timelines, these modelling approaches require project-specific screening data to model retention time (RT) as function of method parameters. Sometimes method re-development is required, leading to additional investments and redundant laboratory work. Cheminformatics techniques have been successfully used to predict the RT of metabolites & other component mixtures for similar use cases. Here we will show that these techniques can be used to model structurally diverse molecules and predictions of these models trained on multiple LC conditions can be used for downstream data-driven modelling.MethodsThe Molecular Operating Environment (MOE) was used to calculate over 800 descriptors using the strucutres of the analytes. These descriptors were used to model the RT of the analytes under four chromatographic conditions. These models were then used to create data-driven models using LC-SIM.ResultsA structural-based Random Forest (RF) model outperformed other techniques in cross-validation studies and predicted the RTs of a randomized test set with a median percentage error less than 4% for all LC conditions. RTs predicted by this structure-based model were used to fit a data-driven model that identifies optimum LC conditions without any additional experimental work.ConclusionsThese results show that small training sets yield pharmaceutically relevant models when used in a combination of structure-based and data-driven model.
+C1 [Fine, Jonathan; Mann, Amanda K. Peterson; Aggarwal, Pankaj] Merck & Co Inc, Analyt Res & Dev, MRL, Rahway, NJ 07065 USA.
+C3 Merck & Company
+RP Aggarwal, P (corresponding author), Merck & Co Inc, Analyt Res & Dev, MRL, Rahway, NJ 07065 USA.
+EM pankaj.aggarwal@merck.com
+OI Aggarwal, pankaj/0009-0005-0344-5886
+FU Merck Sharp Dohme LLC
+FX All funding was provided by Merck Sharp & Dohme LLC, a subsidiary of
+   Merck & Co., Inc., Rahway, NJ, USA (MSD)
+NR 27
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0724-8741
+EI 1573-904X
+J9 PHARM RES-DORDR
+JI Pharm. Res.
+PD 2024 FEB 8
+PY 2024
+DI 10.1007/s11095-023-03646-2
+EA FEB 2024
+PG 10
+WC Chemistry, Multidisciplinary; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Pharmacology & Pharmacy
+GA HH3N4
+UT WOS:001158563600001
+PM 38332389
+DA 2024-04-01
+ER
+
+EF

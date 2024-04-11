@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, DZ
+   Zhu, WT
+   Wang, Y
+   Yan, J
+   Teng, MM
+   Miao, JY
+   Zhou, ZQ
+AF Wang, Dezhen
+   Zhu, Wentao
+   Wang, Yao
+   Yan, Jin
+   Teng, Miaomiao
+   Miao, Jiyan
+   Zhou, Zhiqiang
+TI Metabolomics Approach to Investigate Estrogen Receptor-Dependent and
+   Independent Effects of o,p′-DDT in the Uterus and Brain of Immature Mice
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE metabolomics; NMR; o,p '-DDT; ICI 182; 780; estrogenic effects
+ID BISPHENOL-A; GENE-EXPRESSION; C57BL/6 MICE; DDT; ALPHA; RESPONSES;
+   IDENTIFICATION; BIOMARKERS; CHEMICALS; H-1-NMR
+AB Previous studies have demonstrated the endocrine disruption of o,p'-DDT. In this study, we used a NMR based metabolomics approach to investigate the estrogenic effects of o,p'-DDT (300 mg/kg) on the uterus and brain after 3 days of oral gavage administration, and ethynylestradiol (EE, 100 mu g/kg) was used as a positive control. A supervised statistical analysis (PLS-DA) indicated that o,p'-DDT exerted both estrogenic receptor-(ER)-dependent and independent effects on the uterus but mainly ER-independent effects on the brain at metabolome levels, which was verified by coexposing with the antiestrogenic ICI 182,780. Four changed metabolites-glycine, choline, fumarate, and phenylalanine were identified as ER independent alterations in the uterus, while more metabolites, including gamma-aminobutyrate, N-acetyl aspartate, and some amino acids, were disturbed based on the ER-independent mechanism in the brain. Together with biological end points, metabolomics is a promising approach to study potential estrogenic chemicals.
+C1 [Wang, Dezhen; Zhu, Wentao; Wang, Yao; Yan, Jin; Zhou, Zhiqiang] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao; Miao, Jiyan] China Agr Univ, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhou, ZQ (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; Yan,
+   Jin/AAE-5637-2022; Zhou, Zhiqiang/HIR-4954-2022; Wang,
+   Dezhen/K-2489-2016
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21337005]
+FX We gratefully acknowledge the financial support of National Key Research
+   and Development Program of China (2016YFD0200202) and the National
+   Natural Science Foundation of China (21337005).
+NR 45
+TC 11
+Z9 12
+U1 0
+U2 68
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD MAY 10
+PY 2017
+VL 65
+IS 18
+BP 3609
+EP 3616
+DI 10.1021/acs.jafc.7b00292
+PG 8
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA EU8SB
+UT WOS:000401307700004
+PM 28453266
+DA 2024-03-20
+ER
+
+EF

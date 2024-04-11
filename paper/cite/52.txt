@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Parinet, J
+AF Parinet, Julien
+TI Prediction of pesticide retention time in reversed-phase liquid
+   chromatography using quantitative-structure retention relationship
+   models: A comparative study of seven molecular descriptors datasets
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Pesticides; QSRR; Molecular descriptors; Machine learning;
+   Reversed-phase liquid chromatography
+ID ARTIFICIAL NEURAL-NETWORKS; EMERGING CONTAMINANTS;
+   PARTITION-COEFFICIENT; VETERINARY DRUGS; SUSPECT; REGRESSION; FOOD;
+   IDENTIFICATION; TOOL
+AB Predicting chromatographic retention times of pesticides has become more and more important for suspect and non-target screening. Indeed, high-resolution mass spectrometry hyphenated (HRMS) to liquid chromatography (LC) are of growing interest for research and monitoring of pesticides, their metabolites and transformation products. The development of quantitative structure-retention relationship models require selecting the most adequate and best set of molecular descriptors and the best machine-learning algorithm. Here, we used seven molecular descriptor sets extracted from four wellknown studies and applied them to roughly 800 pesticides and their chromatographic reversed-phase retention times. We used and optimized five different machine-learning algorithms with these descriptor sets to carry out predictions. Our results show that a support-vector machine regression algorithm with only eight molecular descriptors gave the best compromise between the number of molecular descriptors, processing time and model complexity to optimize prediction performance for this specific gradient LC method. (C) 2021 Elsevier Ltd. All rights reserved.
+C1 [Parinet, Julien] Univ Paris Est, Lab Food Safety, ANSES, F-94700 Maisons Alfort, France.
+C3 Ecole Nationale Veterinaire d'Alfort (ENVA); Agence Nationale de
+   Securite Sanitaire de l'Alimentation, de l'Environnement du Travail
+   (ANSES); Laboratoire de Securite Aliments
+RP Parinet, J (corresponding author), Univ Paris Est, Lab Food Safety, ANSES, F-94700 Maisons Alfort, France.
+EM julien.parinet@anses.fr
+OI Parinet, Julien/0000-0003-0119-0929
+FU French National Research Agency (ANR) project AlimOmic
+   [ANR-19-CE21-0002]; Agence Nationale de la Recherche (ANR)
+   [ANR-19-CE21-0002] Funding Source: Agence Nationale de la Recherche
+   (ANR)
+FX This work was funded by the French National Research Agency (ANR)
+   project AlimOmic, ANR-19-CE21-0002.
+NR 34
+TC 12
+Z9 12
+U1 3
+U2 45
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD JUL
+PY 2021
+VL 275
+AR 130036
+DI 10.1016/j.chemosphere.2021.130036
+EA MAR 2021
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA RY3LP
+UT WOS:000647817200064
+PM 33676277
+DA 2024-04-02
+ER
+
+EF

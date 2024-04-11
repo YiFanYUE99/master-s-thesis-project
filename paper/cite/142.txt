@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu, Y
+   Liu, HZ
+   Chen, DK
+   Zeng, HY
+   Chen, YL
+   Yao, N
+AF Liu, Yu
+   Liu, Hao-Zhuo
+   Chen, Ding-Kang
+   Zeng, Hong-Yun
+   Chen, Yi-Li
+   Yao, Nan
+TI PlantMetSuite: A User-Friendly Web-Based Tool for Metabolomics Analysis
+   and Visualisation
+SO PLANTS-BASEL
+LA English
+DT Article
+DE plant metabolomics; metabolite identification; data visualisation; omics
+   data; bioinformatics tools
+ID MASS; LIBRARIES; RESOURCE; DATABASE
+AB The advancement of mass spectrometry technologies has revolutionised plant metabolomics research by enabling the acquisition of raw metabolomics data. However, the identification, analysis, and visualisation of these data require specialised tools. Existing solutions lack a dedicated plant-specific metabolite database and pose usability challenges. To address these limitations, we developed PlantMetSuite, a web-based tool for comprehensive metabolomics analysis and visualisation. PlantMetSuite encompasses interactive bioinformatics tools and databases specifically tailored to plant metabolomics data, facilitating upstream-to-downstream analysis in metabolomics and supporting integrative multi-omics investigations. PlantMetSuite can be accessed directly through a user's browser without the need for installation or programming skills. The tool is freely available and will undergo regular updates and expansions to incorporate additional libraries and newly published metabolomics analysis methods. The tool's significance lies in empowering researchers with an accessible and customisable platform for unlocking plant metabolomics insights.
+C1 [Liu, Yu; Liu, Hao-Zhuo; Chen, Ding-Kang; Zeng, Hong-Yun; Chen, Yi-Li; Yao, Nan] Sun Yat Sen Univ, Sch Life Sci, State Key Lab Biocontrol, Guangdong Prov Key Lab Plant Resource, Guangzhou 510275, Peoples R China.
+C3 Sun Yat Sen University
+RP Yao, N (corresponding author), Sun Yat Sen Univ, Sch Life Sci, State Key Lab Biocontrol, Guangdong Prov Key Lab Plant Resource, Guangzhou 510275, Peoples R China.
+EM liuy233@mail2.sysu.edu.cn; liuhzh35@mail2.sysu.edu.cn;
+   cdkon@outlook.com; zenghy7@mail2.sysu.edu.cn;
+   chenyli25@mail2.sysu.edu.cn; yaonan@mail.sysu.edu.com
+NR 27
+TC 1
+Z9 1
+U1 11
+U2 14
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2223-7747
+J9 PLANTS-BASEL
+JI Plants-Basel
+PD AUG
+PY 2023
+VL 12
+IS 15
+AR 2880
+DI 10.3390/plants12152880
+PG 11
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA O7KW2
+UT WOS:001045564900001
+PM 37571033
+OA Green Published, gold, Green Submitted
+DA 2024-04-08
+ER
+
+EF

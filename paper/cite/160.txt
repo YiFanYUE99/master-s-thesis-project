@@ -1,0 +1,92 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chetnik, K
+   Benedetti, E
+   Gomari, DP
+   Schweickart, A
+   Batra, R
+   Buyukozkan, M
+   Wang, ZY
+   Arnold, M
+   Zierer, J
+   Suhre, K
+   Krumsiek, J
+AF Chetnik, Kelsey
+   Benedetti, Elisa
+   Gomari, Daniel P.
+   Schweickart, Annalise
+   Batra, Richa
+   Buyukozkan, Mustafa
+   Wang, Zeyu
+   Arnold, Matthias
+   Zierer, Jonas
+   Suhre, Karsten
+   Krumsiek, Jan
+TI maplet: an extensible R toolbox for modular and reproducible
+   metabolomics pipelines
+SO BIOINFORMATICS
+LA English
+DT Article
+AB This article presents maplet, an open-source R package for the creation of highly customizable, fully reproducible statistical pipelines for metabolomics data analysis. It builds on the SummarizedExperiment data structure to create a centralized pipeline framework for storing data, analysis steps, results and visualizations. maplet's key design feature is its modularity, which offers several advantages, such as ensuring code quality through the maintenance of individual functions and promoting collaborative development by removing technical barriers to code contribution. With over 90 functions, the package includes a wide range of functionalities, covering many widely used statistical approaches and data visualization techniques.
+C1 [Chetnik, Kelsey; Benedetti, Elisa; Schweickart, Annalise; Batra, Richa; Buyukozkan, Mustafa; Wang, Zeyu; Zierer, Jonas; Krumsiek, Jan] Weill Cornell Med, Englander Inst Precis Med, Dept Physiol & Biophys, Inst Computat Biomed, New York, NY 10021 USA.
+   [Gomari, Daniel P.; Arnold, Matthias] Helmholtz Zentrum Munchen, Inst Computat Biol, German Res Ctr Environm Hlth, D-85764 Neuherberg, Germany.
+   [Suhre, Karsten] Weill Cornell Med Coll Qatar Educ City, Dept Physiol & Biophys, Doha, Qatar.
+   [Zierer, Jonas] Novartis, Novartis Inst Biomed Res NIBR, CH-4056 Basel, Switzerland.
+C3 Cornell University; Weill Cornell Medicine; Helmholtz Association;
+   Helmholtz-Center Munich - German Research Center for Environmental
+   Health; Qatar Foundation (QF); Weill Cornell Medical College Qatar;
+   Novartis
+RP Krumsiek, J (corresponding author), Weill Cornell Med, Englander Inst Precis Med, Dept Physiol & Biophys, Inst Computat Biomed, New York, NY 10021 USA.
+EM jak2043@med.cornell.edu
+RI Krumsiek, Jan/B-3961-2013; Batra, Richa/ABF-1240-2021; Suhre,
+   Karsten/AAF-1778-2020
+OI Batra, Richa/0000-0003-3708-0086; Suhre, Karsten/0000-0001-9638-3912;
+   Arnold, Matthias/0000-0002-4666-0923
+FU 'Biomedical Research Program' funds at Weill Cornell Medical College in
+   Qatar, a program - Qatar Foundation; Qatar National Research Fund
+   (QNRF); National Institute of Aging of the National Institutes of Health
+   [U19AG063744, 1R01AG069901-01A1]; National Institute on Aging
+   [U19AG063744, U01AG061359, RF1AG058942, RF1AG059093]
+FX This work was supported by the 'Biomedical Research Program' funds at
+   Weill Cornell Medical College in Qatar, a program funded by the Qatar
+   Foundation and multiple grants from the Qatar National Research Fund
+   (QNRF) to K.S.; the National Institute of Aging of the National
+   Institutes of Health [U19AG063744 and 1R01AG069901-01A1 to J.K. and
+   R.B.]; and the National Institute on Aging [U19AG063744, U01AG061359,
+   RF1AG058942 and RF1AG059093 to M.A.].
+NR 13
+TC 10
+Z9 11
+U1 1
+U2 5
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1367-4811
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD FEB 15
+PY 2022
+VL 38
+IS 4
+BP 1168
+EP 1170
+DI 10.1093/bioinformatics/btab741
+EA OCT 2021
+PG 3
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA YO5EM
+UT WOS:000747962400047
+PM 34694386
+OA hybrid, Green Published
+DA 2024-04-08
+ER
+
+EF

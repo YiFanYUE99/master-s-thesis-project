@@ -1,0 +1,57 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Powell, CD
+   Moseley, HNB
+AF Powell, Christian D. D.
+   Moseley, Hunter N. B.
+TI The metabolomics workbench file status website: a metadata repository
+   promoting FAIR principles of metabolomics data
+SO BMC BIOINFORMATICS
+LA English
+DT Article
+DE Metabolomics Workbench; Validation; mwtab; FAIR; Metadata repository;
+   Website
+AB BackgroundAn updated version of the mwtab Python package for programmatic access to the Metabolomics Workbench (MetabolomicsWB) data repository was released at the beginning of 2021. Along with updating the package to match the changes to MetabolomicsWB's 'mwTab' file format specification and enhancing the package's functionality, the included validation facilities were used to detect and catalog file inconsistencies and errors across all publicly available datasets in MetabolomicsWB.ResultsThe MetabolomicsWB File Status website was developed to provide continuous validation of MetabolomicsWB data files and a useful interface to all found inconsistencies and errors. This list of detectable issues/errors include format parsing errors, format compliance issues, access problems via MetabolomicsWB's REST interface, and other small inconsistencies that can hinder reusability. The website uses the mwtab Python package to pull down and validate each available analysis file and then generates an html report. The website is updated on a weekly basis. Moreover, the Python website design utilizes GitHub and GitHub.io, providing an easy to replicate template for implementing other metadata, virtual, and meta- repositories.ConclusionsThe MetabolomicsWB File Status website provides a metadata repository of validation metadata to promote the FAIR use of existing metabolomics datasets from the MetabolomicsWB data repository.
+C1 [Powell, Christian D. D.] Univ Kentucky, Dept Comp Sci, Data Sci Program, Lexington, KY 40506 USA.
+   [Powell, Christian D. D.; Moseley, Hunter N. B.] Univ Kentucky, Markey Canc Ctr, Lexington, KY 40506 USA.
+   [Powell, Christian D. D.; Moseley, Hunter N. B.] Univ Kentucky, Superfund Res Ctr, Lexington, KY 40506 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40506 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Inst Biomed Informat, Lexington, KY 40506 USA.
+C3 University of Kentucky; University of Kentucky; University of Kentucky;
+   University of Kentucky; University of Kentucky
+RP Moseley, HNB (corresponding author), Univ Kentucky, Markey Canc Ctr, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Superfund Res Ctr, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40506 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Inst Biomed Informat, Lexington, KY 40506 USA.
+EM hunter.moseley@uky.edu
+OI Moseley, Hunter/0000-0003-3995-5368; Powell,
+   Christian/0000-0002-4242-080X
+NR 17
+TC 1
+Z9 1
+U1 2
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2105
+J9 BMC BIOINFORMATICS
+JI BMC Bioinformatics
+PD JUL 24
+PY 2023
+VL 24
+IS 1
+AR 299
+DI 10.1186/s12859-023-05423-9
+PG 10
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Mathematical & Computational Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Mathematical & Computational Biology
+GA M6WY5
+UT WOS:001031612300001
+PM 37482620
+OA gold, Green Submitted, Green Published
+DA 2024-04-08
+ER
+
+EF

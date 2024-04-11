@@ -1,0 +1,70 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, J
+   Zhang, P
+   Wang, XR
+   Xu, MQ
+   Wang, Y
+   Zhou, ZQ
+   Zhu, WT
+AF Yan, Jin
+   Zhang, Ping
+   Wang, Xinru
+   Xu, Meiqi
+   Wang, Yao
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Stereoselective Degradation of alpha-Cypermethrin and Its Enantiomers in
+   Rat Liver Microsomes
+SO CHIRALITY
+LA English
+DT Article
+DE alpha-cypermethrin; stereoselectivity; liver microsomes; rat
+ID IN-VITRO; TOXICITY; PYRETHROIDS; METABOLISM; CARBOXYLESTERASES; SOIL
+AB Alpha-cypermethrin (alpha-CP), [(RS)-a-cyano-3-phenoxy benzyl (1RS)-cis-3-(2, 2-dichlorovinyl)-2, 2-dimethylcyclopropanecarboxylate], comprises a diastereoisomer pair of cypermethrin, which are (+)-(1R-cis-alpha S)-CP (insecticidal) and (-)-(1S-cis-alpha R)-CP (inactive). In this experiment, the stereoselective degradation of alpha-CP was investigated in rat liver microsomes by high-performance liquid chromatography (HPLC) with a cellulose-tris- (3, 5-dimethylphenylcarbamate)-based chiral stationary phase. The results revealed that the degradation of (-)-(1S-cis-alpha R)-CP was much faster than (+)-(1R-cis-alpha S)-CP both in enantiomer monomers and rac-alpha-CP. As for the enzyme kinetic parameters, there were some variances between rac-alpha-CP and the enantiomer monomers. In rac-alpha-CP, the V-max and CLint of (+)-(1R-cis-alpha S)-CP (5105.22 +/- 326.26 nM/min/mg protein and 189.64 mL/min/mg protein) were about one-half of those of (-)-(1S-cis-alpha R)-CP (9308.57 +/- 772.24 nM/min/mg protein and 352.19 mL/min/mg protein), while the Km of the two alpha-CP enantiomers were similar. However, in the enantiomer monomers of alpha-CP, the V-max and K-m of (+)-(1R-cis-alpha S) -CP were 2-fold and 5-fold of (-)-(1S-cis-alpha R)-CP, respectively, which showed a significant difference with rac-alpha-CP. The CLint of (+)-(1R-cis-alpha S)-CP (140.97 mL/min/mg protein) was still about one-half of (-)-(1S-cis-alpha R)-CP (325.72 mL/min/mg protein) in enantiomer monomers. The interaction of enantiomers of alpha-CP in rat liver microsomes was researched and the results showed that there were different interactions between the IC50 of (-)- to (+)-(1R-cis-alpha S)-CP and (+)- to (-)-(1S-cis-alpha R)-CP(IC50(-)/(+) / IC50(+)/(-)=0.61). (C) 2015 Wiley Periodicals, Inc.
+C1 [Yan, Jin; Zhang, Ping; Wang, Xinru; Xu, Meiqi; Wang, Yao; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; zhou, zhou/HPE-9525-2023; Zhu,
+   Wentao/O-8964-2019; Yan, Jin/AAE-5637-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158]; Chinese
+   Universities Scientific Fund, the National Science Foundation for
+   Fostering Talents in Basic Research [2012RC026, J1210064]
+FX We gratefully acknowledge financial support of the National Natural
+   Science Foundation of China (Contract grant number: 21207158) and
+   Chinese Universities Scientific Fund (2012RC026) the National Science
+   Foundation for Fostering Talents in Basic Research (J1210064),
+NR 19
+TC 3
+Z9 3
+U1 1
+U2 35
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0899-0042
+EI 1520-636X
+J9 CHIRALITY
+JI Chirality
+PD JAN
+PY 2016
+VL 28
+IS 1
+BP 58
+EP 64
+DI 10.1002/chir.22538
+PG 7
+WC Chemistry, Medicinal; Chemistry, Analytical; Chemistry, Organic;
+   Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Chemistry
+GA DA6OV
+UT WOS:000367925600008
+PM 26448061
+DA 2024-03-20
+ER
+
+EF

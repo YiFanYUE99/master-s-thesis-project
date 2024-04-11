@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fang, XY
+   Liu, Y
+   Ren, ZJ
+   Du, YH
+   Huang, QH
+   Garmire, LX
+AF Fang, Xinying
+   Liu, Yu
+   Ren, Zhijie
+   Du, Yuheng
+   Huang, Qianhui
+   Garmire, Lana X.
+TI Lilikoi V2.0: a deep learning-enabled, personalized pathway-based R
+   package for diagnosis and prognosis predictions using metabolomics data
+SO GIGASCIENCE
+LA English
+DT Article
+DE classification; prognosis; survival analysis; neural network; deep
+   learning; metabolomics; pathway; visualization
+ID SOFTWARE TOOLS; HYPOMETHYLATION
+AB Background: previously we developed Lilikoi, a personalized pathway-based method to classify diseases using metabolomics data. Given the new trends of computation in the metabolomics field, it is important to update Lilikoi software. Results: here we report the next version of Lilikoi as a significant upgrade. The new Lilikoi v2.0 R package has implemented a deep learning method for classification, in addition to popular machine learning methods. It also has several new modules, including the most significant addition of prognosis prediction, implemented by Cox-proportional hazards model and the deep learning-based Cox-nnet model. Additionally, Lilikoi v2.0 supports data preprocessing, exploratory analysis, pathway visualization, and metabolite pathway regression.
+   Conculsion: Lilikoi v2.0 is a modern, comprehensive package to enable metabolomics analysis in R programming environment.
+C1 [Fang, Xinying; Du, Yuheng; Huang, Qianhui] Univ Michigan, Sch Publ Hlth, Dept Biostat, 1415 Washington Hts, Ann Arbor, MI 49109 USA.
+   [Liu, Yu; Garmire, Lana X.] Univ Michigan, Dept Computat Med & Bioinformat, 1600 Huron Pkwy, Ann Arbor, MI 48105 USA.
+   [Ren, Zhijie] Univ Michigan, Dept Elect Engn & Comp Sci, 2260 Hayward St, Ann Arbor, MI 48109 USA.
+C3 University of Michigan System; University of Michigan; University of
+   Michigan System; University of Michigan; University of Michigan System;
+   University of Michigan
+RP Garmire, LX (corresponding author), Univ Michigan, Dept Computat Med & Bioinformat, 1600 Huron Pkwy, Ann Arbor, MI 48105 USA.
+EM lgarmire@med.umich.edu
+RI Huang, Qianhui/HNB-8683-2023
+OI Huang, Qianhui/0000-0002-3292-7519
+FU NIEHS through trans-NIH Big Data to Knowledge (BD2K) initiative
+   [K01ES025434]; NLM [R01 LM012373, R01 LM012907]; NICHD [R01 HD084633]
+FX This research was supported by grants K01ES025434 awarded by NIEHS
+   through funds provided by the trans-NIH Big Data to Knowledge (BD2K)
+   initiative (http://datascience.nih.gov/bd2k), R01 LM012373 and R01
+   LM012907 awarded by NLM, and R01 HD084633 awarded by NICHD to L.X.G.
+NR 42
+TC 8
+Z9 8
+U1 2
+U2 17
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 2047-217X
+J9 GIGASCIENCE
+JI GigaScience
+PD JAN
+PY 2021
+VL 10
+IS 1
+AR giaa162
+DI 10.1093/gigascience/giaa162
+EA JAN 2021
+PG 11
+WC Biology; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Science & Technology - Other
+   Topics
+GA RJ0EB
+UT WOS:000637275100010
+PM 33484242
+OA Green Published, Green Submitted, gold
+DA 2024-04-08
+ER
+
+EF

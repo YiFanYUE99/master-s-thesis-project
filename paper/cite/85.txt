@@ -1,0 +1,42 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 31559744
+DT Journal Article
+TI [Research progress of feature selection and machine learning methods for mass spectrometry-based protein biomarker discovery].
+AU Xu, Kaikun
+   Han, Mingfei
+   Huang, Chuanxi
+   Chang, Cheng
+   Zhu, Yunping
+SO Sheng wu gong cheng xue bao = Chinese journal of biotechnology
+VL 35
+IS 9
+PS 1619-1632
+PY 2019
+PD 2019 Sep 25
+LA Chinese
+U1 5
+U2 35
+AB With the development of mass spectrometry technologies and bioinformatics analysis algorithms, disease research-driven human proteome project (HPP) is advancing rapidly. Protein biomarkers play critical roles in clinical applications and the biomarker discovery strategies and methods have become one of research hotspots. Feature selection and machine learning methods have good effects on solving the "dimensionality" and "sparsity" problems of proteomics data, which have been widely used in the discovery of protein biomarkers. Here, we systematically review the strategy of protein biomarker discovery and the frequently-used machine learning methods. Also, the review illustrates the prospects and limitations of deep learning in this field. It is aimed at providing a valuable reference for corresponding researchers. 
+A2 随着质谱技术的进步以及生物信息学与统计学算法的发展，以疾病研究为主要目的之一的人类蛋白质组计划正快速推进。蛋白质生物标志物在疾病早期诊断和临床治
+   疗等方面有着非常重要的意义，其发现策略和方法的研究已成为一个重要的热点领域。特征选择与机器学习对于解决蛋白质组数据高维度及稀疏性问题有较好的效果
+   ，因而逐渐被广泛地应用于发现蛋白质生物标志物的研究中。文中主要阐述蛋白质生物标志物的发现策略以及其中特征选择与机器学习方法的原理、应用实例和适用
+   范围，并讨论深度学习方法在本领域的应用前景及局限性，以期为相关研究提供参考。.
+C1 Beijing Institute of Lifeomics, Beijing 102206, China.; State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing 102206, China.; College of Life Sciences, Hebei University, Baoding 071002, Hebei, China.
+MH Algorithms. Biomarkers. Humans. *Machine Learning. Mass Spectrometry. Proteomics
+SS Index Medicus
+ID biomarkers; deep learning; feature selection; machine learning; mass spectrometry; proteomics
+CN 0 / Biomarkers
+SC Mathematics; Chemistry; Genetics & Heredity (provided by Clarivate Analytics)
+SN 1872-2075
+JC 9426463
+PA China
+SA MEDLINE
+RC  / 02 Oct 2019 / 07 Oct 2019
+DI 10.13345/j.cjb.190064
+UT MEDLINE:31559744
+DA 2024-04-07
+ER
+
+EF

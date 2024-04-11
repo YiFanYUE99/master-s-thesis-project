@@ -1,0 +1,36 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 38266732
+DT Journal Article
+TI Towards safer pesticide management: A quantitative structure-activity relationship based hazard prediction model.
+AU Karaduman, Gul
+   Kelleci Celik, Feyza
+SO The Science of the total environment
+VL 916
+PS 170173
+PY 2024
+PD 2024 Mar 15 (Epub 2024 Jan 22)
+LA English
+U1 3
+U2 3
+AB Pesticides are recognized as common environmental contaminants. The potential pesticide hazard to non-target organisms, including various mammal species, is a global concern. The global problem requires a comprehensive risk assessment. To assess the toxic effects of pesticides at the early stage, a toxicological risk analysis is conducted to determine pesticide hazard levels. World Health Organization (WHO) has established five pesticide hazard classes based on lethal dose (LD50) values to perform these assessments. In this paper, we have developed one-vs-all quantitative structure-activity relationship (OvA-QSAR) models using five machine-learning techniques with the selected optimum molecular descriptors. Descriptor selection was conducted based on correlation to evaluate the relevance and significance of individual features in our dataset. Our OvA-QSAR model was built using a dataset obtained from the WHO, covering a wide range of chemical pesticides. These models can predict the hazard category for a pesticide within the five available categories. Notably, our experiments demonstrate the outstanding performance and robustness of the Random Forest (RF) model in addressing the challenge of multi-class classification with the selected descriptors. Copyright © 2024 Elsevier B.V. All rights reserved.
+C1 Karamanoglu Mehmetbey University, Vocational School of Health Services, 70200 Karaman, Turkey; University of Texas at Arlington, Department of Mathematics, Arlington, TX 76019-0408, USA. Electronic address: gulk@bu.edu.; Karamanoglu Mehmetbey University, Vocational School of Health Services, 70200 Karaman, Turkey. Electronic address: feyzacelik@kmu.edu.tr.
+OI KELLECI CELIK, FEYZA/0000-0003-4874-6648
+MH Animals. Lethal Dose 50. Machine Learning. Mammals. *Pesticides / analysis; toxicity. *Quantitative Structure-Activity Relationship. Risk Assessment
+SS Index Medicus
+ID Computational toxicology; Environmental toxicology; Mathematical models; Pesticides; QSAR; Toxicoinformatics approach
+CN 0 / Pesticides
+SC Biochemistry & Molecular Biology; Pharmacology & Pharmacy; Zoology (provided by Clarivate Analytics)
+SN 1879-1026
+JC 0330500
+PA Netherlands
+SA MEDLINE
+RC  / 14 Feb 2024 / 14 Feb 2024
+PE 22 Jan 2024
+DI 10.1016/j.scitotenv.2024.170173
+UT MEDLINE:38266732
+DA 2024-04-06
+ER
+
+EF

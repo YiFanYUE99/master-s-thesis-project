@@ -1,0 +1,56 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, RK
+   Zhou, ZQ
+   Zhu, WT
+AF Zhang, Renke
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Evaluating the effects of the tebuconazole on the earthworm, <i>Eisenia
+   fetida</i> by H-1 NMR-Based untargeted metabolomics and mRNA assay
+SO ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+LA English
+DT Article
+DE Earthworms; Tebuconazole; ROS; Metabolomics; mRNA; AMP pathway
+ID H-1-NMR METABOLOMICS; APORRECTODEA-CALIGINOSA; CELOMIC FLUID; RESPONSES;
+   EXPOSURE; TOXICITY; ENDOSULFAN; FETIDA; BIOACCUMULATION; PHENANTHRENE
+AB Tebuconazole, a widely used fungicide, can severely disrupt the reproductive process of various organisms. In this study, we investigated the subacute effects of tebuconazole on the earthworm to fully understand its toxic implications. Herein, untargeted metabolomics, mRNA assay and biochemical approaches were adopted to evaluate the subacute effects of Eisenia fetida earthworms, when exposed to tebuconazole at three different concentrations (0.5, 5 and 50 mg/kg) for seven days. SOD enzyme activity test displayed that tebuconazole exposure interfered with the earthworms' ROS. ANN mRNA expression was down-regulated after tebuconazole exposure. H-1 nuclear magnetic resonance (H-1-NMR)-based untargeted metabolomics study showed that 5 mg/kg tebuconazole exposure interfered with earthworms' metabolism. Twelve significantly changed metabolites were identified. The pathway analyses indicate that tebuconazole can disrupt the earthworm's metabolism, particularly in the AMP pathway, which impact the reproduction. This may explain the tebuconazole's mechanism of action behind the down-regulation of the expression of ANN mRNA, which is related to the earthworm's reproductive process. We comprehensively evaluated the mRNA expression, enzyme activity, and metabolomics, and acquired sufficient information for evaluating the toxicity of tebuconazole.
+C1 [Zhang, Renke; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Zhou, Zhiqiang/HIR-4954-2022; Zhu,
+   Wentao/O-8964-2019
+OI Zhu, Wentao/0000-0001-6371-7998
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX This research was funded by the National Key Research and Development
+   Program of China [grant number: 2016YFD0200202].
+NR 52
+TC 20
+Z9 22
+U1 12
+U2 121
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0147-6513
+EI 1090-2414
+J9 ECOTOX ENVIRON SAFE
+JI Ecotox. Environ. Safe.
+PD MAY
+PY 2020
+VL 194
+AR 110370
+DI 10.1016/j.ecoenv.2020.110370
+PG 9
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA KX8RJ
+UT WOS:000522141700014
+PM 32151865
+DA 2024-03-20
+ER
+
+EF

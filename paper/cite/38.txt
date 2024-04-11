@@ -1,0 +1,64 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, SY
+   Cui, BY
+   Kong, FY
+   Zhang, ZT
+   Qiao, YF
+   Zhang, ST
+   Zhang, XR
+   Sun, CH
+AF Sun, Shiyuan
+   Cui, Biyue
+   Kong, Fanyu
+   Zhang, Zitong
+   Qiao, Youfu
+   Zhang, Shuting
+   Zhang, Xinran
+   Sun, Changhai
+TI Construction and application of a QSRR approach for identifying
+   flavonoids
+SO JOURNAL OF PHARMACEUTICAL AND BIOMEDICAL ANALYSIS
+LA English
+DT Article
+DE Flavonoids; Quantitative structure-retention relationships; Reverse
+   phase chromatography; UHPLC-MS/MS
+ID STRUCTURE-RETENTION RELATIONSHIP; LIQUID-CHROMATOGRAPHY; PREDICTION;
+   MODELS; TIMES; HPLC
+AB A quantitative structure retention relationship (QSRR) method was developed to identify flavonoid isomers auxiliary using an ultra high performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS) method based on the linear relationships between the Ln(k') values of flavonoids and their hydrogen bonding energy (XAH) and dissolution energy (ES). Chromatographic separation was achieved with a Hypersil GOLD C18 (100 mm x 2.1 mm, 1.9 mu m) column and Agilent SB-C18 (2.1 x50 mm, 1.8 mu m) column on a Dionex Ultimate 3000 RSLC chromatograph. Compounds were eluted isocratically using a mobile phase containing 0.1% formic acid/water solution and methanol at a ratio of 55:45 (v/v). Mass spectrometry was performed in the negative and positive ionization modes on a Thermo Fisher Q Exactive Orbitrap mass spectrometer equipped with an electrospray ionization interface. The established QSRR model was Ln(k ') = 5.6163 + 0.0469ES - 0.0984XAH, with a determination coefficient (R2) of 0.9981, adjusted determination coefficient (adjR2) of 0.9976, and corrected root mean square error of 0.0682. The determination coefficient of the leave-one-out (LOO) cross-validation (Q2LOO) was 0.9976, and the cross-verification root mean square error was 0.0754. Simulated samples containing 7 flavonoids were used to validate the feasibility of the method. The classical method (UHPLC-MS/MS combined the CD software and the mzCloud, mzVault and Chemspider databases) was used to identify the seven flavonoids in the simulated samples. This classic identification strategy cannot provide accurate identification results, which provided multiple identification results for each compound in the simulated samples. On the basis of the results, the 7 flavonoids were accurately identified by the established QSRR model, and the reference standards were used to validate it. The relative error of retention time(RE(tR)) between the model calculation and experimental results was less than 10%. This method effectively complements and improves the classical methods, that UHPLC-MS/MS combined the CD software and the mass spectra databases were used to identify flavonoids identification.
+C1 [Sun, Shiyuan; Cui, Biyue; Kong, Fanyu; Zhang, Zitong; Qiao, Youfu; Zhang, Shuting; Zhang, Xinran; Sun, Changhai] Jiamusi Univ, Pharm Coll, Jiamusi 154007, Peoples R China.
+   [Zhang, Shuting] Shenyang Pharmaceut Univ, Benxi 117004, Peoples R China.
+C3 Jiamusi University; Shenyang Pharmaceutical University
+RP Zhang, XR; Sun, CH (corresponding author), Jiamusi Univ, Pharm Coll, Jiamusi 154007, Peoples R China.
+EM zxr_jms@sohu.com; sch-jms@sohu.com
+RI Kong, FanYu/IWM-5446-2023
+NR 35
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0731-7085
+EI 1873-264X
+J9 J PHARMACEUT BIOMED
+JI J. Pharm. Biomed. Anal.
+PD MAR 15
+PY 2024
+VL 240
+AR 115929
+DI 10.1016/j.jpba.2023.115929
+EA DEC 2023
+PG 10
+WC Chemistry, Analytical; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Pharmacology & Pharmacy
+GA FO0M1
+UT WOS:001146660800001
+PM 38147703
+DA 2024-04-01
+ER
+
+EF

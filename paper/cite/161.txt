@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chong, J
+   Xia, JG
+AF Chong, Jasmine
+   Xia, Jianguo
+TI MetaboAnalystR: an R package for flexible and reproducible analysis of
+   metabolomics data
+SO BIOINFORMATICS
+LA English
+DT Article
+AB The MetaboAnalyst web application has been widely used for metabolomics data analysis and interpretation. Despite its user-friendliness, the web interface has presented its inherent limitations (especially for advanced users) with regard to flexibility in creating customized workflow, support for reproducible analysis, and capacity in dealing with large data. To address these limitations, we have developed a companion R package (MetaboAnalystR) based on the R code base of the web server. The package has been thoroughly tested to ensure that the same R commands will produce identical results from both interfaces. MetaboAnalystR complements the MetaboAnalyst web server to facilitate transparent, flexible and reproducible analysis of metabolomics data.
+C1 [Xia, Jianguo] McGill Univ, Inst Parasitol, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+   McGill Univ, Dept Anim Sci, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+C3 McGill University; McGill University
+RP Xia, JG (corresponding author), McGill Univ, Inst Parasitol, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+EM jeff.xia@mcgill.ca
+RI Xia, Jianguo/Z-1935-2019; Chong, Jasmine/HCI-9390-2022
+OI Xia, Jianguo/0000-0003-2040-2624; 
+FU Natural Sciences and Engineering Research Council of Canada (NSERC)
+   Discovery Grant; Canada Research Chairs (CRC) program; McGill Graduate
+   Dean's Award
+FX This work was supported by the Natural Sciences and Engineering Research
+   Council of Canada (NSERC) Discovery Grant and the Canada Research Chairs
+   (CRC) program (to J. Xia). J. Chong is supported in part by the McGill
+   Graduate Dean's Award.
+NR 14
+TC 425
+Z9 467
+U1 3
+U2 57
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1460-2059
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD DEC 15
+PY 2018
+VL 34
+IS 24
+BP 4313
+EP 4314
+DI 10.1093/bioinformatics/bty528
+PG 2
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA HF5NA
+UT WOS:000454278000027
+PM 29955821
+OA Green Published, hybrid
+HC Y
+HP N
+DA 2024-04-08
+ER
+
+EF

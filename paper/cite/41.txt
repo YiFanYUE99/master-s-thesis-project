@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rajput, K
+   Dhiman, S
+   Veni, NK
+   Ravichandiran, V
+   Peraman, R
+AF Rajput, Krishnapal
+   Dhiman, Shubham
+   Veni, N. Krishna
+   Ravichandiran, V.
+   Peraman, Ramalingam
+TI Support Vector Models-Based Quantitative Structure-Retention
+   Relationship (QSRR) in the Development and Validation of RP-HPLC Method
+   for Multi-component Analysis of Anti-diabetic Drugs
+SO CHROMATOGRAPHIA
+LA English
+DT Article
+DE Anti-diabetic drugs; Method verification; QSRR; RP-HPLC; Retention
+   prediction
+ID DESIGN; PREDICTION; PIOGLITAZONE; METFORMIN; BEHAVIOR; FORM
+AB This work emphasized the use of the quantitative structure-retention relationship (QSRR) approach in the prediction retention time of anti-diabetic drugs on C-18 column in the HPLC method development process. This in silico QSRR study utilized a data set from literature and in-house studies for the development of better predictive model. A total of 11 QSRR models were developed and narrowed to 5 candidate models using a mobile phase composition range. The candidate models 1, 2, 3, 4, and 5 showed R-2 scores of 0.8844, 0.8968, 0.8996, 0.9769, and 0.9916, respectively. The model validation data revealed that support vector model (SVM)-based models 4 and 5 showed better predictive ability (> 99%) than the random forest model. The R-2 value for capacity factor prediction for models 4 and 5 was 0.862 and 0.881, respectively. Accordingly, the experimental retention time of pioglitazone, glimepiride, gliclazide, glyburide, and metformin was experimentally verified. Accordingly, we demonstrated good correlation (R-2 > 0.9) between experimental and predictive retention time on C-18 column. Based on prediction, a new HPLC method was optimized for the simultaneous analysis of pioglitazone (3.6 +/- 0.2 min) and glimepiride (6.1 +/- 0.2 min) on C-18 column using a mobile phase consisting of methanol and 0.1% ortho phosphoric acid (pH 2.7) with detection at 227 nm. The respective % retention prediction error was 0.2% and 6.3% for pioglitazone and glimepiride. The method demonstrated the linearity with regression coefficients of 0.9985 and 0.9998, respectively, for pioglitazone (15-75 mu g/mL) and glimepiride (2-10 mu g/mL). The % RSD (0.77-1.43%) and % accuracy (98.01-102.39%) of the method were acceptable. The method has proven specificity in the presence of degradation products and demonstrated robustness (< 2%RSD) to critical method parameters.
+C1 [Rajput, Krishnapal; Dhiman, Shubham; Ravichandiran, V.; Peraman, Ramalingam] Natl Inst Pharmaceut Educ & Res NIPER, Dept Pharmaceut Anal, Hajipur, Bihar, India.
+   [Veni, N. Krishna] JSS Acad Higher Educ & Res, JSS Coll Pharm, Ooty, Tamil Nadu, India.
+C3 National Institute of Pharmaceutical Education & Research (NIPER); JSS
+   Academy of Higher Education & Research; JSS College of Pharmacy, Ooty
+RP Peraman, R (corresponding author), Natl Inst Pharmaceut Educ & Res NIPER, Dept Pharmaceut Anal, Hajipur, Bihar, India.
+EM drram@niperhajipur.ac.in
+FU The authors are grateful to NIPER, Hajipur College for providing the
+   necessary facilities.
+FX The authors are grateful to NIPER, Hajipur College for providing the
+   necessary facilities.
+NR 35
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0009-5893
+EI 1612-1112
+J9 CHROMATOGRAPHIA
+JI Chromatographia
+PD JAN
+PY 2024
+VL 87
+IS 1
+BP 3
+EP 16
+DI 10.1007/s10337-023-04292-x
+EA NOV 2023
+PG 14
+WC Biochemical Research Methods; Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA ES5U6
+UT WOS:001097110000001
+DA 2024-04-01
+ER
+
+EF

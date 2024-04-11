@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cheng, L
+   Zhang, X
+   Li, CX
+   Guo, R
+   Zhao, TY
+AF Cheng, Liang
+   Zhang, Xin
+   Li, Chuan-Xin
+   Guo, Rui
+   Zhao, Tianyi
+TI Editorial: Identification of immune-related biomarkers for cancer
+   diagnosis based on multi-omics data
+SO FRONTIERS IN ONCOLOGY
+LA English
+DT Editorial Material
+DE cancer; biomarkers (BMs); multi-omics data; machine learning; cancer
+   diagnosis
+C1 [Cheng, Liang] Harbin Med Univ, Coll Bioinformat Sci & Technol, Jiangmen Key Lab Clin Biobanks & Translat Res, Harbin, Peoples R China.
+   [Zhang, Xin] Jiangmen Cent Hosp, Jiangmen, Peoples R China.
+   [Li, Chuan-Xin] Karolinska Inst, Dept Med, Resp Med Unit, Stockholm, Sweden.
+   [Li, Chuan-Xin] Karolinska Inst, Ctr Mol Med, Stockholm, Sweden.
+   [Guo, Rui] Harvard Med Sch, Brigham & Womens Hosp, Stockholm, Sweden.
+   [Zhao, Tianyi] Harbin Inst Technol, Sch Med & Hlth, Harbin, Peoples R China.
+C3 Harbin Medical University; Karolinska Institutet; Karolinska Institutet;
+   Harbin Institute of Technology
+RP Cheng, L (corresponding author), Harbin Med Univ, Coll Bioinformat Sci & Technol, Jiangmen Key Lab Clin Biobanks & Translat Res, Harbin, Peoples R China.; Zhang, X (corresponding author), Jiangmen Cent Hosp, Jiangmen, Peoples R China.; Li, CX (corresponding author), Karolinska Inst, Dept Med, Resp Med Unit, Stockholm, Sweden.; Li, CX (corresponding author), Karolinska Inst, Ctr Mol Med, Stockholm, Sweden.; Guo, R (corresponding author), Harvard Med Sch, Brigham & Womens Hosp, Stockholm, Sweden.; Zhao, TY (corresponding author), Harbin Inst Technol, Sch Med & Hlth, Harbin, Peoples R China.
+EM liangcheng@hrbmu.edu.cn; zhangx45@mail3.sysu.edu.cn;
+   chuan-xing.li@ki.se; rguo2@bwh.harvard.edu; zty2009@hit.edu.cn
+RI Zhang, Xin/C-2464-2017
+OI Zhang, Xin/0000-0001-6036-2685
+NR 0
+TC 0
+Z9 0
+U1 3
+U2 12
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2234-943X
+J9 FRONT ONCOL
+JI Front. Oncol.
+PD DEC 26
+PY 2022
+VL 12
+AR 1119622
+DI 10.3389/fonc.2022.1119622
+PG 3
+WC Oncology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology
+GA 7V6NN
+UT WOS:000912931000001
+PM 36644637
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

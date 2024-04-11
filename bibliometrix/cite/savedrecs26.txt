@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, S
+   Meng, ZY
+   Tian, SN
+   Teng, MM
+   Yan, J
+   Jia, M
+   Li, RS
+   Zhou, ZQ
+   Zhu, WT
+AF Yan, Sen
+   Meng, Zhiyuan
+   Tian, Sinuo
+   Teng, Miaomiao
+   Yan, Jin
+   Jia, Ming
+   Li, Ruisheng
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Neonicotinoid insecticides exposure cause amino acid metabolism
+   disorders, lipid accumulation and oxidative stress in ICR mice
+SO CHEMOSPHERE
+LA English
+DT Article
+DE Neonicotinoids; Amino acid metabolism disorders; Lipid accumulation;
+   Oxidative stress
+ID INSULIN-RESISTANCE; GUT MICROBIOTA; METABOLOMICS; TOXICITY; RESPONSES;
+   RESIDUES; OBESITY
+AB Neonicotinoids are increasingly being used for pest control, and their potential health risks are now receiving attention. In this study, the toxic effects of three neonicotinoids (dinotefuran, nitenpyram and acetamiprid) were evaluated in ICR mice. After 30 days of exposure to neonicotinoids (1/200 LD50), oxidative stress levels, biochemical parameters, free fatty acids contents, and H-1 NMR-based hepatic metabolomics were tested. All treatment groups showed signs of amino acid metabolism disorders especially elevated branched chain amino acids and phenylalanine. Furthermore, animals exposed to neonicotinoids had elevated lipid levels, which induced oxidative stress. Overall, we found that oxidative stress is a common toxic effect of exposure to neonicotinoids. In addition, lipid accumulation induced by amino acid metabolism disorder may be the cause of oxidative stress. Our results further our understanding of the toxicological effects of neonicotinoids on mammals. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Yan, Sen; Meng, Zhiyuan; Tian, Sinuo; Yan, Jin; Jia, Ming; Li, Ruisheng; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] Johns Hopkins Univ, Sch Med, Dept Psychiat & Behav Sci, Baltimore, MD 21205 USA.
+C3 China Agricultural University; China Agricultural University; Johns
+   Hopkins University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; Zhu, Wentao/O-8964-2019; Yan,
+   Jin/AAE-5637-2022; Zhou, Zhiqiang/HIR-4954-2022; zhou,
+   zhou/HPE-9525-2023
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202), China. In addition, we gratefully
+   acknowledge the BioNMR facility in Tsinghua University Branch of China
+   National Center for Protein Sciences (Beijing).
+NR 57
+TC 59
+Z9 60
+U1 15
+U2 226
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD MAY
+PY 2020
+VL 246
+AR 125661
+DI 10.1016/j.chemosphere.2019.125661
+PG 9
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA LG2DN
+UT WOS:000527918200015
+PM 31891846
+DA 2024-03-20
+ER
+
+EF

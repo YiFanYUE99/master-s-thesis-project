@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Smelter, A
+   Moseley, HNB
+AF Smelter, Andrey
+   Moseley, Hunter N. B.
+TI A Python library for FAIRer access and deposition to the Metabolomics
+   Workbench Data Repository
+SO METABOLOMICS
+LA English
+DT Article
+DE mwTab; Metabolomics Workbench; mwtab Python package; Data validation;
+   FAIR
+AB Introduction The Metabolomics Workbench Data Repository is a public repository of mass spectrometry and nuclear magnetic resonance data and metadata derived from a wide variety of metabolomics studies. The data and metadata for each study is deposited, stored, and accessed via files in the domain-specific 'mwTab' flat file format.
+   Objectives In order to improve the accessibility, reusability, and interoperability of the data and metadata stored in 'mwTab' formatted files, we implemented a Python library and package. This Python package, named 'mwtab', is a parser for the domain-specific 'mwTab' flat file format, which provides facilities for reading, accessing, and writing 'mwTab' formatted files. Furthermore, the package provides facilities to validate both the format and required metadata elements of a given 'mwTab' formatted file.
+   Methods In order to develop the 'mwtab' package we used the official 'mwTab' format specification. We used Git version control along with Python unit-testing framework as well as continuous integration service to run those tests on multiple versions of Python. Package documentation was developed using sphinx documentation generator.
+   Results The 'mwtab' package provides both Python programmatic library interfaces and command-line interfaces for reading, writing, and validating 'mwTab' formatted files. Data and associated metadata are stored within Python dictionary-and listbased data structures, enabling straightforward, 'pythonic' access and manipulation of data and metadata. Also, the package provides facilities to convert 'mwTab' files into a JSON formatted equivalent, enabling easy reusability of the data by all modern programming languages that implement JSON parsers. The 'mwtab' package implements its metadata validation functionality based on a pre-defined JSON schema that can be easily specialized for specific types of metabolomics studies. The library also provides a command-line interface for interconversion between 'mwTab' and JSONized formats in raw text and a variety of compressed binary file formats.
+   Conclusions The 'mwtab' package is an easy-to-use Python package that provides FAIRer utilization of the Metabolomics Workbench Data Repository. The source code is freely available on GitHub and via the Python Package Index. Documentation includes a 'User Guide', 'Tutorial', and 'API Reference'. The GitHub repository also provides 'mwtab' package unit-tests via a continuous integration service.
+C1 [Moseley, Hunter N. B.] Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40356 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Markey Canc Ctr, Lexington, KY 40356 USA.
+   [Smelter, Andrey; Moseley, Hunter N. B.] Univ Kentucky, Ctr Environm & Syst Biochem, Lexington, KY 40356 USA.
+   [Moseley, Hunter N. B.] Univ Kentucky, Inst Biomed Informat, Lexington, KY 40356 USA.
+C3 University of Kentucky; University of Kentucky; University of Kentucky;
+   University of Kentucky
+RP Moseley, HNB (corresponding author), Univ Kentucky, Dept Mol & Cellular Biochem, Lexington, KY 40356 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Markey Canc Ctr, Lexington, KY 40356 USA.; Smelter, A; Moseley, HNB (corresponding author), Univ Kentucky, Ctr Environm & Syst Biochem, Lexington, KY 40356 USA.; Moseley, HNB (corresponding author), Univ Kentucky, Inst Biomed Informat, Lexington, KY 40356 USA.
+EM andrey.smelter@uky.edu; hunter.moseley@uky.edu
+OI Moseley, Hunter/0000-0003-3995-5368; Smelter, Andrey/0000-0003-3056-9225
+FU National Science Foundation [NSF 1252893]; National Institutes of Health
+   [NIH 1U24DK097215-01A1]; Direct For Biological Sciences [1419282]
+   Funding Source: National Science Foundation; Div Of Biological
+   Infrastructure [1419282] Funding Source: National Science Foundation
+FX This work was supported in part by the National Science Foundation grant
+   NSF 1252893 (Hunter N.B. Moseley) and the National Institutes of Health
+   grant NIH 1U24DK097215-01A1 (Richard M. Higashi, Teresa W.-M. Fan,
+   Andrew N. Lane, and Hunter N.B. Moseley).
+NR 6
+TC 8
+Z9 8
+U1 1
+U2 11
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1573-3882
+EI 1573-3890
+J9 METABOLOMICS
+JI Metabolomics
+PD MAY
+PY 2018
+VL 14
+IS 5
+AR 64
+DI 10.1007/s11306-018-1356-6
+PG 8
+WC Endocrinology & Metabolism
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Endocrinology & Metabolism
+GA GF4TY
+UT WOS:000431957900009
+PM 29706851
+OA hybrid, Green Published
+DA 2024-04-08
+ER
+
+EF

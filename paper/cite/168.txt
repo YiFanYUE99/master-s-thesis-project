@@ -1,0 +1,60 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU TANG Ziqiang
+   FENG Changjun
+Z2 唐自强
+   冯长君
+TI Acute Toxicity of Substituted Phenols to Daphnia Magna Strausat
+   Different pH Values by Kier's Shape IndeX
+Z1 用形状指数研究苯酚类化合物对大型蚤的急性毒性
+Z3 武汉大学学报. 理学版
+SO Journal of Wuhan University. Natural Science Edition
+VL 52
+IS 6
+BP 685
+EP 689
+AR 1671-8836(2006)52:6<685:YXZZSY>2.0.TX;2-4
+PY 2006
+LA Chinese
+DT Article
+DE substituted phenol; Dahnia Magna; acute toxicity; Kier＇s shape index;
+   quantitative structure-activity relationships（QSAR）
+Z5 取代苯酚; 大型蚤; 急性毒性; 分子形状拓扑指数; 定量构效关系
+AB Based on the molecular topological theory, Kier＇s shape index （^mK） of
+   18 substituted phenols are calculated in this paper. By least squares
+   method, quantitative structure-activity relationships （QSAR） between the
+   acute toxicity（pIC50） and ^1K,^2K of 11 substituted phenols to Daphnia
+   Magna Straus at different pH values are set up, The correlation
+   coefficients of these models are 0. 963（pH=6.0）, 0. 966 （pH=7.8） and 0.
+   846（pH=9.0）, respectively. The calculated values form these models agree
+   with experimental values well. The cross-validatlon by using the more
+   general leave-one-out method demonstrates the final models to be highly
+   statistically reliable. The result of predicting for the acute toxicity
+   （pIC50） of others 7 substituted phenol compounds shows that these models
+   have better predictability.
+Z4 基于分子拓扑理论,计算了18种取代苯酚的Kier分子形状拓扑指数(mK).利用最小二乘法建立了不同pH值下11种取代苯酚对大型蚤急性毒性(pIC
+   50)的QSAR模型,其相关系数(R2)依次为:0.963(pH=6.0),0.966(pH=7.8),0.846(pH=9.0).这些模型的计
+   算值与其实验值基本吻合.通过留一法检验及对其余7种取代苯酚类化合物的pIC50值进行预测,结果表明该模型具有良好的稳健性和预测能力.
+C1 TANG Ziqiang, Department of Chmistry, Xuzhou Education College, Xuzhou,
+   Jiangsu 221006, China.
+   FENG Changjun, Department of Chmistry, Xuzhou Normal University, Xuzhou,
+   Jiangsu 221116, China.
+Z6 唐自强, 徐州教育学院,化学系, 徐州, 江苏 221006, 中国.
+   冯长君, 徐州师范大学,化学系, 徐州, 江苏 221116, 中国.
+EM tzq63@163.com
+Z7 tzq63@163.com
+NR 17
+Z8 1
+Z9 1
+U1 0
+U2 0
+FU 江苏省高校自然科学基金; 徐州师范大学培育课题资助项目
+SN 1671-8836
+PG 5
+SC Chemistry (provided by Clarivate Analytics)
+UT CSCD:2643991
+DA 2024-04-08
+ER
+
+EF

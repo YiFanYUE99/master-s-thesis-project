@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Weidner, L
+   Hemmler, D
+   Rychlik, M
+   Schmitt-Kopplin, P
+AF Weidner, Leopold
+   Hemmler, Daniel
+   Rychlik, Michael
+   Schmitt-Kopplin, Philippe
+TI DBDIpy: a Python library for processing of untargeted datasets from
+   real-time plasma ionization mass spectrometry
+SO BIOINFORMATICS
+LA English
+DT Article
+AB Motivation: Plasma ionization is rapidly gaining popularity for mass spectrometry (MS)-based studies of volatiles and aerosols. However, data from plasma ionization are delicate to interpret as competing ionization pathways in the plasma create numerous ion species. There is no tool for detection of adducts and in-source fragments from plasma ionization data yet, which makes data evaluation ambiguous.We developed DBDIpy, a Python library for processing and formal analysis of untargeted, time-sensitive plasma ionization MS datasets. Its core functionality lies in the identification of in-source fragments and identification of rivaling ionization pathways of the same analytes in time-sensitive datasets. It further contains elementary functions for processing of untargeted metabolomics data and interfaces to an established ecosystem for analysis of MS data in Python. Availability and implementationDBDIpy is implemented in Python (Version & GE; 3.7) and can be downloaded from PyPI the Python package repository () or from GitHub ().Supplementary informationare available at Bioinformatics online.
+C1 [Weidner, Leopold; Hemmler, Daniel; Rychlik, Michael; Schmitt-Kopplin, Philippe] Tech Univ Munich, TUM Sch Life Sci, Comprehens Food Platform, D-85354 Freising Weihenstephan, Germany.
+   [Weidner, Leopold; Hemmler, Daniel; Schmitt-Kopplin, Philippe] Helmholtz Zent Muenchen, Analyt Biogeochem, D-85764 Neuherberg, Germany.
+C3 Technical University of Munich
+RP Weidner, L; Schmitt-Kopplin, P (corresponding author), Tech Univ Munich, TUM Sch Life Sci, Comprehens Food Platform, D-85354 Freising Weihenstephan, Germany.; Weidner, L; Schmitt-Kopplin, P (corresponding author), Helmholtz Zent Muenchen, Analyt Biogeochem, D-85764 Neuherberg, Germany.
+EM leopold.weidner@tum.de; schmitt-kopplin@tum.de
+RI Schmitt-Kopplin, Philippe/H-6271-2011; Rychlik, Michael/G-6064-2015
+OI Schmitt-Kopplin, Philippe/0000-0003-0824-2664; Weidner,
+   Leopold/0000-0002-6801-3647; Rychlik, Michael/0000-0002-5826-6288
+FU Bavarian Ministry of Economic Affairs, Regional Development and Energy
+FX This work was supported by the Bavarian Ministry of Economic Affairs,
+   Regional Development and Energy as a part of the BayVFP funding
+   program-funding line digitalization-funding section information and
+   communication technology.
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 10
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1367-4811
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD FEB 3
+PY 2023
+VL 39
+IS 2
+AR btad088
+DI 10.1093/bioinformatics/btad088
+PG 2
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA 9E6SQ
+UT WOS:000936913400001
+PM 36786403
+OA hybrid, Green Published
+DA 2024-04-08
+ER
+
+EF

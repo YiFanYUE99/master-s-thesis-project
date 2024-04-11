@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jia, QZ
+   Liu, T
+   Yan, FY
+   Wang, Q
+AF Jia, Qingzhu
+   Liu, Ting
+   Yan, Fangyou
+   Wang, Qiang
+TI Norm Index-Based QSAR Model for Acute Toxicity of Pesticides Toward
+   Rainbow Trout
+SO ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY
+LA English
+DT Article
+DE Norm index; QSAR; Acute toxicity; Pesticides; Rainbow trout
+ID ACUTE AQUATIC TOXICITY; ACUTE FISH TOXICITY; FATHEAD MINNOW;
+   APPLICABILITY DOMAIN; NARCOSIS MODE; VALIDATION; EXPOSURE; PREDICTION;
+   GUPPY; ORGANOPHOSPHORUS
+AB The aquatic ecological environment is being threatened from overuse of pesticides, and the aquatic toxicity toward rainbow trout (Oncorhynchus mykiss) plays a significant role in environmental risk assessment of agrochemicals. In the present study, 2 norm index formulas were developed, from which several norm descriptors were derived. A quantitative structure-activity relationship (QSAR) model was established for the prediction of acute toxicity (median lethal concentration) toward rainbow trout of various pesticides. Results indicated that the present QSAR model presented an R-2 of 0.8053. Meanwhile, internal validation (Q(LOO)(2) = 0.7606), external validation (R-training(2) = 0.8011, R-testing(2) = 0.8108), Y-randomization test, and applicability domain analysis further demonstrated the stability, reliability, and wide application domain of the present QSAR model. Accordingly, these norm descriptors might be applicable to the structures of pesticides for predicting the acute toxicity to aquatic organism. Environ Toxicol Chem 2019;00:1-7. (c) 2019 SETAC
+C1 [Jia, Qingzhu; Liu, Ting] Tianjin Univ Sci & Technol, Sch Marine & Environm Sci, Tianjin Marine Environm Protect & Restorat Techno, Tianjin, Peoples R China.
+   [Yan, Fangyou; Wang, Qiang] Tianjin Univ Sci & Technol, Sch Chem Engn & Mat Sci, Tianjin, Peoples R China.
+C3 Tianjin University Science & Technology; Tianjin University Science &
+   Technology
+RP Yan, FY (corresponding author), Tianjin Univ Sci & Technol, Sch Chem Engn & Mat Sci, Tianjin, Peoples R China.
+EM yanfangyou@tust.edu.cn
+FU National Natural Science Foundation of China [21676203, 21808167]
+FX The present study was supported by the National Natural Science
+   Foundation of China (21676203 and 21808167).
+NR 46
+TC 14
+Z9 15
+U1 10
+U2 64
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0730-7268
+EI 1552-8618
+J9 ENVIRON TOXICOL CHEM
+JI Environ. Toxicol. Chem.
+PD FEB
+PY 2020
+VL 39
+IS 2
+BP 352
+EP 358
+DI 10.1002/etc.4621
+EA DEC 2019
+PG 7
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA KF5LC
+UT WOS:000504567700001
+PM 31634980
+DA 2024-04-01
+ER
+
+EF

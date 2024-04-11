@@ -1,0 +1,78 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Martin-Reina, J
+   Casanova, AG
+   Dahiri, B
+   Fernández, I
+   Fernández-Palacín, A
+   Bautista, J
+   Morales, AI
+   Moreno, I
+AF Martin-Reina, Jose
+   Casanova, Alfredo G.
+   Dahiri, Bouchra
+   Fernandez, Isaias
+   Fernandez-Palacin, Ana
+   Bautista, Juan
+   Morales, Ana I.
+   Moreno, Isabel
+TI Adverse Health Effects in Women Farmers Indirectly Exposed to Pesticides
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE cholinesterase; oxidative stress; early kidney damage; pesticides; women
+   farmers
+ID OXIDATIVE STRESS; URINARY-EXCRETION; BIOMARKERS; WORKERS;
+   ORGANOPHOSPHATE
+AB Farmers are among the most vulnerable populations because of the exposure to low levels of pesticides. Acetylcholinesterase and butyrylcholinesterase activities are considered as biomarkers of pesticides poisoning. However, biomarkers of oxidative stress are also playing an important role in toxicity of these contaminants. Further, increased activities of gamma-glutamyltransferase, alanine aminotransferase, urea and creatinine have been linked with hepatic and nephrotoxic cell damage, respectively. The aim of this study was to ascertain if the indirect exposure to pesticides leads to some biochemical parameter changes. Thus, cholinesterase activities, oxidative stress status (lipid and protein oxidation), hepatic function (AST and ALT levels), hormonal function (TSH, T4, FSH, LH and AMH), renal function (serum creatinine and urea), as well as possible subclinical kidney damage (urinary proteins and biomarkers of early kidney damage) were evaluated in farmer women who collect fruits and vegetables comparing with a group of women non-occupational exposed to pesticides but living in the same rural environment. Samples were taken periodically along one year to relate the observed effects to a chronic exposure. Our main results showed for the first time a subclinical kidney damage in a rural setting with indirect chronic exposure to pesticides.
+C1 [Martin-Reina, Jose; Dahiri, Bouchra; Moreno, Isabel] Univ Seville, Dept Nutr Food Chem & Toxicol, Fac Pharm, Seville 41012, Spain.
+   [Casanova, Alfredo G.; Morales, Ana I.] Univ Salamanca USAL, Inst Biomed Res Salamanca IBSAL, Dept Physiol & Pharmacol, Toxicol Unit, Salamanca 37007, Spain.
+   [Fernandez, Isaias] Andalusian Hlth Serv, Estepa Clin Management Unit, C Med Antonio Vilches S-N, Seville 41560, Spain.
+   [Fernandez-Palacin, Ana] Fac Med, Area Prevent Med & Publ Hlth, Avda Dr Fedriani S-N, Seville 41009, Spain.
+   [Bautista, Juan] Univ Seville, Dept Biochem & Mol Biol, Fac Pharm, Seville 41012, Spain.
+C3 University of Sevilla; University of Salamanca; University of Sevilla;
+   University of Sevilla
+RP Morales, AI (corresponding author), Univ Salamanca USAL, Inst Biomed Res Salamanca IBSAL, Dept Physiol & Pharmacol, Toxicol Unit, Salamanca 37007, Spain.
+EM josemartinreina@yahoo.es; alfredogcp@usal.es; boudahkha@gmail.com;
+   isaiasm.fernandez.sspa@juntadeandalucia.es; afp@us.es; jdbaut@us.es;
+   amorales@usal.es; imoreno@us.es
+RI Fernández-Palacín, Ana/M-9635-2018; Moreno Navarro, Isabel
+   Maria/H-8686-2017; Morales, Ana Isabel/A-5671-2016; Casanova, Alfredo
+   Gines/A-6849-2016
+OI Fernández-Palacín, Ana/0000-0002-5823-5705; Moreno Navarro, Isabel
+   Maria/0000-0002-6542-3210; Morales, Ana Isabel/0000-0001-6836-6138;
+   Casanova, Alfredo Gines/0000-0002-0725-6637
+FU Prevent Foundation [FIUS: 3396/0828, FIUS: 3706/0828]
+FX This research was funded by Prevent Foundation, grant numbers FIUS:
+   3396/0828 and FIUS: 3706/0828.
+NR 46
+TC 5
+Z9 5
+U1 0
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD JUN
+PY 2021
+VL 18
+IS 11
+AR 5909
+DI 10.3390/ijerph18115909
+PG 17
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA SP9OB
+UT WOS:000659991000001
+PM 34072924
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

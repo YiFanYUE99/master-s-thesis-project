@@ -1,0 +1,40 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ray, K
+AF Ray, Katrina
+TI Proteomics and machine-learning models for alcohol-related liver disease
+   biomarkers
+SO NATURE REVIEWS GASTROENTEROLOGY & HEPATOLOGY
+LA English
+DT Editorial Material
+NR 1
+TC 3
+Z9 3
+U1 2
+U2 9
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 1759-5045
+EI 1759-5053
+J9 NAT REV GASTRO HEPAT
+JI Nat. Rev. Gastroenterol. Hepatol.
+PD AUG
+PY 2022
+VL 19
+IS 8
+BP 488
+EP 488
+DI 10.1038/s41575-022-00655-1
+PG 1
+WC Gastroenterology & Hepatology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Gastroenterology & Hepatology
+GA 3G3FZ
+UT WOS:000831241700007
+PM 35773390
+DA 2024-04-07
+ER
+
+EF

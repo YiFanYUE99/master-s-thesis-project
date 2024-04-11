@@ -1,0 +1,83 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Santos, ADE
+   Parks, CG
+   Senna, MM
+   de Carvalho, LVB
+   Meyer, A
+AF Espindola Santos, Aline de Souza
+   Parks, Christine Gibson
+   Senna, Mariana Macedo
+   de Carvalho, Leandro Vargas B.
+   Meyer, Armando
+TI Exposure to pesticides and oxidative stress in Brazilian agricultural
+   communities
+SO BIOMARKERS
+LA English
+DT Article
+DE Pesticides; oxidative stress; biomarkers; cross-sectional study
+ID GLUTATHIONE S-TRANSFERASES; 2,4-D EXPOSURE; DNA-DAMAGE; WORKERS;
+   BIOMARKERS; FARMERS; MARKERS; HEALTH; ACETYLCHOLINESTERASE;
+   ORGANOPHOSPHATE
+AB Background Oxidative stress may be an important mechanism linking pesticide exposure to several diseases. We evaluated the association between pesticide exposures and oxidative stress biomarkers in Brazilian agricultural workers. Methods A cross-sectional study was conducted in healthy agricultural (N = 52) and non-agricultural workers (N = 68) in a rural community in Rio de Janeiro State, Brazil. Regular pesticide use, sociodemographic, and lifestyle information was obtained by questionnaire. Oxidative stress biomarkers (N = 7) were measured in serum and plasma. We calculated percent differences and 95% confidence intervals (CI) in oxidative stress biomarkers for use of pesticides adjusted for sex, age, education, smoking, and alcohol consumption, using multiple linear regression. Results Living close to or in the fields was associated with glutathione peroxidase activity but not with any other markers. We observed significant positive associations between 8-isoprostane levels and activities of glutathione reductase, glutathione peroxidase, and glutathione-S-transferase with reported use of certain insecticides, fungicides, and herbicides. Our results also indicate a significant and negative association between glutathione-S-transferase activity and insecticide use. Conclusions These findings suggest that use of pesticides may be associated with differences in oxidative stress biomarkers.
+C1 [Espindola Santos, Aline de Souza; Meyer, Armando] Univ Fed Rio de Janeiro, Publ Hlth Inst, Occupat & Environm Hlth Branch, Rio De Janeiro, Brazil.
+   [Parks, Christine Gibson] NIEHS, Epidemiol Branch, NIH, Durham, NC USA.
+   [Senna, Mariana Macedo; de Carvalho, Leandro Vargas B.] Fundacao Oswaldo Cruz, Studies Ctr Workers Hlth & Human Ecol, Sergio Arouca Natl Sch Publ Hlth, Rio De Janeiro, Brazil.
+C3 Universidade Federal do Rio de Janeiro; National Institutes of Health
+   (NIH) - USA; NIH National Institute of Environmental Health Sciences
+   (NIEHS); Fundacao Oswaldo Cruz
+RP Santos, ADE (corresponding author), Univ Fed Rio de Janeiro, Publ Hlth Inst, Ave Horacio Macedo S-N,Cidade Univ, Rio De Janeiro, Brazil.
+EM esp.aline@gmail.com
+RI Carvalho, Leandro Vargas Barreto de/AAO-2001-2020; Santos,
+   Aline/HLV-8833-2023; Meyer, Armando/A-8372-2008
+OI Carvalho, Leandro Vargas Barreto de/0000-0002-3090-7477; Santos,
+   Aline/0000-0002-5498-3992; Meyer, Armando/0000-0002-5258-8016
+FU Intramural Research Program of the National Institutes of
+   Health/National Institute of Environmental Health Sciences
+   [Z01-ES049030]; Coordination for the Improvement of Higher Education
+   Personnel (CAPES), Brazil [2478/2015-03, 88881.134001/2016-01]; Rio de
+   Janeiro State Foundation to Support Research (FAPERJ), Brazil
+   [E-26/110693/2012]; Brazilian National Council for Scientific and
+   Technological Development (CNPq) [307495/2015-9, 309152/2018-6]
+FX This work was supported in part by the Intramural Research Program of
+   the National Institutes of Health/National Institute of Environmental
+   Health Sciences [Z01-ES049030]. A.S.E.S. was funded by Coordination for
+   the Improvement of Higher Education Personnel (CAPES), Brazil [grant no.
+   88881.134001/2016-01] and Rio de Janeiro State Foundation to Support
+   Research (FAPERJ), Grant Number: E-26/110693/2012, Brazil. A.M. was
+   funded by Coordination for the Improvement of Higher Education Personnel
+   (CAPES), Brazil [grant no. 2478/2015-03] and Brazilian National Council
+   for Scientific and Technological Development (CNPq) [grants no.
+   307495/2015-9 and 309152/2018-6].
+NR 75
+TC 10
+Z9 10
+U1 1
+U2 11
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1354-750X
+EI 1366-5804
+J9 BIOMARKERS
+JI Biomarkers
+PD AUG 18
+PY 2021
+VL 26
+IS 6
+BP 539
+EP 547
+DI 10.1080/1354750X.2021.1933593
+EA JUN 2021
+PG 9
+WC Biotechnology & Applied Microbiology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biotechnology & Applied Microbiology; Toxicology
+GA UD7YO
+UT WOS:000661733900001
+PM 34082618
+DA 2024-04-07
+ER
+
+EF

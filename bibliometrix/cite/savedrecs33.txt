@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, J
+   Wang, DZ
+   Meng, ZY
+   Yan, S
+   Teng, MM
+   Jia, M
+   Li, RS
+   Tian, SN
+   Weiss, C
+   Zhou, ZQ
+   Zhu, WT
+AF Yan, Jin
+   Wang, Dezhen
+   Meng, Zhiyuan
+   Yan, Sen
+   Teng, Miaomiao
+   Jia, Ming
+   Li, Ruisheng
+   Tian, Sinuo
+   Weiss, Carsten
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Effects of incremental endosulfan sulfate exposure and high fat diet on
+   lipid metabolism, glucose homeostasis and gut microbiota in mice
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Endosulfan sulfate; High fat diet; Metabolic disorder; Gut microbiome
+ID PERSISTENT ORGANIC POLLUTANTS; INSULIN-RESISTANCE; OBESITY; ACIDS;
+   LIVER; PESTICIDES; ACCUMULATION; DYSFUNCTION; TOLERANCE; DYSBIOSIS
+AB The influence of pollutants on metabolic diseases such as type 2 diabetes mellitus is an emerging field in environmental medicine. Here, we explored the effects of a low-dose endosulfan sulfate (ES), a major metabolite of the pesticide endosulfan and a bio-persistent contaminant detected in environmental and human samples, on the progress of obesity and metabolic disorders. Pregnant CD-1 mice were given ES from gestational day 6 to postnatal day 21 (short-term). After weaning, male pups of exposed dams were provided with a low-fat or a high-fat diet (LFD or HFD) and assessed after an additional 12 weeks. At the same time, one group of male pups continuously received ES (long-term). Treatment with low-dose ES, short or long-term, alleviated the development of obesity and accumulation of hepatic triglycerides induced by HFD. Analysis of gene expression, metabolic profile and gut microbiome indicates that ES treatment inhibits adipogenesis induced by HFD due to enhanced lipid catabolism, fatty acid oxidation and disturbance of gut microbiota composition. However, impaired glucose and insulin homeostasis were still conserved in HFD-fed mice exposed to ES. Furthermore, ES treatment impaired glucose tolerance, affected hepatic gene expression, fatty acids composition and serum metabolic profile, as well as disturbed gut microbiota in LFD-fed mice. In conclusion, ES treatment at levels close to the accepted daily intake during fetal development directly impact glucose homeostasis, hepatic lipid metabolism, and gut microbiome dependent on the type of diet consumed. These findings provide a better understanding of the complex interactions of environmental pollutants and diet at early life stages also in the context of metabolic disease. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Yan, Jin; Wang, Dezhen; Meng, Zhiyuan; Yan, Sen; Teng, Miaomiao; Jia, Ming; Li, Ruisheng; Tian, Sinuo; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Weiss, Carsten] Karlsruhe Inst Technol, Inst Biol & Chem Syst Biol Informat Proc, Campus North,Hermann Von Helmholtz Pl 1, D-76344 Eggenstein Leopoldshafen, Germany.
+C3 China Agricultural University; Helmholtz Association; Karlsruhe
+   Institute of Technology
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; Meng,
+   Zhiyuan/AFU-9894-2022; Zhou, Zhiqiang/HIR-4954-2022; Weiss,
+   Carsten/I-1811-2013; Wang, Dezhen/K-2489-2016; Yan, Jin/AAE-5637-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561;
+   Weiss, Carsten/0000-0002-5380-3208; Wang, Dezhen/0000-0003-3984-6946;
+   Yan, Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   Young Elite Scientists Sponsorship Program by CAST
+FX We gratefully acknowledge Thomas Dickmeis (IBCS-BIP, KIT) for
+   constructive comments on the manuscript. Funding was provided by the
+   National Key Research and Development Program of China (2016YFD0200202)
+   and the Young Elite Scientists Sponsorship Program by CAST.
+NR 70
+TC 19
+Z9 21
+U1 8
+U2 58
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD JAN 1
+PY 2021
+VL 268
+AR 115697
+DI 10.1016/j.envpol.2020.115697
+PN A
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA PH6XN
+UT WOS:000600553000037
+PM 33070067
+DA 2024-03-20
+ER
+
+EF

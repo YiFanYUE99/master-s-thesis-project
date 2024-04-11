@@ -1,0 +1,65 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Xia, JG
+   Mandal, R
+   Sinelnikov, IV
+   Broadhurst, D
+   Wishart, DS
+AF Xia, Jianguo
+   Mandal, Rupasri
+   Sinelnikov, Igor V.
+   Broadhurst, David
+   Wishart, David S.
+TI MetaboAnalyst 2.0-a comprehensive server for metabolomic data analysis
+SO NUCLEIC ACIDS RESEARCH
+LA English
+DT Article
+ID QUANTITATIVE METABOLOMICS; MICROARRAY; TOOL; VISUALIZATION;
+   KNOWLEDGEBASE; METABONOMICS; VALIDATION; PROFILES; PATTERNS; PLATFORM
+AB First released in 2009, MetaboAnalyst (www.metaboanalyst.ca) was a relatively simple web server designed to facilitate metabolomic data processing and statistical analysis. With continuing advances in metabolomics along with constant user feedback, it became clear that a substantial upgrade to the original server was necessary. MetaboAnalyst 2.0, which is the successor to MetaboAnalyst, represents just such an upgrade. MetaboAnalyst 2.0 now contains dozens of new features and functions including new procedures for data filtering, data editing and data normalization. It also supports multi-group data analysis, two-factor analysis as well as time-series data analysis. These new functions have also been supplemented with: (i) a quality-control module that allows users to evaluate their data quality before conducting any analysis, (ii) a functional enrichment analysis module that allows users to identify biologically meaningful patterns using metabolite set enrichment analysis and (iii) a metabolic pathway analysis module that allows users to perform pathway analysis and visualization for 15 different model organisms. In developing MetaboAnalyst 2.0 we have also substantially improved its graphical presentation tools. All images are now generated using anti-aliasing and are available over a range of resolutions, sizes and formats (PNG, TIFF, PDF, PostScript, or SVG). To improve its performance, MetaboAnalyst 2.0 is now hosted on a much more powerful server with substantially modified code to take advantage the server's multi-core CPUs for computationally intensive tasks. MetaboAnalyst 2.0 also maintains a collection of 50 or more FAQs and more than a dozen tutorials compiled from user queries and requests. A downloadable version of MetaboAnalyst 2.0, along detailed instructions for local installation is now available as well.
+C1 [Xia, Jianguo; Wishart, David S.] Natl Inst Nanotechnol NINT, Dept Biol Sci, Edmonton, AB T6G 2E8, Canada.
+   [Mandal, Rupasri; Sinelnikov, Igor V.; Wishart, David S.] Natl Inst Nanotechnol NINT, Dept Comp Sci, Edmonton, AB T6G 2E8, Canada.
+   [Broadhurst, David] Natl Inst Nanotechnol NINT, Dept Med, Edmonton, AB T6G 2E8, Canada.
+   [Wishart, David S.] Natl Inst Nanotechnol NINT, Natl Res Council, Edmonton, AB T6G 2E8, Canada.
+C3 National Research Council Canada; National Research Council Canada;
+   National Research Council Canada; National Research Council Canada
+RP Wishart, DS (corresponding author), Natl Inst Nanotechnol NINT, Dept Biol Sci, Edmonton, AB T6G 2E8, Canada.
+EM david.wishart@ualberta.ca
+RI Wishart, David Scott/ABI-3181-2020; Xia, Jianguo/Z-1935-2019
+OI Xia, Jianguo/0000-0003-2040-2624; Broadhurst, David/0000-0003-0775-9581;
+   Wishart, David S/0000-0002-3207-2434
+FU Genome Alberta; Genome Canada; Canadian Institutes of Health Research;
+   Alberta Innovates
+FX Genome Alberta; Genome Canada; Canadian Institutes of Health Research;
+   Alberta Innovates. Funding for open access charge: Genome Alberta.
+NR 34
+TC 916
+Z9 1030
+U1 3
+U2 255
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0305-1048
+J9 NUCLEIC ACIDS RES
+JI Nucleic Acids Res.
+PD JUL
+PY 2012
+VL 40
+IS W1
+BP W127
+EP W133
+DI 10.1093/nar/gks374
+PG 7
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA 977NR
+UT WOS:000306670900020
+PM 22553367
+OA gold, Green Published, Green Submitted
+DA 2024-04-08
+ER
+
+EF

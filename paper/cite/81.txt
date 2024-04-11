@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Richardson, A
+   Robbins, CB
+   Wisely, CE
+   Henao, R
+   Grewal, DS
+   Fekrat, S
+AF Richardson, Alexander
+   Robbins, Cason B.
+   Wisely, Clayton E.
+   Henao, Ricardo
+   Grewal, Dilraj S.
+   Fekrat, Sharon
+TI Artificial intelligence in dementia
+SO CURRENT OPINION IN OPHTHALMOLOGY
+LA English
+DT Review
+DE Alzheimer's; imaging; machine learning; ocular biomarkers; transfer
+   learning
+AB Purpose of review
+   Artificial intelligence tools are being rapidly integrated into clinical environments and may soon be incorporated into dementia diagnostic paradigms. A comprehensive review of emerging trends will allow physicians and other healthcare providers to better anticipate and understand these powerful tools.
+   Recent findings
+   Machine learning models that utilize cerebral biomarkers are demonstrably effective for dementia identification and prediction; however, cerebral biomarkers are relatively expensive and not widely available. As eye images harbor several ophthalmic biomarkers that mirror the state of the brain and can be clinically observed with routine imaging, eye-based machine learning models are an emerging area, with efficacy comparable with cerebral-based machine learning models. Emerging machine learning architectures like recurrent, convolutional, and partially pretrained neural networks have proven to be promising frontiers for feature extraction and classification with ocular biomarkers.
+   Summary
+   Machine learning models that can accurately distinguish those with symptomatic Alzheimer's dementia from those with mild cognitive impairment and normal cognition as well as predict progressive disease using relatively inexpensive and accessible ocular imaging inputs are impactful tools for the diagnosis and risk stratification of Alzheimer's dementia continuum. If these machine learning models can be incorporated into clinical care, they may simplify diagnostic efforts. Recent advancements in ocular-based machine learning efforts are promising steps forward.
+C1 [Richardson, Alexander; Robbins, Cason B.; Wisely, Clayton E.; Henao, Ricardo; Grewal, Dilraj S.; Fekrat, Sharon] Duke Univ, Sch Med, Durham, NC 27710 USA.
+C3 Duke University
+RP Fekrat, S (corresponding author), Duke Univ, Sch Med, Ophthalmol & Neurol, Box 3802 Erwin Rd, Durham, NC 27710 USA.; Fekrat, S (corresponding author), Duke Univ, Sch Med, Surg, Box 3802 Erwin Rd, Durham, NC 27710 USA.
+EM Sharon.fekrat@duke.edu
+RI Henao, Ricardo/Q-1381-2016
+OI Henao, Ricardo/0000-0003-4980-845X; Fekrat, Sharon/0000-0003-4403-5996
+NR 35
+TC 3
+Z9 3
+U1 4
+U2 11
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1040-8738
+EI 1531-7021
+J9 CURR OPIN OPHTHALMOL
+JI Curr. Opin. Ophthalmol.
+PD SEP
+PY 2022
+VL 33
+IS 5
+BP 425
+EP 431
+DI 10.1097/ICU.0000000000000881
+PG 7
+WC Ophthalmology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Ophthalmology
+GA 3L8CG
+UT WOS:000834989600017
+PM 35916570
+DA 2024-04-07
+ER
+
+EF

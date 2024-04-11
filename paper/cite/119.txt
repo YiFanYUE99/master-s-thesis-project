@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nolasco, DM
+   Mendes, MPR
+   Marciano, LPD
+   Costa, LF
+   De Macedo, AN
+   Sakakibara, IM
+   Silvério, ACP
+   Paiva, MJN
+   André, LC
+AF Nolasco, Daniela Magalhaes
+   Mendes, Michele P. R.
+   Marciano, Luiz Paulo de Aguiar
+   Costa, Luiz Filipe
+   De Macedo, Adriana Nori
+   Sakakibara, Isarita Martins
+   Silverio, Alessandra Cristina Pupin
+   Paiva, Maria Jose N.
+   Andre, Leiliane C.
+TI An Exploratory Study of the Metabolite Profiling from Pesticides Exposed
+   Workers
+SO METABOLITES
+LA English
+DT Article
+DE pesticides; untargeted metabolomic; UPLC-Q-TOF-MS; occupational
+   toxicology; plasma; urine
+ID CHROMATOGRAPHY-MASS-SPECTROMETRY; NEUROTOXICITY ASSESSMENT;
+   METABOLOMICS; PLASMA; SERUM; BIOSYNTHESIS; FUNGICIDES; TOXICITY; CELLS;
+   RATS
+AB Pesticides constitute a category of chemical products intended specifically for the control and mitigation of pests. With their constant increase in use, the risk to human health and the environment has increased proportionally due to occupational and environmental exposure to these compounds. The use of these chemicals is associated with several toxic effects related to acute and chronic toxicity, such as infertility, hormonal disorders and cancer. The present work aimed to study the metabolic profile of individuals occupationally exposed to pesticides, using a metabolomics tool to identify potential new biomarkers. Metabolomics analysis was carried out on plasma and urine samples from individuals exposed and non-exposed occupationally, using liquid chromatography coupled with mass spectrometry (UPLC-MS). Non-targeted metabolomics analysis, using principal component analysis (PCA), partial least squares discriminant analysis (PLS-DA) or partial least squares discriminant orthogonal analysis (OPLS-DA), demonstrated good separation of the samples and identified 21 discriminating metabolites in plasma and 17 in urine. The analysis of the ROC curve indicated the compounds with the greatest potential for biomarkers. Comprehensive analysis of the metabolic pathways influenced by exposure to pesticides revealed alterations, mainly in lipid and amino acid metabolism. This study indicates that the use of metabolomics provides important information about complex biological responses.
+C1 [Nolasco, Daniela Magalhaes; Mendes, Michele P. R.; Paiva, Maria Jose N.; Andre, Leiliane C.] Fed Univ Minas Gerais UFMG, Fac Pharm, Dept Clin & Toxicol Anal, BR-31270901 Belo Horizonte, MG, Brazil.
+   [Marciano, Luiz Paulo de Aguiar; Costa, Luiz Filipe; Sakakibara, Isarita Martins] Fed Univ Alfenas UNIFAL, Fac Pharm, Toxicants & Drugs Anal Lab, BR-37130001 Alfenas, MG, Brazil.
+   [De Macedo, Adriana Nori] Fed Univ Minas Gerais UFMG, Chem Dept, BR-31270901 Belo Horizonte, MG, Brazil.
+   [Silverio, Alessandra Cristina Pupin] Prof Edson Antonio Vellano Univ UNIFENAS, Fac Pharm, BR-37132440 Alfenas, MG, Brazil.
+C3 Universidade Federal de Minas Gerais; Universidade Federal de Alfenas;
+   Universidade Federal de Minas Gerais
+RP André, LC (corresponding author), Fed Univ Minas Gerais UFMG, Fac Pharm, Dept Clin & Toxicol Anal, BR-31270901 Belo Horizonte, MG, Brazil.
+EM leiliane@ufmg.br
+RI Martins, Isarita/JCE-5934-2023; Nori de Macedo, Adriana/IWU-5481-2023;
+   Nori de Macedo, Adriana/H-3273-2017
+OI Marciano, Luiz Paulo/0000-0001-9721-7406; Nori de Macedo,
+   Adriana/0000-0002-4125-3755; Martins, Isarita/0000-0001-7471-3773;
+   Costa, Luiz Filipe/0000-0002-5036-9717
+FU National Council for Scientific and Technological Development (CNPq),
+   Brazil [001]; Coordination of Superior Level Staff Improvement-Brazil
+   (CAPES) [436340/20148-6]
+FX This study received funding from National Council for Scientific and
+   Technological Development (CNPq), Brazil, grant number 436340/20148-6
+   and from Coordination of Superior Level Staff Improvement-Brazil
+   (CAPES)-Finance Code 001.
+NR 82
+TC 0
+Z9 0
+U1 9
+U2 18
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD APR 27
+PY 2023
+VL 13
+IS 5
+AR 596
+DI 10.3390/metabo13050596
+PG 25
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA H7ZF2
+UT WOS:000998091800001
+PM 37233637
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Devillers, J
+   Pham-Delègue, MH
+   Decourtye, A
+   Budzinski, H
+   Cluzeau, S
+   Maurin, G
+AF Devillers, J
+   Pham-Delègue, MH
+   Decourtye, A
+   Budzinski, H
+   Cluzeau, S
+   Maurin, G
+TI Structure-toxicity modeling of pesticides to honey bees
+SO SAR AND QSAR IN ENVIRONMENTAL RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 10th International Workshop on Quantitative Structure-Activity
+   Relationships in Environmental Sciences (QSAR 2002)
+CY MAY 25-29, 2002
+CL OTTAWA, CANADA
+DE acute toxicity; Apis mellifera; artificial neural network;
+   autocorrelation method; pesticides; QSAR
+AB A quantitative structure-activity relationship (QSAR) model was derived for estimating the acute toxicity of pesticides on the honey bee. Chemicals were described by means of autocorrelation descriptors encoding lipophilicity (H), molar refractivity (MR) and the H-bonding acceptor ability (HBA) of the pesticides. A three-layer feedforward neural network trained by the back-propagation algorithm was used as statistical engine for deriving a powerful QSAR model. The root mean square residual (RMSR) values for the training and testing sets were 0.430 and 0.386, respectively. The practical interest of this original model was discussed.
+C1 CTIS, F-69140 Rillieux La Pape, France.
+   INRA, Lab Neurobiol Comparee Invertbres, F-91440 Bures Sur Yvette, France.
+   Univ Bordeaux 1, CNRS, UMR 5472, LPTC, F-33405 Talence, France.
+   ACTA, F-75595 Paris 12, France.
+C3 INRAE; Centre National de la Recherche Scientifique (CNRS); Universite
+   de Bordeaux
+RP Devillers, J (corresponding author), CTIS, 3 Chemin Graviere, F-69140 Rillieux La Pape, France.
+EM j.devillers@ctis.fr
+OI BUDZINSKI, Helene/0000-0001-5282-9011
+NR 22
+TC 31
+Z9 34
+U1 0
+U2 22
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1062-936X
+EI 1029-046X
+J9 SAR QSAR ENVIRON RES
+JI SAR QSAR Environ. Res.
+PD DEC
+PY 2002
+VL 13
+IS 7-8
+BP 641
+EP 648
+DI 10.1080/1062936021000043391
+PG 8
+WC Chemistry, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications; Environmental Sciences; Mathematical & Computational
+   Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Chemistry; Computer Science; Environmental Sciences & Ecology;
+   Mathematical & Computational Biology; Toxicology
+GA 611UN
+UT WOS:000179036300002
+PM 12570042
+DA 2024-04-01
+ER
+
+EF

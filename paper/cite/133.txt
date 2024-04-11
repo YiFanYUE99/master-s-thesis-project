@@ -1,0 +1,86 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, P
+   Tian, YQ
+   Du, MY
+   Xie, QR
+   Chen, YY
+   Ma, LL
+   Huang, YD
+   Yin, ZB
+   Xu, HH
+   Wu, XZ
+AF Li, Ping
+   Tian, Yongqing
+   Du, Mingyi
+   Xie, Qingrong
+   Chen, Yingying
+   Ma, Lianlian
+   Huang, Yudi
+   Yin, Zhibin
+   Xu, Hanhong
+   Wu, Xinzhou
+TI Mechanism of Rotenone Toxicity against<i> Plutella</i><i>
+   xylostella:</i> New Perspective from a Spatial Metabolomics and
+   Lipidomics Study
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article; Early Access
+DE rotenone; Plutella xylostella; metabolomics; lipidomics; mass
+   spectrometry imaging
+ID IN-VITRO; COMPLEX-I; DETOXIFICATION; METABOLISM; PESTICIDES; INHIBITORS
+AB The botanical pesticide rotenone can effectively control target pest Plutella xylostella, yet insights into in situ metabolic regulation of P. xylostella toward rotenone remain limited. Herein, we demonstrated metabolic expression levels and spatial distribution of rotenone-treated P. xylostella using spatial metabolomics and lipidomics. Specifically, rotenone significantly affected purine and amino acid metabolisms, indicating that adenosine monophosphate and inosine were distributed in the whole body of P. xylostella with elevated levels, while guanosine 5 '-monophosphate and tryptophan were significantly downregulated. Spatial lipidomics results indicated that rotenone may significantly destroy glycerophospholipids in cell membranes of P. xylostella, inhibit fatty acid biosynthesis, and consume diacylglycerol to enhance fat oxidation. These findings revealed that high toxicity of rotenone toward P. xylostella may be ascribed to negative effects on energy production and amino acid synthesis and damage to cell membranes, providing guidelines for the toxicity mechanism of rotenone on target pests and rational development of botanical pesticide candidates.
+C1 [Li, Ping; Tian, Yongqing; Du, Mingyi; Xie, Qingrong; Chen, Yingying; Ma, Lianlian; Huang, Yudi; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, State Key Lab Conservat & Utilizat Subtrop Agrobio, Guangzhou 510642, Peoples R China.
+   [Li, Ping; Tian, Yongqing; Du, Mingyi; Xie, Qingrong; Chen, Yingying; Ma, Lianlian; Huang, Yudi; Xu, Hanhong; Wu, Xinzhou] South China Agr Univ, Minist Educ, Key Lab Nat Pesticide & Chem Biol, Guangzhou 510642, Peoples R China.
+   [Li, Ping] South China Agr Univ, Coll Plant Protect, Key Lab Biopesticide Creat & Applicat Guangdong Pr, Guangzhou 510642, Peoples R China.
+   [Yin, Zhibin] Guangdong Acad Agr Sci, Agrobiol Gene Res Ctr, Guangzhou 510640, Peoples R China.
+C3 South China Agricultural University; South China Agricultural
+   University; South China Agricultural University; Guangdong Academy of
+   Agricultural Sciences
+RP Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, State Key Lab Conservat & Utilizat Subtrop Agrobio, Guangzhou 510642, Peoples R China.; Xu, HH; Wu, XZ (corresponding author), South China Agr Univ, Minist Educ, Key Lab Nat Pesticide & Chem Biol, Guangzhou 510642, Peoples R China.; Yin, ZB (corresponding author), Guangdong Acad Agr Sci, Agrobiol Gene Res Ctr, Guangzhou 510640, Peoples R China.
+EM zbyin@agrogene.ac.cn; hhxu@scau.edu.cn; wuxz@scau.edu.cn
+RI Yin, Zhibin/I-3780-2017
+OI Yin, Zhibin/0000-0002-2434-4495
+FU Science and Technology Planning Project of Guangdong Province; National
+   Natural Science Foundation of China; Natural Science Foundation of
+   Guangdong Province; Science and Technology Planning Project of
+   Guangzhou; Young Talent Support Project of Guangzhou Association for
+   Science and Technology;  [2019B030316021];  [31901911]; 
+   [2022A1515011385];  [201904010248];  [QT20220101031]
+FX Funding The authors are grateful for the financial support from the
+   Science and Technology Planning Project of Guangdong Province (No.
+   2019B030316021) and the National Natural Science Foundation of China
+   (No. 31901911) . The authors also acknowledge the Natural Science
+   Foundation of Guangdong Province (No. 2022A1515011385) and Science and
+   Technology Planning Project of Guangzhou (No. 201904010248) . This work
+   was also supported by the Young Talent Support Project of Guangzhou
+   Association for Science and Technology (No. QT20220101031) .
+NR 50
+TC 2
+Z9 3
+U1 24
+U2 77
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD 2022 DEC 20
+PY 2022
+DI 10.1021/acs.jafc.2c06292
+EA DEC 2022
+PG 12
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA 7F6GH
+UT WOS:000901943000001
+PM 36538414
+DA 2024-04-07
+ER
+
+EF

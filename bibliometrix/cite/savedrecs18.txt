@@ -1,0 +1,70 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Teng, MM
+   Qi, SZ
+   Zhu, WT
+   Wang, Y
+   Wang, DZ
+   Dong, K
+   Wang, CJ
+AF Teng, Miaomiao
+   Qi, Suzhen
+   Zhu, Wentao
+   Wang, Yao
+   Wang, Dezhen
+   Dong, Kai
+   Wang, Chengju
+TI Effects of the bioconcentration and parental transfer of environmentally
+   relevant concentrations of difenoconazole on endocrine disruption in
+   zebrafish (<i>Danio rerio</i>)
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Difenoconazole; Zebrafish; Bioaccumulation; Endocrine disruption;
+   Parental transfer
+ID PITUITARY-GONAD AXIS; LONG-TERM EXPOSURE; TRIAZOLE FUNGICIDE
+   DIFENOCONAZOLE; GENE-EXPRESSION; BISPHENOL-A; REPRODUCTION; LIVER; FISH;
+   DIFFERENTIATION; VEGETABLES
+AB Difenoconazole, a typical triazole fungicide, inhibits lanosterol-14R-demethylase (CYP51) to prevent fungal sterol synthesis and its residues are frequently detected in the environment due to its wide application. Previous studies have demonstrated that difenoconazole altered the triglyceride levels, and gene expression relevant to cholesterol biosynthesis in zebrafish. However, endocrine-disruption in the hypothalamus-pituitary-gonadal-liver (HPGL) axis, the effects of transferring to offspring, and the underlying mechanisms of difenoconazole in aquatic organisms are still unknown. In this study, we defined the effects of difenoconazole at environmental concentrations on endocrine disturbance using zebrafish as an experimental model. The results indicated that difenoconazole induced a significant change in the somatic index, and pathological variations in tissues, and steroid hormone levels. RT-PCR experiments further confirmed that difenoconazole significantly induced expression alteration of lhr, hsd3 beta, hsd11 beta, cyp19a in the ovary and star, cyp19a, cyp3c1 in the testis, and er alpha genes in livers. In addition, difenoconazole exposure in parental zebrafish affected the hatchability and length of its offspring. Moreover, the burdens of difenoconazole and difenoconazole alcohol in females were higher than in males. These findings highlighted that difenoconazole exposure at environmentally relevant concentrations elicited estrogenic endocrine-disruption effects via altering homeostasis of sex steroid hormones in the HPGL axis and the adverse effects can be transferred to the offspring. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Teng, Miaomiao; Zhu, Wentao; Wang, Yao; Wang, Dezhen; Wang, Chengju] China Agr Univ, Coll Sci, Beijing 100193, Peoples R China.
+   [Qi, Suzhen] Chinese Acad Agr Sci, Inst Apicultural Res, Beijing, Peoples R China.
+   [Dong, Kai] Shandong Ruan Gas Co, Weifang, Shandong, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Apicultural Research, CAAS
+RP Wang, CJ (corresponding author), China Agr Univ, Coll Sci, Beijing 100193, Peoples R China.
+EM wangchengju@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Wang, Dezhen/K-2489-2016
+OI Zhu, Wentao/0000-0001-6371-7998; Wang, Dezhen/0000-0003-3984-6946
+FU National Key Research and Development Program of China [2016YFD0200504]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200504).
+NR 52
+TC 58
+Z9 66
+U1 8
+U2 195
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD FEB
+PY 2018
+VL 233
+BP 208
+EP 217
+DI 10.1016/j.envpol.2017.10.063
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA FU9LI
+UT WOS:000424177000023
+PM 29096293
+DA 2024-03-20
+ER
+
+EF

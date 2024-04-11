@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Deng Yuanying
+   He Wei
+   Tian Jing
+Z2 邓媛英
+   何微
+   田静
+   戴红梅
+   赵玲玲
+TI Progress in researches on biological monitoring of chronic low dose
+   pesticide exposure
+Z1 人体慢性低剂量农药暴露生物学监测研究进展
+Z3 中国公共卫生
+SO China Journal of Public Health
+VL 31
+IS 7
+BP 900
+EP 903
+AR 1001-0580(2015)31:7<900:RTMXDJ>2.0.TX;2-V
+PY 2015
+LA Chinese
+DT Review
+DE pesticide exposure; chronic low dose; biological monitoring
+Z5 农药暴露; 慢性低剂量; 生物学监测
+AB The biological monitoring of chronic low dose pesticide exposure has
+   important implications for evaluating the effects of pesticide exposure
+   on human health. The methods of biological monitoring were reviewed in
+   the article. The biomonitoring samples include urine,blood, saliva,
+   sweat and hair. The biomarkers include chemicals and metabolites of
+   pesticides. Meanwhile, some indirect indexes such as
+   enzyme,DNA,neurotransmitter,protein were also used as biomarkers of
+   pesticide exposure. Appropriate method of biological monitoring can
+   provide an efficient and cost-effective way to identify and quantify
+   pesticide exposure.
+Z4 人体慢性低剂量农药暴露的生物学监测对于评估农药暴露对人体健康的影响有重要意义。生物学监测的标本来源除了目前使用广泛的尿液及血液标本,唾液、汗水、
+   头发等也被用作农药暴露的生物学监测。监测的指标可以直接检测各种生物标本中的农药本身的化学物质及其代谢产物的含量,还可以通过间接指标如酶学、神经递
+   质、DNA、蛋白质进行检测。选择合适的生物学监测方法可以为正确评估人体农药暴露提供有力的依据。本文对目前人体慢性低剂量农药暴露的生物学监测方法进
+   行综述。
+C1 Deng Yuanying, The Third Xiangya Hospital of Central South University,
+   Changsha, Hu'nan 410013.
+   He Wei, The Third Xiangya Hospital of Central South University,
+   Changsha, Hu'nan 410013.
+   Tian Jing, The Third Xiangya Hospital of Central South University,
+   Changsha, Hu'nan 410013.
+Z6 邓媛英, 中南大学湘雅三医院, 长沙, 湖南 410013, 中国.
+   何微, 中南大学湘雅三医院, 长沙, 湖南 410013, 中国.
+   田静, 中南大学湘雅三医院, 长沙, 湖南 410013, 中国.
+   戴红梅, 中南大学湘雅三医院, 长沙, 湖南 410013, 中国.
+   赵玲玲, 中南大学湘雅三医院, 长沙, 湖南 410013, 中国.
+Z7 llzhao2011@qq.com
+NR 42
+Z8 1
+Z9 1
+U1 0
+U2 0
+FU 瑞士银行慈善基金
+SN 1001-0580
+PG 4
+SC Public, Environmental & Occupational Health (provided by Clarivate
+   Analytics)
+UT CSCD:5567995
+DA 2024-04-07
+ER
+
+EF

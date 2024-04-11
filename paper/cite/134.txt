@@ -1,0 +1,73 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Song, BB
+   Zhou, YY
+   Zhan, R
+   Zhu, LJ
+   Chen, HC
+   Ma, Z
+   Chen, XL
+   Lu, YL
+AF Song, Beibei
+   Zhou, Yaoyao
+   Zhan, Rong
+   Zhu, Linjiang
+   Chen, Hanchi
+   Ma, Zhi
+   Chen, Xiaolong
+   Lu, Yuele
+TI Effects of Different Pesticides on the Brewing of Wine Investigated by
+   GC-MS-Based Metabolomics
+SO METABOLITES
+LA English
+DT Article
+DE metabolomics; Gas Chromatographic-Mass Spectrometer(GC-MS); pesticide
+   residue; fermentation broth; flavor substances
+ID INDUSTRIAL APPLICATIONS; GAS-CHROMATOGRAPHY; RESIDUES; FERMENTATION;
+   GRAPES; YEAST; FUNGICIDES; AROMA; DIVERSITY; EVOLUTION
+AB The application of pesticides is critical during the growth of high-quality grape for wine making. However, pesticide residues have significant influence on the wine flavor. In this study, gas chromatography-mass spectrometry (GC-MS) was performed and the obtained datasets were analyzed with multivariate statistical methods to investigate changes in flavor substances in wine during fermentation. The principal component analysis (PCA) score plot showed significant differences in the metabolites of wine treated with various pesticides. In trials using five pesticides (hexaconazole, difenoconazole, flutriafol, tebuconazole, and propiconazole), more than 86 metabolites were changed. Most of these metabolites were natural flavor compounds, like carbohydrates, amino acids, and short-chain fatty acids and their derivatives, which essentially define the appearance, aroma, flavor, and taste of the wine. Moreover, the five pesticides added to grape pulp exhibited different effects on the metabolic pathways, involving mainly alanine, aspartate and glutamate metabolism, butanoate metabolism, arginine, and proline metabolism. The results of this study will provide new insight into the potential impact of pesticide residues on the metabolites and sensory profile of wine during fermentation.
+C1 [Song, Beibei; Zhou, Yaoyao; Zhan, Rong; Zhu, Linjiang; Chen, Hanchi; Ma, Zhi; Chen, Xiaolong; Lu, Yuele] Zhejiang Univ Technol, Coll Biotechnol & Bioengn, Inst Fermentat Engn, Hangzhou 310014, Peoples R China.
+C3 Zhejiang University of Technology
+RP Lu, YL (corresponding author), Zhejiang Univ Technol, Coll Biotechnol & Bioengn, Inst Fermentat Engn, Hangzhou 310014, Peoples R China.
+EM songbeibei18272807490@gmail.com; w17757192970@gmail.com;
+   zhan15869117715@gmail.com; zhulinjiang@zjut.edu.cn; hchen23@zjut.edu.cn;
+   mazhi@zjut.edu.cn; richard_chen@zjut.edu.cn; luyuele@zjut.edu.cn
+RI zhang, xueying/JMB-7808-2023; Chen, XiaoLong/G-8581-2012; Yu,
+   ZH/KBC-6889-2024; Wang, He/JCO-3900-2023; wang, qi/ITT-9652-2023; liu,
+   feng/HPC-8076-2023; Zhou, heng/JCN-6493-2023; Jiang, Yuan/JED-3759-2023;
+   wu, meng/JPK-1930-2023; song, beibei/JBS-2219-2023
+OI Ma, Zhi/0000-0002-5803-4954; Chen, Xiaolong/0000-0003-3869-352X
+FU National Natural Science Foundation of China [31601390]; Key R&D Program
+   of Zhejiang Province [2019C02088]
+FX Funding was provided by the National Natural Science Foundation of China
+   (31601390), and the Key R&D Program of Zhejiang Province (2019C02088).
+NR 57
+TC 8
+Z9 8
+U1 7
+U2 29
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD JUN
+PY 2022
+VL 12
+IS 6
+AR 485
+DI 10.3390/metabo12060485
+PG 15
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA 2K6PD
+UT WOS:000816454300001
+PM 35736418
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

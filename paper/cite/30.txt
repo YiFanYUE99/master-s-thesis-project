@@ -1,0 +1,46 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Girireddy, M
+   Saiakhov, R
+AF Girireddy, M.
+   Saiakhov, R.
+TI QSAR Models for Identifying Pesticides Exhibiting High, Moderate, and
+   Low Toxicity in Honey Bees
+SO INTERNATIONAL JOURNAL OF TOXICOLOGY
+LA English
+DT Meeting Abstract
+CT 40th Annual Meeting of the American-College-of-Toxicology (ACT)
+CY NOV 17-20, 2019
+CL Phoenix, AZ
+SP Amer Coll Toxicol
+C1 [Girireddy, M.; Saiakhov, R.] MultiCASE Inc, Beachwood, OH USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1091-5818
+EI 1092-874X
+J9 INT J TOXICOL
+JI Int. J. Toxicol.
+PD JAN
+PY 2020
+VL 39
+IS 1
+MA P206
+BP 59
+EP 59
+PG 1
+WC Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Pharmacology & Pharmacy; Toxicology
+GA KI3JY
+UT WOS:000511246200047
+DA 2024-04-01
+ER
+
+EF

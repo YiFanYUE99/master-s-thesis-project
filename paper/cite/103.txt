@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Prabha Moirangthem, Prabha Moirangthem
+   Dipanker Dey, Dipanker Dey
+   Singh, H. P.
+   Batish, D. R.
+TI Surrogate biomarkers of pesticide toxicity among pesticide Handlers.
+SO Indo Global Journal of Pharmaceutical Sciences
+VL 4
+IS 3
+PS 163
+PY 2014
+U1 0
+U2 0
+AB Biochemical responses to xenobiotic compound including pesticides
+   provide a measure of toxic effect as they serve as useful tools for the
+   measurement and estimation of biologically active/passive exposure
+   through environmental monitoring using biological samples or human
+   tissues and body fluids like serum, fat, urine, blood, or breast milk by
+   the usual analytical techniques. The present paper reviews and discusses
+   the recent findings on these biomarkers in relation to the current and
+   future use in environmental and occupational human health monitoring.
+   The objective of this review is to highlight the importance of
+   biomarkers of oxidative stress as surrogate markers of pesticide
+   toxicity among the pesticide handlers like the chemical industry
+   producing pesticides, people spraying pesticides and people dedicated to
+   agricultural works. This study is done by reviewing previous
+   epidemiologic studies that have evaluated and discussed methods to
+   characterize the biomarkers of pesticide exposure. Most studies describe
+   techniques for biomonitoring effects which may detect early changes
+   induced by many pesticides and which have the potential to accelerate
+   data gathering. Significant changes in the levels of biomarkers as well
+   as the activities of antioxidant enzymes in pesticide-exposed
+   individuals were observed in most of the studies reviewed. Biomarkers
+   will have a major impact on the study of environmental risk factors.
+   Researcher sought to focus on characterization of the nature of the
+   biomarkers and determination of the consequences of physiological and
+   genetic changes or variations, with the ultimate purpose of predicting
+   or preventing disease. Expanding the knowledge of the already identified
+   markers and its employment in the research study will provide vital
+   purpose in ensuring design, formulation and safety of pesticides. The
+   incorporation of in vitro, animal, and human data will give a clear
+   picture of a marker's performance.
+UT CABI:20143418810
+DT Journal article; Conference paper
+LA English
+CT International Conference on Life Sciences, Informatics, Food and
+   Environment (IC-LIFE 2014), Uttar Pradesh, India, 29-30 August 2014.
+C1 Division of Natural Resource Management, ICAR-RC (NEH), Barapani, Umiam,
+   Meghalaya, India
+EM prabsmoirang@gmail.com
+PU Indo Global Journal of Pharmaceutical Sciences
+PI New Delhi, India
+SC Environmental Sciences & Ecology; Toxicology; Chemistry; Public,
+   Environmental & Occupational Health (provided by Clarivate Analytics)
+SN 2249-1023
+CC HH430Pesticide and Drug Residues and Ecotoxicology (NEW March 2000);
+   VV810Human Toxicology and Poisoning (NEW March 2000); VV900Occupational
+   Health and Safety
+DE biochemical markers; enzymes; occupational hazards; oxidative stress;
+   pesticides; poisoning; reviews; risk factors; spraymen; toxicity;
+   biological markers
+UR http://www.iglobaljournal.com/wp-content/uploads/2014/09/36.-Moirangthem-et-al-I
+DA 2024-04-07
+ER
+
+EF

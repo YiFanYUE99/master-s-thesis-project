@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ding Qi
+   Li Wenxiong
+Z2 丁琪
+   李文雄
+TI How to predict acute kidney injury
+Z1 如何预测急性肾损伤
+Z3 中国实用内科杂志
+SO Chinese Journal of Practical Internal Medicine
+VL 43
+IS 12
+BP 982
+EP 985
+AR 1005-2194(2023)43:12<982:RHYCJX>2.0.TX;2-8
+PY 2023
+LA Chinese
+DT Article
+DE acute kidney injury; biomarkers; machine learning
+Z5 急性肾损伤; 生物标志物; 机器学习
+AB Acute kidney injury(AKI)is a common severe syndrome with high
+   mortality,which can progress to chronic kidney disease. Early risk
+   assessment,accurate prediction,and prompt diagnosis are crucial in the
+   management of AKI. Advancements in biomarkers and machine learning based
+   on big data have made it possible to predict AKI. This article provides
+   a summary of the application of biomarkers and machine learning in AKI
+   prediction.
+Z4 急性肾损伤(acute kidney
+   injury,AKI)是一种常见的重症综合征,可进展为慢性肾脏病,病死率高。在AKI的诊治环节中,早期风险评估、准确预测、提前诊断最为关键。目前
+   更多的AKI新型生物标志物被发现,重症医疗也进入了大数据时代,利用生物标志物和基于大数据的机器学习方法预测AKI成为了可能。文章将对如何应用生物
+   标志物和机器学习预测AKI进行综述。
+C1 Ding Qi, Department of Surgical Intensive Care Unit,Beijing Chao-yang
+   Hospital,Capital Medical University, Beijing 100020, China.
+   Li Wenxiong, Department of Surgical Intensive Care Unit,Beijing
+   Chao-yang Hospital,Capital Medical University, Beijing 100020, China.
+Z6 丁琪, 首都医科大学附属北京朝阳医院重症医学科, 北京 100020, 中国.
+   李文雄, 首都医科大学附属北京朝阳医院重症医学科, 北京 100020, 中国.
+EM liwx1126@163.com
+Z7 liwx1126@163.com
+NR 21
+Z8 0
+Z9 0
+U1 0
+U2 0
+FU 首都卫生发展科研专项项目
+SN 1005-2194
+PG 4
+SC Surgery (provided by Clarivate Analytics)
+UT CSCD:7604970
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dobricic, V
+   Turkovic, N
+   Ivkovic, B
+   Csuvik, O
+   Vujic, Z
+AF Dobricic, Vladimir
+   Turkovic, Nemanja
+   Ivkovic, Branka
+   Csuvik, Oszkar
+   Vujic, Zorica
+TI Evaluation of the lipophilicity of chalcones by RP-TLC and computational
+   methods
+SO JPC-JOURNAL OF PLANAR CHROMATOGRAPHY-MODERN TLC
+LA English
+DT Article
+DE RP-TLC; Chalcones; logP; QSRR models
+ID THIN-LAYER-CHROMATOGRAPHY; ATOMIC PHYSICOCHEMICAL PARAMETERS;
+   REVERSED-PHASE; QUANTITATIVE STRUCTURE; ACE-INHIBITORS; PREDICTION;
+   MODEL; MLR
+AB Retention behaviour of twenty-one chalcones synthesized in our laboratory was tested in three thin-layer chromatography (RP-TLC) systems (acetonitrile-water, ethanol-water and acetone-water) and chromatography parameters R-M(0), S and C-0 were calculated. The most suitable RP-TLC system (acetonitrile-water) and chromatography parameter (C-0) for lipophilicity prediction of tested compounds were selected on the basis of the highest correlations with calculated logP values. In selected system, compound 12 had the highest, whereas 47 had the lowest C-0 value. QSRR analysis was performed and three models representing relationships between C-0 and selected molecular descriptors were created-MLR(C-0), PLS(C-0) and SVM(C-0). Interpretation of molecular descriptors which form statistically the most reliable SVM(C-0) model identified the most important structural and physico-chemical properties that influence retention behaviour of tested compounds. In addition, descriptors with the highest influence on R-M(0) as well as on C-0 calculated in the remaining two RP-TLC systems were identified and interpreted.
+C1 [Dobricic, Vladimir; Turkovic, Nemanja; Ivkovic, Branka; Csuvik, Oszkar; Vujic, Zorica] Univ Belgrade, Dept Pharmaceut Chem, Fac Pharm, Vojvode Stepe 450, Belgrade 11000, Serbia.
+   [Turkovic, Nemanja] Agcy Medicines & Med Devices Montenegro, 64A Bulevar Ivana Crnojevica, Podgorica 81000, Montenegro.
+   [Csuvik, Oszkar] Univ Szeged, Inst Pharmaceut Chem, Eotvos U 6, H-6720 Szeged, Hungary.
+C3 University of Belgrade; Szeged University
+RP Dobricic, V (corresponding author), Univ Belgrade, Dept Pharmaceut Chem, Fac Pharm, Vojvode Stepe 450, Belgrade 11000, Serbia.
+EM vladimir@pharmacy.bg.ac.rs
+OI Turkovic, Nemanja/0000-0002-3320-2966; Dobricic,
+   Vladimir/0000-0002-5086-9017
+FU Ministry of Education, Science and Technological Development, Republic
+   of Serbia [172041]
+FX This work was financially supported by the Ministry of Education,
+   Science and Technological Development, Republic of Serbia, as part of
+   Project No.172041.
+NR 42
+TC 3
+Z9 3
+U1 0
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-4173
+EI 1789-0993
+J9 JPC-J PLANAR CHROMAT
+JI JPC-J. Planar Chromatogr.-Mod. TLC
+PD JUN
+PY 2020
+VL 33
+IS 3
+BP 245
+EP 253
+DI 10.1007/s00764-020-00029-w
+EA JUN 2020
+PG 9
+WC Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA NF5IL
+UT WOS:000539578500001
+DA 2024-04-08
+ER
+
+EF

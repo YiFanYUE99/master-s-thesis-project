@@ -1,0 +1,73 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Meng, ZY
+   Huang, SR
+   Sun, W
+   Yan, S
+   Chen, XJ
+   Diao, JL
+   Zhou, ZQ
+   Zhu, WT
+AF Meng, Zhiyuan
+   Huang, Shiran
+   Sun, Wei
+   Yan, Sen
+   Chen, Xiaojun
+   Diao, Jinling
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI A Typical Fungicide and Its Main Metabolite Promote Liver Damage in Mice
+   through Impacting Gut Microbiota and Intestinal Barrier Function
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE fungicides; gut microbiota; intestinal barrier; liver damage
+ID BACTERIAL TRANSLOCATION; INDUCED COLITIS; EXPOSURE; DYSBIOSIS;
+   PROTHIOCONAZOLE; INFLAMMATION; POLYPHENOLS; DISORDER; HEALTH; ACIDS
+AB The environmental risks of prothioconazole (PTC), a popular agricultural fungicide, and its main metabolite, prothioconazole-desthio (PTCd), have attracted more and more attention recently. In this study, the adverse effects of PTC and PTCd on liver function in mice and their underlying mechanisms have been systematically studied from the perspective of gut microbiota. Combining the results of physiological, biochemical, and histopathological analysis showed that PTC and PTCd exposure could cause lipid accumulation and inflammation in the liver of mice. In addition, exposure to PTC and PTCd could also significantly affect the transcriptome of liver tissue, leading to disorders of lipid metabolism of the liver. Particularly, the abundances of bacteria in liver tissues were significantly increased with PTC and PTCd exposure. Further results show that PTC and PTCd could affect the expression of genes related to inflammation and the barrier function in colon tissue, leading to intestinal dysfunction in mice. Last but not least, the results based on 16S rRNA gene sequencing and H-1 NMR metabolomics analysis showed that exposure to PTC and PTCd could cause gut microbiota imbalances and cecal content metabolic profile disorders. In short, this study found that PTC and PTCd exposure could cause liver damage in mice by changing the gut microbiota, disrupting the intestinal barrier function and promoting bacterial translocation. These results clarified the key role of gut microbiota in liver damage induced by PTC and PTCd in mice and proposed a new insight into the mechanisms of liver toxicity induced by pesticides through the dialogue of the gut-liver axis.
+C1 [Huang, Shiran; Sun, Wei; Yan, Sen; Diao, Jinling; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Meng, Zhiyuan; Chen, Xiaojun] Yangzhou Univ, Sch Hort & Plant Protect, Joint Int Res Lab Agr & Agriprod Safety, Yangzhou 225009, Jiangsu, Peoples R China.
+C3 China Agricultural University; Yangzhou University
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.; Meng, ZY (corresponding author), Yangzhou Univ, Sch Hort & Plant Protect, Joint Int Res Lab Agr & Agriprod Safety, Yangzhou 225009, Jiangsu, Peoples R China.
+EM zymeng@yzu.edu.cn; wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022; Zhu, Wentao/O-8964-2019; zhou,
+   zhou/HPE-9525-2023; Meng, Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561;
+   chen, xiaojun/0000-0002-0832-6123; Diao, jinling/0000-0003-2481-1281;
+   Yan, Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge financial support from the National Key
+   Research and Development Program of China (2016YFD0200202) and the 2115
+   Talent Development Program of China Agricultural University.
+NR 64
+TC 9
+Z9 9
+U1 16
+U2 124
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD NOV 17
+PY 2021
+VL 69
+IS 45
+BP 13436
+EP 13447
+DI 10.1021/acs.jafc.1c05508
+PG 12
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA YV7KF
+UT WOS:000752904700005
+PM 34735141
+DA 2024-03-20
+ER
+
+EF

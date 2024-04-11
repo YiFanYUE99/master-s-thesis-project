@@ -1,0 +1,63 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dekermanjian, J
+   Labeikovsky, W
+   Ghosh, D
+   Kechris, K
+AF Dekermanjian, Jonathan
+   Labeikovsky, Wladimir
+   Ghosh, Debashis
+   Kechris, Katerina
+TI MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software
+   Tools
+SO METABOLITES
+LA English
+DT Article
+DE metabolomics; database; text mining; open-source software; workflows
+ID SYSTEMS BIOLOGY; RESOURCES; BIOINFORMATICS; DATABASES; GUIDE
+AB The bottleneck for taking full advantage of metabolomics data is often the availability, awareness, and usability of analysis tools. Software tools specifically designed for metabolomics data are being developed at an increasing rate, with hundreds of available tools already in the literature. Many of these tools are open-source and freely available but are very diverse with respect to language, data formats, and stages in the metabolomics pipeline. To help mitigate the challenges of meeting the increasing demand for guidance in choosing analytical tools and coordinating the adoption of best practices for reproducibility, we have designed and built the MSCAT (Metabolomics Software CATalog) database of metabolomics software tools that can be sustainably and continuously updated. This database provides a survey of the landscape of available tools and can assist researchers in their selection of data analysis workflows for metabolomics studies according to their specific needs. We used machine learning (ML) methodology for the purpose of semi-automating the identification of metabolomics software tool names within abstracts. MSCAT searches the literature to find new software tools by implementing a Named Entity Recognition (NER) model based on a neural network model at the sentence level composed of a character-level convolutional neural network (CNN) combined with a bidirectional long-short-term memory (LSTM) layer and a conditional random fields (CRF) layer. The list of potential new tools (and their associated publication) is then forwarded to the database maintainer for the curation of the database entry corresponding to the tool. The end-user interface allows for filtering of tools by multiple characteristics as well as plotting of the aggregate tool data to monitor the metabolomics software landscape.</p>
+C1 [Dekermanjian, Jonathan; Ghosh, Debashis; Kechris, Katerina] Univ Colorado, Dept Biostat & Informat, Colorado Sch Publ Hlth, Anschutz Med Campus, Aurora, CO 80045 USA.
+   [Labeikovsky, Wladimir] Univ Colorado, Strauss Hlth Sci Lib, Dept Educ & Res, Anschutz Med Campus, Aurora, CO 80045 USA.
+C3 Colorado School of Public Health; University of Colorado System;
+   University of Colorado Anschutz Medical Campus; University of Colorado
+   System; University of Colorado Anschutz Medical Campus
+RP Kechris, K (corresponding author), Univ Colorado, Dept Biostat & Informat, Colorado Sch Publ Hlth, Anschutz Med Campus, Aurora, CO 80045 USA.
+EM JONATHAN.DEKERMANJIAN@CUANSCHUTZ.EDU;
+   wladimitlabeikovsky@cuanschutz.edu; DEBASHIS.GHOSH@CUANSCHUTZ.EDU;
+   katerina.kechris@cuanschutz.edu
+OI Labeikovsky, Wladimir/0000-0001-6074-3269; Ghosh,
+   Debashis/0000-0001-6618-1316; Kechris, Katerina/0000-0002-3725-5459
+FU NIH Metabolomics Common Fund Program [U01 CA235488, U01CA235488-02S1]
+FX Development of MSCAT was supported by the NIH Metabolomics Common Fund
+   Program U01 CA235488 under the administrative supplement
+   U01CA235488-02S1.
+NR 54
+TC 7
+Z9 7
+U1 3
+U2 15
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD OCT
+PY 2021
+VL 11
+IS 10
+AR 678
+DI 10.3390/metabo11100678
+PG 11
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA WM8BZ
+UT WOS:000711305700001
+PM 34677393
+OA Green Published, gold
+DA 2024-04-08
+ER
+
+EF

@@ -1,0 +1,91 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, MX
+   Li, XH
+   Jiang, MT
+   Zhang, L
+   Ding, MX
+   Zou, YD
+   Gao, XM
+   Yang, WZ
+   Wang, HD
+   Guo, DA
+AF Sun, Meng-xiao
+   Li, Xiao-hang
+   Jiang, Mei-ting
+   Zhang, Lin
+   Ding, Meng-xiang
+   Zou, Ya-dan
+   Gao, Xiu-mei
+   Yang, Wen-zhi
+   Wang, Hong-da
+   Guo, De-an
+TI A practical strategy enabling more reliable identification of
+   ginsenosides from<i> Panax</i><i> quinquefolius</i> flower by
+   dimension-enhanced liquid chromatography/mass spectrometry and
+   quantitative structure-retention relationship-based retention behavior
+   prediction
+SO JOURNAL OF CHROMATOGRAPHY A
+LA English
+DT Article
+DE Ginsenoside; Panax quinquefolius flower; Ion mobility-quadrupole
+   time-of-flight mass; spectrometry; Quantitative structure-retention
+   relationship
+ID DATA-DEPENDENT ACQUISITION; TANDEM MASS-SPECTROMETRY; COLLISION
+   CROSS-SECTION; PRECURSOR IONS LIST; INTEGRATED STRATEGY; GINSENG; MS;
+   METABOLOMICS; EXCLUSION; MEDICINE
+AB To accurately identify the metabolites is crucial in a number of research fields, and discovery of new compounds from the natural products can benefit the development of new drugs. However, the preferable phytochemistry or liquid chromatography/mass spectrometry approach is time-/labor-extensive or receives unconvincing identifications. Herein, we presented a strategy, by integrating offline two-dimensional liquid chromatography/ion mobility-quadrupole time-of-flight mass spectrometry (2D-LC/IM-QTOF-MS), exclusion list-containing highdefinition data-dependent acquisition (HDDDA-EL), and quantitative structure-retention relationship (QSRR) prediction of the retention time (tR), to facilitate the in-depth and more reliable identification of herbal components and thus to discover new compounds more efficiently. Using the saponins in Panax quinquefolius flower (PQF) as a case, high orthogonality (0.79) in separating ginsenosides was enabled by configuring the XBridge Amide and CSH C18 columns. HDDDA-EL could improve the coverage in MS2 acquisition by 2.26 folds compared with HDDDA (2933 VS 1298). Utilizing 106 reference compounds, an accurate QSRR prediction model (R2 = 0.9985 for the training set and R2 = 0.88 for the validation set) was developed based on Gradient Boosting Machine (GBM), by which the predicted tR matching could significantly reduce the isomeric candidates identification for unknown ginsenosides. Isolation and establishment of the structures of two malonylginsenosides by NMR partially verified the practicability of the integral strategy. By these efforts, 421 ginsenosides were identified or tentatively characterized, and 284 thereof were not ever reported from the Panax species. The current strategy is thus powerful in the comprehensive metabolites characterization and rapid discovery of new compounds from the natural products.
+C1 [Sun, Meng-xiao; Li, Xiao-hang; Jiang, Mei-ting; Zhang, Lin; Ding, Meng-xiang; Zou, Ya-dan; Gao, Xiu-mei; Yang, Wen-zhi; Wang, Hong-da; Guo, De-an] Tianjin Univ Tradit Chinese Med, State Key Lab Component based Chinese Med, 10 Poyanghu Rd, Tianjin 301617, Peoples R China.
+   [Sun, Meng-xiao; Li, Xiao-hang; Jiang, Mei-ting; Zhang, Lin; Ding, Meng-xiang; Zou, Ya-dan; Gao, Xiu-mei; Yang, Wen-zhi; Wang, Hong-da; Guo, De-an] Tianjin Univ Tradit Chinese Med, Haihe Lab Modern Chinese Med, 10 Poyanghu Rd, Tianjin 301617, Peoples R China.
+   [Zhang, Lin; Gao, Xiu-mei; Yang, Wen-zhi] Tianjin Univ Tradit Chinese Med, Key Lab Pharmacol Tradit Chinese Med Formulae, Minist Educ, 10 Poyanghu Rd, Tianjin 301617, Peoples R China.
+   [Guo, De-an] Chinese Acad Sci, Shanghai Inst Mat Med, Shanghai Res Ctr Modernizat Tradit Chinese Med, 501 Haike Rd, Shanghai 201203, Peoples R China.
+C3 Tianjin University of Traditional Chinese Medicine; Tianjin University
+   of Traditional Chinese Medicine; Tianjin University of Traditional
+   Chinese Medicine; Chinese Academy of Sciences; Shanghai Institute of
+   Materia Medica, CAS
+RP Yang, WZ; Wang, HD; Guo, DA (corresponding author), Tianjin Univ Tradit Chinese Med, State Key Lab Component based Chinese Med, 10 Poyanghu Rd, Tianjin 301617, Peoples R China.
+EM wzyang0504@tjutcm.edu.cn; 17862987156@163.com; daguo@simm.ac.cn
+RI GAO, Xiumei/IWD-8697-2023; Zhang, jin/KFT-0762-2024; Liu,
+   Zhiyuan/KDP-2606-2024; Chen, YiJun/KFS-9282-2024
+OI GAO, Xiumei/0000-0002-6617-6645; 
+FU Tianjin Committee of Science and Technology of China [22ZYJDSS00040];
+   Science & Technology Program of Haihe Laboratory of Modern Chinese
+   Medicine [22HHZYJC00002]; Innovation Team and Talents Cultivation
+   Program of National Administration of Traditional Chinese Medicine
+   [ZYYCXTD-C-202009]
+FX We gratefully acknowledge the financial support from Tianjin Committee
+   of Science and Technology of China (22ZYJDSS00040) , Science &
+   Technology Program of Haihe Laboratory of Modern Chinese Medicine
+   (22HHZYJC00002) , and the Innovation Team and Talents Cultivation
+   Program of National Administration of Traditional Chinese Medicine
+   (ZYYCXTD-C-202009) .
+NR 53
+TC 2
+Z9 2
+U1 12
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0021-9673
+EI 1873-3778
+J9 J CHROMATOGR A
+JI J. Chromatogr. A
+PD SEP 13
+PY 2023
+VL 1706
+AR 464243
+DI 10.1016/j.chroma.2023.464243
+EA AUG 2023
+PG 12
+WC Biochemical Research Methods; Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA DM5W9
+UT WOS:001132484000001
+PM 37567002
+DA 2024-04-01
+ER
+
+EF

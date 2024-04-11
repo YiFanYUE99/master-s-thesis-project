@@ -1,0 +1,41 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Devillers, J
+AF Devillers, James
+BE Devillers, J
+TI QSAR Modeling of Pesticide Toxicity to Bees
+SO IN SILICO BEES
+LA English
+DT Article; Book Chapter
+DE QSAR model; Acute toxicity; Artificial neural network; Support vector
+   machine
+ID DEVELOPMENTAL TOXICITY; ORGANIC-MOLECULES; APIS; INSECTICIDES;
+   DERIVATIVES; PREDICTION; HONEYBEES; CHEMICALS; ADULT
+AB Quantitative structure-activity relationship (QSAR) models are increasingly used in toxicology, ecotoxicology, and pharmacology for predicting the activity of organic molecules from their physicochemical properties and/or their structural characteristics. The available congeneric and noncongeneric QSAR models used to estimate the acute toxicity of pesticides to honey bees were critically analyzed. From the available data, new models were also computed from linear and nonlinear methods for comparison purposes. Generally, these models provided better prediction results than those published in the literature. The advantages and limitations of these modeling tools are discussed.
+C1 CTIS, Rillieux La Pape, France.
+RP Devillers, J (corresponding author), CTIS, Rillieux La Pape, France.
+NR 64
+TC 1
+Z9 1
+U1 0
+U2 13
+PU CRC PRESS-TAYLOR & FRANCIS GROUP
+PI BOCA RATON
+PA 6000 BROKEN SOUND PARKWAY NW, STE 300, BOCA RATON, FL 33487-2742 USA
+BN 978-1-4665-1788-2; 978-1-4665-1787-5
+PY 2014
+BP 135
+EP 152
+D2 10.1201/b16453
+PG 18
+WC Entomology; Zoology
+WE Book Citation Index – Science (BKCI-S)
+SC Entomology; Zoology
+GA BC7EN
+UT WOS:000354794800007
+OA Green Submitted, Green Published, hybrid
+DA 2024-04-01
+ER
+
+EF

@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, RS
+   Meng, ZY
+   Sun, W
+   Wu, RY
+   Jia, M
+   Yan, S
+   Tian, SN
+   Zhu, WT
+   Zhou, ZQ
+AF Li, Ruisheng
+   Meng, Zhiyuan
+   Sun, Wei
+   Wu, Ruoyue
+   Jia, Ming
+   Yan, Sen
+   Tian, Sinuo
+   Zhu, Wentao
+   Zhou, Zhiqiang
+TI Bioaccumulation and toxic effects of penconazole in earthworms (Eisenia
+   fetida) following soil exposure
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Penconazole; Earthworm; Bioaccumulation; Oxidative stress; Metabolites
+ID SUBLETHAL CONCENTRATIONS; RESPONSES; FOETIDA; METABOLOMICS; METABOLISM;
+   H-1-NMR
+AB As an agricultural fungicide, penconazole (PEN) is widely used and has adverse effects on various organisms. In order to evaluate the ecological safety risks of PEN, the bioaccumulation and toxic effects of PEN in earthworms were studied. Specifically, the results show that the biota-sediment accumulation factor (BSAF) of PEN in earthworms reaches its maximum within 1 day, and then decreases slowly. It reached its lowest value after 14 days of PEN exposure and then rose again. In addition, oxidative stress and metabolic disorder of the earthworm with PEN exposure were assessed. After PEN exposure, the related indicators of oxidative stress involved in the activities of SOD and CAT and the contents of GSH and MDA all changed significantly in earthworms. Moreover, metabolomics analysis of earthworms showed disturbed metabolic profiles following PEN exposure. Respectively, PEN exposure significantly altered the relative abundances of 14 metabolites in earthworms. In general, exposure to PEN caused oxidative stress and metabolic profile disorders of earthworms. The results of this study will be helpful for further evaluation of soil ecological security of PEN.
+C1 [Li, Ruisheng; Meng, Zhiyuan; Sun, Wei; Wu, Ruoyue; Jia, Ming; Yan, Sen; Tian, Sinuo; Zhu, Wentao; Zhou, Zhiqiang] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Zhou, ZQ (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Meng, Zhiyuan/AFU-9894-2022; Zhu, Wentao/O-8964-2019; Zhou,
+   Zhiqiang/HIR-4954-2022; zhou, zhou/HPE-9525-2023
+OI Meng, Zhiyuan/0000-0003-4352-8561; Zhu, Wentao/0000-0001-6371-7998; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   Young Elite Scientists Sponsorship Program by CAST
+FX The authors received financial support from the National Key Research
+   and Development Program of China (2016YFD0200202) and the Young Elite
+   Scientists Sponsorship Program by CAST.
+NR 32
+TC 10
+Z9 10
+U1 7
+U2 111
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD OCT
+PY 2020
+VL 27
+IS 30
+BP 38056
+EP 38063
+DI 10.1007/s11356-020-09815-9
+EA JUL 2020
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA NM3DR
+UT WOS:000545564000004
+PM 32621186
+DA 2024-03-20
+ER
+
+EF

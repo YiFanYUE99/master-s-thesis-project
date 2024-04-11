@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wei, W
+   Li, YX
+   Huang, T
+AF Wei, Wei
+   Li, Yixue
+   Huang, Tao
+TI Using Machine Learning Methods to Study Colorectal Cancer Tumor
+   Micro-Environment and Its Biomarkers
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+LA English
+DT Article
+DE colorectal cancer; machine learning; feature selection; biomarker;
+   interpretable machine learning
+ID FEATURE-SELECTION; SUBCELLULAR-LOCALIZATION; GENE; PROTEINS; SUBTYPES;
+   PACKAGE; BORUTA
+AB Colorectal cancer (CRC) is a leading cause of cancer deaths worldwide, and the identification of biomarkers can improve early detection and personalized treatment. In this study, RNA-seq data and gene chip data from TCGA and GEO were used to explore potential biomarkers for CRC. The SMOTE method was used to address class imbalance, and four feature selection algorithms (MCFS, Borota, mRMR, and LightGBM) were used to select genes from the gene expression matrix. Four machine learning algorithms (SVM, XGBoost, RF, and kNN) were then employed to obtain the optimal number of genes for model construction. Through interpretable machine learning (IML), co-predictive networks were generated to identify rules and uncover underlying relationships among the selected genes. Survival analysis revealed that INHBA, FNBP1, PDE9A, HIST1H2BG, and CADM3 were significantly correlated with prognosis in CRC patients. In addition, the CIBERSORT algorithm was used to investigate the proportion of immune cells in CRC tissues, and gene mutation rates for the five selected biomarkers were explored. The biomarkers identified in this study have significant implications for the development of personalized therapies and could ultimately lead to improved clinical outcomes for CRC patients.
+C1 [Wei, Wei; Li, Yixue; Huang, Tao] Univ Chinese Acad Sci, Chinese Acad Sci, Shanghai Inst Nutr & Hlth, Biomed Big Data Ctr, Shanghai 200031, Peoples R China.
+   [Li, Yixue] Univ Chinese Acad Sci, Hangzhou Inst Adv Study, Sch Life Sci, Key Lab Syst Hlth Sci Zhejiang Prov, Hangzhou 310024, Peoples R China.
+   [Li, Yixue] Guangzhou Lab, Guangzhou 510005, Peoples R China.
+   [Li, Yixue] Shanghai Jiao Tong Univ, Sch Life Sci & Biotechnol, Shanghai 200240, Peoples R China.
+   [Li, Yixue] Fudan Univ, Collaborat Innovat Ctr Genet & Dev, Shanghai 200433, Peoples R China.
+C3 Chinese Academy of Sciences; University of Chinese Academy of Sciences,
+   CAS; Shanghai Institute of Nutrition & Health, CAS; Chinese Academy of
+   Sciences; University of Chinese Academy of Sciences, CAS; Guangzhou
+   Laboratory; Shanghai Jiao Tong University; Fudan University
+RP Li, YX; Huang, T (corresponding author), Univ Chinese Acad Sci, Chinese Acad Sci, Shanghai Inst Nutr & Hlth, Biomed Big Data Ctr, Shanghai 200031, Peoples R China.; Li, YX (corresponding author), Univ Chinese Acad Sci, Hangzhou Inst Adv Study, Sch Life Sci, Key Lab Syst Hlth Sci Zhejiang Prov, Hangzhou 310024, Peoples R China.; Li, YX (corresponding author), Guangzhou Lab, Guangzhou 510005, Peoples R China.; Li, YX (corresponding author), Shanghai Jiao Tong Univ, Sch Life Sci & Biotechnol, Shanghai 200240, Peoples R China.; Li, YX (corresponding author), Fudan Univ, Collaborat Innovat Ctr Genet & Dev, Shanghai 200433, Peoples R China.
+EM weiwei2020@sibs.ac.cn; yxli@sibs.ac.cn; huangtao@sibs.ac.cn
+RI Liu, Zhihao/JUF-7651-2023; Huang, Tao/IQU-9175-2023; Li,
+   YiXue/JRW-6306-2023; li, jixiang/JXN-7599-2024
+OI Huang, Tao/0000-0002-7290-440X; 
+FU Strategic Priority Research Program of Chinese Academy of Sciences
+   [XDB38050200, XDA26040304]; National Key Ramp;D Program of China
+   [2022YFF1203202, 2018YFC2000205]; Self-supporting Program of Guangzhou
+   Laboratory [SRPG22-007]
+FX This work was supported by Strategic Priority Research Program of
+   Chinese Academy of Sciences (XDB38050200, XDA26040304), National Key R&D
+   Program of China (2022YFF1203202, 2018YFC2000205) and Self-supporting
+   Program of Guangzhou Laboratory (SRPG22-007).
+NR 82
+TC 1
+Z9 1
+U1 10
+U2 13
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-6596
+EI 1422-0067
+J9 INT J MOL SCI
+JI Int. J. Mol. Sci.
+PD JUL
+PY 2023
+VL 24
+IS 13
+AR 11133
+DI 10.3390/ijms241311133
+PG 25
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA M6GG9
+UT WOS:001031175600001
+PM 37446311
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

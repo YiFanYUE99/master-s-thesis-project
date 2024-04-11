@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Viganò, EL
+   Ballabio, D
+   Roncaglioni, A
+AF Vigano, Edoardo Luca
+   Ballabio, Davide
+   Roncaglioni, Alessandra
+TI Artificial Intelligence and Machine Learning Methods to Evaluate
+   Cardiotoxicity following the Adverse Outcome Pathway Frameworks
+SO TOXICS
+LA English
+DT Article
+DE in silico models; artificial intelligence; machine learning;
+   new-approach methodologies (NAMs); toxicological endpoints; quantitative
+   structure-activity relationship (QSAR); adverse outcome pathway (AOP)
+ID PREDICTION; SMOTE
+AB Cardiovascular disease is a leading global cause of mortality. The potential cardiotoxic effects of chemicals from different classes, such as environmental contaminants, pesticides, and drugs can significantly contribute to effects on health. The same chemical can induce cardiotoxicity in different ways, following various Adverse Outcome Pathways (AOPs). In addition, the potential synergistic effects between chemicals further complicate the issue. In silico methods have become essential for tackling the problem from different perspectives, reducing the need for traditional in vivo testing, and saving valuable resources in terms of time and money. Artificial intelligence (AI) and machine learning (ML) are among today's advanced approaches for evaluating chemical hazards. They can serve, for instance, as a first-tier component of Integrated Approaches to Testing and Assessment (IATA). This study employed ML and AI to assess interactions between chemicals and specific biological targets within the AOP networks for cardiotoxicity, starting with molecular initiating events (MIEs) and progressing through key events (KEs). We explored methods to encode chemical information in a suitable way for ML and AI. We started with commonly used approaches in Quantitative Structure-Activity Relationship (QSAR) methods, such as molecular descriptors and different types of fingerprint. We then increased the complexity of encoders, incorporating graph-based methods, auto-encoders, and character embeddings employed in neural language processing. We also developed a multimodal neural network architecture, capable of considering the complementary nature of different chemical representations simultaneously. The potential of this approach, compared to more conventional architectures designed to handle a single encoder, becomes apparent when the amount of data increases.
+C1 [Vigano, Edoardo Luca; Roncaglioni, Alessandra] Ist Ric Farmacolog Mario Negri IRCSS, Dept Environm Hlth Sci, Lab Environm Toxicol & Chem, I-20156 Milan, Italy.
+   [Ballabio, Davide] Univ Milano Bicocca, Dept Earth & Environm Sci, Milano Chemometr & QSAR Res Grp, I-20126 Milan, Italy.
+C3 University of Milano-Bicocca
+RP Viganò, EL (corresponding author), Ist Ric Farmacolog Mario Negri IRCSS, Dept Environm Hlth Sci, Lab Environm Toxicol & Chem, I-20156 Milan, Italy.
+EM edoardo.vigano@marionegri.it; davide.ballabio@unimib.it;
+   alessandra.roncaglioni@marionegri.it
+RI ballabio, davide/B-7470-2014
+OI ballabio, davide/0000-0002-5748-147X; Vigano, Edoardo
+   Luca/0000-0001-8971-8606
+FU European Union's Horizon 2020 research and innovation program
+FX No Statement Available
+NR 38
+TC 0
+Z9 0
+U1 3
+U2 3
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2305-6304
+J9 TOXICS
+JI Toxics
+PD JAN
+PY 2024
+VL 12
+IS 1
+AR 87
+DI 10.3390/toxics12010087
+PG 22
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA GF4A4
+UT WOS:001151225300001
+PM 38276722
+OA gold, Green Published
+DA 2024-04-06
+ER
+
+EF

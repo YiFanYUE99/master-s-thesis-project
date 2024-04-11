@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Parinet, J
+   Makni, Y
+   Diallo, T
+   Guérin, T
+AF Parinet, Julien
+   Makni, Yassine
+   Diallo, Thierno
+   Guerin, Thierry
+TI Liquid chromatographic retention time prediction models to secure and
+   improve the feature annotation process in high-resolution mass
+   spectrometry
+SO TALANTA
+LA English
+DT Article
+DE QSRR; Pesticides; Annotation; Methodology; LC-HRMS
+ID EMERGING CONTAMINANTS; SUSPECT; TOOL
+AB The development of quantitative structure-retention relationship (QSRR) models has, until recently, required an adequate selection of molecular descriptors necessarily obtained based on a known chemical structure. However, these complex descriptors are not always available nor calculable when the high-resolution mass spectrometry (HRMS) annotation process is underway. Depending on the level of annotation, many structures or even various molecular formulas could be candidates. To secure and improve the annotation process and to save time, a QSRR model (using only 0D molecular descriptors) to predict retention times in reverse-phase liquid chromatography (RPLC) based on the molecular formula was developed, and a general QSRR annotation-based methodology was also proposed.
+C1 [Parinet, Julien; Makni, Yassine; Diallo, Thierno] ANSES, Lab Food Safety, F-94701 Maisons Alfort, France.
+   [Guerin, Thierry] ANSES, Strategy & Programmes Dept, F-94701 Maisons Alfort, France.
+C3 Agence Nationale de Securite Sanitaire de l'Alimentation, de
+   l'Environnement du Travail (ANSES); Laboratoire de Securite Aliments;
+   Agence Nationale de Securite Sanitaire de l'Alimentation, de
+   l'Environnement du Travail (ANSES)
+RP Parinet, J (corresponding author), ANSES, Lab Food Safety, F-94701 Maisons Alfort, France.
+EM julien.parinet@anses.fr
+OI GUERIN, Thierry/0000-0003-4060-6616
+FU French National Research Agency (ANR) [ANR-19-CE21-0002]
+FX This work was funded by the French National Research Agency (ANR) ,
+   AlimOmic project: grant ANR-19-CE21-0002.
+NR 16
+TC 1
+Z9 1
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0039-9140
+EI 1873-3573
+J9 TALANTA
+JI Talanta
+PD JAN 15
+PY 2024
+VL 267
+AR 125214
+DI 10.1016/j.talanta.2023.125214
+EA SEP 2023
+PG 5
+WC Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA T9UW9
+UT WOS:001081373300001
+PM 37734288
+DA 2024-04-01
+ER
+
+EF

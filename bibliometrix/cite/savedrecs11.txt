@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, DZ
+   Wang, XR
+   Zhang, P
+   Wang, Y
+   Zhang, RK
+   Yan, J
+   Zhou, ZG
+   Zhu, WT
+AF Wang, Dezhen
+   Wang, Xinru
+   Zhang, Ping
+   Wang, Yao
+   Zhang, Renke
+   Yan, Jin
+   Zhou, Zhigiang
+   Zhu, Wentao
+TI The fate of technical-grade chlordane in mice fed a high-fat diet and
+   its roles as a candidate obesogen
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Technical chlordane; Enantiomer; H-1 NMR; Tryptophan; High-fat diet
+ID PERSISTENT ORGANIC POLLUTANTS; METABOLIC SYNDROME; ORGANOCHLORINE
+   PESTICIDES; MASS-SPECTROMETRY; LIVER-DISEASE; EXPOSURE; OBESITY;
+   ENANTIOMERS; RATS; ACCUMULATION
+AB Epidemiological studies indicate that exposure to persistent organic pollutants is positively associated with the prevalence of obesity. To delineate the potential role of technical-grade chlordane in obesity development, chlordane metabolism and chlordane-induced metabolic changes were investigated in mice fed high-fat diet (HFD) over a 6-week period. Gas chromatography electron capture detector analysis showed that HFD induced more accumulation of technical chlordane in the liver, muscle and adipose tissue. The enantioselectivities of oxychlordane in selected tissues were also influenced by HFD. H-1 NMR-based liver metabolome indicated that technical chlordane can enhance the metabolic alterations induced by HFD. Compared with the low-fat diet (LFD) group, no differences were observed in the LFD + chlordane group. However, as many as 16 metabolites were significantly different between the HFD group and HFD + chlordane group. Moreover, compared to the LFD + chlordane group, the abundances of 24 metabolites significantly increased or decreased in the HFD + chlordane group. Twenty metabolites were altered in the HFD group compared to the LFD group. Tryptophan profiling suggested that both chlordane and HFD can disturb tryptophan catabolism. These interactions between technical chlordane and HFD suggest that technical chlordane is a candidate obesogen. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Wang, Dezhen; Wang, Xinru; Zhang, Ping; Wang, Yao; Zhang, Renke; Yan, Jin; Zhou, Zhigiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Yuanmingyuan West Rd 2, Beijing 100193, PR, Peoples R China.
+C3 China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Yuanmingyuan West Rd 2, Beijing 100193, PR, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Wang, Dezhen/K-2489-2016; Zhu, Wentao/O-8964-2019; Yan,
+   Jin/AAE-5637-2022
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; Wang,
+   Xinru/0000-0002-8340-243X
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21207158, 21337005]
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202) and the
+   National Natural Science Foundation of China (21207158, 21337005).
+NR 68
+TC 11
+Z9 12
+U1 0
+U2 43
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD MAR
+PY 2017
+VL 222
+BP 532
+EP 542
+DI 10.1016/j.envpol.2016.11.028
+PG 11
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA EM5OJ
+UT WOS:000395360900061
+PM 28041837
+DA 2024-03-20
+ER
+
+EF

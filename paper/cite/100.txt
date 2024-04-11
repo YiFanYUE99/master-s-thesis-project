@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Thao, L
+   Thien, ND
+   Bach, NC
+   Cuong, DD
+   Anh, L
+   Khanh, DG
+   Hieu, NH
+   Minh, NTH
+AF Thao, Le Quang
+   Thien, Nguyen Duy
+   Bach, Ngo Chi
+   Cuong, Duong Duc
+   Anh, Le Duc
+   Khanh, Dang Gia
+   Hieu, Nguyen Ha Minh
+   Minh, Nguyen Trieu Hoang
+TI PesViT: a deep learning approach for detecting misuse of pesticides on
+   farm
+SO JOURNAL OF SUPERCOMPUTING
+LA English
+DT Article
+DE Misuse of pesticides on farm; MobileViT; PesViT; Self-supervised
+   learning; Momentum contract
+AB Agricultural production utilizes pesticides as a crucial factor in protecting crops to supplement the food supply amidst today's increasing demand. Owing to significant financial and moral benefits, gardeners continue to tolerate pesticide usage, which, to a certain extent, can adversely affect farming operations. Our goal is to employ deep machine learning algorithms to detect pesticide misuse activities on farms using easily accessible surveillance cameras or video clips. This information could provide vital data for promoting the safe use of vegetables and pesticides for consumers, as well as enabling authorities to swiftly evaluate the quality of agricultural products. We developed PesViT as our primary model, which is based on end-to-end convolutional model optimization in MobileViT using Ghost blocks. We then applied contrastive self-supervised learning method with momentum contrast technique (SSL-MoCo). This process will utilize our unlabeled data sets with appropriate adjustments to the hyperparameters for the most accurate and fastest outputs. Current data collected on farms at various times of the day have shown that the model's efficiency reaches 95.36%, compared to the original MobileViT's 91.25% or MobileNetV2's 88.75%. Notably, the experimental build performs well on limited-configuration computers, suggesting a promising future for the widespread application of the model.
+C1 [Thao, Le Quang; Thien, Nguyen Duy; Bach, Ngo Chi] VNU Univ Sci, Fac Phys, Hanoi 100000, Vietnam.
+   [Thao, Le Quang; Thien, Nguyen Duy; Bach, Ngo Chi; Cuong, Duong Duc] Vietnam Natl Univ, Hanoi 100000, Vietnam.
+   [Anh, Le Duc; Khanh, Dang Gia; Hieu, Nguyen Ha Minh] HUS High Sch Gifted Students, VNU, Hanoi 100000, Vietnam.
+   [Minh, Nguyen Trieu Hoang] TH Sch, Hanoi 100000, Vietnam.
+C3 Vietnam National University Hanoi; Vietnam National University Hanoi
+RP Thao, L (corresponding author), VNU Univ Sci, Fac Phys, Hanoi 100000, Vietnam.; Thao, L (corresponding author), Vietnam Natl Univ, Hanoi 100000, Vietnam.
+EM thaolq@hus.edu.vn
+RI Le, Thao Quang/HHM-9760-2022
+OI Le, Thao Quang/0000-0001-7232-6702
+NR 50
+TC 2
+Z9 2
+U1 7
+U2 12
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0920-8542
+EI 1573-0484
+J9 J SUPERCOMPUT
+JI J. Supercomput.
+PD SEP
+PY 2023
+VL 79
+IS 14
+BP 15790
+EP 15813
+DI 10.1007/s11227-023-05302-3
+EA APR 2023
+PG 24
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA O9LE6
+UT WOS:000974340000006
+DA 2024-04-07
+ER
+
+EF

@@ -1,0 +1,73 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jia, M
+   Teng, MM
+   Tian, SN
+   Yan, J
+   Meng, ZY
+   Yan, S
+   Li, RS
+   Zhou, ZQ
+   Zhu, WT
+AF Jia, Ming
+   Teng, Miaomiao
+   Tian, Sinuo
+   Yan, Jin
+   Meng, Zhiyuan
+   Yan, Sen
+   Li, Ruisheng
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Developmental toxicity and neurotoxicity of penconazole enantiomers
+   exposure on zebrafish (<i>Danio rerio</i>)
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Penconazole; Enantiomer; Zebrafish; Developmental toxicity;
+   Neurotoxicity
+ID BIOACCUMULATION; DIFENOCONAZOLE; RESPONSES
+AB Penconazole is a widely used chiral triazole bactericide that may adversely affect the environment. It contains two corresponding enantiomers and there may be differences in toxicity between the isomers. Therefore, in this study, we exposed zebrafish embryos to different concentrations of the penconazole enantiomer to study the developmental toxicity and neurotoxicity of penconazole on zebrafish and the difference in toxicity between enantiomers. The results showed that penconazole exposure caused adverse effects on zebrafish embryos, such as autonomous motor abnormalities, heart rate slowing, and increased deformity, resulting in significant developmental toxicity. Meanwhile, also caused the zebra fish larvae to slow movement, the neurotransmitter content and nervous system related gene expression significantly changed, which proved that penconazole also caused neurotoxicity to zebrafish. Interestingly, our results also clearly show that (+)-penconazole is significantly more toxic to zebrafish than (-)-penconazole at the same concentration, whether it is developmental toxicity or neurotoxicity, which suggests that we should focus on (+)-penconazole more when conducting toxicological studies on penconazole. (c) 2020 Elsevier Ltd. All rights reserved.
+C1 [Jia, Ming; Tian, Sinuo; Yan, Jin; Meng, Zhiyuan; Yan, Sen; Li, Ruisheng; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao] China Agr Univ, Coll Sci, Beijing, Peoples R China.
+C3 China Agricultural University; China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Dept Appl Chem, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; Zhou,
+   Zhiqiang/HIR-4954-2022; Yan, Jin/AAE-5637-2022; Meng,
+   Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   National Natural Science Foundation of China [21337005]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202) and the National Natural Science
+   Foundation of China (Contract grant number: 21337005).
+NR 26
+TC 32
+Z9 37
+U1 34
+U2 228
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD DEC
+PY 2020
+VL 267
+AR 115450
+DI 10.1016/j.envpol.2020.115450
+PG 8
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA OZ7CC
+UT WOS:000595078600005
+PM 32892009
+DA 2024-03-20
+ER
+
+EF

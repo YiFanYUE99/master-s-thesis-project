@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang Yuliang
+   Zhang Shengshu
+   Zhao Dazhou
+Z2 李钦玲
+   杨玉良
+   张升书
+TI DFT study on the structure of aromatic derivatives and its toxicity to
+   fathead minnows
+Z1 芳烃衍生物的结构与黑呆头鱼毒性的密度泛函理论研究
+Z3 陕西师范大学学报. 自然科学版
+SO Journal of Shaanxi Normal University. Natural Science Edition
+VL 44
+IS 6
+BP 43
+EP 47
+AR 1672-4291(2016)44:6<43:FTYSWD>2.0.TX;2-2
+PY 2016
+LA Chinese
+DT Article
+DE aromatic derivatives; fathead minnows; the acute toxicity; quantitative
+   structure-activity relationships (QSAR); density functional theory(DFT)
+Z5 芳烃衍生物; 黑呆头鱼; 急性毒性; 定量构效关系; 密度泛函理论
+AB 92 substituted aromatic compounds (including alkyl-benzenes,
+   nitrobenzene, phenols and anilines) was calculated and 12 quantum
+   chemical parameters were obtained using DFT-B3LYP/6-311G~(**).Multiple
+   linear regression method was used to investigate toxic effect of
+   substituted aromatic compounds on fathead minnows. A best equation
+   including four parameters was obtained. The results showed that the
+   correlation coefficient of MLR prediction model is 0.959.The acute
+   toxicities of the seven compounds have been forecasted by using this
+   model. Based on the analysis of the immanent mechanism related to the
+   interaction between structure of compounds and corresponding toxicity,
+   the molecular polarizability and electronic effect of the substituent
+   groups in benzene are main factors to influence the toxicity.
+Z4 运用密度泛函理论(density functional
+   theory,DFT)方法,在B3LYP/6-311G~(**)基组水平下,全优化计算了92个芳烃衍生物的分子几何和电性结构参数;将计算得到的1
+   2个量子化学参数和1个结构参数作为描述符引入QSAR研究,采用多元逐步回归方法筛选了4个量化参数,建立了取代芳烃类化合物(包括脂烷基苯、硝基苯、
+   卤代物、酚和芳胺等)对黑呆头鱼毒性的预测模型,相关系数R=0.959,模型通过了相关性检验,具有良好的稳定性和预测能力。应用该模型对其中7个未知
+   毒性的化合物进行了预测;对该系列化合物结构与毒性作用的内在机制进行分析认为,分子极化率的大小和取代基的电子效应是影响毒性的主要因素。
+C1 Yang Yuliang, College of Chemistry and Chemical Engineering, Qinghai
+   Nationalities University, Xining, Qinghai 810007, China.
+   Zhang Shengshu, College of Chemistry and Chemical Engineering, Qinghai
+   Nationalities University, Xining, Qinghai 810007, China.
+   Zhao Dazhou, College of Chemistry and Chemical Engineering, Qinghai
+   Nationalities University, Xining, Qinghai 810007, China.
+Z6 李钦玲, 青海民族大学化学化工学院, 西宁, 青海 810007, 中国.
+   杨玉良, 青海民族大学化学化工学院, 西宁, 青海 810007, 中国.
+   张升书, 青海民族大学化学化工学院, 西宁, 青海 810007, 中国.
+EM qhmdlql@126.com
+Z7 qhmdlql@126.com
+NR 14
+Z8 0
+Z9 0
+U1 0
+U2 0
+FU 国家自然科学基金
+SN 1672-4291
+PG 5
+SC Chemistry (provided by Clarivate Analytics)
+UT CSCD:5862030
+DA 2024-04-08
+ER
+
+EF

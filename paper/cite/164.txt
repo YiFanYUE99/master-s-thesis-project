@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al-Akwaa, FM
+   Yunits, B
+   Huang, SJ
+   Alhajaji, H
+   Garmire, LX
+AF Al-Akwaa, Fadhl M.
+   Yunits, Breck
+   Huang, Sijia
+   Alhajaji, Hassam
+   Garmire, Lana X.
+TI Lilikoi: an R package for personalized pathway-based classification
+   modeling using metabolomics data
+SO GIGASCIENCE
+LA English
+DT Article
+DE metabolomics; pathway; classification; feature selection; machine
+   learning; mapping
+ID BIOMARKER DISCOVERY; CANCER; LEVEL; TOOL
+AB Lilikoi (the Hawaiian word for passion fruit) is a new and comprehensive R package for personalized pathway-based classification modeling using metabolomics data. Four basic modules are presented as the backbone of the package: feature mapping module, which standardizes the metabolite names provided by users and maps them to pathways; dimension transformation module, which transforms the metabolomic profiles to personalized pathway-based profiles using pathway deregulation scores; feature selection module, which helps to select the significant pathway features related to the disease phenotypes; and classification and prediction module, which offers various machine learning classification algorithms.
+C1 [Al-Akwaa, Fadhl M.; Garmire, Lana X.] Dept Computat Med & Bioinformat, Bldg 520,1600 Huron Pkwy, Ann Arbor, MI 48109 USA.
+   [Yunits, Breck; Huang, Sijia; Alhajaji, Hassam] Univ Hawaii, Ctr Canc, Dept Epidemiol, 701 Ilalo St, Honolulu, HI 96813 USA.
+   [Huang, Sijia] Univ Hawaii Manoa, Mol Biol & Bioengn Grad Program, Honolulu, HI 96822 USA.
+C3 University of Hawaii System; Cancer Research Center of Hawaii;
+   University of Hawaii System; University of Hawaii Manoa
+RP Garmire, LX (corresponding author), Dept Computat Med & Bioinformat, Bldg 520,1600 Huron Pkwy, Ann Arbor, MI 48109 USA.
+EM lgarmire@med.umich.edu
+RI Alakwaa, Fadhl/AAH-3518-2020
+FU National Institute of Enviromental Health Sciences (NIEHS) through
+   trans-NIH Big Data to Knowledge (BD2K) initiative [K01ES025434];
+   National Institute of Health/National Institue of General Medical
+   Sciences (NIH/NIGMS) [P20 COBRE GM103457]; National Library of Medicine
+   (NLM) [R01 LM012373]; Eunice Kennedy Shriver National Institue of Health
+   (NICHD) [R01 HD084633]
+FX This research was supported by grants K01ES025434 awarded by National
+   Institute of Enviromental Health Sciences (NIEHS) through funds provided
+   by the trans-NIH Big Data to Knowledge (BD2K) initiative
+   (www.bd2k.nih.gov), P20 COBRE GM103457 awarded by National Institute of
+   Health/National Institue of General Medical Sciences (NIH/NIGMS), R01
+   LM012373 awarded by National Library of Medicine (NLM), R01 HD084633
+   awarded by Eunice Kennedy Shriver National Institue of Health (NICHD) to
+   L.X.G.
+NR 31
+TC 18
+Z9 18
+U1 0
+U2 11
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 2047-217X
+J9 GIGASCIENCE
+JI GigaScience
+PD DEC 10
+PY 2018
+VL 7
+IS 12
+AR giy136
+DI 10.1093/gigascience/giy136
+PG 9
+WC Biology; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Science & Technology - Other
+   Topics
+GA HI9HS
+UT WOS:000456766700001
+PM 30535020
+OA gold, Green Published, Green Submitted
+DA 2024-04-08
+ER
+
+EF

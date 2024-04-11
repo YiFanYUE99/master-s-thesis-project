@@ -1,0 +1,90 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Filippi, I
+   Lucero, P
+   Bonansea, RI
+   Lerda, D
+   Butinof, M
+   Fernandez, RA
+   Wunderlin, DA
+   Ame, MV
+   Muñoz, SE
+AF Filippi, Iohanna
+   Lucero, Patricia
+   Bonansea, Rocio, I
+   Lerda, Daniel
+   Butinof, Mariana
+   Fernandez, Ricardo A.
+   Wunderlin, Daniel A.
+   Ame, Maria, V
+   Munoz, Sonia E.
+TI Validation of exposure indexes to pesticides through the analysis of
+   exposure and effect biomarkers in ground pesticide applicators from
+   Argentina
+SO HELIYON
+LA English
+DT Article
+DE Exposure indexes; Occupational health; Cholinesterases biomarkers;
+   Genotoxicity biomarkers; Biomonitoring
+ID ORGANOCHLORINE PESTICIDES; HUMAN SERUM; POLYCHLORINATED-BIPHENYLS;
+   GAS-CHROMATOGRAPHY; HUMAN BLOOD; OCCUPATIONAL-EXPOSURE;
+   GENERAL-POPULATION; ADULT-POPULATION; DNA-DAMAGE; PLASMA
+AB The characterization of the population exposed to pesticides and the use of effective biomarkers to evaluate potential health effects are determinant to identify vulnerable groups, understanding the causality of diverse pathologies and propose prevention policies. This is particularly important in countries where intensive agricultural practices had an explosive expansion in last decades.
+   The aim of this study was assessing the usefulness of two exposure indexes questionnaire-based: Intensity Level of the pesticide Exposure (ILE) and Cumulative Exposure Index (CEI) and their scales, in terrestrial applicators of pesticide from the Province of Cordoba (Argentina). The analysis was performed contrasting ILE and CEI results with perceived symptomatology, in addition to effect and exposure biomarkers. A cross-sectional study was designed to compare pesticides body burdens and effect biomarkers between subjects occupationally (OE) and non-occupationally exposed (NOE) to pesticides. Prevalence of perceived symptomatology and genotoxicity damage was higher in the OE group. The exposure condition was the only variable explaining these differences. Significant associations were found between CEI and neurologic symptomatology (p < 0.05) and between ILE and plasmatic cholinesterase (p < 0.1). However, residues of HCB, beta-HCH, alpha-endosulfan, pp'DDE, endrin, beta-endosulfan, pp'DDT, endosulfan sulfate and mirex were found in blood samples from both groups. To our knowledge, this is the first report on pesticides body burdens in occupational exposure settings in Argentina. So far, our current results indicate that the occupational condition affects the health of the workers. Significant associations found between symptomatology and biomarkers with scales of CEI and ILE suggest their usefulness to verify different levels of exposure. Further research is necessary to propose these indexes as an affordable tool for occupational health surveillance in areas with difficult access to health care centres.
+C1 [Filippi, Iohanna; Ame, Maria, V] Consejo Nacl Invest Cient & Tecn, CIBICI Ctr Invest Bioquim Clin & Inmunol, Ciudad Univ, RA-5000 Cordoba, Argentina.
+   [Filippi, Iohanna; Ame, Maria, V] Univ Nacl Cordoba, Fac Ciencias Quim, Dept Bioquim Clin, Ciudad Univ, RA-5000 Cordoba, Argentina.
+   [Lucero, Patricia] Ctr Excelencia Prod & Proc Cordoba CEPROCOR, X5164, Cordoba, Argentina.
+   [Bonansea, Rocio, I; Wunderlin, Daniel A.] Consejo Nacl Invest Cient & Tecn, ICYTAC Inst Ciencia & Tecnol Alimentos Cordoba, Ciudad Univ, RA-5000 Cordoba, Argentina.
+   [Bonansea, Rocio, I; Wunderlin, Daniel A.] Univ Nacl Cordoba, Fac Ciencias Quim, Dept Quim Organ, Ciudad Univ, RA-5000 Cordoba, Argentina.
+   [Lerda, Daniel; Fernandez, Ricardo A.] Univ Catolica Cordoba, Fac Ciencias Salud, RA-5000 Cordoba, Argentina.
+   [Butinof, Mariana] Univ Nacl Cordoba, Fac Ciencias Med, Escuela Nutr, RA-5000 Cordoba, Argentina.
+   [Munoz, Sonia E.] Consejo Nacl Invest Cient & Tecn, INICSA Inst Invest Ciencias Salud, Ciudad Univ, RA-5000 Cordoba, Argentina.
+   [Munoz, Sonia E.] Univ Nacl Cordoba, Fac Ciencias Med, Ciudad Univ, RA-5000 Cordoba, Argentina.
+C3 Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);
+   National University of Cordoba; Consejo Nacional de Investigaciones
+   Cientificas y Tecnicas (CONICET); National University of Cordoba;
+   Catholic University of Cordoba; National University of Cordoba; Consejo
+   Nacional de Investigaciones Cientificas y Tecnicas (CONICET); National
+   University of Cordoba
+RP Ame, MV (corresponding author), Consejo Nacl Invest Cient & Tecn, CIBICI Ctr Invest Bioquim Clin & Inmunol, Ciudad Univ, RA-5000 Cordoba, Argentina.; Ame, MV (corresponding author), Univ Nacl Cordoba, Fac Ciencias Quim, Dept Bioquim Clin, Ciudad Univ, RA-5000 Cordoba, Argentina.; Muñoz, SE (corresponding author), Consejo Nacl Invest Cient & Tecn, INICSA Inst Invest Ciencias Salud, Ciudad Univ, RA-5000 Cordoba, Argentina.; Muñoz, SE (corresponding author), Univ Nacl Cordoba, Fac Ciencias Med, Ciudad Univ, RA-5000 Cordoba, Argentina.
+EM valeria.ame@unc.edu.ar; smunoz@fcm.unc.edu.ar
+RI Wunderlin, Daniel A./A-2195-2014; Muñoz, Sonia/ADT-8576-2022; Butinof,
+   Mariana/ITT-1704-2023
+FU Agencia Nacional de Promocion Cientifica y Tecnica (FONCyT) [PICT
+   2015-1784, PICT 2018-2505]; Secretaria de Ciencia y Tecnica (SECyT, UNC)
+   [411/2018]; Instituto Nacional de Cancer [RM 1995/15]; CONICET
+FX This work was supported by the Agencia Nacional de Promoci~on Cientifica
+   y Tecnica (FONCyT-PICT 2015-1784; PICT 2018-2505), Secretaria de Ciencia
+   y Tecnica (SECyT, UNC, Res. 411/2018) and Instituto Nacional de Cancer
+   (RM 1995/15).; Iohanna Filippi was supported by CONICET.
+NR 68
+TC 2
+Z9 2
+U1 1
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD SEP
+PY 2021
+VL 7
+IS 9
+AR e07921
+DI 10.1016/j.heliyon.2021.e07921
+EA SEP 2021
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA WE4MQ
+UT WOS:000705602200040
+PM 34522813
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

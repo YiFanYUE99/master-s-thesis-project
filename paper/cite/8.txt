@@ -1,0 +1,54 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Ruiz, IL
+   Gómez-Nieto, MA
+AF Ruiz, Irene Luque
+   Gomez-Nieto, Miguel Angel
+BE Simos, TE
+   Maroulis, G
+TI A Java library for the calculation of molecular descriptors
+SO COMPUTATION IN MODERN SCIENCE AND ENGINEERING VOL 2, PTS A AND B
+SE AIP CONFERENCE PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT International Conference on Computational Methods in Science and
+   Engineering
+CY SEP 25-30, 2007
+CL Corfu, GREECE
+SP European Soc Computat Methods Sci & Engn, Minist Natl Educ & Religious Affairs, E4 Comp Engn
+DE molecular descriptors; NMC; Java library; QSAR; CDK
+AB In this paper, we describe a Java free tool for the calculation of molecular descriptors. Molecular descriptors are invariants extracted from graphs (molecular graphs) representing chemical compounds, and they are used for the development of QSAR models for the prediction of properties and activities of chemical compounds and drugs. The Molecular Descriptors (MDC) library developed is based on the open source code CDK (Chemical Development Kit) extending the scope of this software to the calculation of a large number of molecular descriptors. The large number of molecular descriptors included in MDC makes this library a powerful tool for Computational Chemistry and Chemometric researchers.
+C1 [Ruiz, Irene Luque; Gomez-Nieto, Miguel Angel] Univ Cordoba, Dept Comp & Numer Anal, E-14071 Cordoba, Spain.
+C3 Universidad de Cordoba
+RP Ruiz, IL (corresponding author), Univ Cordoba, Dept Comp & Numer Anal, Campus Rabanales Albert Einstein Bldg, E-14071 Cordoba, Spain.
+RI Ruiz, Indalecio/K-9946-2014; Gomez-Nieto, Miguel Angel/U-2651-2017
+OI Luque Ruiz, Irene/0000-0003-2996-7429; Gomez-Nieto, Miguel
+   Angel/0000-0002-1946-5495
+NR 8
+TC 1
+Z9 1
+U1 1
+U2 3
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0094-243X
+BN 978-0-7354-0476-2
+J9 AIP CONF PROC
+PY 2007
+VL 2
+BP 1347
+EP 1350
+PN A - B
+PG 4
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic; Physics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering; Physics
+GA BHF06
+UT WOS:000252602900331
+DA 2024-04-01
+ER
+
+EF

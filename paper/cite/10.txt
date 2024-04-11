@@ -1,0 +1,60 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lovric, M
+   Molero, JM
+   Kern, R
+AF Lovric, Mario
+   Molero, Jose Manuel
+   Kern, Roman
+TI PySpark and RDKit: Moving towards Big Data in Cheminformatics
+SO MOLECULAR INFORMATICS
+LA English
+DT Article
+DE QSAR; Hadoop; Apache Spark; Python; pandas
+AB The authors present an implementation of the cheminformatics toolkit RDKit in a distributed computing environment, Apache Hadoop. Together with the Apache Spark analytics engine, wrapped by PySpark, resources from commodity scalable hardware can be employed for cheminformatic calculations and query operations with basic knowledge in Python programming and understanding of the resilient distributed datasets (RDD). Three use cases of cheminfomatical computing in Spark on the Hadoop cluster are presented; querying substructures, calculating fingerprint similarity and calculating molecular descriptors. The source code for the PySpark-RDKit implementation is provided. The use cases showed that Spark provides a reasonable scalability depending on the use case and can be a suitable choice for datasets too big to be processed with current low-end workstations.
+C1 [Lovric, Mario; Molero, Jose Manuel; Kern, Roman] Know Ctr, Inffeldgasse 13-6, AT-8010 Graz, Austria.
+   [Lovric, Mario] Srebrnjak Childrens Hosp, Srebrnjak 100, HR-10000 Zagreb, Croatia.
+RP Lovric, M (corresponding author), Know Ctr, Inffeldgasse 13-6, AT-8010 Graz, Austria.; Lovric, M (corresponding author), Srebrnjak Childrens Hosp, Srebrnjak 100, HR-10000 Zagreb, Croatia.
+EM mlovric@know-center.at
+RI Lovrić, Mario/AAS-7160-2021; Kern, Roman/ABG-3805-2020
+OI Lovrić, Mario/0000-0002-3541-9624; Kern, Roman/0000-0003-0202-6100
+FU Austrian COMET Program - Competence Centers for Excellent Technologies
+   under Austrian Federal Ministry of Transport, Innovation and Technology;
+   Austrian Federal Ministry of Economy, Family and Youth; State of Styria
+FX The Know-Center is funded within the Austrian COMET Program - Competence
+   Centers for Excellent Technologies - under the auspices of the Austrian
+   Federal Ministry of Transport, Innovation and Technology, the Austrian
+   Federal Ministry of Economy, Family and Youth and by the State of
+   Styria. COMET is managed by the Austrian Research Promotion Agency FFG.
+NR 13
+TC 43
+Z9 46
+U1 7
+U2 79
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1868-1743
+EI 1868-1751
+J9 MOL INFORM
+JI Mol. Inf.
+PD JUN
+PY 2019
+VL 38
+IS 6
+AR 1800082
+DI 10.1002/minf.201800082
+PG 4
+WC Chemistry, Medicinal; Computer Science, Interdisciplinary Applications;
+   Mathematical & Computational Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Computer Science; Mathematical & Computational
+   Biology
+GA IC2MF
+UT WOS:000470793400005
+PM 30844132
+DA 2024-04-01
+ER
+
+EF

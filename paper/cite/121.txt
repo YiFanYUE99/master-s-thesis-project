@@ -1,0 +1,59 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ray, S
+   Chatterjee, J
+   Ghosh, A
+   Das, S
+AF Ray, Sonali
+   Chatterjee, Jhelam
+   Ghosh, Arindam
+   Das, Susmita
+TI Assessment of shade-unshade condition and subsequently pesticide
+   treatment on first flush tea leaf metabolites through GC/MS based
+   metabolomics approach
+SO COGENT FOOD & AGRICULTURE
+LA English
+DT Article
+DE Metabolomics; first flush; shade-unshade; antioxidant; Thiamethoxam;
+   GC/MS; chemometrics
+ID CAMELLIA-SINENSIS LEAVES; VOLATILE; INSECT; PLANTS
+AB All around the world, tea is one of the most popularly consumed non-alcoholic beverages. Tea is a shade loving shrub. However, how the tea metabolites get changed under shade versus unshade condition and also under shade-pesticide treatment versus unshade-pesticide treatment condition have not been determined and reported yet. So, a metabolomics approach was applied to investigate the shade and pesticide treatment condition of the first flushes of Camellia sinensis L. A GC/MS-based metabolomics approach was established encompassing a homogeneous experimental setup for growth, treatment and sampling of tea leaves and their subsequent data analysis using statistical and chemometric tool. A total of 90 metabolites have been identified and semi-quantified. The chemometric analysis elucidates the changes in important metabolites under shade and unshade conditions and also the effect of thiamethoxam on metabolite profile and their responses on tea bushes from shade and unshade conditions. The antioxidant activity and total antioxidant capacity were also assessed and showed a significant change in activity after pesticide treatment both under shade-unshade conditions. Increase in phenols, amino acids, organic acids, sugar alcohols concentrations when plants exposed to shade than unshade treatment was reported. The results suggest that during pesticide treatment on shaded tea plants there is decrease in many important metabolites (phenolics and organic acids), which impart the major flavor, taste, aroma, and quality of the beverage. The increase in amino acids cope the plants to protect them from chemical pesticide treatments under shade conditions.
+C1 [Ray, Sonali; Ghosh, Arindam] Univ North Bengal, Dept Tea Sci, Tea Chem & Pharmacol Lab, Darjeeling, India.
+   [Chatterjee, Jhelam; Das, Susmita] Univ Calcutta, Dept Bot, Phytochem & Pharmacognosy Lab, Kolkata, India.
+C3 University of North Bengal; University of Calcutta
+RP Das, S (corresponding author), Univ Calcutta, Dept Bot, Phytochem & Pharmacognosy Lab, Kolkata, India.
+EM sonaliray@nbu.ac.in; jhilamc3@gmail.com; susouravipar@gmail.com
+RI Ghosh, Arindam/GNM-5867-2022
+OI Ghosh, Arindam/0000-0001-6142-3160; DAS, SUSMITA/0000-0002-2782-8014
+FU DST-FIST Programme [SR/FST/LS1-459/2010]
+FX GC-MS-based work supported by DST-FIST Programme, Govt. of India [Grant
+   Number:SR/FST/LS1-459/2010] is acknowledged.
+NR 34
+TC 4
+Z9 4
+U1 6
+U2 22
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN 2331-1932
+J9 COGENT FOOD AGR
+JI Cogent Food Agr.
+PD JAN 1
+PY 2021
+VL 7
+IS 1
+AR 1930424
+DI 10.1080/23311932.2021.1930424
+PG 26
+WC Agriculture, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA SL4QX
+UT WOS:000656905100001
+OA gold
+DA 2024-04-07
+ER
+
+EF

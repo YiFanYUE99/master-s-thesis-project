@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cui, Yi-Lin
+   Yu, Xiao-Ping
+   Li, Dan-Ting
+TI Current progress and prospects for future research on the rice pest
+   metabolomes.
+SO Chinese Journal of Applied Entomology
+VL 59
+IS 5
+PS 950-959
+PY 2022
+U1 2
+U2 3
+AB Rice crops are constantly damaged by a variety of pests during
+   cultivation, which greatly affects human food security. Metabonomic data
+   can not only reflect internal physiological and biochemical changes in
+   cells or organisms, but also indicate how these are affected by
+   different factors. This paper reviews progress in research on the
+   metabolomes of rice pests, introduces the main methods used in
+   metabolomics, i.e., nuclear magnetic resonance technology and mass
+   spectrometry chromatography coupling technology, and summarizes the
+   application of metabolomics to rice pest research, including that on
+   pesticide resistance, insect-rice interactions and insect-symbiotic
+   bacteria interactions. The shortcomings of metabolomics in terms of
+   accuracy, sensitivity and resolution are also discussed, as well as
+   prospects for using metabolomics and other combined multi-omics
+   techniques to find novel insecticidal targets, develop new biological
+   pesticides and transgenic resistant rice plants, and other
+   environmentally-friendly methods for the prevention and control of rice
+   pests.
+UT CABI:20220520780
+DT Journal article
+LA Chinese
+C1 Zhejiang Provincial Key Laboratory of Biometrology and Inspection and
+   Quarantine, College of Life Science, China Jiliang University, Hangzhou
+   310018, China
+   Zhejiang Provincial Key Laboratory of Biometrology and Inspection and
+   Quarantine, College of Life Science, China Jiliang University, Hangzhou
+   310018, China
+   Zhejiang Provincial Key Laboratory of Biometrology and Inspection and
+   Quarantine, College of Life Science, China Jiliang University, Hangzhou
+   310018, China
+EM lidanting@cjlu.edu.cn
+PU Institute of Zoology
+PI Beijing, China
+SC Science & Technology - Other Topics; Plant Sciences; Genetics &
+   Heredity; Biochemistry & Molecular Biology; Biotechnology & Applied
+   Microbiology; Agriculture; Zoology; Physiology; Environmental Sciences &
+   Ecology (provided by Clarivate Analytics)
+SN 2095-1353
+CC ZZ900Techniques and Methodology; FF020Plant Breeding and Genetics;
+   ZZ360General Molecular Biology (Discontinued March 2000); WW100;
+   FF005Field Crops (NEW March 2000); FF620Plant Pests (NEW March 2000);
+   YY400Physiology and Biochemistry (Wild Animals) (NEW March 2000);
+   HH100Biological Control
+DE metabolomics; reviews; techniques; metabolomes; insect pests; plant
+   pests; rice; nuclear magnetic resonance; mass spectrometry;
+   chromatography; analytical methods; transgenic plants; biological
+   control agents; proteomics; proteomes; transcriptomics; transcriptomes;
+   arthropod pests; pests; genetically engineered organisms; natural
+   enemies
+OR Oryza sativa; insects; plants
+BD Oryza; Poaceae; Poales; commelinids; monocotyledons; angiosperms;
+   Spermatophyta; plants; eukaryotes; Hexapoda; arthropods; invertebrates;
+   animals
+NR 41 ref.
+DI 10.7679/j.issn.2095-1353.2022.098
+UR http://www.ent-bull.com.cn/viewmulu_en.aspx?qi_id=2379&mid=69616
+UR http://www.ent-bull.com.cn/viewmulu_en.aspx?qi_id=2379&mid=69616
+UR http://www.ent-bull.com.cn/viewmulu_en.aspx?qi_id=2379&mid=69616
+DA 2024-04-07
+ER
+
+EF

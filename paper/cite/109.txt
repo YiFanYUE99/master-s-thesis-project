@@ -1,0 +1,85 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yatoo, AM
+   Ali, MN
+   Zaheen, Z
+   Baba, ZA
+   Ali, S
+   Rasool, S
+   Sheikh, TA
+   Sillanpää, M
+   Gupta, PK
+   Hamid, B
+   Hamid, B
+AF Yatoo, Ali Mohd
+   Ali, Md. Niamat
+   Zaheen, Zarka
+   Baba, Zahoor Ahmad
+   Ali, Shafat
+   Rasool, Saiema
+   Sheikh, Tahir Ahmad
+   Sillanpaa, Mika
+   Gupta, Pankaj Kumar
+   Hamid, Burhan
+   Hamid, Basharat
+TI Assessment of pesticide toxicity on earthworms using multiple
+   biomarkers: a review
+SO ENVIRONMENTAL CHEMISTRY LETTERS
+LA English
+DT Review
+DE Pesticide consumption; Earthworm; Sub-lethal effects; Catalase; Enzymes;
+   Genotoxicity
+ID OXIDATIVE STRESS BIOMARKERS; EISENIA-FOETIDA SAVIGNY; DNA-DAMAGE;
+   ACETYLCHOLINESTERASE ACTIVITY; EPIGEIC EARTHWORM; BIOCHEMICAL RESPONSES;
+   AVOIDANCE-BEHAVIOR; ORGANOCHLORINE PESTICIDES; CHOLINESTERASE ACTIVITY;
+   HERBICIDE ACETOCHLOR
+AB Two million tonnes of pesticides are currently used globally to improve crop production, yet these pesticides induce adverse effects on soil quality and biodiversity. Moreover, less than 1% of pesticides reach the target pests, while the rest contaminate the surrounding environment. In particular, earthworms are exposed to pesticides and are thus an ideal biological model for ecotoxicological research. Here, we review acute and sub-lethal effects of pesticides on earthworms. We found that pesticides alter growth, reproduction, behaviour, essential enzymes, and DNA of earthworms, even at low pesticide concentrations. These sub-lethal biomarkers allow to evaluate the overall response of an earthworm to pesticides, and to identify the risk for other non-target organisms.
+C1 [Yatoo, Ali Mohd; Ali, Md. Niamat; Zaheen, Zarka; Ali, Shafat; Hamid, Burhan] Univ Kashmir, Res Dev Ctr, Srinagar 190006, Jammu & Kashmir, India.
+   [Yatoo, Ali Mohd; Ali, Md. Niamat; Zaheen, Zarka; Hamid, Basharat] Univ Kashmir, Dept Environm Sci, Srinagar 190006, Jammu & Kashmir, India.
+   [Baba, Zahoor Ahmad; Sheikh, Tahir Ahmad] Sher E Kashmir Univ Agr Sci & Technol Kashmir, Fac Agr, Wadura 193201, India.
+   [Rasool, Saiema] Dept Educ, Srinagar, Jammu & Kashmir, India.
+   [Sillanpaa, Mika] King Saud Univ, Dept Chem, Coll Sci, Riyadh 11451, Saudi Arabia.
+   [Sillanpaa, Mika] Shoolini Univ, Int Res Ctr Nanotechnol Himalayan Sustainabil IRC, Solan 173212, Himachal Prades, India.
+   [Gupta, Pankaj Kumar] Univ Waterloo, Fac Environm, Waterloo, ON, Canada.
+C3 University of Kashmir; University of Kashmir; Sher-e-Kashmir University
+   of Agricultural Sciences & Technology of Kashmir (SKUAST Kashmir); King
+   Saud University; Shoolini University; University of Waterloo
+RP Yatoo, AM; Ali, MN (corresponding author), Univ Kashmir, Res Dev Ctr, Srinagar 190006, Jammu & Kashmir, India.; Yatoo, AM; Ali, MN (corresponding author), Univ Kashmir, Dept Environm Sci, Srinagar 190006, Jammu & Kashmir, India.
+EM aliyatoo123@gmail.com; mdniamat@hotmail.com
+RI Sheikh, Tahir Ahmad/E-3044-2016; YATOO, ALI/ACX-6280-2022; ALI,
+   SHAFAT/AAG-6507-2021
+OI YATOO, ALI/0000-0002-5094-5905; ALI, SHAFAT/0000-0001-8403-423X; Hamid,
+   Basharat/0000-0001-6838-1979; Gupta, Dr. Pankaj
+   Kumar/0000-0003-0683-4148; Hamid, Dr. Burhan/0000-0003-1630-9929
+NR 198
+TC 18
+Z9 21
+U1 41
+U2 165
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1610-3653
+EI 1610-3661
+J9 ENVIRON CHEM LETT
+JI Environ. Chem. Lett.
+PD AUG
+PY 2022
+VL 20
+IS 4
+BP 2573
+EP 2596
+DI 10.1007/s10311-022-01386-0
+EA APR 2022
+PG 24
+WC Chemistry, Multidisciplinary; Engineering, Environmental; Environmental
+   Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Environmental Sciences & Ecology
+GA 3L3LK
+UT WOS:000777196800001
+DA 2024-04-07
+ER
+
+EF

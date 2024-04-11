@@ -1,0 +1,85 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tian, SN
+   Yan, S
+   Meng, ZY
+   Sun, W
+   Yan, J
+   Huang, SR
+   Wang, Y
+   Zhou, ZQ
+   Diao, JL
+   Li, L
+   Zhu, WT
+AF Tian, Sinuo
+   Yan, Sen
+   Meng, Zhiyuan
+   Sun, Wei
+   Yan, Jin
+   Huang, Shiran
+   Wang, Yu
+   Zhou, Zhiqiang
+   Diao, Jinling
+   Li, Li
+   Zhu, Wentao
+TI Widening the Lens on Prothioconazole and Its Metabolite
+   Prothioconazole-Desthio: Aryl Hydrocarbon Receptor-Mediated Reproductive
+   Disorders through <i>in Vivo</i>, <i>in Vitro</i>, and <i>in Silico</i>
+   Studies
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+DE Aryl hydrocarbon receptor; Prothioconazole; Prothioconazole-desthio;
+   Reproductive health
+ID CURRENTLY USED PESTICIDES; BISPHENOL-A; CHEMICALS; TOXICITY; GENE;
+   2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN; IMPACT; MOUSE; CELLS
+AB Reproductive disorders are a serious public health problem worldwide. Epidemiological data suggest that exposure to environmental pollutants is associated with the onset of reproductive disorders. However, the effects in reproductive health and exact mechanism of action of representative agricultural compounds prothioconazole (PTC) and its metabolite prothioconazole-desthio (dPTC) on mammals remain unclear. Here, we studied the physiological effects of the exposure to environmentally relevant doses of PTC and dPTC in mice reproductive systems. Combining in vivo, in vitro, and in silico studies, we observed that PTC and dPTC disrupt reproductive health by inducing metabolic perturbation, induction of apoptosis, and inflammation in gonadal tissue, which are achieved via activation of the aryl hydrocarbon receptor (AhR). Convincingly, the addition of alternate-day injections of CH223191 (an AhR inhibitor) to the 30-day exposure regimen ameliorated ovarian tissue damage, as evidenced by decreased TUNEL-positive cells and partially restored the inflammation and apoptotic factor levels. This study comprehensively reports the toxic effects of low-dose PTC and dPTC in the reproductive system in vivo and identifies AhR as a potential therapeutic target for the amelioration of reproductive disorders caused by similar endocrine-disrupting chemicals.
+C1 [Tian, Sinuo; Sun, Wei; Huang, Shiran; Wang, Yu; Zhou, Zhiqiang; Diao, Jinling; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Yan, Sen] Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing 100191, Peoples R China.
+   [Meng, Zhiyuan; Li, Li] Yangzhou Univ, Coll Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Yan, Jin] Suzhou Univ Sci & Technol, Sch Environm Sci & Engn, Natl & Local Joint Engn Lab Municipal Sewage Resou, Suzhou 215009, Peoples R China.
+C3 China Agricultural University; Peking University; Yangzhou University;
+   Suzhou University of Science & Technology
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; zhou, zhou/HPE-9525-2023; Zhou,
+   Zhiqiang/HIR-4954-2022; Meng, Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Yan,
+   Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China; 
+   [2016YFD0200202]
+FX ? ACKNOWLEDGMENTS This work was supported by the National Key Research
+   and Development Program of China (2016YFD0200202) and the 2115 Talent
+   Development Program of China Agricultural University.
+NR 62
+TC 6
+Z9 6
+U1 20
+U2 102
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+EI 1520-5851
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD DEC 20
+PY 2022
+VL 56
+IS 24
+BP 17890
+EP 17901
+DI 10.1021/acs.est.2c06236
+EA NOV 2022
+PG 12
+WC Engineering, Environmental; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Environmental Sciences & Ecology
+GA 7R9DV
+UT WOS:000882622100001
+PM 36332113
+DA 2024-03-20
+ER
+
+EF

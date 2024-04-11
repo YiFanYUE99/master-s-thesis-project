@@ -1,0 +1,56 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Speck-Planche, A
+AF Speck-Planche, Alejandro
+BE Roy, K
+TI Multi-scale QSAR Approach for Simultaneous Modeling of Ecotoxic Effects
+   of Pesticides
+SO ECOTOXICOLOGICAL QSARS
+SE Methods in Pharmacology and Toxicology
+LA English
+DT Article; Book Chapter
+DE Artificial neural network; Ecotoxic; Fragment; Multi-scale; Pesticides;
+   QSAR
+ID ATOMIC PHYSICOCHEMICAL PARAMETERS; DIRECTED QUANTITATIVE STRUCTURE;
+   IN-SILICO DISCOVERY; MULTITARGET DRUG DISCOVERY; FRAGMENT-BASED
+   APPROACH; SIMULTANEOUS PREDICTION; CHEMICAL PESTICIDES; COMPLEX
+   NETWORKS; QUADRATIC FINGERPRINTS; MOLECULAR GRAPHS
+AB Pesticides are chemical or biological agents, whose ultimate purpose is to eradicate pests, thus preventing crop losses by protecting the plants from multiple diseases. Despite the importance of their use, pesticides constitute a focus of serious concern because of their harmful effects on the environment. In silico approaches have played a key role in diminishing time and financial resources when assessing the ecotoxicity of the pesticides. While many models based on quantitative structure-activity relationships (QSARs) have been reported to predict specific ecotoxicological endpoints, to date, there is no model capable of simultaneously predicting the ecotoxicological profiles of the pesticides under a wide spectrum of experimental conditions. This book chapter introduces for the first time a multi-scale QSAR model able to assess the ecotoxicity of the pesticides by considering different measures of ecotoxic effects, many bioindicator species, several different assay guidelines, and the multiple times during which the bioindicator species have been exposed to the pesticides. The multi-scale QSAR model correctly classified/predicted more than 75% of the data in both training and test sets. By interpreting different molecular descriptors in the models, this work offers the first view regarding the physicochemical properties and structural features that are common for the appearance of multiple ecotoxic effects in any chemical used as a pesticide. Finally, several molecular fragments are suggested as substructural features that can positively contribute to the diminution of the ecotoxic potential of pesticides.
+C1 [Speck-Planche, Alejandro] IM Sechenov First Moscow State Med Univ, Inst Pharm, Dept Chem, Moscow, Russia.
+C3 Sechenov First Moscow State Medical University
+RP Speck-Planche, A (corresponding author), IM Sechenov First Moscow State Med Univ, Inst Pharm, Dept Chem, Moscow, Russia.
+RI Speck-Planche, Alejandro/D-6805-2014
+OI Speck-Planche, Alejandro/0000-0002-9544-9016
+FU I.M. Sechenov First Moscow State Medical University [Y-187]
+FX Speck-Planche acknowledges the financial support provided by the I.M.
+   Sechenov First Moscow State Medical University under the agreement No
+   Y-187.
+NR 75
+TC 11
+Z9 11
+U1 1
+U2 3
+PU HUMANA PRESS INC
+PI TOTOWA
+PA 999 RIVERVIEW DR, STE 208, TOTOWA, NJ 07512-1165 USA
+SN 1557-2153
+EI 1940-6053
+BN 978-1-0716-0150-1; 978-1-0716-0149-5
+J9 METHOD PHARMACOL TOX
+JI Methods Pharmacol. Toxicol.
+PY 2020
+BP 639
+EP 660
+DI 10.1007/978-1-0716-0150-1_26
+D2 10.1007/978-1-0716-0150-1
+PG 22
+WC Chemistry, Analytical; Ecology; Toxicology
+WE Book Citation Index – Science (BKCI-S)
+SC Chemistry; Environmental Sciences & Ecology; Toxicology
+GA BR8WA
+UT WOS:000674448200026
+DA 2024-04-01
+ER
+
+EF

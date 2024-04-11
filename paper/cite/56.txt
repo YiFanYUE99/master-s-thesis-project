@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Micic, D
+   Ostojic, S
+   Pezo, L
+   Blagojevic, S
+   Pavlic, B
+   Zekovic, Z
+   Durovic, S
+AF Micic, Darko
+   Ostojic, Sanja
+   Pezo, Lato
+   Blagojevic, Stevan
+   Pavlic, Branimir
+   Zekovic, Zoran
+   Durovic, Sasa
+TI Essential oils of coriander and sage: Investigation of chemical profile,
+   thermal properties and QSRR analysis
+SO INDUSTRIAL CROPS AND PRODUCTS
+LA English
+DT Article
+DE Essential oils; Coriander; Sage; GC/MS analysis; QSRR analysis; Thermal
+   behavior
+ID SALVIA-OFFICINALIS L.; CARBON-DIOXIDE EXTRACTION; ANTIOXIDANT ACTIVITY;
+   RETENTION INDEX; INTEGRAL METHOD; KINETICS; DEGRADATION; MLR
+AB Essential oils (EOs) are aromatic oily liquids prepared from plant material. Many plants are rich in EOs, which usually consisted of different secondary metabolites such as terpenoids. The EOs or their components have been shown to exhibit antioxidant, antimicrobial, antiviral, antimycotic, antitoxigenic, antiparasitic and insecticidal properties, which is main reason for their ivenstigation. Coriander and sage essential oils, isolated by hydrodistillation, were analyzed using gas chromatography, differential scanning calorimetry and thermogravimetry techniques in order to correlate chemical composition and thermal behavior. Results showed that evaporation process of sage EO takes place in two steps, while coriander EO was evaporated in one step. The activation energy of the evaporation process of both EOs was in accordance to the evaporation enthalpy of dominant compounds in analyzed samples. The quantitative structure-retention relationship (QSRR) was employed to predict the retention time (RT) of essential oil compounds obtained by GC analysis, using five molecular descriptors selected by genetic algorithm. The selected descriptors were used as inputs of an artificial neural network (ANN), to build an RT predictive QSRR model. The coefficient of determination was 0.969, indicating that this model could be used for prediction of RT values for coriander and sage essential oil compounds.
+C1 [Micic, Darko; Ostojic, Sanja; Pezo, Lato; Blagojevic, Stevan; Durovic, Sasa] Univ Belgrade, Inst Gen & Phys Chem, Studentskitrg 12-5, Belgrade 11158, Serbia.
+   [Pavlic, Branimir; Zekovic, Zoran] Univ Novi Sad, Fac Technol, Bulevar Cara Lazara 1, Novi Sad 21000, Serbia.
+C3 University of Belgrade; University of Novi Sad
+RP Micic, D (corresponding author), Inst Gen & Phys Chem, Lab Chromatog, Studentski Trg 12-5, Belgrade 11158, Serbia.; Durovic, S (corresponding author), Inst Gen & Phys Chem, Dept Thermal Anal, Studentski Trg 12-5, Belgrade 11158, Serbia.
+EM micic83@gmail.com; sasatfns@uns.ac.rs
+RI Pavlic, Branimir/AAV-6642-2020; Micić, Darko/IAR-8850-2023; Đurović,
+   Saša/G-4464-2017; Pezo, Lato/D-6650-2014
+OI Pavlic, Branimir/0000-0002-3551-7478; Đurović, Saša/0000-0003-2022-2447;
+   Ostojic, Sanja/0000-0002-9853-1189; Blagojevic,
+   Stevan/0000-0002-0451-5912; Micic, Darko/0000-0001-6905-8954; Pezo,
+   Lato/0000-0002-0704-3084; Zekovic, Zoran/0000-0002-5432-7071
+FU Ministry for Science of the Republic of Serbia [TR 31093, TR 31055, TR
+   31013]
+FX This work was supported by the Ministry for Science of the Republic of
+   Serbia (Grants no. TR 31093, TR 31055 and TR 31013).
+NR 45
+TC 19
+Z9 19
+U1 3
+U2 31
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0926-6690
+EI 1872-633X
+J9 IND CROP PROD
+JI Ind. Crop. Prod.
+PD OCT 5
+PY 2019
+VL 138
+AR 111438
+DI 10.1016/j.indcrop.2019.06.001
+PG 8
+WC Agricultural Engineering; Agronomy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA IW0JI
+UT WOS:000484647800002
+DA 2024-04-02
+ER
+
+EF

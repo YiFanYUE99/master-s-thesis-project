@@ -1,0 +1,58 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shahid, M
+   Singh, UB
+   Khan, MS
+AF Shahid, Mohammad
+   Singh, Udai B. B.
+   Khan, Mohammad Saghir
+TI Metabolomics-Based Mechanistic Insights into Revealing the Adverse
+   Effects of Pesticides on Plants: An Interactive Review
+SO METABOLITES
+LA English
+DT Review
+DE pesticides; toxicological consequences; metabolomic analysis; metabolic
+   pathways
+ID MS BASED METABOLOMICS; CHROMATOGRAPHY-MASS SPECTROMETRY; INDUCED
+   OXIDATIVE STRESS; ORYZA-SATIVA L.; LIQUID-CHROMATOGRAPHY; METABOLITE
+   IDENTIFICATION; GREEN SOLVENTS; URINE SAMPLES; EXPOSURE; H-1-NMR
+AB In plant biology, metabolomics is often used to quantitatively assess small molecules, metabolites, and their intermediates in plants. Metabolomics has frequently been applied to detect metabolic alterations in plants exposed to various biotic and abiotic stresses, including pesticides. The widespread use of pesticides and agrochemicals in intensive crop production systems is a serious threat to the functionality and sustainability of agroecosystems. Pesticide accumulation in soil may disrupt soil-plant relationships, thereby posing a pollution risk to agricultural output. Application of metabolomic techniques in the assessment of the biological consequences of pesticides at the molecular level has emerged as a crucial technique in exposome investigations. State-of-the-art metabolomic approaches such as GC-MS, LC-MS/MS UHPLC, UPLC-IMS-QToF, GC/EI/MS, MALDI-TOF MS, and H-1-HR-MAS NMR, etc., investigating the harmful effects of agricultural pesticides have been reviewed. This updated review seeks to outline the key uses of metabolomics related to the evaluation of the toxicological impacts of pesticides on agronomically important crops in exposome assays as well as bench-scale studies. Overall, this review describes the potential uses of metabolomics as a method for evaluating the safety of agricultural chemicals for regulatory applications. Additionally, the most recent developments in metabolomic tools applied to pesticide toxicology and also the difficulties in utilizing this approach are discussed.
+C1 [Shahid, Mohammad; Singh, Udai B. B.] Natl Bur Agriculturally Important Microorganisms N, Plant Microbe Interact & Rhizosphere Biol Lab, ICAR, Kushmaur 275103, Uttar Pradesh, India.
+   [Khan, Mohammad Saghir] Aligarh Muslim Univ AMU, Fac Agr Sci, Dept Agr Microbiol, Aligarh 202001, Uttar Pradesh, India.
+C3 Aligarh Muslim University
+RP Shahid, M (corresponding author), Natl Bur Agriculturally Important Microorganisms N, Plant Microbe Interact & Rhizosphere Biol Lab, ICAR, Kushmaur 275103, Uttar Pradesh, India.
+EM shahidfaiz5@gmail.com
+RI Shahid, Mohammad/AGG-5172-2022
+FU DST-SERB [PDF/2022/000970]
+FX This research was funded by a National Post-Doctoral Fellowship
+   (PDF/2022/000970) grant from DST-SERB, India.
+NR 141
+TC 9
+Z9 9
+U1 16
+U2 33
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-1989
+J9 METABOLITES
+JI Metabolites
+PD FEB
+PY 2023
+VL 13
+IS 2
+AR 246
+DI 10.3390/metabo13020246
+PG 25
+WC Biochemistry & Molecular Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology
+GA 9L2PG
+UT WOS:000941395900001
+PM 36837865
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

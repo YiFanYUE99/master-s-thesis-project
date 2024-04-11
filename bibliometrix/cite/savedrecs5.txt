@@ -1,0 +1,79 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, DZ
+   Qiu, J
+   Zhu, WT
+   Zhang, P
+   Deng, NA
+   Wang, XR
+   Wang, Y
+   Zhou, ZQ
+AF Wang, Dezhen
+   Qiu, Jing
+   Zhu, Wentao
+   Zhang, Ping
+   Deng, Nian
+   Wang, Xinru
+   Wang, Yao
+   Zhou, Zhiqiang
+TI Evaluating the enantioselective distribution, degradation and excretion
+   of epoxiconazole in mice following a single oral gavage
+SO XENOBIOTICA
+LA English
+DT Article
+DE Degradation; epoxiconazole; enantioselective; excretion; mice; fecal
+   flora
+ID IN-VIVO; TOXICITY; BIOACCUMULATION; ENANTIOMERS; FUNGICIDES; WATER;
+   RATS; SOIL
+AB 1. The enantiomeric enrichment or degradation of epoxiconazole has been reported in grape, soil, tubifex and mealworm beetle. But, little is known about its enantioselective behaviors in mammals.
+   2. To further understand differences in the distribution, degradation and excretion of epoxiconazole enantiomers in vivo, male CD-1 mice were selected as the test model to investigate the enantioselective behaviors after a single oral gavage. Mice were sacrificed after 1 h, 3 h, 7 h, 12 h, 24 h, 48 h, 72 h treatment, blood, tissues and excretions were collected for epoxiconazole analysis by LC-MS/MS.
+   3. On the Lux-Cellulose-1 chiral column, an enrichment of the second eluting (+)-epoxiconazole was generally observed, and feces and urine showed similar EF with major tissues.
+   4. To elucidate the potential role of intestinal bacterial flora in stereospecific degradation of epoxiconazole, mice fecal flora were cultured in vitro and incubated with epoxiconazole for 48 h. Results showed that (-)-epoxiconazole was preferentially degraded by intestinal bacterial.
+   5. These results may provide useful information for risk assessment of epoxiconazole on non-target animals.
+C1 [Wang, Dezhen; Zhu, Wentao; Zhang, Ping; Deng, Nian; Wang, Xinru; Wang, Yao; Zhou, Zhiqiang] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Qiu, Jing] Chinese Acad Agr Sci, Key Lab Agroprod Qual & Safety, Inst Qual Stand & Testing Technol Agroprod, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Quality Standards & Testing Technology for Agro-Products,
+   CAAS
+RP Zhou, ZQ (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI zhou, zhou/HPE-9525-2023; Wang, Dezhen/K-2489-2016; Zhu,
+   Wentao/O-8964-2019; Zhou, Zhiqiang/HIR-4954-2022
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; Wang,
+   Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21337005];
+   Chinese Universities Scientific Fund [2012RC026]
+FX The authors report no declarations of interest. We gratefully
+   acknowledge financial support of National Natural Science Foundation of
+   China (21207158, 21337005) and Chinese Universities Scientific Fund
+   (2012RC026).
+NR 22
+TC 6
+Z9 6
+U1 3
+U2 40
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0049-8254
+EI 1366-5928
+J9 XENOBIOTICA
+JI Xenobiotica
+PY 2015
+VL 45
+IS 11
+BP 1009
+EP 1015
+DI 10.3109/00498254.2015.1033778
+PG 7
+WC Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Toxicology
+GA DD5FW
+UT WOS:000369949100007
+PM 26108358
+DA 2024-03-20
+ER
+
+EF

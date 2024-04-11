@@ -1,0 +1,121 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Palaniswamy, S
+   Abass, K
+   Rysä, J
+   Grimalt, JO
+   Odland, JO
+   Rautio, A
+   Järvelin, MR
+AF Palaniswamy, Saranya
+   Abass, Khaled
+   Rysa, Jaana
+   Grimalt, Joan O.
+   Odland, Jon oyvind
+   Rautio, Arja
+   Jarvelin, Marjo-Riitta
+TI Investigating the relationship between non-occupational pesticide
+   exposure and metabolomic biomarkers
+SO FRONTIERS IN PUBLIC HEALTH
+LA English
+DT Article
+DE pesticides; metabolomics; Finland; general population; non-occupational
+   exposure; non-communicable diseases
+ID ENDOCRINE-DISRUPTING CHEMICALS; CHAIN AMINO-ACIDS;
+   MYOCARDIAL-INFARCTION; ALZHEIMERS-DISEASE; SERUM; RISK; RATS;
+   ORGANOPHOSPHATE; METABONOMICS; ASSOCIATION
+AB The relationship between pesticide exposures and metabolomics biomarkers is not well understood. We examined the changes in the serum metabolome (early biomarkers) and the metabolic pathways associated with various pesticide exposure scenarios (OPE: overall exposure, PEM: exposure in months, PEY: exposure in years, and PEU: reported specific pesticides use) using data from the Northern Finland Birth Cohort 1966 31-year cross-sectional examination. We utilized questionnaire data on pesticide exposures and serum samples for nuclear magnetic resonance (NMR)-based metabolomics analyses. For exposures and metabolites associations, participants size varied between 2,361 and 5,035. To investigate associations between metabolomics biomarkers and exposure to pesticide scenarios compared to those who reported no exposures multivariable regression analyses stratified by sex and adjustment with covariates (season of pesticide use, socioeconomic position (SEP), alcohol consumption, BMI, and latitude of residence) were performed. Multiple testing by Benjamini-Hochberg false discovery rate (FDR) correction applied. Pesticide exposures differed by sex, season of pesticide use, alcohol, SEP, latitude of residence. Our results showed that all pesticide exposure scenarios were negatively associated with decreased HDL concentrations across all lipoprotein subclasses in women. OPE, PEY, and PEU were associated with decreased branched-chain amino acid concentrations in men and decreased albumin concentrations in women. OPE, PEY and PEU were also associated with changes in glycolysis metabolites and ketone bodies in both sexes. Specific pesticides exposure was negatively associated with sphingolipids and inflammatory biomarkers in men. In women, OPE, PEM, and PEU were associated with decreased apolipoprotein A1 and increased apolipoprotein B/apolipoprotein A1 ratio. Our findings suggest that identification of early biomarkers of disease risk related to pesticide exposures can inform strategies to reduce exposure and investigate causal pathways. Women may be more susceptible to non-occupational pesticide exposures when compared to men, and future sex-specific studies are warranted.
+C1 [Palaniswamy, Saranya; Jarvelin, Marjo-Riitta] Univ Oulu, Fac Med, Ctr Life Course Hlth Res, Oulu, Finland.
+   [Palaniswamy, Saranya; Jarvelin, Marjo-Riitta] Imperial Coll London, Sch Publ Hlth, Dept Epidemiol & Biostat, London, England.
+   [Palaniswamy, Saranya; Abass, Khaled] Univ Oulu, Fac Med, Arctic Hlth, Oulu, Finland.
+   [Abass, Khaled; Rautio, Arja] Univ Sharjah, Coll Hlth Sci, Dept Environm Hlth Sci, Sharjah, U Arab Emirates.
+   [Rysa, Jaana] Univ Eastern Finland, Sch Pharm, Kuopio, Finland.
+   [Grimalt, Joan O.] Spanish Council Sci Res CSIC, Inst Environm Assessment & Water Res IDAEA, Barcelona, Spain.
+   [Odland, Jon oyvind] Norwegian Univ Sci & Technol, Trondheim, Norway.
+   [Odland, Jon oyvind] Univ Pretoria, Fac Hlth Sci, Sch Hlth Syst & Publ Hlth, Pretoria, South Africa.
+   [Rautio, Arja] Univ Oulu, Thule Inst, Univ Arctic, Oulu, Finland.
+   [Jarvelin, Marjo-Riitta] Oulu Univ Hosp, Unit Primary Care, Oulu, Finland.
+   [Jarvelin, Marjo-Riitta] Imperial Coll London, Sch Publ Hlth, MRC PHE Ctr Environm & Hlth, London, England.
+   [Jarvelin, Marjo-Riitta] Brunel Univ London, Coll Hlth & Life Sci, Dept Life Sci, London, England.
+C3 University of Oulu; Imperial College London; University of Oulu;
+   University of Sharjah; University of Eastern Finland; Consejo Superior
+   de Investigaciones Cientificas (CSIC); CSIC - Centro de Investigacion y
+   Desarrollo Pascual Vila (CID-CSIC); CSIC - Instituto de Diagnostico
+   Ambiental y Estudios del Agua (IDAEA); Norwegian University of Science &
+   Technology (NTNU); University of Pretoria; University of Oulu;
+   University of Oulu; Imperial College London; Brunel University
+RP Palaniswamy, S (corresponding author), Univ Oulu, Fac Med, Ctr Life Course Hlth Res, Oulu, Finland.; Palaniswamy, S (corresponding author), Imperial Coll London, Sch Publ Hlth, Dept Epidemiol & Biostat, London, England.; Palaniswamy, S (corresponding author), Univ Oulu, Fac Med, Arctic Hlth, Oulu, Finland.
+EM saranya.palaniswamy@oulu.fi
+RI Palaniswamy, Saranya/AAU-4649-2021; Grimalt, Joan O/E-2073-2011
+OI Palaniswamy, Saranya/0000-0003-4145-540X; 
+FU The project EDCMET has received funding from the European Union's
+   Horizon 2020 research and innovation programme under grant agreement no.
+   825762. Other Funding sources: Academy of Finland [grant nos. 24300796,
+   24302031, and 285547 (EGEA-project)]; the Med [825762]; European Union
+   [24300796, 24302031, 285547]; Academy of Finland [G0601653]; Medical
+   Research Council (MRC) UK [PREcisE]; Medical Research Council
+   Biotechnology and Biological Sciences Research Council [MR/S03658X/1];
+   Joint Programming Initiative a Healthy Diet for a Healthy Life
+   [MR/S03658X/1, JPI HDHL]; Jenny and Antti Wihuri Foundation [65354,
+   24000692]; University of Oulu [2/97, 8/97, 24301140]; Oulu University
+   Hospital [23/251/97, 160/97, 190/97]; Ministry of Health and Social
+   Affairs [54121]; National Institute for Health and Welfare, Helsinki
+   [50621, 54231]; Regional Institute of Occupational Health, Oulu, Finland
+   [539/2010 A31592]; ERDF European Regional Development Fund
+FX We thank all cohort members and researchers who participated in the
+   31-year and 46-year NFBC1966 studies. We also wish to acknowledge the
+   work of the NFBC project center. We thank the entire NFBC1966 study
+   team, including the research staff, all others involved in the data
+   collection and processing, and those involved in the oversight and
+   management of the study. We acknowledge the late Paula Rantakallio for
+   the launch of the Northern Finland Birth Cohort 1966 and initial data
+   collection, Sarianna Vaara for data collection, Eeva Vaaramo for data
+   management, and Tuula Ylitalo for administration. We also wish to
+   acknowledge the EDCMET project management team.r The project EDCMET has
+   received funding from the European Union's Horizon 2020 research and
+   innovation programme under grant agreement no. 825762. Other Funding
+   sources: Academy of Finland [grant nos. 24300796, 24302031, and 285547
+   (EGEA-project)]; the Medical Research Council (MRC) UK (grant no.
+   G0601653); Medical Research Council Biotechnology and Biological
+   Sciences Research Council PREcisE [Nutrition & Epigenome, The Joint
+   Programming Initiative a Healthy Diet for a Healthy Life (JPI HDHL,
+   MR/S03658X/1)] and Jenny and Antti Wihuri Foundation. NFBC1966 (31-y)
+   received core funding for data generation and curation from University
+   of Oulu (grant nos. 65354 and 24000692); Oulu University Hospital (grant
+   nos. 2/97, 8/97, and 24301140); Ministry of Health and Social Affairs
+   (grant nos. 23/251/97, 160/97, and 190/97); National Institute for
+   Health and Welfare, Helsinki (grant no. 54121); Regional Institute of
+   Occupational Health, Oulu, Finland (grant nos. 50621 and 54231); and
+   ERDF European Regional Development Fund (grant no. 539/2010 A31592). The
+   funding sources had no influence on the study design, collection,
+   analysis, interpretation of data, writing of the report, or on the
+   decision to submit the article.
+NR 67
+TC 0
+Z9 0
+U1 11
+U2 11
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-2565
+J9 FRONT PUBLIC HEALTH
+JI Front. Public Health
+PD OCT 11
+PY 2023
+VL 11
+AR 1248609
+DI 10.3389/fpubh.2023.1248609
+PG 13
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA W3LH2
+UT WOS:001090671500001
+PM 37900012
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

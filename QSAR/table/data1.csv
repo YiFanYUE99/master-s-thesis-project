@@ -1,0 +1,1317 @@
+Name,Environmental fate,Ecotoxicity,Human health,SMILES
+"1,3-dichloropropene (Ref: D D92)",High,High,High,C=CC(Cl)Cl
+1-methylcyclopropene,High,High,Moderate,CC1=CC1
+"2,3,6-TBA (Ref: HC 1281)",High,Moderate,Moderate,C1=CC(=C(C(=C1Cl)C(=O)O)Cl)Cl
+"2,4-D (Ref: L 208)",High,Moderate,High,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+"2,4-DB (Ref: ENT 8538)",Moderate,Moderate,Moderate,CNC.C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O
+2-aminobutane,Low,Moderate,Moderate,CCC(C)N
+(4-chlorophenoxy)acetic acid,High,Moderate,Moderate,C1=CC(=CC=C1OCC(=O)O)Cl
+Acephate,Moderate,High,High,CC(=O)NP(=O)(OC)SC
+Acequinocyl,Low,High,Moderate,CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C
+Acetamiprid,Moderate,High,Moderate,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl
+Acetochlor (Ref: CP 55097),Moderate,Moderate,High,CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C
+Acibenzolar-S-methyl (Ref: CGA 245704),Moderate,Moderate,High,CSC(=O)C1=C2C(=CC=C1)N=NS2
+Acifluorfen-sodium (Ref: RH 6201 ),High,Moderate,Moderate,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)[O-].[Na+]
+Aclonifen (Ref: AE F068300),High,High,Moderate,C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
+Acrinathrin (Ref: RU 38702),Moderate,High,Moderate,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=CC(=O)OC(C(F)(F)F)C(F)(F)F)C
+Alachlor (Ref: CP 50144 ),Moderate,Moderate,Moderate,CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl
+Aldicarb (Ref: ENT 27093),High,High,High,CC(C)(C=NOC(=O)NC)SC
+Aldoxycarb,High,High,High,CC(C)(C=NOC(=O)NC)S(=O)(=O)C
+Aldrin (Ref: OMS 194),High,High,High,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl
+Allethrin (Ref: FMC 249),High,High,Moderate,CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C
+Alloxydim,High,Moderate,Low,CCCC(=C1C(=O)CC(C(C1=O)C(=O)OC)(C)C)NOCC=C
+Alpha-cypermethrin (Ref: OMS 3004),High,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Aluminium ammonium sulphate,Low,Low,Moderate,[NH4+].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3]
+Aluminium sulphate (Ref: T534),Low,Moderate,High,[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]
+Ametryn (Ref: G 34162 ),Moderate,Moderate,Moderate,CCNC1=NC(=NC(=N1)SC)NC(C)C
+Amidosulfuron,High,Moderate,Moderate,CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC
+Aminopyralid (Ref: XDE 750),High,Moderate,Moderate,C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N
+Amitraz (Ref: ENT 27967),Moderate,High,High,CC1=CC(=C(C=C1)N=CN(C)C=NC2=C(C=C(C=C2)C)C)C
+Amitrole,Moderate,Moderate,High,C1=NNC(=N1)N
+Ammonium acetate,Low,Moderate,Moderate,CC(=O)[O-].[NH4+]
+Ammonium carbonate,Low,Moderate,Low,C(=O)([O-])[O-].[NH4+].[NH4+]
+Ammonium hydroxide,Low,High,Moderate,[NH4+].[OH-]
+Ammonium sulphamate,High,Low,Low,[NH4+].NS(=O)(=O)[O-]
+Ammonium sulphate,Low,Moderate,Low,[NH4+].[NH4+].[O-]S(=O)(=O)[O-]
+Ammonium thiocyanate,Low,Moderate,Moderate,C(#N)[S-].[NH4+]
+Ancymidol (Ref: EL 531),Moderate,Low,Moderate,COC1=CC=C(C=C1)C(C2CC2)(C3=CN=CN=C3)O
+Anilazine (Ref: ENT 26 058),Moderate,High,High,C1=CC=C(C(=C1)NC2=NC(=NC(=N2)Cl)Cl)Cl
+Anthracene oil,High,Moderate,Moderate,C1=CC=C2C=C3C=CC=CC3=CC2=C1
+Asulam sodium (Ref: AE F102789),High,Moderate,Moderate,COC(=O)[N-]S(=O)(=O)C1=CC=C(C=C1)N.[Na+]
+Atrazine (Ref: G 30027),Moderate,Moderate,High,CCNC1=NC(=NC(=N1)Cl)NC(C)C
+Azafenidin,Moderate,Moderate,High,C#CCOC1=C(C=C(C(=C1)N2C(=O)N3CCCCC3=N2)Cl)Cl
+Azamethiphos (Ref: GCA 18809),High,High,High,COP(=O)(OC)SCN1C2=NC=C(C=C2OC1=O)Cl
+Azimsulfuron,High,Moderate,Moderate,CN1C(=C(C=N1)C2=NN(N=N2)C)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC
+Azinphos-ethyl (Ref: BAY 16259),High,High,High,CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1
+Azinphos-methyl,Moderate,High,High,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1
+Aziprotryne (Ref: C 7019),Moderate,High,Low,CC(C)NC1=NC(=NC(=N1)N=[N+]=[N-])SC
+Azocyclotin (Ref: BAY BUE 1452),Moderate,High,High,C1CCC(CC1)[Sn](C2CCCCC2)(C3CCCCC3)N4C=NC=N4
+Azoxystrobin (Ref: ICI 5504),High,Moderate,Moderate,COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)OC
+Beflubutamid (Ref: UBH 820),High,Moderate,High,CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F
+Benalaxyl (Ref: M 9834),Moderate,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2
+Benazolin (Ref: RD 7693),High,Moderate,Low,C1=CC2=C(C(=C1)Cl)N(C(=O)S2)CC(=O)O
+Bendiocarb (Ref: NC 6897),Moderate,High,High,CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C
+Benfluralin (Ref: EL 110),High,High,Moderate,CCCCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Benfuracarb,Moderate,High,High,CCOC(=O)CCN(C(C)C)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C
+Benfuresate (Ref: NC 20484),Moderate,Moderate,Moderate,CCS(=O)(=O)OC1=CC2=C(C=C1)OCC2(C)C
+Benodanil (Ref: BAS 3170),Moderate,Moderate,Low,C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2I
+Benomyl (Ref: T 1991),Moderate,Moderate,High,CCCCNC(=O)N1C2=CC=CC=C2N=C1NC(=O)OC
+Benoxacor (Ref: CGA 154281),High,Moderate,Low,CC1COC2=CC=CC=C2N1C(=O)C(Cl)Cl
+Bensulfuron-methyl (Ref: DPX F5384),Moderate,Moderate,Moderate,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC
+Bensulide (Ref: R 4461),High,High,High,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1
+Bensultap (Ref: OMS 3011),Moderate,Moderate,Moderate,CN(C)C(CSS(=O)(=O)C1=CC=CC=C1)CSS(=O)(=O)C2=CC=CC=C2
+Bentazone,High,Moderate,Moderate,CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O
+Beta-cyfluthrin (Ref: OMS 3051),High,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Beta-cypermethrin (Ref: OMS 3068),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Bifenazate,Moderate,High,High,CC(C)OC(=O)NNC1=C(C=CC(=C1)C2=CC=CC=C2)OC
+Bifenox,Moderate,High,Moderate,COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
+Bifenthrin (Ref: FMC 54800),High,High,High,CC1=C(C=CC=C1COC(=O)C2C(C2(C)C)C=C(C(F)(F)F)Cl)C3=CC=CC=C3
+Binapacryl (Ref: FMC 9044),High,High,High,CCC(C)C1=CC(=CC(=C1OC(=O)C=C(C)C)[N+](=O)[O-])[N+](=O)[O-]
+Bioallethrin,Moderate,High,High,CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C
+Bioresmethrin (Ref: FMC 17370),Moderate,High,Moderate,CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C
+Biphenyl,Moderate,Moderate,High,C1=CC=C(C=C1)C2=CC=CC=C2
+Bispyribac-sodium (Ref: KIH-2023),Moderate,Moderate,Low,COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)[O-])OC.[Na+]
+Bitertanol (Ref: KWG 0599),Moderate,High,High,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O
+Boscalid (Ref: BAS 510F),High,Moderate,Moderate,C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl
+Brodifacoum (Ref: WBA 8119),High,High,High,C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=C(C=C6)Br
+Bromacil (Ref: DPX N0976),High,Moderate,Moderate,CCC(C)N1C(=O)C(=C(NC1=O)C)Br
+Bromadiolone (Ref: LM 637),Moderate,High,High,C1=CC=C(C=C1)C(CC(C2=CC=C(C=C2)C3=CC=C(C=C3)Br)O)C4=C(C5=CC=CC=C5OC4=O)O
+Bromethalin (Ref: OMS 3020),High,High,High,CN(C1=C(C=C(C=C1C(F)(F)F)[N+](=O)[O-])[N+](=O)[O-])C2=C(C=C(C=C2Br)Br)Br
+Bromofenoxim (Ref: C9122),Moderate,Moderate,Moderate,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])ONC=C2C=C(C(=O)C(=C2)Br)Br
+Bromophos,High,High,High,COP(=S)(OC)OC1=CC(=C(C=C1Cl)Br)Cl
+Bromopropylate (Ref: GS 19851),High,Moderate,Low,CC(C)OC(=O)C(C1=CC=C(C=C1)Br)(C2=CC=C(C=C2)Br)O
+Bromoxynil (Ref: ENT 20852),Moderate,Moderate,High,C1=C(C=C(C(=C1Br)O)Br)C#N
+Bromuconazole (Ref: LS 860263),High,Moderate,Moderate,C1C(COC1(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl)Br
+Bronopol,High,Moderate,Moderate,C(C(CO)([N+](=O)[O-])Br)O
+Bupirimate (Ref: PP 588),Moderate,Moderate,High,CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
+Buprofezin (Ref: PP 618),Moderate,Moderate,Moderate,CC(C)N1C(=NC(C)(C)C)SCN(C1=O)C2=CC=CC=C2
+Butachlor (Ref: CP 53619),Moderate,High,Moderate,CCCCOCN(C1=C(C=CC=C1CC)CC)C(=O)CCl
+Butocarboxim (Ref: Co 755),High,High,Moderate,CC(C(=NOC(=O)NC)C)SC
+Butoxycarboxim (Ref: Co 859),High,Moderate,Moderate,CC(C(=NOC(=O)NC)C)S(=O)(=O)C
+Butralin (Ref: Amchem70-25),High,Moderate,Moderate,CCC(C)NC1=C(C=C(C=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-]
+Butylate (Ref: R 1910),Moderate,Moderate,Moderate,CCSC(=O)N(CC(C)C)CC(C)C
+Cadusafos (Ref: FMC 67825),Moderate,High,High,CCC(C)SP(=O)(OCC)SC(C)CC
+Calcium carbonate,Low,Low,Low,C(=O)([O-])[O-].[Ca+2]
+Calcium chloride,Low,Moderate,Low,[Cl-].[Cl-].[Ca+2]
+Calcium hydroxide,Low,Moderate,Low,[OH-].[OH-].[Ca+2]
+Calcium phosphate,Low,Low,Low,[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]
+Camphechlor (Ref: Hercules 3956),Moderate,High,High,C1C2C(C(C(C1(Cl)Cl)(C2(CCl)C(Cl)Cl)CCl)Cl)Cl
+Captafol (Ref: Ortho-5865),Moderate,Moderate,High,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl
+Captan (Ref: SR 406),Moderate,Moderate,High,C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl
+Carbaryl (Ref: UC 7744),Moderate,High,High,CNC(=O)OC1=CC=CC2=CC=CC=C21
+Carbendazim (Ref: BAS 346F),Moderate,High,High,COC(=O)NC1=NC2=CC=CC=C2N1
+Carbetamide (Ref: RP 11561),Moderate,Moderate,High,CCNC(=O)C(C)OC(=O)NC1=CC=CC=C1
+Carbofuran (Ref: OMS 864),Moderate,High,High,CC1(CC2=C(O1)C(=CC=C2)OC(=O)NC)C
+Carbophenothion (Ref: ENT 23708),Moderate,High,High,CCOP(=S)(OCC)SCSC1=CC=C(C=C1)Cl
+Carbosulfan (Ref: OMS 3022),Moderate,High,High,CCCCN(CCCC)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C
+Carboxin (Ref: D 735),Moderate,Moderate,Moderate,CC1=C(SCCO1)C(=O)NC2=CC=CC=C2
+Carfentrazone-ethyl (Ref: F 8426),Moderate,Moderate,Moderate,CCOC(=O)C(CC1=CC(=C(C=C1Cl)F)N2C(=O)N(C(=N2)C)C(F)F)Cl
+Cetrimide,Moderate,High,Moderate,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
+Chinomethionat (Ref: ENT 25606),High,High,Moderate,CC1=CC2=C(C=C1)N=C3C(=N2)SC(=O)S3
+Chlomethoxyfen (Ref: X-52),Moderate,Moderate,Moderate,COC1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
+Chloralose,High,High,Moderate,C(C(C1C(C2C(O1)OC(O2)C(Cl)(Cl)Cl)O)O)O
+Chloramben (Ref: ACP M-629),High,Moderate,High,C1=C(C=C(C(=C1N)Cl)C(=O)O)Cl
+Chlorbromuron (Ref: C6313),Moderate,Moderate,Low,CN(C(=O)NC1=CC(=C(C=C1)Br)Cl)OC
+Chlordane (Ref: OMS 1437),High,High,High,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Chlorethoxyfos (Ref: DPX 43898),Moderate,High,High,CCOP(=S)(OCC)OC(C(Cl)(Cl)Cl)Cl
+Chlorfenapyr (Ref: MK 242),Moderate,High,High,CCOCN1C(=C(C(=C1C(F)(F)F)Br)C#N)C2=CC=C(C=C2)Cl
+Chlorfenson (Ref: K 6451),Low,Moderate,Low,C1=CC(=CC=C1OS(=O)(=O)C2=CC=C(C=C2)Cl)Cl
+Chlorfenvinphos (Ref: OMS 166),Moderate,High,High,CCOP(=O)(OCC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl
+Chlorfluazuron (Ref: CGA 112913),High,High,Low,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC3=C(C=C(C=N3)C(F)(F)F)Cl)Cl)F
+Chloridazon (Ref: BAS 119H),Moderate,Moderate,Moderate,C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl
+Chlormephos (Ref: MC 2188),Moderate,High,High,CCOP(=S)(OCC)SCCl
+Chlormequat chloride (Ref: BAS 062W),Moderate,Moderate,Moderate,C[N+](C)(C)CCCl.[Cl-]
+Chlorobenzilate (Ref: ENT 18596),Moderate,Moderate,Moderate,CCOC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O
+Chloroneb,High,Moderate,Low,COC1=CC(=C(C=C1Cl)OC)Cl
+Chlorophacinone (Ref: LM 91),Moderate,High,High,C1=CC=C(C=C1)C(C2=CC=C(C=C2)Cl)C(=O)C3C(=O)C4=CC=CC=C4C3=O
+Chloropicrin,High,High,High,C([N+](=O)[O-])(Cl)(Cl)Cl
+Chloropropylate (Ref: ENT 26999),Low,Moderate,Low,CC(C)OC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O
+Chlorothalonil (Ref: DS 2787),Moderate,High,High,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl
+Chlorotoluron (Ref: C 2242),Moderate,High,Moderate,CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl
+Chloroxuron (Ref: C 1983),High,Moderate,Low,CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)Cl
+Chlorpropham (Ref: ENT 18060),Moderate,Moderate,Moderate,CC(C)OC(=O)NC1=CC(=CC=C1)Cl
+Chlorpyrifos (Ref: OMS 971),Moderate,High,High,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl
+Chlorpyrifos-methyl (Ref: OMS 1155),Moderate,High,High,COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl
+Chlorsulfuron (Ref: DPX 4189),High,Moderate,Moderate,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl
+Chlorthal-dimethyl (Ref: DAC 893),High,Moderate,Moderate,COC(=O)C1=C(C(=C(C(=C1Cl)Cl)C(=O)OC)Cl)Cl
+Chlorthiamid (Ref: WL 5792.),Moderate,Moderate,Moderate,C1=CC(=C(C(=C1)Cl)C(=S)N)Cl
+Chlozolinate (Ref: M 8164),Moderate,Moderate,Moderate,CCOC(=O)C1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C
+Cholecalciferol,Moderate,Moderate,High,CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+Choline chloride,High,Moderate,Moderate,C[N+](C)(C)CCO.[Cl-]
+Cinidon-ethyl (Ref: BAS 615H),Moderate,Moderate,Moderate,CCOC(=O)C(=CC1=C(C=CC(=C1)N2C(=O)C3=C(C2=O)CCCC3)Cl)Cl
+Cinosulfuron (Ref: CGA 142464),High,Moderate,Low,COCCOC1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OC)OC
+Clethodim (Ref: RE 45601),High,Moderate,High,CCC(=C1C(=O)CC(CC1=O)CC(C)SCC)NOCC=CCl
+Clodinafop propargyl (Ref: CGA 184927),Moderate,Moderate,Moderate,CC(C(=O)OCC#C)OC1=CC=C(C=C1)OC2=NC=C(C=C2F)Cl
+Clofencet (Ref: MON 21250 ),High,Moderate,Moderate,CCC1=C(C(=O)C=NN1C2=CC=C(C=C2)Cl)C(=O)O
+Clofentezine (Ref: NC 21314),High,High,Moderate,C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl
+Clomazone (Ref: FMC 57020),Moderate,Moderate,High,CC1(CON(C1=O)CC2=CC=CC=C2Cl)C
+Clopyralid,High,Moderate,Moderate,C1=CC(=NC(=C1Cl)C(=O)O)Cl
+Cloquintocet-mexyl (Ref: CGA 185072),Moderate,Moderate,Low,CCCCCC(C)OC(=O)COC1=C2C(=C(C=C1)Cl)C=CC=N2
+Clothianidin (Ref: CGA 322704),High,High,High,CN=C(NCC1=CN=C(S1)Cl)N[N+](=O)[O-]
+Copper II acetate,Low,High,Moderate,CC(=O)[O-].CC(=O)[O-].[Cu+2]
+Copper II carbonate,Low,High,Moderate,C(=O)([O-])[O-].[Cu+2]
+Copper II chloride,Low,Moderate,Moderate,Cl[Cu]Cl
+Copper (II) hydroxide,Low,High,Moderate,[Cu+2].[OH-].[OH-]
+Copper (I) oxide,Low,Moderate,Moderate,[Cu].[Cu].O
+Copper oxychloride,Moderate,High,Moderate,O(Cl)Cl.[Cu+2]
+Copper sulphate,Low,High,Moderate,[O-]S(=O)(=O)[O-].[Cu+2]
+Coumachlor,Low,High,High,CC(=O)CC(C1=CC=C(C=C1)Cl)C2=C(C3=CC=CC=C3OC2=O)O
+Coumatetralyl,Moderate,Moderate,High,C1CC(C2=CC=CC=C2C1)C3=C(C4=CC=CC=C4OC3=O)O
+Crimidine,High,High,High,CC1=CC(=NC(=N1)Cl)N(C)C
+"Cyanamide (Ref: LH 21,810A)",High,Moderate,Moderate,C(#N)N
+Cyanazine,Moderate,Moderate,High,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N
+Cyazofamid (Ref: IKF 916),Moderate,Moderate,Moderate,CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl
+Cyclanilide (Ref: RPA 090946),Moderate,Moderate,High,C1CC1(C(=O)NC2=C(C=C(C=C2)Cl)Cl)C(=O)O
+Cycloate (Ref: R 2063),Moderate,Moderate,High,CCN(C1CCCCC1)C(=O)SCC
+Cycloxydim (Ref: BAS 517H),High,Moderate,Moderate,CCCC(=C1C(=O)CC(CC1=O)C2CCCSC2)NOCC
+Cyflufenamid (Ref: NF 149),Moderate,Moderate,Moderate,C1CC1CONC(=NC(=O)CC2=CC=CC=C2)C3=C(C=CC(=C3F)F)C(F)(F)F
+Cyfluthrin (Ref: OMS 2012),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Cyhalofop-butyl (Ref: DE 537),Low,Moderate,Low,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F
+Cyhalothrin (Ref: OMS 2011),High,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C
+Cyhexatin (Ref: OMS 3029),High,High,Moderate,C1CCC(CC1)[Sn](C2CCCCC2)C3CCCCC3.O
+Cymoxanil (Ref: DPX T3217),High,Moderate,Moderate,CCNC(=O)NC(=O)C(=NOC)C#N
+Cypermethrin (Ref: OMS 2002),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Cyproconazole (Ref: SAN 619),High,High,High,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O
+Cyprodinil (Ref: CGA 219417),High,High,Moderate,CC1=NC(=NC(=C1)C2CC2)NC3=CC=CC=C3
+Cyromazine (Ref: OMS 2014),Moderate,Moderate,High,C1CC1NC2=NC(=NC(=N2)N)N
+Dalapon-sodium,High,Moderate,Low,CC(C(=O)[O-])(Cl)Cl.[Na+]
+Daminozide,High,Moderate,Moderate,CN(C)NC(=O)CCC(=O)O
+Dazomet (Ref: N 521),High,High,Moderate,CN1CN(C(=S)SC1)C
+DDT (Ref: OMS 16),High,High,High,"C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl (for p,p'-DDT)"
+Deltamethrin (Ref: OMS 1998),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C
+Demeton-S-methyl,Moderate,High,High,CCSCCSP(=O)(OC)OC
+Desmedipham (Ref: EP 475),Moderate,Moderate,High,CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2
+Desmetryn (Ref: G 34360),Moderate,Moderate,Moderate,CC(C)NC1=NC(=NC(=N1)NC)SC
+Di-1-p-menthene,Low,Moderate,Low,C(CC(C)(C)C1CCC(C)=CC1)C1CCC(C)=CC1
+Diafenthiuron (Ref: CGA 106630),Low,High,Low,CC(C)C1=CC(=CC(=C1NC(=S)NC(C)(C)C)C(C)C)OC2=CC=CC=C2
+Di-allate (Ref: CP 15),Moderate,Moderate,Moderate,CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl
+Diazinon (Ref: OMS 469),Moderate,High,High,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C
+Dicamba (Ref: SAN 837H),High,Moderate,Moderate,COC1=C(C=CC(=C1C(=O)O)Cl)Cl
+Dichlobenil (Ref: H 133),Moderate,Moderate,High,C1=CC(=C(C(=C1)Cl)C#N)Cl
+Dichlofenthion (Ref: ENT 17470),High,High,High,CCOP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl
+Dichlofluanid (Ref: BAY 47531),Moderate,High,Low,CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl
+Dichlorophen,Moderate,Moderate,Moderate,C1=CC(=C(C=C1Cl)CC2=C(C=CC(=C2)Cl)O)O
+Dichlorprop (Ref: RD 406),High,Moderate,Moderate,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl
+Dichlorprop-P (Ref: BAS 044H),High,Moderate,High,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl
+Dichlorvos (Ref: OMS 14),High,High,High,COP(=O)(OC)OC=C(Cl)Cl
+Diclofop-methyl (Ref: HOE 023408),Moderate,Moderate,High,CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl
+Dicloran (Ref: RD 6584),Moderate,Moderate,High,C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-]
+Dicofol (Ref: ENT 23648),High,High,High,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl
+Dicrotophos (Ref: OMS 253),High,High,High,CC(=CC(=O)N(C)C)OP(=O)(OC)OC
+Dicyclopentadiene,High,Moderate,Moderate,C1C=CC2C1C3CC2C=C3
+Dieldrin (Ref: ENT 16225 ),High,High,High,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl
+Dienochlor (Ref: SAN 804),High,High,Low,C1(=C(C(C(=C1Cl)Cl)(C2(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Diethofencarb (Ref: S 1605),Moderate,Moderate,High,CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC
+Difenacoum,High,High,High,C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6
+Difenoconazole (Ref: CGA 169374),High,High,Moderate,CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl
+Difenoxuron (Ref: C3470),Moderate,Moderate,Moderate,CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC
+Difenzoquat (Ref: BAS 450H),Low,Moderate,Moderate,CN1C(=CC(=[N+]1C)C2=CC=CC=C2)C3=CC=CC=C3
+Difethialone (Ref: OMS 3053),High,High,High,C1C(CC2=CC=CC=C2C1C3=C(SC4=CC=CC=C4C3=O)O)C5=CC=C(C=C5)C6=CC=C(C=C6)Br
+Diflubenzuron (Ref: OMS 1804),Moderate,High,High,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F
+Diflufenican (Ref: AE 088657),High,Moderate,Moderate,C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F
+Dimefox,High,Moderate,High,CN(C)P(=O)(N(C)C)F
+Dimefuron (Ref: RP 23465),High,Moderate,Low,CC(C)(C)C1=NN(C(=O)O1)C2=C(C=C(C=C2)NC(=O)N(C)C)Cl
+Dimepiperate (Ref: MY 93),Moderate,Moderate,Moderate,CC(C)(C1=CC=CC=C1)SC(=O)N2CCCCC2
+Dimethachlor (Ref: CGA 17020),High,Moderate,High,CC1=C(C(=CC=C1)C)N(CCOC)C(=O)CCl
+Dimethenamid (Ref: SAN 582H),High,Moderate,Moderate,CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C
+Dimethenamid-P,Moderate,Moderate,Moderate,CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C
+Dimethipin (Ref: N 252),High,Moderate,Moderate,CC1=C(S(=O)(=O)CCS1(=O)=O)C
+Dimethirimol (Ref: PP675),High,Moderate,Low,CCCCC1=C(NC(=NC1=O)N(C)C)C
+Dimethoate (Ref: OMS 94),High,High,High,CNC(=O)CSP(=S)(OC)OC
+Dimethomorph (Ref: CME 151),Moderate,Moderate,Moderate,COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC
+Dimoxystrobin (Ref: BAS 505F),Moderate,High,Moderate,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2C(=NOC)C(=O)NC
+Dinitramine (Ref: USB 3584),Moderate,Moderate,Low,CCN(CC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
+Dinobuton (Ref: OMS 1056),Low,High,Moderate,CCC(C)C1=CC(=CC(=C1OC(=O)OC(C)C)[N+](=O)[O-])[N+](=O)[O-]
+Dinocap (Ref: ENT 24727),Moderate,High,High,CCCCCCC(C)C1=CC(=CC(=C1OC(=O)C=CC)[N+](=O)[O-])[N+](=O)[O-]
+Dinoseb (Ref: HOE 26150),High,High,High,CCC(C)C1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-]
+Dinoterb (Ref: LS 63133),High,High,High,CC(C)(C)C1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-]
+Dioxacarb (Ref: C8353),High,Moderate,High,CNC(=O)OC1=CC=CC=C1C2OCCO2
+Diphacinone,High,Moderate,High,C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O
+Diphenamid (Ref: L 34314),Moderate,High,Moderate,CN(C)C(=O)C(C1=CC=CC=C1)C2=CC=CC=C2
+Diquat dibromide,High,High,Moderate,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31.[Br-].[Br-]
+Disulfoton (Ref: ENT 23347),Moderate,High,High,CCOP(=S)(OCC)SCCSCC
+Dithianon (Ref: BAS 216F),Moderate,High,Moderate,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N
+Dithiopyr (Ref: RH 101664),Moderate,Moderate,Low,CC(C)CC1=C(C(=NC(=C1C(=O)SC)C(F)(F)F)C(F)F)C(=O)SC
+Diuron (Ref: DPX 14740),High,Moderate,High,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
+DNOC (Ref: ENT 154),Moderate,Moderate,High,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-]
+Dodemorph,High,Moderate,Moderate,CC1CN(CC(O1)C)C2CCCCCCCCCCC2
+Dodine (Ref: BAS 365F),Moderate,High,Moderate,CCCCCCCCCCCCN=C(N)N.CC(=O)O
+Endosulfan (Ref: OMS 570),High,High,High,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Endothal,Moderate,Moderate,High,C1CC2C(C(C1O2)C(=O)O)C(=O)O
+Endrin,High,High,High,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl
+Epoxiconazole (Ref: BAS 480F),Moderate,High,High,C1=CC=C(C(=C1)C2C(O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl
+EPTC (Ref: R 1608),Moderate,Moderate,High,CCCN(CCC)C(=O)SCC
+Esfenvalerate (Ref: OMS 3023),Moderate,High,High,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3
+Ethaboxam (Ref: LGC 30473),Moderate,Moderate,Moderate,CCC1=C(SC(=N1)NCC)C(=O)NC(C#N)C2=CC=CS2
+Ethalfluralin (Ref: EL 161),High,High,Moderate,CCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Ethanethiol,Moderate,Moderate,High,CCS
+Ethephon,Moderate,Moderate,High,C(CCl)P(=O)(O)O
+Ethiofencarb (Ref: BAY 108594),High,Moderate,High,CCSCC1=CC=CC=C1OC(=O)NC
+Ethion (Ref: ENT 24105),High,High,High,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC
+Ethirimol (Ref: PP149),Moderate,Moderate,Low,CCCCC1=C(NC(=NC1=O)NCC)C
+Ethofumesate (Ref: AE B049913),High,Moderate,Moderate,CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C
+Ethoprophos,High,High,High,CCCSP(=O)(OCC)SCCC
+Ethoxyquin,Moderate,Moderate,Moderate,CCOC1=CC2=C(C=C1)NC(C=C2C)(C)C
+Ethoxysulfuron (Ref: AE F095404),Moderate,Moderate,Moderate,CCOC1=CC=CC=C1OS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Etofenprox (Ref: MTI 500),Moderate,High,High,CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3
+Etoxazole (Ref: S 1283),Moderate,High,Moderate,CCOC1=C(C=CC(=C1)C(C)(C)C)C2COC(=N2)C3=C(C=CC=C3F)F
+Etridiazole (Ref: Olin 2424),Moderate,Moderate,High,CCOC1=NC(=NS1)C(Cl)(Cl)Cl
+Etrimfos,High,High,High,CCC1=NC(=CC(=N1)OP(=S)(OC)OC)OCC
+Famoxadone (Ref: JE 874),Moderate,High,Moderate,CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4
+Fatty acids (generic),Moderate,Moderate,Low,-
+Fenamidone (Ref: RPA 407213),Moderate,Moderate,Moderate,CC1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3
+Fenamiphos (Ref: BAY 68138),Moderate,High,High,CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C
+Fenarimol (Ref: EL 222),Moderate,Moderate,High,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl
+Fenazaquin (Ref: DE 436),Moderate,High,High,CC(C)(C)C1=CC=C(C=C1)CCOC2=NC=NC3=CC=CC=C32
+Fenbuconazole (Ref: RH 7592),High,Moderate,High,C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N
+Fenbutatin oxide (Ref: ENT 27738),High,High,High,CC(C)(C[Sn](CC(C)(C)C1=CC=CC=C1)(CC(C)(C)C2=CC=CC=C2)O[Sn](CC(C)(C)C3=CC=CC=C3)(CC(C)(C)C4=CC=CC=C4)CC(C)(C)C5=CC=CC=C5)C6=CC=CC=C6
+Fenchlorazole (Ref: HOE 072829),High,High,High,C1=CC(=C(C=C1Cl)Cl)N2C(=NC(=N2)C(=O)O)C(Cl)(Cl)Cl
+Fenclorim (Ref: CGA 123407),Moderate,Moderate,Low,C1=CC=C(C=C1)C2=NC(=CC(=N2)Cl)Cl
+Fenhexamid (Ref: KBR 2738),Moderate,Moderate,Moderate,CC1(CCCCC1)C(=O)NC2=C(C(=C(C=C2)O)Cl)Cl
+Fenitrothion (Ref: OMS 43),Moderate,High,High,CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-]
+Fenoprop,Moderate,Moderate,Moderate,CC(C(=O)O)OC1=CC(=C(C=C1Cl)Cl)Cl
+Fenothiocarb (Ref: KCO 3001),Moderate,Moderate,Moderate,CN(C)C(=O)SCCCCOC1=CC=CC=C1
+Fenoxaprop-ethyl,Moderate,Moderate,Low,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl
+Fenoxaprop-P-ethyl (Ref: AE F046360),Low,Moderate,High,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl
+Fenoxycarb (Ref: OMS 3010),Moderate,High,High,CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2
+Fenpiclonil (Ref: CGA 142705),High,Moderate,Low,C1=CC(=C(C(=C1)Cl)Cl)C2=CNC=C2C#N
+Fenpropathrin (Ref: OMS 1999),Moderate,High,Moderate,CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C
+Fenpropidin (Ref: CGA 114900),High,Moderate,High,CC(CC1=CC=C(C=C1)C(C)(C)C)CN2CCCCC2
+Fenpropimorph (Ref: CGA 101031),Moderate,Moderate,Moderate,CC1CN(CC(O1)C)CC(C)CC2=CC=C(C=C2)C(C)(C)C
+Fenpyroximate (Ref: NNI 850),Moderate,High,High,CC1=NN(C(=C1C=NOCC2=CC=C(C=C2)C(=O)OC(C)(C)C)OC3=CC=CC=C3)C
+Fenthion (Ref: OMS 2),Moderate,High,High,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC
+Fentin acetate (Ref: OMS 1020),High,High,Moderate,CC(=O)O[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+Fentin hydroxide,High,High,Moderate,C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O
+Fenuron,High,Low,Moderate,CN(C)C(=O)NC1=CC=CC=C1
+Fenvalerate (Ref: OMS 2000),High,High,High,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3
+Ferbam (Ref: ENT 14689),Moderate,High,Moderate,CN(C)C(=S)[S-].CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Fe+3]
+Fipronil (Ref: BAS 350l),Moderate,High,High,C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F
+Flamprop-M-isopropyl (Ref: WL 43425),Moderate,Moderate,Low,CC(C)OC(=O)C(C)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2
+Flazasulfuron (Ref: OK 1166),High,Moderate,High,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC
+Flocoumafen (Ref: BAS 322l),High,High,High,C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)OCC6=CC=C(C=C6)C(F)(F)F
+Flonicamid (Ref: IKI 220),High,Moderate,Moderate,C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N
+Florasulam (Ref: DE 570),High,Moderate,Low,COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F
+Fluazifop-butyl (Ref: SL 236),Moderate,Moderate,Moderate,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F
+Fluazifop-P-butyl (Ref: R154875),Moderate,Moderate,High,CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F
+Fluazinam (Ref: IKF 1216),Moderate,High,High,C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
+Fluazolate,High,High,High,CC(C)OC(=O)C1=C(C=C(C(=C1)C2=NN(C(=C2Br)C(F)(F)F)C)F)Cl
+Flucycloxuron (Ref: OMS 3041),High,High,Low,C1CC1C(=NOCC2=CC=C(C=C2)NC(=O)NC(=O)C3=C(C=CC=C3F)F)C4=CC=C(C=C4)Cl
+Flucythrinate (Ref: OMS 2007),Moderate,High,High,CC(C)C(C1=CC=C(C=C1)OC(F)F)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3
+Fludioxonil (Ref: CGA 173506),Moderate,High,Moderate,C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N
+Flufenacet (Ref: FOE 5043),Moderate,High,Moderate,CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F
+Flufenoxuron (Ref: BAS 3071),High,High,High,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=C(C=C(C=C2)OC3=C(C=C(C=C3)C(F)(F)F)Cl)F)F
+Diflovidazin (Ref: SZ1 121),Moderate,Moderate,Moderate,C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=C(C=CC=C3F)F)Cl
+Flumetsulam (Ref: DE 498),High,Low,Low,CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC3=C(C=CC=C3F)F
+Flumioxazin (Ref: S 53482),Moderate,Moderate,High,C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F
+Fluometuron,High,Moderate,High,CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F
+Fluopicolide (Ref: AE C638206),High,Moderate,Moderate,C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
+Fluoroacetamide,High,High,High,C(C(=O)N)F
+Fluoroglycofen,Moderate,High,Moderate,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)OCC(=O)O
+Fluoxastrobin (Ref: HEC 5725),Moderate,Moderate,Low,CON=C(C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)C4=NOCCO4
+Flupyrsulfuron-methyl-sodium,High,High,Moderate,COC1=CC(=NC(=N1)[N-]C(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC.[Na+]
+Fluquinconazole (Ref: AE C597265),High,High,High,C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl
+Flurazole (Ref: MON 4606),Moderate,Moderate,Low,C1=CC=C(C=C1)COC(=O)C2=C(N=C(S2)Cl)C(F)(F)F
+Fluridone,Moderate,Moderate,Low,CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3
+Flurochloridone (Ref: R 40244),Moderate,Moderate,High,C1C(C(C(=O)N1C2=CC=CC(=C2)C(F)(F)F)Cl)CCl
+Fluroxypyr (Ref: DOW 43304-H),High,Moderate,High,C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F
+Flurprimidol (Ref: EL 500),Moderate,Moderate,High,CC(C)C(C1=CC=C(C=C1)OC(F)(F)F)(C2=CN=CN=C2)O
+Flurtamone (Ref: RPA 590515),Moderate,High,Moderate,CNC1=C(C(=O)C(O1)C2=CC=CC=C2)C3=CC(=CC=C3)C(F)(F)F
+Flusilazole (Ref: DPX H6573),High,Moderate,High,C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
+Flusulfamide (Ref: MTF 651),Moderate,High,Moderate,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NS(=O)(=O)C2=CC(=C(C=C2)Cl)C(F)(F)F
+Flutolanil (Ref: NNF 136),High,Moderate,Low,CC(C)OC1=CC=CC(=C1)NC(=O)C2=CC=CC=C2C(F)(F)F
+Flutriafol (Ref: PP 450),High,Moderate,High,C1=CC=C(C(=C1)C(CN2C=NC=N2)(C3=CC=C(C=C3)F)O)F
+Folpet,Moderate,High,High,C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
+Fomesafen (Ref: PP 021),High,Moderate,Moderate,CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Fonofos (Ref: N-2790),Moderate,High,High,CCOP(=S)(CC)SC1=CC=CC=C1
+Foramsulfuron (Ref: AE F130360),High,Moderate,Low,CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Forchlorfenuron (Ref: KT 30),High,Moderate,Moderate,C1=CC=C(C=C1)NC(=O)NC2=CC(=NC=C2)Cl
+Formaldehyde,High,Moderate,High,C=O
+Formetanate (Ref: SN 36056),Moderate,High,High,CNC(=O)OC1=CC=CC(=C1)N=CN(C)C
+Formothion (Ref: SAN 6913I),High,High,High,CN(C=O)C(=O)CSP(=S)(OC)OC
+Fosamine (Ref: DPX 1108),High,Low,High,CCOP(=O)(C(=O)N)O
+Fosetyl-aluminium (Ref: RP 32545),High,Moderate,Moderate,CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3]
+Fosthiazate (Ref: IKI 1145),Moderate,High,High,CCC(C)SP(=O)(N1CCSC1=O)OCC
+Fuberidazole,Moderate,Moderate,High,C1=CC=C2C(=C1)NC(=N2)C3=CC=CO3
+Furalaxyl (Ref: IPE 134),Moderate,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)C2=CC=CO2
+Furathiocarb (Ref: CGA 73102),Moderate,High,High,CCCCOC(=O)N(C)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C
+Furfural,High,Moderate,High,C1=COC(=C1)C=O
+Gamma-cyhalothrin (Ref: DE 225),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C
+Lindane (Ref: OMS 17),High,High,High,C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl
+Gibberellic acid,High,Moderate,Moderate,CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+Glufosinate-ammonium (Ref: HOE 039866),Moderate,Moderate,High,CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]
+Glyphosate (Ref: MON 0573),Moderate,Moderate,High,C(C(=O)O)NCP(=O)(O)O
+Guazatine (Ref: EM 379),Moderate,High,Moderate,C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N
+Halofenozide (Ref: RH 0345),High,Moderate,Moderate,CC(C)(C)N(C(=O)C1=CC=CC=C1)NC(=O)C2=CC=C(C=C2)Cl
+Haloxyfop-P (Ref: DE 535 acid),High,Moderate,Moderate,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl
+Heptachlor (Ref: ENT 15152),High,High,High,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Heptenophos (Ref: OMS 1845),Moderate,High,High,COP(=O)(OC)OC1=C(C2C1CC=C2)Cl
+Hexachlorobenzene (Ref: ENT 1719),High,High,High,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl
+Hexaconazole (Ref: PP 523),High,Moderate,High,CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O
+Hexaflumuron (Ref: XRD 473),High,High,Low,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC(C(F)F)(F)F)Cl)F
+Hexazinone (Ref: DPX A3674),High,Moderate,Moderate,CN1C(=NC(=O)N(C1=O)C2CCCCC2)N(C)C
+Hexythiazox (Ref: NA 73),Moderate,High,Moderate,CC1C(SC(=O)N1C(=O)NC2CCCCC2)C3=CC=C(C=C3)Cl
+Hydramethylnon (Ref: BAS 315l),Moderate,High,High,CC1(CNC(=NC1)NN=C(C=CC2=CC=C(C=C2)C(F)(F)F)C=CC3=CC=C(C=C3)C(F)(F)F)C
+Hymexazol (Ref: F 319),High,Moderate,High,CC1=CC(=O)NO1
+Icaridin (Ref: KBR 3023),Moderate,Moderate,Low,CCC(C)OC(=O)N1CCCCC1CCO
+Imazalil (Ref: R 023979),Moderate,Moderate,High,C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl
+Imazamethabenz-methyl (Ref: AC 222293),High,Moderate,Moderate,COC(=O)c1ccc(C)cc1C2=NC(C)(C(C)C)C(=O)N2.COC(=O)c3cc(C)ccc3C4=NC(C)(C(C)C)C(=O)N4
+Imazamox (Ref: BAS 720H),High,Moderate,High,CC(C)C1(C(=O)NC(=N1)C2=NC=C(C=C2C(=O)O)COC)C
+Imazapyr,Moderate,Moderate,Low,CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C
+Imazaquin (Ref: BAS 725H),High,High,Moderate,CC(C)C1(C(=O)NC(=N1)C2=NC3=CC=CC=C3C=C2C(=O)O)C
+Imazethapyr (Ref: AC 252925),High,Moderate,Low,CCC1=CN=C(C(=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C
+Imazosulfuron (Ref: TH 913),High,Moderate,Moderate,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
+Imidacloprid (Ref: BAY NTN 33893),High,High,High,C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(C=C2)Cl
+Sumithrin ,Moderate,High,High,CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C
+Indoxacarb (Ref: DPX KN128),Moderate,High,High,COC(=O)C12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl
+Iodofenphos,High,High,High,COP(=S)(OC)OC1=CC(=C(C=C1Cl)I)Cl
+Iodosulfuron-methyl-sodium (Ref: AE F115008),High,Moderate,High,CC1=NC(=NC(=N1)OC)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=C2)I)C(=O)OC.[Na+]
+Ioxynil (Ref: ACP 63-303),Moderate,High,High,C1=C(C=C(C(=C1I)O)I)C#N
+Iprodione (Ref: ROP 500F),Moderate,Moderate,High,CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl
+Iprovalicarb (Ref: SZX 0722),Moderate,Moderate,Moderate,CC1=CC=C(C=C1)C(C)NC(=O)C(C(C)C)NC(=O)OC(C)C
+Isazofos (Ref: CGA 12223),Moderate,High,High,CCOP(=S)(OCC)OC1=NN(C(=N1)Cl)C(C)C
+Isofenphos (Ref: BAY SRA 12869),Moderate,High,High,CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C
+Isopropalin (Ref: EL-179),High,High,Low,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-]
+Isoprothiolane (Ref: SS 11946),High,Moderate,Moderate,CC(C)OC(=O)C(=C1SCCS1)C(=O)OC(C)C
+Isoproturon (Ref: HOE 16410),Moderate,Moderate,High,CC(C)C1=CC=C(C=C1)NC(=O)N(C)C
+Isoval,High,Moderate,Moderate,CC(C)CC(=O)C1C(=O)C2=CC=CC=C2C1=O
+Isoxaben (Ref: EAF 496),High,Moderate,Moderate,CCC(C)(CC)C1=NOC(=C1)NC(=O)C2=C(C=CC=C2OC)OC
+Isoxaflutole (Ref: RPA 201772),Moderate,Moderate,Moderate,CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
+Isoxathion (Ref: SL 6711),Moderate,High,High,CCOP(=S)(OCC)OC1=NOC(=C1)C2=CC=CC=C2
+Kresoxim-methyl (Ref: BAS 490F),Moderate,Moderate,Moderate,CC1=CC=CC=C1OCC2=CC=CC=C2C(=NOC)C(=O)OC
+Lambda-cyhalothrin (Ref: OMS 3021),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(C(F)(F)F)Cl)C
+Lenacil (Ref: DPX B634),High,Moderate,Moderate,C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
+Linuron (Ref: HOE 02810),Moderate,Moderate,High,CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
+Lufenuron (Ref: CGA 184699),High,High,Moderate,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F
+Malathion (Ref: OMS 1),Moderate,High,High,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC
+Maleic hydrazide,High,Moderate,High,C1=CC(=O)NNC1=O
+Mancozeb,Moderate,High,High,C(CNC(=S)[S-])NC(=S)[S-].C(CNC(=S)[S-])NC(=S)[S-].[Mn+2].[Zn+2]
+Mandipropamid (Ref: NOA 446510),Moderate,Moderate,Moderate,COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C
+Maneb (Ref: ENT 14875),Moderate,High,Moderate,C(CNC(=S)[S-])NC(=S)[S-].[Mn+2]
+MCPA (Ref: BAS 009H),High,Moderate,Moderate,CC1=C(C=CC(=C1)Cl)OCC(=O)O
+MCPB (Ref: MB 3046),Moderate,Moderate,High,CC1=C(C=CC(=C1)Cl)OCCCC(=O)O
+Mecarbam (Ref: MC 474),Moderate,High,High,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC
+Mecoprop (Ref: RD 4593),High,Moderate,High,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+Mecoprop-P (Ref: BAS 037H),High,Moderate,High,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+Mefenacet (Ref: FOE 1976),Moderate,Moderate,Low,CN(C1=CC=CC=C1)C(=O)COC2=NC3=CC=CC=C3S2
+Mefluidide (Ref: MBR 12325),Moderate,Moderate,Low,CC1=CC(=C(C=C1NC(=O)C)NS(=O)(=O)C(F)(F)F)C
+Mepanipyrim (Ref: KUF 6201),Moderate,Moderate,Moderate,CC#CC1=CC(=NC(=N1)NC2=CC=CC=C2)C
+Mepiquat chloride (Ref: BAS 083W),Moderate,Moderate,Moderate,C[N+]1(CCCCC1)C.[Cl-]
+Mepronil (Ref: B1 2459),Moderate,Moderate,Low,CC1=CC=CC=C1C(=O)NC2=CC(=CC=C2)OC(C)C
+Meptyldinocap (Ref: DE 126),Moderate,High,High,CCCCCCC(C)C1=CC(=CC(=C1OC(=O)C=CC)[N+](=O)[O-])[N+](=O)[O-]
+Merphos,Moderate,High,High,CCCCSP(SCCCC)SCCCC
+Mesosulfuron-methyl (Ref: AE F130060),High,Moderate,Moderate,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)OC)OC
+Mesotrione (Ref: ZA 1296),Moderate,Moderate,High,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-]
+Metaflumizone (Ref: BAS 320l),Moderate,High,High,C1=CC(=CC(=C1)C(F)(F)F)C(=NNC(=O)NC2=CC=C(C=C2)OC(F)(F)F)CC3=CC=C(C=C3)C#N
+Metalaxyl (Ref: CGA 48988),Moderate,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
+Metalaxyl-M (Ref: CGA 329351),High,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
+Metaldehyde,Moderate,Moderate,Moderate,CC1OC(OC(OC(O1)C)C)C
+Metam-sodium (Ref: N 869),High,Moderate,High,CNC(=S)[S-].[Na+]
+Metamitron (Ref: BAY DRW 1139),Moderate,Moderate,High,CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
+Metazachlor (Ref: BAS 47900H),High,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl
+Metconazole,High,High,Moderate,CC1(CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl)C
+Methabenzthiazuron (Ref: BAY 74283 ),High,High,Low,CNC(=O)N(C)C1=NC2=CC=CC=C2S1
+Methamidophos (Ref: ENT 27396),High,High,High,COP(=O)(N)SC
+Methazole (Ref: VCS-438),Moderate,Moderate,Moderate,CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl
+Methidathion (Ref: ENT 27193 ),Moderate,High,High,COC1=NN(C(=O)S1)CSP(=S)(OC)OC
+Methiocarb (Ref: OMS 93),Moderate,High,High,CC1=CC(=CC(=C1SC)C)OC(=O)NC
+Methomyl (Ref: OMS 1196),High,High,High,CC(=NOC(=O)NC)SC
+Methoprene (Ref: OMS 1697),Moderate,High,Low,CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC
+Methoxychlor (Ref: OMS 466),High,High,High,COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl
+Methoxyfenozide (Ref: RH 2485),High,Moderate,Moderate,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C
+Bromomethane,High,High,High,CBr
+Metiram (Ref: BAS 222F),Moderate,High,Moderate,C(CNC(=S)[S-])NC(=S)S.C(CNC(=S)[S-])NC(=S)S.[NH2-].[Zn]
+Metobromuron (Ref: C 3216),Moderate,Moderate,High,CN(C(=O)NC1=CC=C(C=C1)Br)OC
+Metolachlor (Ref: CGA 24705),Moderate,Moderate,High,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C
+Metosulam (Ref: XDE 511),High,Moderate,Moderate,CC1=C(C(=C(C=C1)Cl)NS(=O)(=O)C2=NN3C(=CC(=NC3=N2)OC)OC)Cl
+Metoxuron (Ref: SAN 6915H),Moderate,Moderate,High,CN(C)C(=O)NC1=CC(=C(C=C1)OC)Cl
+Metrafenone (Ref: BAS 560F),High,Moderate,Moderate,CC1=CC(=C(C(=C1C(=O)C2=C(C=CC(=C2C)Br)OC)OC)OC)OC
+Metribuzin (Ref: DPX G2504),High,Moderate,High,CC(C)(C)C1=NN=C(N(C1=O)N)SC
+Metsulfuron-methyl (Ref: DPX T6376),High,Moderate,Moderate,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Mevinphos (Ref: ENT 22374),High,High,High,CC(=CC(=O)OC)OP(=O)(OC)OC
+Molinate (Ref: OMS 1373),Moderate,Moderate,High,CCSC(=O)N1CCCCCC1
+Monolinuron (Ref: HOE 002747),High,Moderate,Low,CN(C(=O)NC1=CC=C(C=C1)Cl)OC
+Monuron,High,Low,Moderate,CN(C)C(=O)NC1=CC=C(C=C1)Cl
+Myclobutanil (Ref: RH 3866),Moderate,Moderate,High,CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl
+Naled (Ref: OMS 75),Moderate,High,High,COP(=O)(OC)OC(C(Cl)(Cl)Br)Br
+Napropamide (Ref: R 7465),Moderate,Moderate,Moderate,CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21
+Naptalam (Ref: ACP 322),High,Moderate,Moderate,C1=CC=C2C(=C1)C=CC=C2NC(=O)C3=CC=CC=C3C(=O)O
+Neburon,High,Moderate,Low,CCCCN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
+Nicosulfuron (Ref: DPX V9360),High,Moderate,Moderate,CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Norflurazon (Ref: H 52143),High,Moderate,Moderate,CNC1=C(C(=O)N(N=C1)C2=CC=CC(=C2)C(F)(F)F)Cl
+Novaluron (Ref: GR 572),High,High,Low,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2)OC(C(OC(F)(F)F)F)(F)F)Cl)F
+Nuarimol (Ref: EL 228),High,Moderate,Moderate,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)F)(C3=CN=CN=C3)O)Cl
+Octhilinone (Ref: RH 893),High,High,Moderate,CCCCCCCCN1C(=O)C=CS1
+Ofurace (Ref: AE F057623),High,Moderate,Low,CC1=C(C(=CC=C1)C)N(C2CCOC2=O)C(=O)CCl
+Omethoate (Ref: ENT 25776),High,High,High,CNC(=O)CSP(=O)(OC)OC
+Oryzalin (Ref: EL 119),Moderate,Moderate,High,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)N)[N+](=O)[O-]
+Oxadiargyl (Ref: RP 020630 ),Moderate,Moderate,Moderate,CC(C)(C)C1=NN(C(=O)O1)C2=CC(=C(C=C2Cl)Cl)OCC#C
+Oxadiazon (Ref: RP 17623 ),High,High,High,CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl
+Oxadixyl (Ref: SAN 371F),High,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(=O)COC)N2CCOC2=O
+Oxamyl (Ref: DPX D1410),High,High,High,CNC(=O)ON=C(C(=O)N(C)C)SC
+Oxasulfuron (Ref: CGA 277476 ),Moderate,Moderate,High,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC3COC3)C
+Oxycarboxin (Ref: F 461),High,Moderate,Moderate,CC1=C(S(=O)(=O)CCO1)C(=O)NC2=CC=CC=C2
+Oxydemeton-methyl (Ref: ENT 24964),High,High,High,CCS(=O)CCSP(=O)(OC)OC
+Oxyfluorfen (Ref: RH 2915),High,High,Moderate,CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Paclobutrazol (Ref: PP 333),Moderate,Moderate,Moderate,CC(C)(C)C(C(CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
+Paraquat (Ref: PP 148),High,High,High,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C
+Parathion-ethyl (Ref: OMS 19),Low,High,High,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-]
+Parathion-methyl (Ref: OMS 213),Moderate,High,High,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-]
+Pebulate (Ref: R 2061),Moderate,Moderate,High,CCCCN(CC)C(=O)SCCC
+Penconazole (Ref: CGA 71818),High,Moderate,High,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl
+Pencycuron (Ref: NTN 19701),Moderate,Moderate,Moderate,C1CCC(C1)N(CC2=CC=C(C=C2)Cl)C(=O)NC3=CC=CC=C3
+Pendimethalin (Ref: AC 92553),High,High,High,CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
+Penoxsulam (Ref: XDE 638),High,Moderate,Moderate,COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
+Pentachlorophenol,High,Moderate,High,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O
+Pentanochlor (Ref: FMC 4512),High,Moderate,Moderate,CCCC(C)C(=O)NC1=CC(=C(C=C1)C)Cl
+Permethrin (Ref: OMS 1821),High,High,High,CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Phenmedipham (Ref: SN 38584),Moderate,Moderate,Moderate,CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC
+Phenothrin (Ref: OMS 1809),Moderate,High,High,CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C
+Phenthoate (Ref: OMS 1075),Moderate,High,High,CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC
+Phorate (Ref: ENT 24042),High,High,High,CCOP(=S)(OCC)SCSCC
+Phosalone (Ref: ENT 27163),Moderate,High,High,CCOP(=S)(OCC)SCN1C2=C(C=C(C=C2)Cl)OC1=O
+Phosmet (Ref: OMS 232),Moderate,High,High,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O
+Phosphamidon (Ref: OMS 1325),High,High,High,CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl
+Aluminium phosphide,Low,High,High,[Al]#P
+Phoxim (Ref: OMS 1170),Moderate,High,High,CCOP(=S)(OCC)ON=C(C#N)C1=CC=CC=C1
+Picloram (Ref: X 159868),High,Moderate,High,C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N
+Picolinafen (Ref: BAS 700H),Moderate,High,Moderate,C1=CC(=CC(=C1)OC2=CC=CC(=N2)C(=O)NC3=CC=C(C=C3)F)C(F)(F)F
+Picoxystrobin (Ref: ZA 1963),Moderate,High,Moderate,COC=C(C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)C(=O)OC
+Pinoxaden (Ref: NOA 407855),Moderate,Moderate,High,CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C
+Piperonyl butoxide (Ref: ENT 14250),Moderate,Moderate,High,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2
+Pirimicarb (Ref: OMS 1330),Moderate,High,High,CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C
+Pirimiphos-ethyl (Ref: PP211),Moderate,High,High,CCN(CC)C1=NC(=CC(=N1)OP(=S)(OCC)OCC)C
+Pirimiphos-methyl (Ref: OMS 1424),Moderate,High,High,CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C
+Pretilachlor (Ref: CGA 26423),Moderate,Moderate,Low,CCCOCCN(C1=C(C=CC=C1CC)CC)C(=O)CCl
+Primisulfuron,High,Moderate,Low,C1=CC=C(C(=C1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
+Prochloraz (Ref: BTS 40542),High,Moderate,High,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
+Procymidone (Ref: S 7131),High,Moderate,High,CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C
+Profenofos (Ref: OMS 2004),Moderate,High,High,CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
+Prohexadione-calcium (Ref: BAS 125W),Moderate,Moderate,High,CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2]
+Promecarb (Ref: SN 34615),Moderate,High,High,CC1=CC(=CC(=C1)OC(=O)NC)C(C)C
+Prometon (Ref: G 31435),High,Moderate,Moderate,CC(C)NC1=NC(=NC(=N1)OC)NC(C)C
+Prometryn (Ref: C 34161),High,Moderate,High,CC(C)NC1=NC(=NC(=N1)SC)NC(C)C
+Propachlor (Ref: CP 31393),Moderate,High,High,CC(C)N(C1=CC=CC=C1)C(=O)CCl
+Propamocarb hydrochloride (Ref: SN 66752),Moderate,Moderate,High,CCCOC(=O)NCCCN(C)C.Cl
+Propanil (Ref: FW 734),Moderate,High,High,CCC(=O)NC1=CC(=C(C=C1)Cl)Cl
+Propaquizafop (Ref: CGA 233380),Moderate,Moderate,Moderate,CC(C(=O)OCCON=C(C)C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+Propargite (Ref: ENT 27226),Moderate,High,High,CC(C)(C)C1=CC=C(C=C1)OC2CCCCC2OS(=O)OCC#C
+Propazine (Ref: G 30028),High,Moderate,High,CC(C)NC1=NC(=NC(=N1)Cl)NC(C)C
+Propetamphos (Ref: OMS 1502),Moderate,High,High,CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C
+Propham,Moderate,Moderate,Moderate,CC(C)OC(=O)NC1=CC=CC=C1
+Propiconazole (Ref: CGA 64250),Moderate,Moderate,High,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl
+Propineb (Ref: BAY 46131),Low,Moderate,Moderate,CC(CNC(=S)[S-])NC(=S)[S-].[Zn+2]
+Propoxur (Ref: OMS 33),High,High,High,CC(C)OC1=CC=CC=C1OC(=O)NC
+Propoxycarbazone-sodium (Ref: MKH 6561),High,Moderate,Low,CCCOC1=NN(C(=O)N1C)C(=NS(=O)(=O)C2=CC=CC=C2C(=O)OC)[O-].[Na+]
+Proquinazid (Ref: DPX KQ926),Moderate,High,High,CCCN1C(=O)C2=C(C=CC(=C2)I)N=C1OCCC
+Propyzamide (Ref: RH 315),High,Moderate,Moderate,CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl
+Prosulfocarb (Ref: SC 0574),Moderate,Moderate,Moderate,CCCN(CCC)C(=O)SCC1=CC=CC=C1
+Prosulfuron (Ref: CGA 152005),High,High,Moderate,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F
+Prothioconazole (Ref: JAU 6476 ),Moderate,Moderate,High,C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl
+Prothiofos (Ref: OMS 2006),High,High,High,CCCSP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl
+Prothoate (Ref: EI 18682),Moderate,High,High,CCOP(=S)(OCC)SCC(=O)NC(C)C
+Pymetrozine (Ref: CGA 215944),Moderate,Moderate,High,CC1=NNC(=O)N(C1)N=CC2=CN=CC=C2
+Pyraclofos (Ref: OMS 3040),High,High,High,CCCSP(=O)(OCC)OC1=CN(N=C1)C2=CC=C(C=C2)Cl
+Pyraclostrobin (Ref: BAS 500F),Moderate,High,High,COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC
+Pyraflufen-ethyl (Ref: ET 751),Moderate,High,High,CCOC(=O)COC1=C(C=C(C(=C1)C2=NN(C(=C2Cl)OC(F)F)C)F)Cl
+Pyrazophos (Ref: HOE 2873),Moderate,High,High,CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C
+Pyrazoxyfen (Ref: SL 49),Moderate,Moderate,Moderate,CC1=NN(C(=C1C(=O)C2=C(C=C(C=C2)Cl)Cl)OCC(=O)C3=CC=CC=C3)C
+Pyridaben (Ref: BAS 300l),Moderate,High,Moderate,CC(C)(C)C1=CC=C(C=C1)CSC2=C(C(=O)N(N=C2)C(C)(C)C)Cl
+Pyridafenthion (Ref: ENT 23968)),Moderate,High,High,CCOP(=S)(OCC)OC1=NN(C(=O)C=C1)C2=CC=CC=C2
+Pyridate (Ref: CL 11344),Moderate,Moderate,High,CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl
+Pyrifenox (Ref: CGA 179945),Moderate,Moderate,High,CON=C(CC1=CN=CC=C1)C2=C(C=C(C=C2)Cl)Cl
+Pyrimethanil (Ref: SN 100309),Moderate,Moderate,Moderate,CC1=CC(=NC(=N1)NC2=CC=CC=C2)C
+Pyriproxyfen (Ref: S 9318),Moderate,High,Moderate,CC(COC1=CC=C(C=C1)OC2=CC=CC=C2)OC3=CC=CC=N3
+Quinalphos (Ref: ENT 27397),Moderate,High,High,CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1
+Quinclorac (Ref: BAS 514H),High,Moderate,Moderate,C1=CC(=C(C2=NC=C(C=C21)Cl)C(=O)O)Cl
+Quinmerac (Ref: BAS 518H),Moderate,Moderate,Moderate,CC1=CN=C2C(=C1)C=CC(=C2C(=O)O)Cl
+Quinoclamine,Moderate,High,Moderate,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)N
+Quinoxyfen (Ref: DE 795),High,High,Moderate,C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F
+Quintozene,High,Moderate,Moderate,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-]
+Quizalofop-ethyl (Ref: DPX Y6202),High,Moderate,High,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+Quizalofop-P-ethyl (Ref: DPX 79376),Moderate,Moderate,Moderate,CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+Quizalofop-P-tefuryl (Ref: UBI C4874 ),Moderate,Moderate,High,CC(C(=O)OCC1CCCO1)OC2=CC=C(C=C2)OC3=CN=C4C=C(C=CC4=N3)Cl
+Resmethrin (Ref: OMS 1206),Moderate,High,High,CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C
+Rimsulfuron (Ref: DPX E9636),High,Moderate,Moderate,CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Sethoxydim (Ref: BAS 9052H),Moderate,Moderate,Low,CCCC(=C1C(=O)CC(CC1=O)CC(C)SCC)NOCC
+Siduron,Moderate,Moderate,Low,CC1CCCCC1NC(=O)NC2=CC=CC=C2
+Silthiofam (Ref: MON 65500),High,Moderate,Moderate,CC1=C(SC(=C1C(=O)NCC=C)[Si](C)(C)C)C
+Simazine (Ref: G 27692),Moderate,Moderate,High,CCNC1=NC(=NC(=N1)Cl)NCC
+Sintofen (Ref: SC 2053),High,Moderate,Moderate,CC1=CC=C(C=C1)N2C3=C(C(=CC=C3)OCCOC)C(=O)C(=N2)C(=O)O
+Sodium carbonate,Low,Low,Low,C(=O)([O-])[O-].[Na+].[Na+]
+Sodium chloride,High,Low,Moderate,[Na+].[Cl-]
+Spirodiclofen (Ref: BAJ 2740),Moderate,High,High,CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)C3=C(C=C(C=C3)Cl)Cl
+Spiromesifen (Ref: BSN 2060),Moderate,High,Moderate,CC1=CC(=C(C(=C1)C)C2=C(C3(CCCC3)OC2=O)OC(=O)CC(C)(C)C)C
+Spiroxamine (Ref: KWG 4168),High,High,Moderate,CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C
+Sulcotrione (Ref: SC 0051),High,Moderate,Moderate,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl
+Sulfentrazone (Ref: FMC 97285),High,Moderate,Moderate,CC1=NN(C(=O)N1C(F)F)C2=CC(=C(C=C2Cl)Cl)NS(=O)(=O)C
+Sulfluramid (Ref: GX 071),Low,Moderate,Low,CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+Sulfosulfuron (Ref: MON 37500),High,Moderate,Moderate,CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC
+Sulfotep (Ref: ENT 16273),Moderate,High,High,CCOP(=S)(OCC)OP(=S)(OCC)OCC
+Sulphur (Ref: SAN 7116),Moderate,High,Low,S
+Sulprofos (Ref: NTN 9306),High,High,High,CCCSP(=S)(OCC)OC1=CC=C(C=C1)SC
+Tau-fluvalinate (Ref: SAN 527l),Moderate,High,High,CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl
+TCA-sodium,High,Low,Low,C(=O)(C(Cl)(Cl)Cl)[O-].[Na+]
+Tebuconazole (Ref: HWG 1608),Moderate,High,High,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O
+Tebufenozide (Ref: RH 5992 2F ),Moderate,Moderate,Low,CCC1=CC=C(C=C1)C(=O)NN(C(=O)C2=CC(=CC(=C2)C)C)C(C)(C)C
+Tebufenpyrad (Ref: AC 801757),Moderate,High,Moderate,CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)C(C)(C)C)C
+Tebutam (Ref: GPC-5544),High,Moderate,Low,CC(C)N(CC1=CC=CC=C1)C(=O)C(C)(C)C
+Tebuthiuron (Ref: EL 103),High,Moderate,Moderate,CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC
+Tecnazene,Moderate,Moderate,Moderate,C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
+Teflubenzuron (Ref: CME 13406),Moderate,High,Low,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F
+Tefluthrin (Ref: R 151993),Moderate,High,High,CC1=C(C(=C(C(=C1F)F)COC(=O)C2C(C2(C)C)C=C(C(F)(F)F)Cl)F)F
+Temephos (Ref: OMS 786),Moderate,High,High,COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC
+Tepraloxydim (Ref: BAS 620H),High,Moderate,High,CCC(=C1C(=O)CC(CC1=O)C2CCOCC2)NOCC=CCl
+Terbacil (Ref: DPX D732),High,Moderate,Moderate,CC1=C(C(=O)N(C(=O)N1)C(C)(C)C)Cl
+Terbufos (Ref: AC 92100),Moderate,High,High,CCOP(=S)(OCC)SCSC(C)(C)C
+Terbumeton (Ref: GS 14259),High,Moderate,Moderate,CCNC1=NC(=NC(=N1)OC)NC(C)(C)C
+Terbuthylazine,Moderate,Moderate,High,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C
+Terbutryn (Ref: GS 14260),Moderate,High,High,CCNC1=NC(=NC(=N1)SC)NC(C)(C)C
+Tetrachlorvinphos (Ref: SD 8447),Moderate,High,High,COP(=O)(OC)OC(=CCl)C1=CC(=C(C=C1Cl)Cl)Cl
+Tetraconazole (Ref: M 14360),High,Moderate,Moderate,C1=CC(=C(C=C1Cl)Cl)C(CN2C=NC=N2)COC(C(F)F)(F)F
+Tetradifon (Ref: ENT 23737),High,Moderate,Low,C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl
+Tetramethrin (Ref: ENT 27339),Moderate,High,High,CC(=CC1C(C1(C)C)C(=O)OCN2C(=O)C3=C(C2=O)CCCC3)C
+Thiabendazole (Ref: MK 360),High,Moderate,Moderate,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+Thiacloprid (Ref: YRC 2894),Moderate,High,High,C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl
+Thiamethoxam (Ref: CGA 293343),High,High,Moderate,CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl
+Thiazafluron,High,Low,Moderate,CNC(=O)N(C)C1=NN=C(S1)C(F)(F)F
+Thiazopyr (Ref: MON 13200),High,Moderate,High,CC(C)CC1=C(C(=NC(=C1C(=O)OC)C(F)F)C(F)(F)F)C2=NCCS2
+Thidiazuron (Ref: SN 49537),Moderate,Moderate,Moderate,C1=CC=C(C=C1)NC(=O)NC2=CN=NS2
+Thifensulfuron-methyl (Ref: DPX M6316),High,Moderate,High,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC
+Thiobencarb (Ref: IMC 3950),Moderate,Moderate,High,CCN(CC)C(=O)SCC1=CC=C(C=C1)Cl
+Thiodicarb (Ref: OMS 3026),Moderate,High,High,CC(=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC)SC
+Thiofanox (Ref: DS 15647),High,High,High,CC(C)(C)C(=NOC(=O)NC)CSC
+Thiometon (Ref: SAN 230),Moderate,High,High,CCSCCSP(=S)(OC)OC
+Thiophanate-methyl (Ref: NF 44),Moderate,High,High,COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC
+Thiourea,High,Moderate,High,C(=S)(N)N
+Thiram (Ref: ENT 987),Moderate,High,High,CN(C)C(=S)SSC(=S)N(C)C
+Tiocarbazil (Ref: M 3432),Moderate,Moderate,Low,CCC(C)N(C(C)CC)C(=O)SCC1=CC=CC=C1
+Tolclofos-methyl (Ref: S 3349 ),Moderate,Moderate,High,CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl
+Tolylfluanid (Ref: BAY 49854),Low,High,Moderate,CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
+Tralkoxydim (Ref: PP 604),Moderate,Moderate,Moderate,CCC(=C1C(=O)CC(CC1=O)C2=C(C=C(C=C2C)C)C)NOCC
+Tralomethrin (Ref: OMS 3048),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C(C(Br)(Br)Br)Br)C
+Triadimefon,Moderate,Moderate,High,CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl
+Triadimenol (Ref: BAY KWG 0519),Moderate,High,High,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O
+Tri-allate (Ref: CP 23426),High,High,High,CC(C)N(C(C)C)C(=O)SCC(=C(Cl)Cl)Cl
+Triasulfuron (Ref: CGA 131036 ),High,Moderate,Moderate,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2OCCCl
+Triazamate (Ref: RH 7988),Moderate,High,High,CCOC(=O)CSC1=NC(=NN1C(=O)N(C)C)C(C)(C)C
+Triazophos (Ref: HOE 002960 ),Moderate,High,High,CCOP(=S)(OCC)OC1=NN(C=N1)C2=CC=CC=C2
+Triazoxide (Ref: SAS 9244),High,High,High,C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-]
+Tribenuron-methyl (Ref: DPX L5300),High,Moderate,High,CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Tribufos,Moderate,High,High,CCCCSP(=O)(SCCCC)SCCCC
+Trichlorfon (Ref: OMS 800),High,High,High,COP(=O)(C(C(Cl)(Cl)Cl)O)OC
+Trichloronate (Ref: BAY 37289),High,High,High,CCOP(=S)(CC)OC1=CC(=C(C=C1Cl)Cl)Cl
+Triclopyr,High,Moderate,High,C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl
+Tricyclazole (Ref: EL 291),High,Moderate,Moderate,CC1=C2C(=CC=C1)SC3=NN=CN23
+Tridemorph (Ref: BAS 2205-F),Moderate,Moderate,High,CCCCCCCCCCCCCN1CC(OC(C1)C)C
+Tridiphane,Moderate,Moderate,High,C1C(O1)(CC(Cl)(Cl)Cl)C2=CC(=CC(=C2)Cl)Cl
+Trietazine (Ref: G 27901),Moderate,Moderate,Moderate,CCNC1=NC(=NC(=N1)Cl)N(CC)CC
+Trifloxystrobin (Ref: CGA 279202),Moderate,High,High,CC(=NOCC1=CC=CC=C1C(=NOC)C(=O)OC)C2=CC(=CC=C2)C(F)(F)F
+Triflumizole (Ref: NF 114 ),Moderate,Moderate,High,CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2
+Triflumuron (Ref: OMS 2015),Moderate,High,Moderate,C1=CC=C(C(=C1)C(=O)NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)Cl
+Trifluralin (Ref: EL 152),High,High,High,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Triflusulfuron-methyl (Ref: DPX 66037),High,Moderate,Moderate,CC1=CC=CC(=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C)C(=O)OC
+Triforine (Ref: AC 902194),Moderate,Moderate,High,C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O
+Trimethacarb (Ref: OMS 597),Moderate,Moderate,High,CC1=CC(=CC(=C1C)C)OC(=O)NC
+Trinexapac-ethyl (Ref: CGA 163935),Moderate,Moderate,Low,CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1
+Triticonazole (Ref: RPA 400727),High,Moderate,Moderate,CC1(CCC(=CC2=CC=C(C=C2)Cl)C1(CN3C=NC=N3)O)C
+Tritosulfuron,High,Moderate,Moderate,COC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(F)(F)F)C(F)(F)F
+Uniconazole (Ref: XE 1019),High,Moderate,Moderate,CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
+Vamidothion (Ref: ENT 26613),High,High,High,CC(C(=O)NC)SCCSP(=O)(OC)OC
+Vernolate (Ref: R-106),Moderate,Moderate,High,CCCN(CCC)C(=O)SCCC
+Vinclozolin (Ref: BAS 352F),Moderate,Moderate,High,CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C
+Warfarin,Moderate,Moderate,High,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+Zeta-cypermethrin (Ref: FMC 56701),Moderate,High,High,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+Zineb (Ref: ENT 14874),Moderate,Moderate,High,C(CNC(=S)[S-])NC(=S)[S-].[Zn+2]
+Ziram,Moderate,High,High,CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]
+Zoxamide (Ref: RH 7281),Moderate,High,Low,CCC(C)(C(=O)CCl)NC(=O)C1=CC(=C(C(=C1)Cl)C)Cl
+Topramezone (Ref: BAS 670 H),High,Moderate,High,CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C
+"Benzo(1,2,3)thiadiazole-7-carboxylic acid (Ref: CGA 210007)",Moderate,Moderate,Moderate,-
+Aldicarb sulfoxide,High,High,High,CC(C)(C=NOC(=O)NC)S(=O)C
+3-phenoxybenzoic acid,Moderate,Moderate,Moderate,C1=CC=C(C=C1)OC2=CC=CC(=C2)C(=O)O
+(E)-2-(2-(6-(2-cyanophenoxy)pyrimidin-4-yloxy)phenyl)-3-methoxyacrylic acid (Ref: R234886),Moderate,Low,Low,-
+4-fluoro-3-phenoxybenzoic acid,High,Moderate,Low,C1=CC=C(C=C1)OC2=C(C=CC(=C2)C(=O)O)F
+"3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid",Moderate,Moderate,Moderate,-
+Bifenox acid,High,Low,Low,C1=CC(=C(C=C1OC2=C(C=C(C=C2)Cl)Cl)C(=O)O)[N+](=O)[O-]
+"1,2,4-triazole (Ref: CGA 71019)",Moderate,High,Moderate,C1=NC=NN1
+Tetrahydrophthalimide,High,Moderate,Low,C1C=CCC2C1C(=O)NC2=O
+1-naphthol,Low,Moderate,Moderate,C1=CC=C2C(=C1)C=CC=C2O
+2-aminobenzimidazole,High,Low,Moderate,C1=CC=C2C(=C1)NC(=N2)N
+Carboxin sulfoxide,High,Moderate,Low,CC1=C(S(=O)CCO1)C(=O)NC2=CC=CC=C2
+"3-(2-chloro-5-(4-(difluoromethyl)-3-methyl-5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)-4-fluorophenyl)propanoic acid",Moderate,Moderate,High,O=C(O)CCc1cc(c(F)cc1Cl)N2N=C(C)N(C2=O)C(F)F
+"(2E)-3-(2-chloro-5-(4-(difluoromethyl)-3-methyl-5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)-4-fluorophenyl)acrylic acid",Moderate,Moderate,High,O=C(O)/C=C/c1cc(c(F)cc1Cl)N2N=C(C)N(C2=O)C(F)F
+Oxychlordane,Low,High,Moderate,C12C(C(C3(C1O3)Cl)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl
+"4-hydroxy-2,5,6-trichloroisophtalonitrile (Ref: R182281)",Moderate,Moderate,High,-
+"3,5,6-trichloro-2-pyridinol",High,High,Moderate,C1=C(C(=O)NC(=C1Cl)Cl)Cl
+Clethodim sulfoxide,High,Moderate,Low,CCC(=NOCC=CCl)C1=C(CC(CC1=O)CC(C)S(=O)CC)O
+"2,4-dichloroaniline",Moderate,Moderate,Moderate,C1=CC(=C(C=C1Cl)Cl)N
+Cycloxydim sulfoxide (Ref: BH 517-TSO),Moderate,Low,Low,-
+"N-cyclopropylmethoxy-2,3-difluoro-6-trifluoromethylbenzamidine (Ref: 149-F)",High,Moderate,Low,-
+"((Z)-N-(alpha-cylcopropylmethoxyimino-2,3-difluoro-6-trifluoromethylbenzyl)carbamoylacetic acid (Ref: 149-F11)",High,Moderate,Moderate,-
+Bromoxynil-octanoate,Moderate,High,High,CCCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br
+Cyhalofop,Moderate,Moderate,Low,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F
+Cyhalofop diacid (Ref: XDE-537 ),Moderate,Moderate,Low,-
+4-cyclopropyl-6-methyl-pyrimidine-2-ylamine (Ref: CGA 249287),High,Moderate,Low,-
+Melamine (Ref: CGA 235129),High,Moderate,Low,C1(=NC(=NC(=N1)N)N)N
+Thiocyclam oxalate (Ref: SAN 1551),High,High,Moderate,CN(C)C1CSSSC1.C(=O)(C(=O)O)O
+DDE (Ref: HSDB 1625),High,High,High,C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl
+DDD (Ref: ENT 4225),High,High,High,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl
+Decamethrinic acid (Ref: AE F108565),High,High,Low,CC1(C(C1C(=O)O)C=C(Br)Br)C
+Ethyl 3-hydroxycarbamate,Moderate,Moderate,High,CCOC(=O)NC1=CC(=CC=C1)O
+Pyrimidinol (Ref: GS-27550),High,Low,Low,CC1=CC(=O)N=C(N1)C(C)C
+"3,6-dichlorosalicylic acid (Ref: NOA 414746)",Moderate,Moderate,Moderate,C1=CC(=C(C(=C1Cl)C(=O)O)O)Cl
+Dimethylaminosulfanilide,High,Moderate,Moderate,CN(C)S(=O)(=O)NC1=CC=CC=C1
+"2,4-dichlorophenol",Moderate,High,High,C1=CC(=C(C=C1Cl)Cl)O
+Diclofop (Ref: AE F021079),Moderate,Moderate,Moderate,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl
+2-(3-trifluoromethylphenoxy)nicotinamide (Ref: AE-0542291),High,Moderate,Low,-
+2-(3-trifluoromethylphenoxy)nicotinic acid (Ref: AE-B107137),High,Moderate,Moderate,-
+"2-((2,4-dimethyl-3-thienyl)-((1S)-2-methoxy-1-methyl-ethyl)amino)-2-oxo-acetic acid (Ref: M656PH023)",High,Moderate,Low,-
+"2-((2,4-dimethyl-3-thienyl)-((1S)-2-methoxy-1-methyl-ethyl)amino)-2-oxo-ethanesulfonic (Ref: M656PH027)",High,Moderate,Low,-
+(E-O-(2-hydroxycarbonyl-5-methyl)phenoxymethyl)-2-methoxyimino-N-methylphenyl acetamide (Ref: BF 505-7),High,Low,Moderate,-
+(E-O-(5-hydroxycarbonyl-2-methyl)phenoxymethyl)-2-methoxyimino-N-methylphenyl acetamide (Ref: BF 505-8),High,Low,Moderate,-
+Endosulfan sulfate,Low,High,High,C1C2C(COS(=O)(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+"2-amino-4,6-dimethoxypyrimidine (Ref: AE-F092944)",Moderate,Moderate,Moderate,COc1cc(OC)nc(N)n1
+"(S)-5-methyl-5-phenylimidazolidine-2,4-dione (Ref: RPA 412636)",High,Moderate,Moderate,CC1([11C](=O)NC(=O)N1)C2=CC=CC=C2
+"(S)-5-methyl-2-methylthio-5-phenyl-3,5-dihydroimidazol-4-one (Ref: RPA 412708)",High,Moderate,Moderate,-
+Fenamiphos sulfoxide,Moderate,High,Moderate,CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)S(=O)C)C
+4-hydroxyquinazoline,Moderate,Moderate,Moderate,C1=CC=C2C(=C1)C(=O)N=CN2
+4-tert-butylphenylethyl alcohol,Moderate,Moderate,Low,-
+3-methyl-4-nitrophenol,Moderate,Moderate,Moderate,CC1=C(C=CC(=C1)O)[N+](=O)[O-]
+Fenthion sulfoxide (Ref: BAY S 2281),Moderate,High,High,CC1=C(C=CC(=C1)OP(=S)(OC)OC)S(=O)C
+"1-(4,6-dimethoxypyrimidin-2-yl)-1-(3-trifluoromethyl-2-pyridyl)urea",High,Moderate,Moderate,O=C(N)N(c1nc(cc(OC)n1)OC)c2ncccc2C(F)(F)F
+3-trifluoromethyl-2-pyridylsulfonamide,High,Moderate,Moderate,O=S(N)(=O)c1ncccc1C(F)(F)F
+"4,6-dimethoxy-N-(3-(trifluoromethyl)pyridin-2-yl)pyrimidin-2-amine",High,Moderate,Low,FC(F)(F)c2cccnc2Nc1nc(cc(OC)n1)OC
+4-trifluoromethylnicotinic acid,High,Moderate,Low,C1=CN=CC(=C1C(F)(F)F)C(=O)O
+N-(4-trifluoromethyl-nicotinoyl)glycinamide,High,Moderate,Low,-
+"N-(2,6-difluorophenyl)-8-fluoro-5-hydroxy(1,2,4)triazolo(1,5-c)pyrimidine-2-sulfonamide",High,Moderate,Low,-
+"5-(aminosulfonyl)-1H-1,2,4-triazole-3-carboxylic acid",High,High,Low,-
+Flufenacet sulphonic acid (Ref: AE 0841914),High,Moderate,Low,CC(C)N(C1=CC=C(C=C1)F)C(=O)CS(=O)(=O)O
+Flufenacet oxalate (Ref: AE 0841913),High,Moderate,Low,CC(C)N(C1=CC=C(C=C1)F)C(=O)C(=O)O
+"4-N-[3-chloro-5-trifluoromethyl-pyridin-2-yl-(hydroxyl)methyl]-2,6-dichlorobenzamide (Ref: AE-0608000)",Moderate,Moderate,Moderate,-
+"2,6-dichlorobenzamide (Ref: AE C653711)",High,Moderate,Moderate,C1=CC(=C(C(=C1)Cl)C(=O)N)Cl
+3-chloro-5-trifluoromethyl-pyridine-2-carboxylic acid (Ref: AE-C657188),High,Moderate,Low,Clc1cc(cnc1C(=O)O)C(F)(F)F
+Acifluorfen (Ref: RH 5781),High,Moderate,Moderate,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)O
+"(E)-5,6-dihydro-1,4,2-dioxazin-3-yl[2-(5-fluoro-6-hydroxypyrimidin-4-yloxy)phenyl]methanone O-methyloxime (Ref: HEC 7155)",High,Low,Low,-
+"N-(4,6-dimethoxypyrimidine-2-yl)-N-(3-methoxycarbonyl-6-trifluoromethylpyridine-2-yl)-amine (Ref: IN KY374)",High,Low,Low,-
+"1-(4,6-dimethoxypyrimidine-2-yl)-2,4-diketo-7-trifluoro-methyl-1,2,3,4-tetrahydropyridol(2,3-d)pyrimidine (Ref: IN JV460)",High,Moderate,Low,-
+Trifluoroethanoic acid,High,Low,Low,C(=O)(C(F)(F)F)O
+3-trifluoromethylbenzoic acid (Ref: RE-54488),High,Moderate,Low,C1=CC(=CC(=C1)C(F)(F)F)C(=O)O
+Phthalimide,Moderate,Moderate,Moderate,C1=CC=C2C(=C1)C(=O)NC2=O
+Phthalic acid,Moderate,Low,High,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+Phthalamic acid,High,Low,Moderate,C1=CC=C(C(=C1)C(=O)N)C(=O)O
+3-chloroallyl alcohol,High,Moderate,Moderate,C(C=CCl)O
+2-butanesulfonic acid,High,Moderate,Moderate,CCC(C)S(=O)(=O)O
+Aminomethylphosphonic acid,High,Moderate,Moderate,C(N)P(=O)(O)O
+3-chloro-1-methyl-5-(trifluoromethyl)-2(1H)-pyridinone,High,Moderate,Moderate,-
+Heptachlor epoxide (Ref: ENT 25584),Low,High,High,C12C(C(C3C1O3)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl
+Trans-5-(4-chlorophenyl)-4-methyl-2-oxothiazolidine (Ref: PT-1-3),Moderate,Moderate,Moderate,-
+"2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-3,5,pyridinecarboxylic acid (Ref: CL 312622)",Moderate,Moderate,Low,CC1(N=C(NC1=O)c2ncc(cc2C(=O)O)C(=O)O)C(C)C
+"5-hydroxy-6-((4RS)-4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)nicotinic acid (Ref: CL-354825)",High,Moderate,Low,CC1(N=C(NC1=O)c2ncc(cc2O)C(=O)O)C(C)C
+6-chloronicotinic acid (Ref: IC-0),Moderate,Moderate,Low,C1=CC(=NC=C1C(=O)O)Cl
+"Methyl-7-chloro-2,5-dihydro-2-(((trifluoromethoxy)phenyl)amino)carbonyl(indeno(1,3,4)oxadiazine-4a(3H)-carboxylate (Ref: IN JT333)",High,High,High,FC(F)(F)Oc1ccc(cc1)NC(=O)N2N=C3c4ccc(Cl)cc4C[C@]3(OC2)C(=O)OC
+"(E)-methyl 5-chloro-2,3-dihydro-2-hydroxy-1-((((methoxycarbonyl)(4-trifluoromethoxy)phenyl)amino)carbonyl)hydrazono)-1H-indene-2-carboxylate (Ref: IN KG433)",Moderate,Moderate,Moderate,-
+(4-trifluoromethoxy)phenyl urea (Ref: IN MK638),Moderate,Moderate,Moderate,C1=CC(=CC=C1NC(=O)N)OC(F)(F)F
+"N-(3,5-dichlorophenyl)3-isopropyl-2,4-dioxoimidazoline-1-carboxamide (Ref: RP-30228)",Moderate,Moderate,High,O=C2N(c1cc(Cl)cc(Cl)c1)C(=O)CN2C(=O)NC(C)C
+"1-(3,5-dichlorophenyl)-5-isopropyl biuret (Ref: RP 36221)",High,Moderate,Low,-
+"N-(3-(1-hydroxy-1-methyl-propyl)-5-isoxazolyl)-2,6,dimethoxybenzamide",High,Moderate,Low,-
+(2RS)-3-cyclopropyl-2-(2-(methylsulfonyl)-4-(trifluoromethyl)benzoyl)-3-oxopropanenitrile (Ref: RPA 202248),High,Moderate,Moderate,CS(=O)(=O)c1cc(ccc1C(=O)C(C#N)C(=O)C2CC2)C(F)(F)F
+2-mesyl-4-trifloromethylbenzoic acid (Ref: RPA 203328),High,Low,Low,FC(F)(F)c1ccc(c(c1)S(C)(=O)=O)C(O)=O
+(E)-methoxyamino(alpha-(o-tolyloxy)-o-tolyl)acetic acid (Ref: BF 490-1),High,Low,Moderate,-
+Malathion monocarboxylic acid (Ref: MMCA),Low,Moderate,Low,CCOC(=O)CC(C(=O)O)SP(=S)(OC)OC
+Ethylenethiourea,High,High,High,C1CNC(=S)N1
+Ethylene urea,High,Moderate,Moderate,C1CNC(=O)N1
+Etem,Moderate,High,Moderate,C1CN2C(=N1)SSC2=S
+4-chloro 2-methylphenol,Moderate,Moderate,Moderate,CC1=C(C=CC(=C1)Cl)O
+Paraffin oil (CAS No. 72623-86-0),Moderate,High,High,-
+"4,6-dimethoxypyrimidine-2-yl-urea (Ref: AE-F099095)",Moderate,Moderate,Low,O=C(N)Nc1nc(cc(OC)n1)OC
+Mesosulfuron (Ref: AE F154851),High,Moderate,Moderate,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)O)OC
+4-methylsulfonyl-2-nitrobenzoic acid,High,Low,Low,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)O)[N+](=O)[O-]
+2-amino-4-methylsulfonylbenzoic acid,Moderate,Low,Low,-
+"N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alanine (Ref: CGA 62826)",High,Low,Low,CC(N(C(=O)COC)c1c(C)cccc1C)C(=O)O
+Methyl isothiocyanate (Ref: SN-32866),High,High,High,CN=C=S
+Desamino-metamitron,High,Moderate,Low,CC1=NC(=O)C(=NN1)C2=CC=CC=C2
+Metazachlor oxalic acid (Ref: BH 479-4),High,Moderate,Low,-
+Metazachlor sulfonic acid (Ref: BH 479-8),High,Moderate,Low,-
+Methiocarb sulfoxide,High,High,High,CC1=CC(=CC(=C1S(=O)C)C)OC(=O)NC
+Methiocarb sulfoxide phenol,High,Low,Low,-
+Methiocarb sulfone phenol,Moderate,Moderate,Low,-
+Diketo-metribuzin (Ref: BCS-AG59919),High,Moderate,Moderate,O=C(NN=C1C(C)(C)C)N(N)C1=O
+Desaminodiketo-metribuzin (Ref: BCS-AA68848),High,Moderate,Moderate,CC(C)(C)C1=NNC(=O)NC1=O
+Methyl 2-sulfamoylbenzoate (Ref: IN D5803),High,Low,Low,O=S(N)(=O)c1ccccc1C(=O)OC
+"1,2-benzisothiazol-3(2H)-one,1,1-dioxide (Ref: IN 00581)",High,High,Low,C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+3-(ethylsulfonyl)-2-pyridinesulfonamide (Ref: IN E9260),High,Moderate,Low,CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)N
+3-chloro-4-methylaniline,Moderate,Moderate,Moderate,CC1=C(C=C(C=C1)[N+](=O)[O-])Cl
+3-aminophenol,High,Moderate,Moderate,C1=CC(=CC(=C1)O)N
+"8-(2,6-diethyl-4-methylphenyl)-tetrahydropyrazolo-1,2-d (Ref: NOA 407854)",High,Moderate,Low,-
+"8-(2,6-diethyl-4-methyl-phehyl)-8-hydroxy-tetrahydropyrazolo(1,2-d)(1,4,5)oxadiazepine-7,9-dione (Ref: NOA 447204)",High,Low,Low,-
+"2-dimethylamino-5,6-dimethylpyrimidin-4-ol (Ref: R31805)",High,Low,Moderate,-
+"5,6-dimethyl-2-(methylamino)pyrimidin-4-ol (Ref: R34865)",Moderate,Low,Low,Cc1cccc(C)c1O
+"5,6-dimethyl-2-(methylformamido)pyrimidin-4-yl dimethylcarbamate (Ref: R34885)",Moderate,High,High,-
+"3,4-dichloroaniline",Moderate,High,High,C1=CC(=C(C=C1N)Cl)Cl
+Aniline,High,High,High,C1=CC=C(C=C1)N
+Propylene urea,High,Moderate,Low,C1CNC(=O)NC1
+"2-(3,3,3-trifluoropropyl)phenyl sulfonamide (Ref: CGA 159902)",High,Moderate,Low,-
+"Alpha-(1-chlorocyclopropyl)-alpha-o(2-chlorophenyl)methyl-1H-1,2,4-triazole-1-ethanol",Moderate,High,High,-
+Pyridafol (Ref: CL 9673),High,Moderate,Low,C1=CC=C(C=C1)C2=NNC(=CC2=O)Cl
+"2-amino-4,6-dimethylpyrimidine (Ref: AE-F1312593)",Moderate,Moderate,Moderate,CC1=CC(=NC(=N1)N)C
+Pentachlorobenzene,High,Moderate,High,C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl
+Benzaldehyde,High,Moderate,Moderate,C1=CC=C(C=C1)C=O
+Benzyl alcohol,Moderate,Moderate,Moderate,C1=CC=C(C=C1)CO
+"2,4,5-trichlorophenol",Moderate,Moderate,High,C1=C(C(=CC(=C1Cl)Cl)Cl)O
+Paraffin oil (CAS No: 97862-82-3),Moderate,High,High,-
+Thiophene sulfonamide (Ref: IN W8268),High,Moderate,Low,C1=CSC(=C1)S(=O)(=O)N
+Thifensulfuron (Ref: IN L9225),High,Moderate,High,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)O
+Thiometon sulfoxide,High,Moderate,Moderate,CCS(=O)CCSP(=S)(OC)OC
+"N,N-dimethyl-N'-p-tolysulphamide",Moderate,Moderate,Low,CC1=CC=C(C=C1)NS(=O)(=O)N(C)C
+N-methyl triazine amine (Ref: IN L5296),High,Moderate,Moderate,-
+Isocarbophos (Ref: BAY 93820),Moderate,High,High,CC(C)OC(=O)C1=CC=CC=C1OP(=S)(N)OC
+Didecyldimethylammonium chloride (Ref: P0151),Low,High,Moderate,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-]
+4-chloro-2-(trifluoromethyl)aniline (Ref: FA-1-1),Moderate,Moderate,Moderate,C1=CC(=C(C=C1Cl)C(F)(F)F)N
+"(1R,3R,E)-3-(4-chlorobenzylidene)-5,5-dimethyl-1-((1H)-1,2,4-triazol-1-ylmethyl)-cyclopentan-1,3-diol (Ref: RPA 406341)",High,Moderate,Low,-
+"(E)-2-(4-chlorobenzylidene)-5,5-dimethyl-1-((1H)-1,2,4-triazol-1-ylmethyl)-cyclopentan-1,3-diol (Ref: RPA 404766)",High,Low,Low,-
+"2-dodecyl-3-hydroxy-1,4-naphthoquinone",Low,High,Low,CCCCCCCCCCCCC1=C(C2=CC=CC=C2C(=O)C1=O)O
+Fenoxaprop-P (Ref: AE-F088406),Moderate,Moderate,High,CC(C(=O)O)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl
+Chlorobenzoxazolone (Ref: AE-F054014),Moderate,Moderate,Moderate,C1=CC2=C(C=C1Cl)NC(=O)O2
+Methyl 2-(dimethylamino)-N-(((methylamino)carbonyl)oxy)-2-oxoethanimidothioate (Ref: IN A2213),High,Low,Low,CN(C)C(=O)C(=NO)SC
+"N,N’-dimethyloxamic acid (Ref: IN D2708)",High,Moderate,Low,-
+2-chloro-4-methylsulfonyl-benzoic acid,High,Low,Low,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)O)Cl
+Benalaxyl-M (Ref: IR 6141),High,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2
+Pethoxamid (Ref: ASU 96 520H),Moderate,Moderate,Moderate,CCOCCN(C(=O)CCl)C(=C(C)C)C1=CC=CC=C1
+N-(2-ethoxyethyl)-N-(2-methyl-1-phenyl-1-propenyl)-2-sulfoacetamide,High,Moderate,Low,c1ccccc1C(=C(C)C)N(CCOCC)C(=O)CS(=O)(=O)O
+Sulfosulfuron sulfonamide (Ref: MON 52729),High,Low,Low,NS(=O)(=O)c1c(nc2ccccn12)S(=O)(=O)CC
+2-propoxy-3-propylquinazolin-4(3H)-one (Ref: IN MM671),High,Moderate,Low,-
+Acrolein,High,High,High,C=CC=O
+Bistrifluron (Ref: DBI-3204),High,Moderate,Moderate,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=CC(=C2Cl)C(F)(F)F)C(F)(F)F)F
+Carpropamid (Ref: KTU 3616),Low,Moderate,Low,CCC1(C(C1(Cl)Cl)C)C(=O)NC(C)C2=CC=C(C=C2)Cl
+Cinmethylin (Ref: BAS 684 H),Moderate,Moderate,Moderate,CC1=CC=CC=C1COC2CC3(CCC2(O3)C)C(C)C
+Cyanophos (Ref: OMS 226),Moderate,High,High,COP(=S)(OC)OC1=CC=C(C=C1)C#N
+Hydroprene (Ref: OMS 1696),Moderate,High,Moderate,CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C
+Imibenconazole (Ref: HF 6305),Moderate,Moderate,Low,C1=CC(=CC=C1CSC(=NC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3)Cl
+S-metolachlor (Ref: CGA 77102),Moderate,Moderate,High,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C
+Profoxydim (Ref: BAS 625H),Moderate,Moderate,High,CCCC(=C1C(=O)CC(CC1=O)C2CCCSC2)NOCC(C)OC3=CC=C(C=C3)Cl
+Metolachlor ethane sulfonic acid (Ref: CGA 354743),High,Moderate,Low,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C
+"2-(2,4-dichlorophenyl)-3-(1H-1,2,4-triazol-1-yl)propan-1-ol (Ref: M14360-alcohol)",High,Moderate,Low,-
+"1H-1,2,4-triazol-1-ylacetic acid (Ref: CGA 142856)",High,Low,Low,-
+6-fluoro-2-hydroxybenzothiazole (Ref: KIF-230-M1),High,Moderate,Moderate,Fc1ccc2NC(=O)Sc2c1
+1-(6-fluoro-2-benzothiazol-2-yl)ethanol (Ref: KIF 230-M3),Moderate,Moderate,Low,-
+1-(6-fluoro-2-benzothiazolyl)ethylamine (Ref: KIF 230-M5),Moderate,Moderate,Moderate,-
+"1-(2-(2-chloro-4-(4-chloro-phenoxy)-phenyl)-2-1H-(1,2,4)triazol-yl)-ethanol (Ref: CGA 205375)",High,Moderate,Low,-
+"N-(2,6-dimethylphenyl)-N-(2-methoxyethyl)oxalamic acid (Ref: CGA 50266)",High,Low,Low,-
+"((2,6-dimethylphenyl)-2-methoxyethyl)carbamoyl)methanesulfonic acid sodium salt (Ref: CGA 354742)",High,Low,Low,Na+].COCCN(C(=O)CS(=O)(=O)[O-])c1c(C)cccc1C
+Dodemorph acetate (Ref: BAS 238F),Moderate,Moderate,Moderate,CC1CN(CC(O1)C)C2CCCCCCCCCCC2.CC(=O)O
+"2,4-dichlorobenzoic acid",High,Moderate,Moderate,C1=CC(=C(C=C1Cl)Cl)C(=O)O
+"2,5-dichloro-4-(1,1,2,3,3,3-hexafluoro-propoxy)-phenylamine (Ref: CGA 224443)",Moderate,Moderate,Moderate,-
+Anilino acid,Moderate,Moderate,Moderate,-
+Haloaniline,Moderate,Moderate,Moderate,C1=CC(=C(C=C1C(F)(F)F)Cl)N
+Bromoxynil-heptanoate,Low,High,High,-
+Glyphosate-trimesium,Moderate,Moderate,Moderate,C[S+](C)C.C(C(=O)O)NCP(=O)(O)[O-]
+Ioxynil octanoate,Moderate,High,High,CCCCCCCC(=O)OC1=C(C=C(C=C1I)C#N)I
+Nitrothal-isopropyl (Ref: BAS 300 OOF),High,Moderate,Low,CC(C)OC(=O)C1=CC(=CC(=C1)[N+](=O)[O-])C(=O)OC(C)C
+Thiocyclam,High,High,Moderate,CN(C)C1CSSSC1
+Haloxyfop (Ref: DOWCO 453),High,Moderate,Moderate,CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl
+Haloxyfop-etotyl (Ref: DOWCO 453EE),Moderate,Moderate,Moderate,CCOCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl
+Haloxyfop-P-methyl (Ref: DE 535),Low,High,Moderate,CC(C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl
+Ditalimfos (Ref: DOWCO 199),Moderate,Moderate,High,CCOP(=S)(N1C(=O)C2=CC=CC=C2C1=O)OCC
+Calcium phosphide,Low,High,High,[P-3].[P-3].[Ca+2].[Ca+2].[Ca+2]
+"2,5-dichlorobenzoic acid methyl ester",Moderate,Moderate,Moderate,COC(=O)C1=C(C=CC(=C1)Cl)Cl
+"N-(2,6-dichloro-3-methylphenyl)-5-methoxy-7-hydroxy-1,2,4-triazolo(1,5-alpha)pyrimidine-2-sulfonamide",Moderate,Low,Low,-
+"N,N-dimethyl-6-(2,2,2-trifluoroethoxy)-1,3,5-triazine-2,4-diamine (Ref: IN D8526)",Moderate,Moderate,Moderate,-
+N-desmethyl triazine amine (Ref: IN E7710),High,Moderate,Moderate,-
+"N,N-bis-desmethyl triazine amine (Ref: IN M7222)",High,Moderate,Moderate,-
+Iminoctadine triacetate (Ref: DF 125),High,Moderate,Moderate,CC(=O)O.CC(=O)O.CC(=O)O.C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N
+Benazolin-ethyl,Moderate,High,Low,CCOC(=O)CN1C2=C(C=CC=C2Cl)SC1=O
+Butroxydim (Ref: ICIA0500),Moderate,Moderate,Moderate,CCCC(=O)C1=C(C(=C(C=C1C)C)C2CC(=O)C(=C(CC)NOCC)C(=O)C2)C
+Disulfoton sulfoxide (Ref: BAY 23323),Moderate,High,High,CCOP(=S)(OCC)SCCS(=O)CC
+Magnesium phosphide,Low,High,High,[Mg+2].[Mg+2].[Mg+2].[P-3].[P-3]
+2-chlorobenzenesulfonamide (Ref: IN A4097),High,Moderate,Low,C1=CC=C(C(=C1)S(=O)(=O)N)Cl
+"2-amino-4-methoxy-6-methyl-1,3,5-triazine (Ref: CGA 150829)",High,Moderate,Moderate,CC1=NC(=NC(=N1)OC)N
+Quizalofop (Ref: CGA 287422),Moderate,Moderate,Moderate,CC(C(=O)O)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+Sodium 5-nitroguaiacolate,Moderate,Moderate,Moderate,COC1=C(C=C(C=C1)[N+](=O)[O-])[O-].[Na+]
+Sodium o-nitrophenolate,Moderate,Moderate,Moderate,C1=CC=C(C(=C1)[N+](=O)[O-])[O-].[Na+]
+Sodium p-nitrophenolate,Moderate,Moderate,Moderate,C1=CC(=CC=C1[N+](=O)[O-])[O-].[Na+]
+Dioxathion (Ref: Hercules AC25),Moderate,High,High,CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC
+"2-amido-3,5,6-trichlo-4-cyanobenzenesulphonic acid (Ref: R417888)",High,Moderate,Low,-
+"3-carbamyl-2,4,5-trichlorobenzoic acid (Ref: R611965)",High,Low,Moderate,-
+5-amino-4-chloro-3(2H)-pyridazinone,High,Moderate,Low,NC=1/C=N\NC(=O)C=1Cl
+5-amino-4-chloro-2-methyl-3(2H)-pyridazinone,High,Moderate,Moderate,Cl\C1=C(\C=N/N(C1=O)C)N
+Barban (Ref: A-980),Moderate,Moderate,Moderate,C1=CC(=CC(=C1)Cl)NC(=O)OCC#CCCl
+Chlorthiophos (Ref: ENT 27635),Low,Moderate,High,CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)Cl)SC
+Monocrotophos (Ref: ENT 27129),High,High,High,C/C(=C\C(=O)NC)/OP(=O)(OC)OC
+Dikegulac,High,Moderate,Low,CC1(OCC2C(O1)C3C(O2)(OC(O3)(C)C)C(=O)O)C
+Benzthiazuron (Ref: BAY 60618 ),High,Low,Moderate,CNC(=O)NC1=NC2=CC=CC=C2S1
+Halosulfuron-methyl (Ref: CGA 288239),Moderate,Moderate,High,CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Tembotrione (Ref: AE 0172747),High,Moderate,Moderate,CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)COCC(F)(F)F
+Spirotetramat (Ref: BYI 08330),Moderate,Moderate,Moderate,CCOC(=O)OC1=C(C(=O)NC12CCC(CC2)OC)C3=C(C=CC(=C3)C)C
+Fluroxypyr-meptyl,Moderate,Moderate,High,CCCCCCC(C)OC(=O)COC1=NC(=C(C(=C1Cl)N)Cl)F
+MCPA-thioethyl,High,High,Moderate,CCSC(=O)COC1=C(C=C(C=C1)Cl)C
+Sodium chlorate,High,Moderate,Low,[O-]Cl(=O)=O.[Na+]
+Fluorodifen (Ref: C 6989),Moderate,Moderate,Low,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]
+Dichlone (Ref: USR 604),Moderate,High,Moderate,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
+Fenaminosulf (Ref: BAY 5027),High,Moderate,High,CN(C)C1=CC=C(C=C1)N=NS(=O)(=O)[O-].[Na+]
+Kinoprene,Low,Moderate,Low,CC(C)CCCC(C)CC=CC(=CC(=O)OCC#C)C
+Flubendiamide (Ref: NNI-0001),High,High,High,CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C
+Pyroxsulam (Ref: XDE 742),High,Moderate,Moderate,COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC
+Orthosulfamuron (Ref: IR5878),Moderate,Moderate,High,CN(C)C(=O)C1=CC=CC=C1NS(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Chromafenozide (Ref: ANS 118),High,Moderate,Moderate,CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C3=C(C=C2)OCCC3)C)C
+Amisulbrom,Moderate,High,High,CC1=C(C2=C(N1S(=O)(=O)C3=NN(C=N3)S(=O)(=O)N(C)C)C=C(C=C2)F)Br
+Chlorantraniliprole (Ref: DPX E2Y45),High,High,Moderate,CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
+Pyridalyl (Ref: S-1812),High,High,Moderate,C1=CC(=NC=C1C(F)(F)F)OCCCOC2=C(C=C(C=C2Cl)OCC=C(Cl)Cl)Cl
+Ipconazole (Ref: KNF 317),High,High,Moderate,CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl
+"2,3,3-trichloro-2-propene sulfonic acid",High,Low,Low,C(C(=C(Cl)Cl)Cl)S(=O)(=O)O
+Orysastrobin,High,Moderate,Moderate,CC(=NOC)C(=NOC)C(=NOCC1=CC=CC=C1C(=NOC)C(=O)NC)C
+Cyflumetofen (Ref: OK-5101),Moderate,High,Moderate,CC(C)(C)C1=CC=C(C=C1)C(C#N)(C(=O)C2=CC=CC=C2C(F)(F)F)C(=O)OCCOC
+Spinetoram (Ref: XDE 175),Moderate,High,Moderate,CCC1CCCC(C(C(=O)C2=CC3C(C2CC(=O)O1)CCC4C3CC(C4)OC5C(C(C(C(O5)C)OC)OCC)OC)C)OC6CCC(C(O6)C)N(C)C
+Chlorimuron-ethyl (Ref: DPX F6025),High,Moderate,Moderate,CCOC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)Cl)OC
+Ethametsulfuron-methyl (Ref: DPX-A7881),Moderate,Moderate,Moderate,CCOC1=NC(=NC(=N1)NC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Cyclosulfamuron (Ref: BAS 710H),Moderate,Moderate,Low,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)NC2=CC=CC=C2C(=O)C3CC3)OC
+Pyrazosulfuron-ethyl (Ref: NC 311),Moderate,Moderate,Low,CCOC(=O)C1=C(N(N=C1)C)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Sulfometuron-methyl (Ref: DPX T5648),High,Moderate,Low,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C
+Trifloxysulfuron (Ref: CGA 292230),High,Moderate,Low,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)OCC(F)(F)F)OC
+Trifloxysulfuron-sodium (Ref: CGA 362622),Moderate,Moderate,Low,COC1=CC(=NC(=N1)NC(=O)[N-]S(=O)(=O)C2=C(C=CC=N2)OCC(F)(F)F)OC.[Na+]
+Imazapic (Ref: AC 263222),High,Moderate,Low,CC1=CN=C(C(=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C
+Cloransulam-methyl (Ref: XDE 565),High,Moderate,Low,CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)C(=O)OC)F
+Diclosulam (Ref: XDE 564),Moderate,Moderate,Low,CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)Cl)F
+Pyribenzoxim (Ref: LGC 40863 ),Moderate,Low,Low,COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)ON=C(C4=CC=CC=C4)C5=CC=CC=C5)OC
+Flucarbazone-sodium (Ref: BAY MKH 6562),High,Moderate,Low,CN1C(=NN(C1=O)C(=NS(=O)(=O)C2=CC=CC=C2OC(F)(F)F)[O-])OC.[Na+]
+Dimethametryn (Ref: C 18898),High,Moderate,Low,CCNC1=NC(=NC(=N1)SC)NC(C)C(C)C
+Amicarbazone (Ref: BAY MKH 3586),High,Moderate,Moderate,CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C
+Lactofen (Ref: PPG 844),Moderate,Moderate,High,CCOC(=O)C(C)OC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Flumiclorac-pentyl (Ref: S 23031),High,Moderate,Low,CCCCCOC(=O)COC1=C(C=C(C(=C1)N2C(=O)C3=C(C2=O)CCCC3)F)Cl
+Pentoxazone (Ref: KPP-314),Moderate,Moderate,Low,CC(=C1C(=O)N(C(=O)O1)C2=CC(=C(C=C2F)Cl)OC3CCCC3)C
+Butafenacil (Ref: CGA 276854),Moderate,High,Low,CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
+"1-carboxy-1-methylethyl 2-chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidinyl] benzoate (Ref: CGA 293730)",High,Moderate,Low,-
+Pyraclonil (Ref: NAI-1886),Moderate,Moderate,High,CN(CC#C)C1=C(C=NN1C2=NN3CCCCC3=C2Cl)C#N
+Benzofenap (Ref: MY 71),Moderate,Moderate,Low,CC1=CC=C(C=C1)C(=O)COC2=C(C(=NN2C)C)C(=O)C3=C(C(=C(C=C3)Cl)C)Cl
+Benzobicyclon (Ref: SB 500),Moderate,Moderate,Moderate,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2=C(C3CCC(C3)C2=O)SC4=CC=CC=C4)Cl
+Thenylchlor (Ref: NSK 850),Moderate,Moderate,Low,CC1=C(C(=CC=C1)C)N(CC2=C(C=CS2)OC)C(=O)CCl
+Naproanilide,Moderate,Moderate,Moderate,CC(C(=O)NC1=CC=CC=C1)OC2=CC3=CC=CC=C3C=C2
+Fentrazamide (Ref: BAY YRC 2388),High,Moderate,Low,CCN(C1CCCCC1)C(=O)N2C(=O)N(N=N2)C3=CC=CC=C3Cl
+Anilofos (Ref: HOE 30374),Moderate,Moderate,High,CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC
+Piperophos (Ref: C 19 490),Moderate,High,High,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C
+Esprocarb (Ref: C 14526),High,Moderate,Low,CCN(C(C)C(C)C)C(=O)SCC1=CC=CC=C1
+Flupropanate-sodium (Ref: Orga 3045),High,Low,Low,C(C(C(=O)[O-])(F)F)(F)F.[Na+]
+Diflufenzopyr (Ref: HSDB 7010),Moderate,Moderate,High,CC(=NNC(=O)NC1=CC(=CC(=C1)F)F)C2=C(C=CC=N2)C(=O)O
+Indanofan (Ref: MK 243),Moderate,Moderate,Moderate,CCC1(C(=O)C2=CC=CC=C2C1=O)CC3(CO3)C4=CC(=CC=C4)Cl
+Cyphenothrin (Ref: S 2703),Moderate,High,Moderate,CC(=CC1C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C
+Fenobucarb (Ref: BAY 41367C),Moderate,Moderate,High,CCC(C)C1=CC=CC=C1OC(=O)NC
+XMC (Ref: H 69),Moderate,High,High,CC1=CC(=CC(=C1)OC(=O)NC)C
+EPN (Ref: OMS 219),Moderate,High,High,CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)[N+](=O)[O-]
+Cycloprothrin (Ref: OMS 3049),High,Moderate,Moderate,CCOC1=CC=C(C=C1)C2(CC2(Cl)Cl)C(=O)OC(C#N)C3=CC(=CC=C3)OC4=CC=CC=C4
+Benquinox (Ref: BAY 15080),Moderate,High,Moderate,C1=CC=C(C=C1)C(=O)NNC2=CC=C(C=C2)N=O
+Dichlormid,High,Low,Low,C=CCN(CC=C)C(=O)C(Cl)Cl
+Diethyltoluamide,Moderate,Moderate,High,CCN(CC)C(=O)C1=CC(=CC=C1)C
+"1,2-dichloropropane (Ref: ENT 15406 )",High,Moderate,High,CC(CCl)Cl
+Allidochlor (Ref: CP 6343),High,Moderate,Moderate,C=CCN(CC=C)C(=O)CCl
+Aminocarb (Ref: BAY 44646),Moderate,High,High,CC1=C(C=CC(=C1)OC(=O)NC)N(C)C
+Chlorfenac,High,Moderate,Moderate,C1=CC(=C(C(=C1Cl)CC(=O)O)Cl)Cl
+Dinotefuran (Ref: MTI 446),High,High,Moderate,CN=C(NCC1CCOC1)N[N+](=O)[O-]
+Etaconazole (Ref: CGA 64251 ),Moderate,Moderate,Moderate,CCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl
+Flumetralin (Ref: CGA 41065),High,High,High,CCN(CC1=C(C=CC=C1Cl)F)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Mexacarbate (Ref: ENT 25766),Moderate,High,High,CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC
+Nitrapyrin,Moderate,Moderate,Moderate,C1=CC(=NC(=C1)Cl)C(Cl)(Cl)Cl
+Piperalin (Ref: HSDB 7058),Moderate,Moderate,Low,CC1CCCCN1CCCOC(=O)C2=CC(=C(C=C2)Cl)Cl
+Prodiamine (Ref: SAN 745H),High,Moderate,Moderate,CCCN(CCC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
+Secbumeton,High,Moderate,Moderate,CCC(C)NC1=NC(=NC(=N1)NCC)OC
+Edifenphos (Ref: BAY 78418),Moderate,High,High,CCOP(=O)(SC1=CC=CC=C1)SC2=CC=CC=C2
+Oxpoconazole fumarate (Ref: UR 50302),Moderate,Moderate,Moderate,CC1(COC(N1C(=O)N2C=CN=C2)(C)CCCC3=CC=C(C=C3)Cl)C.CC1(COC(N1C(=O)N2C=CN=C2)(C)CCCC3=CC=C(C=C3)Cl)C.C(=CC(=O)O)C(=O)O
+Iprobenfos,Moderate,Moderate,High,CC(C)OP(=O)(OC(C)C)SCC1=CC=CC=C1
+Furametpyr (Ref: S 82658),Moderate,Moderate,Moderate,CC1C2=C(C=CC=C2NC(=O)C3=C(N(N=C3C)C)Cl)C(O1)(C)C
+Thifluzamide (Ref: MON 24000),High,Moderate,Low,CC1=NC(=C(S1)C(=O)NC2=C(C=C(C=C2Br)OC(F)(F)F)Br)C(F)(F)F
+Penthiopyrad (Ref: MTF 753),Moderate,Moderate,High,CC(C)CC(C)C1=C(C=CS1)NC(=O)C2=CN(N=C2C(F)(F)F)C
+Metominostrobin (Ref: SSF 126),High,Moderate,Moderate,CNC(=O)C(=NOC)C1=CC=CC=C1OC2=CC=CC=C2
+Phthalide (Ref: BAY 96610),Moderate,Moderate,Low,C1C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)C(=O)O1
+Fenoxanil (Ref: BAS 546F),Moderate,Moderate,Low,CC(C)C(C)(C#N)NC(=O)C(C)OC1=C(C=C(C=C1)Cl)Cl
+Tecloftalam (Ref: SF 7402),High,Moderate,Low,C1=CC(=C(C(=C1)Cl)Cl)NC(=O)C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)C(=O)O
+Diclomezine (Ref: F-850),Moderate,Low,Low,CC1=C(C=C(C=C1Cl)C2=NNC(=O)C=C2)Cl
+Diflumetorim (Ref: UBF 002),High,High,Moderate,CCC(C1=CC=C(C=C1)OC(F)F)NC2=NC=NC(=C2Cl)C
+Flumorph (Ref: SYP L190),Moderate,Moderate,High,COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)F)OC
+Methasulfocarb (Ref: NK 191),Moderate,Moderate,Moderate,CNC(=O)SC1=CC=C(C=C1)OS(=O)(=O)C
+"2-chloro-4-(methylsulfonyl)-3-[(2,2,2-trifluoroethoxy)methyl]-benzoic acid (Ref: AE-0456148)",High,Low,Low,-
+N-(4-(1-carboxy-1-methylethyl)-benzyl)-4-chloro-3-ethyl-1-methyl-5-pyrazolecarboximide (Ref: CL-810721),High,Low,Moderate,-
+Dimethylvinphos (Ref: SD 8280),Moderate,High,High,COP(=O)(OC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl
+Fenchlorphos (Ref: Dow ET-14),Low,Moderate,High,COP(=S)(OC)OC1=CC(=C(C=C1Cl)Cl)Cl
+Chlordimeform (Ref: ENT 27335),Moderate,Moderate,High,CC1=C(C=CC(=C1)Cl)N=CN(C)C
+Alpha-chlorohydrin (Ref: U 5897),High,High,High,C(C(CCl)O)O
+Imiprothrin (Ref: S 41311),Moderate,High,Moderate,CC(=CC1C(C1(C)C)C(=O)OCN2C(=O)CN(C2=O)CC#C)C
+Iodomethane (Ref: TM 425),Moderate,High,High,CI
+Lithium perfluorooctane sulfonate,High,High,High,[Li+].C(C(C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+Metofluthrin (Ref: S 1264),Moderate,High,High,CC=CC1C(C1(C)C)C(=O)OCC2=C(C(=C(C(=C2F)F)COC)F)F
+Pyrasulfotole (Ref: AE 0317309 ),Moderate,Moderate,Moderate,CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C
+"N,N-dimethyl-2-sulfamoylpyridine-3-carboxamide",High,Moderate,Low,-
+Thiencarbazone-methyl (Ref: BYH 18636 ),Moderate,Moderate,High,CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C
+Saflufenacil (Ref: BAS 800H),Low,Moderate,Moderate,CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(=C(C=C1Cl)F)N2C(=O)C=C(N(C2=O)C)C(F)(F)F
+T-oxanilic acid (Ref: MON 52766),High,Moderate,Low,C1=CC=C(C=C1)NC(=O)C(=O)O
+T-sulfonic acid,High,Moderate,Low,-
+T-sulfinylacetic acid (Ref: MON 52709),High,Moderate,Low,-
+Bixafen,High,High,High,CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl
+3-(4-hydroxy-6-methoxypyrimidin-2-yl)-1-(N-methyl-N-methylsulfonyl-aminosulfonyl)-urea (Ref: AE-F101630),High,Moderate,Low,-
+"5-((3-chloro-5-(trifluoromethyl)-2-pyridyl)amino)-alpha,alpha,alpha-trifluoro-4,6-dinitro-o-cresol",High,Moderate,Moderate,-
+"4-(N'-(3,5-dimethylbenzoyl_-N-(1,1-dimethylethyl)hydrazinocarbonyl)benzoic acid (Ref: RH-2651)",Moderate,Moderate,Low,-
+"4-(N'-(3,5-dimethylbenzoyl-N-(1,1-dimethylethyl)hydrazinocarbonyl)phenyl acetic acid (Ref: RH-2703)",Moderate,Moderate,Low,-
+"N-(1,1-dimethyethyl)-N-(4-acetylebenzoyl)-3,5-dimethylbenzohydrazine (Ref: RH-6595)",Moderate,Moderate,Low,-
+Isobenzan (Ref: ENT 25545),High,High,High,C12C(C(OC1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Fluchloralin (Ref: BAS 392H),High,High,Moderate,CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Nitralin (Ref: HSDB 789),High,High,Low,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]
+Ampropylfos (Ref: PNL 62),Moderate,Low,Moderate,CCC(N)P(=O)(O)O
+Fensulfothion (Ref: ENT 24945),Moderate,High,High,CCOP(=S)(OCC)OC1=CC=C(C=C1)S(=O)C
+Chlordecone (Ref: ENT 16391),High,High,High,C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Mirex (Ref: GC 1283),High,Moderate,High,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl
+Simetryn,High,Moderate,Moderate,CCNC1=NC(=NC(=N1)SC)NCC
+Azobenzene (Ref: ENT 14611),Moderate,High,High,C1=CC=C(C=C1)N=NC2=CC=CC=C2
+3-chloroaniline,Moderate,High,High,C1=CC(=CC(=C1)Cl)N
+Cyclohexanone,High,Low,High,C1CCC(=O)CC1
+Ethylene glycol,High,Low,High,C(CO)O
+Naphthalene,Moderate,Moderate,High,C1=CC=C2C=CC=CC2=C1
+"N,N-dimethyl capramide",Moderate,Moderate,Low,CCCCCCCCCC(=O)N(C)C
+Pelargonic acid,Moderate,Moderate,Low,CCCCCCCCC(=O)O
+1-naphthylacetic acid,High,Moderate,High,C1=CC=C2C(=C1)C=CC=C2CC(=O)O
+2-naphthyloxyacetic acid,High,Moderate,Moderate,c1ccc2cc(ccc2c1)OCC(=O)O
+Acetic acid,High,Moderate,Moderate,CC(=O)O
+Aramite (Ref: ENT 16519),High,High,High,CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl
+Diphenylamine,Low,Moderate,High,C1=CC=C(C=C1)NC2=CC=CC=C2
+2-phenylphenol,Moderate,High,High,C1=CC=C(C=C1)C2=CC=CC=C2O
+"1,1,1-acetonitrile (Ref: USAF EK-488)",High,Low,Moderate,CC#N
+Carbon tetrachloride (Ref: ENT 4705),Moderate,Moderate,High,C(Cl)(Cl)(Cl)Cl
+Isophorone,Moderate,Low,High,CC1=CC(=O)CC(C1)(C)C
+8-hydroxyquinoline,Low,High,High,C1=CC2=C(C(=C1)O)N=CC=C2
+Noviflumuron,High,Moderate,High,C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F
+Xylene,High,Moderate,High,-
+"1,2-benzisothiazolin-3-one",Moderate,Moderate,Moderate,C1=CC=C2C(=C1)C(=O)NS2
+Fluopyram,High,High,Moderate,C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F
+Isotianil (Ref: BYF1047),Moderate,Moderate,Low,C1=CC=C(C(=C1)C#N)NC(=O)C2=C(C(=NS2)Cl)Cl
+2-butoxyethanol (Ref: A13-0993),High,Moderate,High,CCCCOCCO
+Pyroxasulfone (Ref: KIH-485),Moderate,Moderate,Moderate,CC1(CC(=NO1)S(=O)(=O)CC2=C(N(N=C2C(F)(F)F)C)OC(F)F)C
+Ethanol,High,Low,High,CCO
+Paraffin oil (CAS No: 64742-46-7),Moderate,High,High,-
+Paraffin oil (CAS No: 8042-47-5) (Ref: NEU 11301),High,Moderate,Low,-
+Propisochlor,Moderate,Moderate,Moderate,CCC1=CC=CC(=C1N(COC(C)C)C(=O)CCl)C
+Calcium carbide,Low,Moderate,Low,[C-]#[C-].[Ca+2]
+Methyl nonyl ketone,Moderate,Moderate,Low,CCCCCCCCCC(=O)C
+Denatonium benzoate (Ref: ASU 90 820 P),High,Moderate,Moderate,CC[N+](CC)(CC1=CC=CC=C1)CC(=O)NC2=C(C=CC=C2C)C.C1=CC=C(C=C1)C(=O)[O-]
+Iron sulphate,High,Moderate,Moderate,[O-]S(=O)(=O)[O-].[Fe+2]
+3-chloroacrylic acid,High,Moderate,Low,C(=CCl)C(=O)O
+"Methyl-N-malonyl-N-2,6-xylyl-DL-alaninate",Moderate,Moderate,Moderate,-
+"N-malonyl-N-2,6-xylyl-DL-alanine",High,Low,Low,-
+"2,3.-dihydro-2,2-diemethyl-7-benzofuranol (Ref: NIA 10272 )",Moderate,Moderate,Moderate,CC1(CC2=C(O1)C(=CC=C2)O)C
+Dibutylamine,Moderate,Moderate,Moderate,CCCCNCCCC
+"2-chloro-5-(4-(difluoromethyl)-3-methyl-5-oxo-4,5-dihydro-1H-1,2,4-triazol-1-yl)-4-fluorobenzoic acid",High,Moderate,High,O=C(O)c1cc(c(F)cc1Cl)N2N=C(C)N(C2=O)C(F)F
+Clethodim oxazole sulfone,High,Moderate,Low,-
+Clodinafop (Ref: CGA 193469),High,Moderate,High,CC(C(=O)O)OC1=CC=C(C=C1)OC2=NC=C(C=C2F)Cl
+Nitrofen (Ref: FW-925),Moderate,Moderate,High,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl
+Acetaldehyde,High,Moderate,High,CC=O
+Pyributicarb (Ref: TSH-888),Moderate,Moderate,Low,CC(C)(C)C1=CC(=CC=C1)OC(=S)N(C)C2=NC(=CC=C2)OC
+"2-((carbamoylcarbamoyl)sulfamoyl)-N,N-dimethylpyridine-3-carboxamide",High,High,Low,-
+"N-formyl-N'-propyl-N'-2(2,4,6-trichlorophenoxy)ethylurea (Ref: BTS 44596)",Moderate,Moderate,Low,-
+Dibromochloropropane (Ref: OS1897),High,Moderate,High,C(C(CBr)Br)Cl
+Thiacloprid-amide (Ref: KK02254),High,Moderate,Low,-
+Thiacloprid sulfonic acid (Ref: BCS-AB54351),High,Moderate,Low,-
+"3,5-dichloro-2,4-difluoroaniline",Low,Moderate,Moderate,-
+Isopyrazam (Ref: SYN 520453),High,High,Moderate,CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C
+4-(4-hydroxyphenoxy)phenyl (RS)-2-(2-pyridyloxy)propyl ether,Moderate,Moderate,Low,-
+Phosphane,Low,High,Moderate,P
+S-methoprene (Ref: SAN 810),Moderate,Moderate,Low,CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC
+Barium polysulphide,High,Moderate,High,[S-2].[Ba+2]
+Peroxyacetic acid,High,Moderate,Moderate,CC(=O)OO
+Butanethiol,Moderate,Low,Moderate,C(CC)CS
+Benzoic acid,Moderate,Moderate,High,C1=CC=C(C=C1)C(=O)O
+Chlorthion (Ref: BAY 22/190 ),Moderate,High,High,COP(=S)(OC)OC1=CC(=C(C=C1)[N+](=O)[O-])Cl
+Ferric phosphate,Low,Moderate,Moderate,[O-]P(=O)([O-])[O-].[Fe+3]
+1-methyl-4-(2-methyl-2H-tetrazol-5-yl)-1H-pyrazole-5-sulfonamide (Ref: IN A8342),High,Low,Low,-
+"1,2-dibromoethane",High,Moderate,High,C(CBr)Br
+"N-(2,6-difluorobenzoyl)-4-tert-butyl-2-ethoxybenzamine",High,High,Low,-
+"2 amino-2-(4-tert-butyl-2-ethoxyphenyl)ethyl 2',6'-difluorobenzoate hydrochloride",Moderate,High,Low,-
+2 amino-2-(4-tert-butyl-2-ethoxyphenyl)ethanol,Moderate,High,Low,-
+"4-(4-tert-butyl-2-ethoxyphenyl)-2-(2,6-difluorophenyl)oxazole",High,High,Low,-
+Sodium hypochlorite,High,High,Low,[O-]Cl.[Na+]
+Desethyl-terbuthylazine (Ref: GS26379),High,Moderate,Moderate,CC(C)(C)NC1=NC(=NC(=N1)N)Cl
+2-hydroxy-terbuthylazine (Ref: GS 23158),High,Moderate,Low,CCNC1=NC(=O)N=C(N1)NC(C)(C)C
+Metamifop (Ref: DBH-129),Low,Moderate,Low,CC(C(=O)N(C)C1=CC=CC=C1F)OC2=CC=C(C=C2)OC3=NC4=C(O3)C=C(C=C4)Cl
+Fluthiacet-methyl (Ref: CGA 248757),Moderate,High,Moderate,COC(=O)CSC1=C(C=C(C(=C1)N=C2N3CCCCN3C(=O)S2)F)Cl
+Ethoxylated p-nonylphenol (Ref: A 730),High,Moderate,High,c1(ccc(OCCOCCO)cc1)CCCCCCCCC
+Metolachlor oxanilic acid (Ref: CGA 51202),High,Moderate,Low,CCC1=CC=CC(=C1N(C(C)COC)C(=O)C(=O)O)C
+Leptophos (Ref: OMS 1438 ),Low,High,High,COP(=S)(C1=CC=CC=C1)OC2=CC(=C(C=C2Cl)Br)Cl
+Paraquat dichloride,High,High,Moderate,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C.[Cl-].[Cl-]
+6-hydroxy-4-trifluoromethylnicotinic acid,High,Moderate,Low,-
+Potassium iodide,Low,High,High,[K+].[I-]
+"2,4,5-trichlorophenoxyacetic acid",High,Moderate,High,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O
+Isodrin (Ref: ENT 19244),Low,High,High,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl
+Diquat,High,High,High,C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31
+Imazamethabenz (Ref: AC 263840),Moderate,Moderate,Moderate,CC1=CC(=C(C=C1)C(=O)O)C2=NC(C(=O)N2)(C)C(C)C
+P-nonylphenol,Low,Moderate,High,CCCCCCCCCC1=CC=C(C=C1)O
+Propamocarb (Ref: SN 39744),Low,Moderate,High,CCCOC(=O)NCCCN(C)C
+Fosetyl,Low,Low,Moderate,CCOP(=O)=O
+Flupoxam (Ref: MON 18500),Moderate,Moderate,Low,C1=CC=C(C=C1)C2=NC(=NN2C3=CC(=C(C=C3)Cl)COCC(C(F)(F)F)(F)F)C(=O)N
+Asulam (Ref: M&B 9057),High,Moderate,High,COC(=O)NS(=O)(=O)C1=CC=C(C=C1)N
+Bensulfuron (Ref: IN R9419),Moderate,Moderate,Moderate,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)O)OC
+Flupyrsulfuron,Low,High,Low,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)O)OC
+Iodosulfuron,High,Moderate,High,CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)I)C(=O)O
+Tribenuron (Ref: IN R9803),High,Moderate,High,CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O
+Triflusulfuron,High,Low,Moderate,CC1=CC=CC(=C1S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C)C(=O)O
+Propoxycarbazone,High,High,Moderate,CCCOC1=NN(C(=O)N1C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+Fenchlorazole-ethyl (Ref: HOE 070542),Low,High,High,C1=CC=C(C=C1)OC(=O)N2C3=CC(=C(C=C3N=C2C(F)(F)F)Cl)Cl
+Sulfuryl fluoride,High,Moderate,High,O=S(=O)(F)F
+Tebupirimfos (Ref: BAY MAT 7484),High,High,High,CCOP(=S)(OC1=CN=C(N=C1)C(C)(C)C)OC(C)C
+2-(thiocyanomethylthio)benzothiazole,Moderate,High,Moderate,C1=CC=C2C(=C1)N=C(S2)SCSC#N
+Ecolyst (Ref: HSDB 7282),High,Moderate,High,CC[NH+](CC)CCOCC1=CC=C(C=C1)C.[Cl-]
+Furilazole (Ref: MON 13900),High,Moderate,Moderate,CC1(N(CC(O1)C2=CC=CO2)C(=O)C(Cl)Cl)C
+Cloprop,Moderate,Moderate,Moderate,CC(C(=O)O)OC1=CC(=CC=C1)Cl
+Pyriminobac-methyl (Ref: KIH-6127),Moderate,Moderate,Low,CC(=NOC)C1=C(C(=CC=C1)OC2=NC(=CC(=N2)OC)OC)C(=O)OC
+"2,3-difluoro-6-trifluoromethylbenzamidine (Ref: 149-F1)",High,Moderate,Moderate,-
+"2,3-difluoro-6-(trifluoromethyl)benzamide (Ref: 149-F6)",High,Moderate,Moderate,-
+Dimethrin (Ref: ENT 21170 ),Low,Moderate,Moderate,CC1=CC(=C(C=C1)COC(=O)C2C(C2(C)C)C=C(C)C)C
+Cis-des-hexafluoroisopropyl acrinathrin (Ref: DP-A),Moderate,High,Moderate,-
+N-(4-(2-chloro-4-(trifluoromethyl)phenoxy)-2-fluorophenyl) urea (Ref: CL 932338),Moderate,Moderate,Moderate,-
+2-tert-butyl-5-(4-(1-carboxy-1-methylethyl) benzylthio)4-chloropyridazin-3 (2H)-one,Low,High,Low,-
+Nitenpyram (Ref: CGA 246916),High,High,Moderate,CCN(CC1=CN=C(C=C1)Cl)C(=C[N+](=O)[O-])NC
+N-((4-hydroxy-6-methoxypyrimidin-2-yl)amino)carbonyl)-1-methyl-4-(2-methyl-2H-tetrazol-5-yl)-1H-pyrazole-5-sulfonamide (Ref: IN JJ999),High,Low,Low,-
+Bis-trichloromethyl sulfone,Moderate,High,Moderate,C(S(=O)(=O)C(Cl)(Cl)Cl)(Cl)(Cl)Cl
+Primisulfuron methyl (Ref: CGA 136872),Moderate,Moderate,Low,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
+Potassium bicarbonate,High,Moderate,Low,C(=O)(O)[O-].[K+]
+"1,1,1,2-tetrachloroethane (Ref: HSDB 4148)",Moderate,Moderate,High,C(C(Cl)(Cl)Cl)Cl
+"1,1-dichloroethane",High,Moderate,High,CC(Cl)Cl
+"1,2,3-trichloropropane (Ref: NSC 35403)",Moderate,Moderate,High,C(C(CCl)Cl)Cl
+"1,3-butadiene",Moderate,Moderate,High,C=CC=C
+"1,4-dioxane",High,Low,High,C1COCCO1
+"4,4-methylenedianiline",Low,Moderate,High,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N
+Alpha-hexachlorocyclohexane (Ref: ENT 9232),High,Moderate,Moderate,-
+N-methyl-2-pyrrolidone,Low,Low,High,CN1CCCC1=O
+N-nitrosodimethylamine,High,Low,High,CN(C)N=O
+Ametoctradin (Ref: BAS 650F),Moderate,High,Moderate,CCCCCCCCC1=C(N2C(=NC=N2)N=C1CC)N
+Methiozolin (Ref: MRC-01),Moderate,Moderate,Moderate,CC1=C(SC=C1)C2=NOC(C2)(C)COCC3=C(C=CC=C3F)F
+Penflufen (Ref: BYF-14182),High,Moderate,High,CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C
+Valifenalate (Ref: IR5885),Moderate,Moderate,High,CC(C)C(C(=O)NC(CC(=O)OC)C1=CC=C(C=C1)Cl)NC(=O)OC(C)C
+Alpha-endosulfan,High,High,High,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+Cyantraniliprole (Ref: DPX-HGW86),Moderate,High,Low,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
+Indaziflam,High,Moderate,High,CC1CC2=C(C1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
+Propyrisulfuron,Moderate,Moderate,Low,CCCC1=NN2C(=NC(=C2S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC)Cl)C=C1
+Sedaxane,High,Moderate,Moderate,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
+Aminocyclopyrachlor (Ref: DPX-MAT28),High,Moderate,Low,C1CC1C2=NC(=C(C(=N2)N)Cl)C(=O)O
+Sulfoxaflor (Ref: DE-208),High,High,Moderate,CC(C1=CN=C(C=C1)C(F)(F)F)S(=NC#N)(=O)C
+Gibberellins,High,Moderate,Moderate,CC12C(CCC3(C1C(C45C3CCC(C4)C(=C)C5)C(=O)O)OC2=O)O
+Cycloheximide,High,High,High,CC1CC(C(=O)C(C1)C(CC2CC(=O)NC(=O)C2)O)C
+Tolfenpyrad (Ref: OMI 88),Moderate,High,Moderate,CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)OC3=CC=C(C=C3)C)C
+Prohexadione,Moderate,Low,High,CCC(=O)C1C(=O)CC(CC1=O)C(=O)O
+Isolan (Ref: ENT 19060),High,High,High,CC1=NN(C(=C1)OC(=O)N(C)C)C(C)C
+Metolcarb,High,High,High,CC1=CC(=CC=C1)OC(=O)NC
+Lime sulphur,High,Moderate,High,[S-]SSS[S-].[Ca+2]
+Urea,High,Moderate,High,C(=O)(N)N
+1-naphthylacetamide,High,Moderate,Moderate,C1=CC=C2C(=C1)C=CC=C2CC(=O)N
+Zinc phosphide,Low,High,High,P=[Zn].P=[Zn].[Zn]
+Epichlorohydrin,Moderate,Moderate,High,C1C(O1)CCl
+Potassium phosphonates,High,Moderate,Low,-
+Medetomidine,High,Moderate,High,CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C
+Oxolinic acid,High,Moderate,High,CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O
+Thymol,Moderate,Moderate,High,CC1=CC(=C(C=C1)C(C)C)O
+Sulphanilamide,Moderate,Moderate,High,C1=CC(=CC=C1N)S(=O)(=O)N
+Niclosamide (Ref: ENT 25823 ),Moderate,Moderate,Moderate,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O
+Fluxapyroxad (Ref: BAS 700F),High,Moderate,Moderate,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
+3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxylic acid (Ref: M700F001),High,Moderate,Low,FC(F)c1nn(C)cc1C(=O)O
+2-(trifluoromethyl)benzoic acid,Moderate,Low,Low,C1=CC=C(C(=C1)C(=O)O)C(F)(F)F
+Eugenol,Low,Moderate,High,COC1=C(C=CC(=C1)CC=C)O
+Fenpyrazamine (Ref: S-2188),Moderate,Moderate,Moderate,CC1=CC=CC=C1C2=C(N(N(C2=O)C(C)C)C(=O)SCC=C)N
+Terpinen-4-ol,High,Low,High,CC1=CCC(CC1)(C(C)C)O
+Alpha-terpinoline,Moderate,Low,Low,CC1=CCC(=C(C)C)CC1
+Alpha-pinene,Low,Moderate,Low,CC1=CCC2CC1C2(C)C
+Para-cymene,Low,Moderate,Low,CC1=CC=C(C=C1)C(C)C
+Diethatyl ethyl (Ref: BAY NNT 6867),Moderate,Moderate,Low,CCC1=C(C(=CC=C1)CC)N(CC(=O)OCC)C(=O)CCl
+Oxathiine amide sulfoxide,High,Low,Low,-
+5-(trifluoromethyl)-2(1H)-pyridinone,High,Low,Moderate,-
+Phenylmercuric acetate,High,High,High,CC(=O)O[Hg]C1=CC=CC=C1
+"2,6-dimethoxybenzamide",High,Moderate,Low,-
+"3-(difluoromethyl)-1-methyl-N-((1R,4S,9R)-1,2,3,4,-tetrahydro-9-(2-hydroxypropan-2-yl)-1,4-methanonaphthalen-5-yl)pyrazsaole-4-carboxamide (Ref: CSCD459488)",High,Moderate,Low,-
+3-(difluoromethyl)-1H-pyrazole-4-carboxylic acid (Ref: M700F002),High,Moderate,Low,-
+4-chloro-3-ethyl-1-methyl-5-pyrazolecarboxamide (Ref: CL 810729),High,Moderate,Low,-
+2-hydroxy-desethyl-terbuthylazine (Ref: GS 28620),Moderate,Moderate,Low,-
+Benthiavalicarb-isopropyl (Ref: KIF-230),Moderate,Moderate,High,CC(C)C(C(=O)NC(C)C1=NC2=C(S1)C=C(C=C2)F)NC(=O)OC(C)C
+(RS)-2-(4-fluoro-3-trifluoromethylphenoxy)butanoic acid (Ref: UR-50604),High,Moderate,Low,CCC(Oc1ccc(F)c(c1)C(F)(F)F)C(=O)O
+Pyraflufen acid (Ref: T-5067),High,Moderate,Moderate,Cn2nc(c1cc(OCC(=O)O)c(Cl)cc1F)c(Cl)c2OC(F)F
+1-(carbamoylamidino)-3-(2-trifluoromethyl-benzenesulfonyl) urea (Ref: BH 635-4),High,Moderate,Low,-
+2-trifluoromethyl-benzenesulfonamide (Ref: BH 635-2),High,High,Moderate,-
+1-amidino-3-(2-trifluoromethyl-benzenesulfonyl) urea (Ref: BH 635-3),High,High,Low,-
+"2-amino-4-methoxy-6-(trifluoromethyl)-1,3,5-triazine (Ref: BH 635-5)",High,Moderate,High,-
+Calcium acid methanearsonate,High,Moderate,High,C[As](=O)([O-])[O-].C[As](=O)([O-])[O-].[Ca+2]
+Disodium methanearsonate,High,Moderate,High,C[As](=O)([O-])[O-].[Na+].[Na+]
+"3,5-di-bromo-4-hydroxybenzoic acid",Moderate,Moderate,High,Brc1cc(C(=O)O)cc(Br)c1O
+Geraniol (Ref: Mevalone 3AEY),High,Moderate,Moderate,CC(=CCCC(=CCO)C)C
+"3-(7-amino-5-ethyl)(1,2,4)triazolo(1,5-alpha)pyrimidin-6-yl)butanoic acid (Ref: M650 F02)",High,Low,Low,-
+"4-(7-amino-5-ethyl(1,2,4)triazolo(1,5-a)pyrimidin-6-yl)acetic acid (Ref: M650 F03)",High,Moderate,Low,-
+"7-amino-5-ethyl{1,2,4)triazolo(1,5-a)pyrimidin-6-carboxylic acid (Ref: M650 F04)",High,Moderate,Low,-
+Halosulfuron methyl rearrangement,Moderate,Moderate,Low,-
+Penflufen-3-hydroxy-butyl,High,Moderate,Low,-
+Penflufen-pyrazolyl-AAP,High,Moderate,Low,-
+Metam-potassium,High,Moderate,High,CNC(=S)[S-].[K+]
+Glyphosate-isopropylamine (Ref: MON 0139),Moderate,Moderate,Moderate,CC(C)N.C(C(=O)O)NCP(=O)(O)O
+Glyphosate-monopotassium,Moderate,Moderate,Moderate,C(C(=O)O)NCP(=O)(O)[O-].[K+]
+Iminoctadine tris(albesilate) (Ref: DF-250),High,Moderate,Moderate,CCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)O.CCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)O.CCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)O.C(CCCCN=C(N)N)CCCNCCCCCCCCN=C(N)N
+Triclopyr-butotyl,Low,Moderate,High,CCCCOCCOC(=O)COC1=NC(=C(C=C1Cl)Cl)Cl
+Triclopyr-triethylammonium,High,Moderate,High,CCN(CC)CC.C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl
+Aluminium silicate,Low,Low,Moderate,[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Si+4]
+Inabenfide (Ref: CGR-811 ),Moderate,Moderate,Low,C1=CC=C(C=C1)C(C2=C(C=CC(=C2)Cl)NC(=O)C3=CC=NC=C3)O
+Climbazole (Ref: 106162),High,Moderate,Moderate,CC(C)(C)C(=O)C(N1C=CN=C1)OC2=CC=C(C=C2)Cl
+Pyriofenone (Ref: IKF-309),Moderate,Moderate,High,CC1=CC(=C(C(=C1C(=O)C2=C(C(=CN=C2OC)Cl)C)OC)OC)OC
+"3-bromo-6-fluoro-2-methyl-1-(1H-1,2,4-triazol-3-ylsulfonyl)-1H-indole",Moderate,Moderate,High,-
+"N-(6-chloro-7-hydroxy-5-methoxy-(1,2,4)triazolo(1,5-alpha)pyrimidin-2-yl)2-methoxy-4-trifluoromethyl)-3-pyridinesulfonamide",High,Moderate,Low,-
+Pyridine sulfonamide,High,High,Low,-
+Kieselgur,High,Low,Low,O=[Si]=O
+"Cis-3-(2,5-dimethylphenyl)-3-hydroxy-8-methoxy-1-azaspiro(4.5)decane-2,4-dione",High,Low,Low,-
+"RS-beta-alanine, N-((1-methylethoxy)carbonyl)-L-valyl-3-(4-chlorophenyl)acid) (Ref: IR5839)",High,Low,Low,-
+4-chlorobenzoic acid,Moderate,Moderate,Moderate,-
+"2-(3-bromo-1-(3-chloro-2-pyridinyl)-1H-pyrazol-5-yl)-6-chloro-3, 8dimethyl-4(3H)-quinazolinone (Ref: IN EQW78)",High,Moderate,Low,-
+5-bromo-N-methyl-1H-pyrazole-3-carboxamide (Ref: IN F6L99),Moderate,Moderate,Low,-
+"2,6-dichloro-4-methyl-11H-pyrido(2,1-beta)quinazolin-11-one (Ref: IN ECD73)",High,High,Low,-
+"N-(malonyl)-N-(2,6-xylyl)-D-alanine",High,Moderate,Low,-
+Methyleugenol (Ref: Ent 21040),Low,Moderate,Moderate,COC1=C(C=C(C=C1)CC=C)OC
+Difenzoquat metilsulfate (Ref: AC 84777),High,Moderate,Moderate,CN1C(=CC(=[N+]1C)C2=CC=CC=C2)C3=CC=CC=C3.COS(=O)(=O)[O-]
+Disodium phosphonate (Ref: IKF-916 25 SC),High,Moderate,Low,P([O-])([O-])=O.[Na+].[Na+]
+Ethametsulfuron (Ref: IN A8768),High,Low,Low,CCOC1=NC(=NC(=N1)NC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O
+2-((dimethylamino)carbonyl)phenyl sulfamic acid (Ref: IR7863),High,Low,Low,-
+"1-(4-methoxy-6-hydroxypyrimidin-2-yl)-3-(2,(2-dimethylcarbomyl)phenylsulfomoyl)urea (Ref: IR 8181)",High,Low,Low,-
+Calcium arsenate,High,Moderate,High,[O-][As](=O)([O-])[O-].[O-][As](=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]
+Acrylonitrile (Ref: ENT 54),High,Moderate,High,C=CC#N
+"4-(5-hydroxy-3-oxo-4(4-(trifluoromethoxy)phenyl)-6-(3-trifluoromethyl)phenyl)-2,3,4,5-tetrahydro-1,2,4-triazine-5-yl)benzonitrile (Ref: M320I23)",High,High,Low,-
+Benzonitrile carboxylic acid (Ref: M320I06),High,Low,Low,C1=CC(=CC=C1C#N)C(=O)O
+Lead arsenate,High,Moderate,High,O[As](=O)([O-])[O-].[Pb+2]
+Nornicotine,Moderate,Moderate,High,C1CC(NC1)C2=CN=CC=C2
+Phosphonic acid,High,Moderate,Low,O[P+](=O)O
+"N-tert-butyl-N-(3,5-dimethylbenzoyl)-4-hydroxy-5-methyl-6-chromancarbohydrazide",High,Low,Low,-
+Flutianil (Ref: OK-5303),Moderate,High,Moderate,COC1=CC=CC=C1N2CCSC2=C(C#N)SC3=C(C=CC(=C3)C(F)(F)F)F
+"(Z)-2-(2-fluoro-5-(trifluoromethyl)phenylsulfinyl)-2-(3,2-methoxyphenyl)thiazolidin-2-ylidene)acetonitrile (Ref: OC 53276)",Moderate,Moderate,Low,-
+Oxathiapiprolin (Ref: DPX-QGU42),High,Moderate,Moderate,CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
+Flupyradifurone (Ref: BYI 02960),High,Moderate,Moderate,C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+Benzovindiflupyr,High,High,High,CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC3=C2C4CCC3C4=C(Cl)Cl
+Mandestrobin (Ref: S-2200),Moderate,Moderate,Moderate,CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2C(C(=O)NC)OC
+Halauxifen (Ref: X11393729),Moderate,Moderate,High,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)O)Cl
+Halauxifen-methyl (Ref: DE-729),Moderate,Moderate,High,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)OC)Cl
+Cyclaniliprole (Ref: IKI-3106),High,High,Moderate,CC(C1CC1)NC(=O)C2=CC(=CC(=C2NC(=O)C3=CC(=NN3C4=C(C=CC=N4)Cl)Br)Br)Cl
+Afidopyropen (Ref: ME 5343),Low,Moderate,Low,CC12CCC(C(C1CC(C3(C2C(C4=C(O3)C=C(OC4=O)C5=CN=CC=C5)O)C)O)(C)COC(=O)C6CC6)OC(=O)C7CC7
+Butenachlor (Ref: KH-218),Low,Moderate,Low,CCC1=C(C(=CC=C1)CC)N(COCC=CC)C(=O)CCl
+Fufenozide (Ref: JS-118),Moderate,Low,Low,CC1CC2=C(O1)C(=C(C=C2)C(=O)NN(C(=O)C3=CC(=CC(=C3)C)C)C(C)(C)C)C
+"(Z)-3-(2-chloro-3,3,3-trifluoro-propenyl)-2,2-dimethylcyclo-propane carboxylic acid",High,Moderate,Low,-
+Alloxydim sodium,High,Moderate,Low,CCCC(=NOCC=C)C1=C(CC(C(C1=O)C(=O)OC)(C)C)[O-].[Na+]
+Napropamide-M,Moderate,Moderate,Moderate,CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21
+Sodium lauryl sulphate,Low,Moderate,Moderate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Picloram-dimethylammonium,Low,Moderate,Low,CNC.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N
+Pyridafol-O-methyl (Ref: CL-9869),Moderate,Moderate,Low,-
+4-chlorophenol,Moderate,Moderate,Low,C1=CC(=CC=C1O)Cl
+4-(((3-bromo-1-(3-chloropyridin-2-yl)-1H-pyrazol-5-yl)carbonyl)amino)-3-methyl-5-(methylcarbamoyl)benzoic acid (Ref: IN JSE76),High,Moderate,Low,O=C(O)c3cc(C)c(NC(=O)c2cc(Br)nn2c1ncccc1Cl)c(c3)C(=O)NC
+Cybutryne,Moderate,Moderate,High,CC(C)(C)NC1=NC(=NC(=N1)NC2CC2)SC
+Pyrazolynate,Low,Moderate,Low,CC1=CC=C(C=C1)S(=O)(=O)OC2=C(C(=NN2C)C)C(=O)C3=C(C=C(C=C3)Cl)Cl
+Ethylene dichloride,High,Low,High,C(CCl)Cl
+Isofetamid (Ref: IKF-5411),Moderate,Moderate,Moderate,CC1=C(SC=C1)C(=O)NC(C)(C)C(=O)C2=C(C=C(C=C2)OC(C)C)C
+Methyl 2-((4-hydroxy-6-methoxypyrimidin-2-yl)amino)-6-(trifluoromethyl)nicotinate (Ref: IN KV996),Low,Moderate,Low,O=C(OC)c2ccc(nc2Nc1nc(O)cc(OC)n1)C(F)(F)F
+Sodium hydrogen carbonate,Low,Low,Moderate,C(=O)(O)[O-].[Na+]
+Dimethyl disulfide,High,Moderate,Moderate,CSSC
+Clopyralid-olamine,High,Moderate,Low,C1=CC(=NC(=C1Cl)C(=O)O)Cl.C(CO)N
+Fluensulfone (Ref: BYI 01921),Low,Moderate,Moderate,C1=C(SC(=N1)S(=O)(=O)CCC(=C(F)F)F)Cl
+Difluoroacetic acid,High,Moderate,Moderate,C(C(=O)O)(F)F
+2-((2-((1RS)-1-methoxy-2-(methylamino)-2-oxoethyl)benzyl)oxy)-4-methylbenzoic acid,High,Moderate,Low,CNC(=O)C(OC)c2ccccc2COc1cc(C)ccc1C(=O)O
+3-((2-((1RS)-1-methoxy-2-(methylamino)-2-oxoethyl)benzyl)oxy)-4-methylbenzoic acid,High,Moderate,Moderate,CNC(=O)C(OC)c2ccccc2COc1cc(ccc1C)C(=O)O
+"(R)-2-((2,6-dimethyl-phenyl)-(2-methoxy-acetyl)-amino)-propionic acid (Ref: NOA 409045)",High,Low,Low,C[C@@H](N(C(=O)COC)c1c(C)cccc1C)C(=O)O
+Furalaxyl-M,Moderate,Moderate,Moderate,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)C2=CC=C(C=C2)C(=O)C3=CC=CC=C3
+5-(trifluoromethyl)-1H-pyrazole-3-carboxylic acid (Ref: IN E8S72),High,Moderate,Low,C1=C(NN=C1C(=O)O)C(F)(F)F
+Formetanate hydrochloride,Moderate,High,High,CNC(=O)OC1=CC=CC(=C1)N=CN(C)C.Cl
+"1-oxo-1,2,3,4-tetrahydropyrido(1,2-a)pyrazin-5-ium (Ref: R32245)",High,Moderate,Low,O=C1NCC[n+]2ccccc12
+"3,5-dichloroaniline (Ref: RP32596)",Moderate,Moderate,Low,-
+"3-(3,5-dichlorophenyl)-2,4-dioxoimidazolidine (Ref: RP25040)",Moderate,Moderate,Moderate,-
+(E)-N2-carbamoyl-N1-(6-chloro-3-pyridyl)methyl-N2-cyano-N1-methylacetamidine (Ref: IM-1-2),High,Moderate,Low,-
+N-(6-chloropyridin-3-ylmethyl)-N-methyl-acetamidine (Ref: IM-1-5),High,Moderate,Moderate,-
+"2,4-D-dimethylammonium",High,Moderate,High,CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+Carfentrazone,Low,Moderate,Low,CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F
+"2-chloroimidazol(1,2-a)pyridine-3-sulfonamide",High,Moderate,Moderate,C1=CC2=NC(=C(N2C=C1)S(=O)(=O)N)Cl
+"(2S,4S-2R,4R)-2-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolane-4-carboxylic acid (Ref: SYN 547889)",High,Low,Low,-
+Propylene thiourea,Low,Moderate,Moderate,C1CNC(=S)NC1
+Propineb-DIDT,Low,Moderate,Moderate,-
+4-(allylcarbamoyl)-3-methyl-5-(trimethylsilyl)thiophene-2-carboxylic acid (Ref: MON 65533),High,Moderate,Low,O=C(NCC=C)c1c(C)c(sc1[Si](C)(C)C)C(=O)O
+4-carbamoyl-3-methyl-5-(trimethylsilyl)thiophene-2-carboxylic acid (Ref: MON 65534),High,Moderate,Low,O=C(N)c1c(C)c(sc1[Si](C)(C)C)C(=O)O
+Bromoxynil-butanoate,Low,High,High,CCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br
+Fenpicoxamid (Ref: XDE 777),Moderate,High,Moderate,CC1C(C(C(=O)OCC(C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C
+"(3S,6S,7R,8R)-8-benzyl-3-(((3-hydroxy-4-methoxypyridin-2-yl)carbonyl)amino)-6-methyl-4,9-dioxo-1,5-dioxonan-7-yl 2-methylpropanoate (Ref: X642188)",Low,High,Low,-
+N-((3-hydroxy-4-methoxypyridin-2-yl)carbonyl)serine (Ref: X12264475),Moderate,Moderate,Moderate,-
+Benalaxyl acid,High,Moderate,Low,-
+"4-amido-2,5-dichloro-6-cyano benzene-1,3-disulfonic acid (Ref: R419492)",High,Moderate,Low,-
+Pydiflumetofen (Ref: SYN 545794),High,Moderate,Moderate,CC(CC1=C(C=C(C=C1Cl)Cl)Cl)N(C(=O)C2=CN(N=C2C(F)F)C)OC
+Broflanilide (Ref: MCI-8007),High,High,Low,CN(C1=CC=CC(=C1F)C(=O)NC2=C(C=C(C=C2Br)C(C(F)(F)F)(C(F)(F)F)F)C(F)(F)F)C(=O)C3=CC=CC=C3
+Florpyrauxifen-benzyl (Ref: XDE-848 BE),High,High,Low,COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl
+Mefentrifluconazole (Ref: BAS 750F),High,Moderate,Moderate,CC(CN1C=NC=N1)(C2=C(C=C(C=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F)O
+2-(N-(2-Methyl-1-phenylprop-1-en-1-yl)-2-sulfoacetamido)acetic acid,High,Moderate,Low,c1ccccc1C(=C(C)C)N(CC(=O)(O))C(=O)CS(=O)(O)=O
+3-ethoxycarbonylpentanedioic acid (Ref: CGA 300405),Low,Low,Low,CCOC(=O)C(CC(=O)O)CC(=O)O.CCOC(=O)C(CC(=O)O)CC(=O)O
+Dichlorprop-P-etexyl (Ref: CA2134),High,Moderate,High,CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)Cl
+Methyl 4-(2-(methoxycarbonylamino)benzothiazoyl)allophanate (Ref: CM-0237),High,Moderate,Low,-
+"2,3,5-trichloro-6-methoxypyridine",High,Moderate,Moderate,-
+"P,P'-DDT",High,High,High,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl
+"O,P'-DDT",High,High,High,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl
+Mefenpyr diethyl (Ref: HOE 107892),Moderate,Moderate,Low,CCOC(=O)C1=NN(C(C1)(C)C(=O)OCC)C2=C(C=C(C=C2)Cl)Cl
+Clove oil,Low,Moderate,High,-
+"2,3,7,8-tetrahydroiimidazo(2.1-b:1',2'-e)(1,3,5)thiadizine-5-thione",Moderate,Moderate,Low,-
+Desamino-metribuzin (Ref: BCS-AA91084),High,Moderate,Moderate,S(C)C(=NN=C1C(C)(C)C)NC1=O
+24-epibrassinolide,Moderate,Moderate,Low,CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2COC(=O)C4C3(CC(C(C4)O)O)C)C)O)O
+N-(4-chlorobiphenyl-2-yl)-2-hydroxynicotinamide (Ref: M510F49),High,Moderate,Low,-
+Epsilon-metofluthrin (Ref: S-1264),Moderate,High,High,-
+Fluazaindolizine (Ref: DPX-Q8U80),High,Moderate,Moderate,COC1=CC(=C(C=C1)Cl)S(=O)(=O)NC(=O)C2=CN3C=C(C=C(C3=N2)Cl)C(F)(F)F
+Isoflucypram (Ref: BCS-CN88460),High,High,Moderate,FC(F)c1nn(C)c(F)c1C(=O)N(Cc1cc(Cl)ccc1C(C)C)C1CC1
+2-(4-chloro-2-((cyclopropyl((3-(difluoromethyl)-5-fluoro-1-methyl-1H-pyrazol-4-yl)-carbonyl)amino)-methyl)phenyl}-propanoic acid (Ref: BCS-CY26497),High,Moderate,Low,C1(CN(C(=O)C3C(C(F)F)=NN(C)C=3F)C2CC2)=C(C(C)C(=O)O)C=CC(Cl)=C1
+Tetraniliprole,High,Moderate,Moderate,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)CN4N=C(N=N4)C(F)(F)F)C(=O)NC)C#N
+Florylpicoxamid (Ref:  X12485659),Moderate,High,Moderate,CC(C(C1=CC=C(C=C1)F)C2=CC=C(C=C2)F)OC(=O)C(C)NC(=O)C3=NC=CC(=C3OC(=O)C)OC
+Ipflufenoquin (Ref: NF-180),High,Moderate,Low,CC1=C(C=C2C=CC(=C(C2=N1)F)F)OC3=C(C(=CC=C3)F)C(C)(C)O
+Metyltetraprole (Ref: S-2367),High,High,Moderate,CC1=C(C(=CC=C1)N2C(=O)N(N=N2)C)COC3=NN(C=C3)C4=CC=C(C=C4)Cl
+Clopyralid-methyl,High,Moderate,Low,-
+Clopyralid-dimethylammonium,High,Moderate,Low,-
+Clopyralid-potassium,High,Moderate,Low,-
+Clopyralid-tripromine,High,Moderate,Low,-
+Chlormequat,Moderate,Moderate,High,C[N+](C)(C)CCCl
+Dinocap 4,Moderate,High,High,-
+Dinocap 6,Moderate,High,High,-
+ACC,Moderate,Moderate,Low,C1CC1(C(=O)O)N
+Diphacinone sodium,High,Moderate,High,-
+Fluindapyr (Ref: IR9792),High,Moderate,Low,CC1CC(C)(C)c2c(ccc(c12)N=C(c3cn(C)nc3C(F)F)O)F
+DNOC sodium,Moderate,Moderate,High,-
+DNOC ammonium,Moderate,Moderate,High,-
+DNOC potassium,Moderate,Moderate,High,-
+Trifludimoxazin,Moderate,Moderate,Low,CN1C(=O)N(C(=O)N(C1=S)C)C2=CC3=C(C=C2F)OC(C(=O)N3CC#C)(F)F
+Ethyl formate,High,Low,Moderate,CCOC=O
+Bixlozone (Ref: F9600),High,Moderate,Moderate,CC1(CON(C1=O)CC2=C(C=C(C=C2)Cl)Cl)C
+Dimpropyridaz,Moderate,Moderate,Moderate,-
+Glyphosate-sesquisodium (Ref: Mon 8000),Moderate,Moderate,High,C(C(=O)O)NCP(=O)(O)[O-].C(C(=O)O)NCP(=O)([O-])[O-].[Na+].[Na+].[Na+]
+Glyphosate-diammonium,Moderate,Moderate,High,C(C(=O)O)NCP(=O)([O-])[O-].[NH4+].[NH4+]
+Glyphosate-dimethylammonium,Moderate,Moderate,High,CNC.C(C(=O)O)NCP(=O)(O)O
+Glyphosate-monoammonium,Moderate,Moderate,High,C(C(=O)O)NCP(=O)(O)O.N
+Flucarbazone,High,Moderate,Low,CN1C(=NN(C1=O)C(=O)NS(=O)(=O)C2=CC=CC=C2OC(F)(F)F)OC
+Flumiclorac,High,Moderate,Low,C1CCC2=C(C1)C(=O)N(C2=O)C3=CC(=C(C=C3F)Cl)OCC(=O)O
+Fluthiacet,Moderate,High,Moderate,C1CCN2C(=O)SC(=NC3=CC(=C(C=C3F)Cl)SCC(=O)O)N2C1
+Thiencarbazone,High,Moderate,High,CC1=C(C(=CS1)C(=O)O)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C
+Sulfometuron,High,Moderate,Low,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)C
+Mecoprop-P etexyl (Ref: CA3264),High,Moderate,High,CCCCC(CC)COC(=O)C(C)OC1=C(C=C(C=C1)Cl)C
+Picloram-etexyl,Low,Moderate,Low,-
+Picloram-isoctyl,Low,Moderate,Low,CC(C)CCCCCOC(=O)C1=NC(=C(C(=C1Cl)N)Cl)Cl
+Picloram-methyl,Low,Moderate,Low,COC(=O)C1=NC(=C(C(=C1Cl)N)Cl)Cl
+Picloram-olamine,Low,Moderate,Low,-
+Picloram-potassium,Low,Moderate,Low,C1(=C(C(=NC(=C1Cl)Cl)C(=O)[O-])Cl)N.[K+]
+Picloram-triethylammonium,Low,Moderate,Low,CCN(CC)CC.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N
+Picloram-tripromine,Low,Moderate,Low,CC(CN(CC(C)O)CC(C)O)O.C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N
+Haloxyfop-sodium,Moderate,Moderate,Moderate,CC(C(=O)[O-])OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl.[Na+]
+Chlorthal,High,Low,Moderate,C1(=C(C(=C(C(=C1Cl)Cl)C(=O)O)Cl)Cl)C(=O)O
+MCPA-etexyl,Low,Moderate,Moderate,-
+Beflubutamid-M (Ref: F4050),High,Moderate,High,-
+Pyrimidifen,Low,High,High,CCC1=C(C(=NC=N1)NCCOC2=C(C(=C(C=C2)CCOCC)C)C)Cl
+Pefurazoate (Ref: UR-0003),Low,Moderate,Moderate,CCC(C(=O)OCCCC=C)N(CC1=CC=CO1)C(=O)N2C=CN=C2
+Ammonium nonanoate,Low,Moderate,Low,CCCCCCCCC(=O)[O-].[NH4+]
+Calcium acetate,Low,Moderate,Moderate,CC(=O)[O-].CC(=O)[O-].[Ca+2]
+Glyphosate-sodium,Moderate,Moderate,High,C(C(=O)O)NCP(=O)(O)[O-].[Na+]
+"1-(2-((2-(4-chlorophenyl)-2,5-dihydro-5-oxo-1H-pyrazol-1-yl)methyl)-3-methylphenyl)-1,4-dihydro-4-methyl- 5H-tetrazol-5-one (Ref: ISS7)",High,Moderate,Moderate,-
+Methyl 2-((aminosulfonyl)methyl)-benzoate (Ref: IN N5297),High,Low,Low,-
+"4,6-dimethyl-2-pyrimidinamine (Ref: IN J0290)",Moderate,Moderate,Moderate,-
+Caprylic acid,Low,Moderate,Low,CCCCCCCC(=O)O
+Potassium hydrogen phosphonate,High,Moderate,Moderate,OP(O)[O-].[K+]
+Dipotassium phosphonate,High,Moderate,Moderate,OP([O-])[O-].[K+].[K+]
+"3-(2-chloro-4- methylsulfonylbenzoyl) bicyclo[3.2.1]octane-2,4- dione (Ref: 1315P-070)",Moderate,Moderate,Moderate,CS(=O)(=O)c1ccc(C(=O)C2=C(O)C3CCC(C3)C2=O)c(Cl)c1
+"2-[2-[N-(2-methoxyethyl)-2,6-dimethyl-anilino]-anilino]-2-oxo-ethyl]sulfinylacetic acid (Ref: SYN 547047)",High,Low,Low,COCCN(C(=O)CS(=O)CC(=O)O)c1c(C)cccc1C
+Methyl saccharine (Ref: IN W6725),High,Low,Low,CC1=C2C(=CC=C1)C(=O)NS2(=O)=O
+2-chloro-5-hydroxybenzenesulfonamide (Ref: IN-A5760),High,Moderate,Low,NS(=O)(=O)c1cc(O)ccc1Cl
+2-chloro-5-methoxybenzenesulfonamide (Ref: IN-F4106),High,Moderate,Moderate,COc1ccc(Cl)c(c1)S(=O)(=O)N
+"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid (Ref: IN-QEK31)",High,Moderate,Moderate,OC(=O)c1cn2cc(cc(Cl)c2n1)C(F)(F)F
+3-chloro-5-(trifluoromethyl)pyridin-2-amine (Ref: IN-VM862),High,Moderate,Moderate,Nc1ncc(cc1Cl)C(F)(F)F
+Sec-butyl methylsulfone,High,Low,Low,-
+(RS)-S-sec-butyl O-ethyl-N-(2-ethylsulfonylethyl)-phosphoramidothioate,High,Moderate,Moderate,-
+P-chlorocresol,Moderate,Moderate,Moderate,C1=C(C=CC(=C1C)Cl)O
+Chloramine-T,High,Moderate,Moderate,CC1=CC=C(C=C1)S(=O)(=O)[N-]Cl.[Na+]
+Lubabegron fumerate (Ref: LY-488756),High,Moderate,Low,CC(C)(CC1=CC=C(C=C1)OC2=C(C=CC=N2)C#N)NCC(COC3=CC=CC=C3C4=CC=CS4)O.CC(C)(CC1=CC=C(C=C1)OC2=C(C=CC=N2)C#N)NCC(COC3=CC=CC=C3C4=CC=CS4)O.C(=CC(=O)O)C(=O)O
+Glufosinate-P-ammonium (Ref: BAS 1010H),Moderate,Moderate,High,CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]

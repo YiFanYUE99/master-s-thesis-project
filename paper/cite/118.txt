@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cheng, Q
+   Liu, QQ
+   Li, KY
+   Chang, CH
+   Lu, CA
+AF Cheng, Qing
+   Liu, Qing Qing
+   Li, Kaiye
+   Chang, Chi-Hsuan
+   Lu, Chensheng Alex
+TI Assessing Dietary Pesticide Intake and Potential Health Effects: The
+   Application of Global Metabolomics Analysis
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE global metabolomics; organic diets; children; dietary pesticide intake;
+   potential health effects
+ID GAMMA-GLUTAMYL-TRANSFERASE; HIGH-RESOLUTION METABOLOMICS; PHTHALATE
+   EXPOSURE; PHENOLIC-COMPOUNDS; URINE METABOLOME; GUT MICROBIOME; CANCER;
+   FOODS; IDENTIFICATION; TRANSPEPTIDASE
+AB Scientific information is not yet available to provide insight into how individual metabolome might be affected by thepresence of pesticides in regular diets. This study aimed to evaluate the perturbation of metabolomic pathways in children whoswitched their diets from conventional foods to mostly organic foods forfive consecutive days. We selected 46 child-matched spoturine samples with distinct differences of urinary pesticide metabolite levels between the conventional and organic eating days andthen analyzed those urine samples on three analytical platforms to perform global metabolomics analysis. We found statisticallysignificant perturbations of metabolic pathways relevant to inflammation, oxidative stress, and the demands of xenobioticdetoxification when children switched their conventional diets to mostly organic foods. The outcomes of this study allow us toextend the current understanding beyond organophosphate pesticides'acute toxicity of cholinesterase inhibition to the perturbationof metabolic pathways at dietary intake levels.
+C1 [Cheng, Qing; Liu, Qing Qing; Li, Kaiye; Lu, Chensheng Alex] Southwest Univ, Coll Resources & Environm, Chongqing 400715, Peoples R China.
+   [Chang, Chi-Hsuan; Lu, Chensheng Alex] Harvard TH Chan Sch Publ Hlth, Dept Environm Hlth, Boston, MA 02115 USA.
+C3 Southwest University - China; Harvard University; Harvard T.H. Chan
+   School of Public Health
+RP Lu, CA (corresponding author), Southwest Univ, Coll Resources & Environm, Chongqing 400715, Peoples R China.; Lu, CA (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Environm Hlth, Boston, MA 02115 USA.; Lu, CA (corresponding author), Univ Washington, Sch Publ Hlth, Dept Environm & Occupat Hlth Sci, Seattle, WA 98195 USA.
+EM alexlcs@swu.edu.cn
+RI Chen, Rainie/ISS-6016-2023; Liu, Qingqing/HMV-4816-2023; Liu,
+   Qing/GWC-9222-2022; liu, qingqing/HHD-0360-2022
+OI Lu, Chensheng/0000-0003-0680-2226
+FU National Institute of Environmental Health Sciences (NIEHS) through the
+   Harvard-NIEHS Center for Environmental Health [P30ES000002]
+FX This work was financially supported by the National Institute of
+   Environmental Health Sciences (NIEHS) through the Harvard-NIEHS Center
+   for Environmental Health (P30ES000002) and a gift by the Organic Center
+   (Washington DC) to Harvard T.H. Chan School of Public Health. Authors
+   thank children and their parents/caregivers who participated in the
+   Children Pesticide Exposure Study.
+NR 43
+TC 3
+Z9 3
+U1 1
+U2 40
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 1520-5118
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD APR 6
+PY 2022
+VL 70
+IS 13
+BP 4086
+EP 4091
+DI 10.1021/acs.jafc.1c08050
+PG 6
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Chemistry; Food Science & Technology
+GA 0S9LJ
+UT WOS:000786591900015
+PM 35320672
+DA 2024-04-07
+ER
+
+EF

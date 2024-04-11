@@ -1,0 +1,62 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tseng, YJ
+   Hopfinger, AJ
+   Esposito, EX
+AF Tseng, Yufeng J.
+   Hopfinger, Anton J.
+   Esposito, Emilio Xavier
+TI The great descriptor melting pot: mixing descriptors for the common good
+   of QSAR models
+SO JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN
+LA English
+DT Article
+DE QSAR; Descriptors; QSPR; 4D-QSAR; 4D-fingerprint; ADME-tox
+ID DEVELOPMENT KIT CDK; SOURCE JAVA LIBRARY; 4D-QSAR ANALYSIS; MOLECULAR
+   SIMILARITY; SET; 4D-FINGERPRINTS; CONSTRUCTION; BINDING; COMFA
+AB The usefulness and utility of QSAR modeling depends heavily on the ability to estimate the values of molecular descriptors relevant to the endpoints of interest followed by an optimized selection of descriptors to form the best QSAR models from a representative set of the endpoints of interest. The performance of a QSAR model is directly related to its molecular descriptors. QSAR modeling, specifically model construction and optimization, has benefited from its ability to borrow from other unrelated fields, yet the molecular descriptors that form QSAR models have remained basically unchanged in both form and preferred usage. There are many types of endpoints that require multiple classes of descriptors (descriptors that encode 1D through multi-dimensional, 4D and above, content) needed to most fully capture the molecular features and interactions that contribute to the endpoint. The advantages of QSAR models constructed from multiple, and different, descriptor classes have been demonstrated in the exploration of markedly different, and principally biological systems and endpoints. Multiple examples of such QSAR applications using different descriptor sets are described and that examined. The take-home-message is that a major part of the future of QSAR analysis, and its application to modeling biological potency, ADME-Tox properties, general use in virtual screening applications, as well as its expanding use into new fields for building QSPR models, lies in developing strategies that combine and use 1D through nD molecular descriptors.
+C1 [Esposito, Emilio Xavier] ExeResearch LLC, E Lansing, MI 48823 USA.
+   [Hopfinger, Anton J.; Esposito, Emilio Xavier] Chem21 Grp Inc, Lake Forest, IL 60045 USA.
+   [Hopfinger, Anton J.] Univ New Mexico, Coll Pharm MSC09 5360 1, Albuquerque, NM 87131 USA.
+   [Tseng, Yufeng J.] Natl Taiwan Univ, Grad Inst Biomed Elect & Bioinformat, Taipei 106, Taiwan.
+   [Tseng, Yufeng J.] Natl Taiwan Univ, Dept Comp Sci & Informat Engn, Taipei 106, Taiwan.
+C3 University of New Mexico; National Taiwan University; National Taiwan
+   University
+RP Esposito, EX (corresponding author), ExeResearch LLC, 32 Univ Dr, E Lansing, MI 48823 USA.
+EM emilio@exeResearch.com
+RI Tseng, Yufeng/AAY-4971-2021
+OI Esposito, Emilio Xavier/0000-0002-6193-0485; Tseng, Yufeng
+   Jane/0000-0002-8461-6181
+NR 36
+TC 35
+Z9 38
+U1 0
+U2 19
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0920-654X
+EI 1573-4951
+J9 J COMPUT AID MOL DES
+JI J. Comput.-Aided Mol. Des.
+PD JAN
+PY 2012
+VL 26
+IS 1
+SI SI
+BP 39
+EP 43
+DI 10.1007/s10822-011-9511-4
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Computer Science,
+   Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biophysics; Computer Science
+GA 887LR
+UT WOS:000299929400010
+PM 22200979
+DA 2024-04-01
+ER
+
+EF

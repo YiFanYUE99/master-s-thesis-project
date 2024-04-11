@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Maljuric, N
+   Otasevic, B
+   Malenovic, A
+   Zecevic, M
+   Protic, A
+AF Maljuric, Nevena
+   Otasevic, Biljana
+   Malenovic, Andelija
+   Zecevic, Mira
+   Protic, Ana
+TI Quantitative structure retention relationship modeling as potential tool
+   in chromatographic determination of stability constants and
+   thermodynamic parameters of β-cyclodextrin complexation process
+SO JOURNAL OF CHROMATOGRAPHY A
+LA English
+DT Article
+DE Inclusion complexes; Cyclodextrin; HPLC; Stability constants;
+   Thermodynamic parameters; QSRR
+ID NONCOVALENT COMPLEXES; LIQUID-CHROMATOGRAPHY; BINDING CONSTANTS;
+   MASS-SPECTROMETRY; PHASE; ASSOCIATION; VALIDATION; PESTICIDES; BEHAVIOR;
+   ACIDS
+AB When cyclodextrins (CDs) are used in chromatography analytes' retention time is decreased with an increase in concentration of CD in the mobile phase. Thus complex stability constants can be determined from the change in retention time of the ligand molecule upon complexation. Since the preceding approach implies extensive and time-consuming HPLC experiments, the goal of this research was to investigate the possibility of using in silico prediction tools instead. Quantitative structure-retention relationship (QSRR) model previously developed to explain the retention behavior of risperidone, olanzapine and their structurally related impurities in beta-CD modified HPLC system was applied to predict retention factor under different chromatographic conditions within the examined domains. Predicted retention factors were further used for calculation of stability constants and important thermodynamic parameters, namely standard Gibbs free energy, standard molar enthalpy and entropy, contributing to inclusion phenomenon. Unexpected prolonged retention with an increase in beta-CD concentration was observed, in contrast to the employed chromatographic theory used for the calculation of the stability constants. Consequently, it led to failure in stability constants and thermodynamic parameters calculation for almost all analytes when acetonitrile content was 20% (v/v) across the investigated pH range. Moreover, ionization of investigated analytes and free stationary phase silanol groups are pH dependent, leading to minimization of secondary interactions if free silanol groups are non-ionized at pH lower than 3. In order to prove accuracy of predicted retention factors, HPLC verification experiments were performed and good agreement between predicted and experimental values was obtained, confirming the applicability of proposed in-silico tool. However, the obtained results opened some novel questions and revealed that chromatographic method is not overall applicable in calculation of stability constants and thermodynamic parameters indicating the complexity of ss-CD modified systems. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Maljuric, Nevena; Otasevic, Biljana; Malenovic, Andelija; Zecevic, Mira; Protic, Ana] Univ Belgrade, Fac Pharm, Dept Drug Anal, Vojvode Stepe 450, Belgrade 11152, Serbia.
+C3 University of Belgrade
+RP Protic, A (corresponding author), Univ Belgrade, Fac Pharm, Dept Drug Anal, Vojvode Stepe 450, Belgrade 11152, Serbia.
+EM anna@pharmacy.bg.ac.rs
+RI Otašević, Biljana/ABZ-2516-2022; Malenović, Anđelija/GQR-0354-2022
+OI Otašević, Biljana/0000-0002-4747-927X; Malenović,
+   Anđelija/0000-0002-4102-3933; (Maljuric) Djajic,
+   Nevena/0000-0003-4420-9781; Protic, Ana/0000-0002-6304-1913
+FU Ministry of Education Science and Technological Development of the
+   Republic of Serbia [172033]
+FX This work is financed by the Ministry of Education Science and
+   Technological Development of the Republic of Serbia (Project no.
+   172033).
+NR 44
+TC 4
+Z9 4
+U1 0
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29a, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0021-9673
+EI 1873-3778
+J9 J CHROMATOGR A
+JI J. Chromatogr. A
+PD MAY 24
+PY 2020
+VL 1619
+AR 460971
+DI 10.1016/j.chroma.2020.460971
+PG 11
+WC Biochemical Research Methods; Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA LK2JK
+UT WOS:000530685300044
+PM 32089289
+DA 2024-04-02
+ER
+
+EF

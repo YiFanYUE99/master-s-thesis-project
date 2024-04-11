@@ -1,0 +1,80 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, S
+   Tian, SN
+   Meng, ZY
+   Sun, W
+   Xu, N
+   Jia, M
+   Huang, SR
+   Wang, Y
+   Zhou, ZQ
+   Diao, JL
+   Zhu, WT
+AF Yan, Sen
+   Tian, Sinuo
+   Meng, Zhiyuan
+   Sun, Wei
+   Xu, Ning
+   Jia, Ming
+   Huang, Shiran
+   Wang, Yu
+   Zhou, Zhiqiang
+   Diao, Jinling
+   Zhu, Wentao
+TI Synergistic effect of ZnO NPs and imidacloprid on liver injury in male
+   ICR mice: Increase the bioavailability of IMI by targeting the gut
+   microbiota*
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE ZnO NPs; Imidacloprid; Metabolomics; Gut microbiota; Toxicology
+ID INTESTINAL MICROBIOTA; SILVER NANOPARTICLES
+AB Although many toxicological studies on pesticides and nanoparticles have been conducted, it is not clear whether nanoparticles will increase the toxicity of pesticides. In this study, we chose imidacloprid (IMI) as a representative pesticide, and explored the influence of ZnO NPs on the toxic effect of IMI. In addition, we studied the bioaccumulation of IMI in mice. Using biochemical index analysis, liver histopathological analysis, non-targeted metabolomics, and LC/MS analysis, we found that ZnO NPs increased the toxicity of IMI, which may be related to the increase in IMI bioaccumulation in mice. In addition, we used intestinal histopathological analysis, RT-qPCR, and 16sRNA sequencing to find that the disturbance of the gut microbiota and the impaired intestinal barrier caused by ZnO NPs may be the reason for the increase in IMI bioaccumulation. In summary, our results indicate that ZnO NPs disrupted the intestinal barrier and enhanced the bioaccumulation of IMI, and therefore increased the toxicity of IMI in mice. Our research has deepened the toxicological insights between nanomaterials and pesticides.
+C1 [Yan, Sen; Tian, Sinuo; Meng, Zhiyuan; Sun, Wei; Jia, Ming; Huang, Shiran; Wang, Yu; Zhou, Zhiqiang; Diao, Jinling; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Meng, Zhiyuan] Yangzhou Univ, Sch Hort & Plant Protect, Yangzhou 225009, Jiangsu, Peoples R China.
+   [Xu, Ning] Tsinghua Univ, Beijing Adv Innovat Ctr Struct Biol, Sch Life Sci, Beijing 100084, Peoples R China.
+C3 China Agricultural University; Yangzhou University; Tsinghua University
+RP Zhu, WT (corresponding author), Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; LI, Xiang/JBJ-8387-2023; zhou,
+   zhou/HPE-9525-2023; Zhou, Zhiqiang/HIR-4954-2022; Meng,
+   Zhiyuan/AFU-9894-2022
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Xu,
+   Ning/0000-0002-8601-0992; Yan, Sen/0000-0001-7361-6285
+FU National Key Research and Development Program of China [2016YFD0200202];
+   2115 Talent Development Program of China Agricultural University
+FX We gratefully acknowledge the financial support from National Key
+   Research and Development Program of China (2016YFD0200202) and the 2115
+   Talent Development Program ofChina Agricultural University. In addition,
+   we thank Dr. Yi Zhou from the University of Georgia for providing
+   language editing services.
+NR 57
+TC 9
+Z9 9
+U1 30
+U2 143
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD FEB 1
+PY 2022
+VL 294
+AR 118676
+DI 10.1016/j.envpol.2021.118676
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA ZD7YM
+UT WOS:000758412300001
+PM 34906595
+DA 2024-03-20
+ER
+
+EF

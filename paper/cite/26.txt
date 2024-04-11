@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Hamadache, M
+   Amrane, A
+   Benkortbi, O
+   Hanini, S
+   Khaouane, L
+   Moussa, CS
+AF Hamadache, Mabrouk
+   Amrane, Abdeltif
+   Benkortbi, Othmane
+   Hanini, Salah
+   Khaouane, Latifa
+   Moussa, Cherif Si
+BE Roy, K
+TI Environmental Toxicity of Pesticides, and Its Modeling by QSAR
+   Approaches
+SO ADVANCES IN QSAR MODELING: APPLICATIONS IN PHARMACEUTICAL, CHEMICAL,
+   FOOD, AGRICULTURAL AND ENVIRONMENTAL SCIENCES
+SE Challenges and Advances in Computational Chemistry and Physics
+LA English
+DT Article; Book Chapter
+DE Toxicity; Pesticides; QSAR models; Prediction
+ID PERSISTENT ORGANIC POLLUTANTS; DIVERSE CHEMICAL PESTICIDES; CURRENTLY
+   USED PESTICIDES; ACUTE MAMMALIAN TOXICITY; YANGTZE-RIVER DELTA;
+   ORGANOCHLORINE PESTICIDES; RISK-ASSESSMENT; ORGANOPHOSPHORUS PESTICIDES;
+   OCCUPATIONAL-EXPOSURE; PARKINSONS-DISEASE
+AB Thousands of environmental pollutants including pesticides, issued from human activities, are accumulated in the environment making a source of danger for the whole ecosystem. Also, the risk assessment process has become a vital and necessary discipline in the legislation to ensure that these pollutants pose no risk or negligible risk to human health, wildlife and the whole ecosystem. The risk assessment carried out for the three natural compartments, namely the terrestrial, the aquatic environment and air, is usually based on experimental studies whose cost is especially high in terms of money, time and laboratory animals. Thus, regulatory agencies are turning to the search for alternative methods less expensive, reliable and fast, which may have a power to predict the potential risks of chemical pollutants. One such toxicological predictive approach is obtained by the development of quantitative models of structure-activity relationships (QSAR). They provide the means for estimating the toxicity of a variety of chemicals in the absence of experimental data on toxicity. In this chapter, a review of publications dedicated to pollution by pesticides and their effects on the entire ecosystem is described. The general principles of the development and validation of QSAR models are also described. Then a critical review of QSAR models published in the literature to date for the prediction of the toxicity of pesticides is also covered.
+C1 [Hamadache, Mabrouk; Benkortbi, Othmane; Hanini, Salah; Khaouane, Latifa; Moussa, Cherif Si] Univ Medea, Lab Biomat & Phenomenes Transport LBMPT, Quartier Ain Dheb 26000, Medea, Algeria.
+   [Amrane, Abdeltif] Univ Rennes 1, Ecole Natl Super Chim Rennes, CNRS, UMR 6226, 11 Allee Beaulieu CS 50837, F-35708 Rennes 7, France.
+C3 Universite Yahia Fares Medea; Universite de Rennes; Centre National de
+   la Recherche Scientifique (CNRS); Ecole Nationale Superieure de Chimie
+   de Rennes (ENSCR)
+RP Hamadache, M (corresponding author), Univ Medea, Lab Biomat & Phenomenes Transport LBMPT, Quartier Ain Dheb 26000, Medea, Algeria.; Amrane, A (corresponding author), Univ Rennes 1, Ecole Natl Super Chim Rennes, CNRS, UMR 6226, 11 Allee Beaulieu CS 50837, F-35708 Rennes 7, France.
+EM mhamdeche@yahoo.fr; abdeltif.amrane@univ-rennes1.fr;
+   benkortbi_oth@yahoo.fr; s_hanini2002@yahoo.fr; latifa_khaouane@yahoo.fr;
+   simoussa_cherif@yahoo.fr
+RI Amrane, Abdeltif/AAG-5117-2020; SI-MOUSSA, Cherif/P-4080-2016
+OI SI-MOUSSA, Cherif/0000-0001-5727-2742
+NR 181
+TC 8
+Z9 8
+U1 3
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 2542-4491
+EI 2542-4483
+BN 978-3-319-56850-8; 978-3-319-56849-2
+J9 CHALL ADV COMPUT CHE
+PY 2017
+VL 24
+BP 471
+EP 501
+DI 10.1007/978-3-319-56850-8_13
+D2 10.1007/978-3-319-56850-8
+PG 31
+WC Chemistry, Physical
+WE Book Citation Index – Science (BKCI-S)
+SC Chemistry
+GA BJ9NE
+UT WOS:000429567000014
+DA 2024-04-01
+ER
+
+EF

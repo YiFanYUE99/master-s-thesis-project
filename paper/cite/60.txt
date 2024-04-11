@@ -1,0 +1,62 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Elbert, A
+   Haas, M
+   Springer, B
+   Thielert, W
+   Nauen, R
+AF Elbert, Alfred
+   Haas, Matthias
+   Springer, Bernd
+   Thielert, Wolfgang
+   Nauen, Ralf
+TI Applied aspects of neonicotinoid uses in crop protection
+SO PEST MANAGEMENT SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 1st Global Workshop on Stewardship of Neonicotinoid Insecticides
+CY JUN 05-SEP 09, 2008
+CL Honolulu, HI
+DE neonicotinoid insecticides; imidacloprid; thiacloprid; clothianidin;
+   thiamethoxam; acetamiprid; nitenpyram; dinotefuran
+ID ACYCLIC NITROETHENE COMPOUNDS; BEMISIA-TABACI HOMOPTERA; CHLORONICOTINYL
+   INSECTICIDE; RESISTANCE; THIAMETHOXAM; HEMIPTERA
+AB Neonicotinoid insecticides comprise seven commercially marketed active ingredients: imidacloprid, acetamiprid, nitenpyram, thiamethoxam, thiacloprid, clothianidin and dinotefuran. The technical profiles and main differences between neonicotinoid insecticides, including their spectrum of efficacy, are described: use for vector control, systemic properties and versatile application forms, especially seed treatment. New formulations have been developed to optimize the bioavailability of neonicotinoids through improved rain fastness, better retention and spreading of the spray deposit on the leaf surface, combined with higher leaf penetration. Combined formulations with pyrethroids and other insecticides are also being developed with the aim of broadening the insecticidal spectrum of neonicotinoids and to replace WHO Class I products from older chemical classes. These innovative developments for fife-cycle management, jointly with the introduction of generic products, will, within the next few years, turn neonicotinoids into the most important chemical class in crop protection. (c) 2008 Society of Chemical Industry
+C1 [Elbert, Alfred; Haas, Matthias; Springer, Bernd] Bayer CropSci, Dev, Agron Dev, D-40789 Monheim, Germany.
+   [Thielert, Wolfgang; Nauen, Ralf] Bayer CropSci, Res Insecticides, Biol Insecticides, D-40789 Monheim, Germany.
+C3 Bayer AG; Bayer CropScience; Bayer AG; Bayer CropScience
+RP Elbert, A (corresponding author), Bayer CropSci, Dev, Agron Dev, Alfred Nobel Str 50, D-40789 Monheim, Germany.
+EM alfred.elbert.ae@bayercropscience.com
+RI Nauen, Ralf/AAG-5840-2019
+OI Nauen, Ralf/0000-0002-7525-8589
+NR 57
+TC 666
+Z9 789
+U1 16
+U2 470
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1526-498X
+EI 1526-4998
+J9 PEST MANAG SCI
+JI Pest Manag. Sci.
+PD NOV
+PY 2008
+VL 64
+IS 11
+BP 1099
+EP 1105
+DI 10.1002/ps.1616
+PG 7
+WC Agronomy; Entomology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Agriculture; Entomology
+GA 364QH
+UT WOS:000260349700004
+PM 18561166
+DA 2024-04-06
+ER
+
+EF

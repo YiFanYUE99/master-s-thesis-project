@@ -1,0 +1,77 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lupi, D
+   Tremolada, P
+   Colombo, M
+   Giacchini, R
+   Benocci, R
+   Parenti, P
+   Parolini, M
+   Zambon, G
+   Vighi, M
+AF Lupi, Daniela
+   Tremolada, Paolo
+   Colombo, Mario
+   Giacchini, Roberto
+   Benocci, Roberto
+   Parenti, Paolo
+   Parolini, Marco
+   Zambon, Giovanni
+   Vighi, Marco
+TI Effects of Pesticides and Electromagnetic Fields on Honeybees: A Field
+   Study Using Biomarkers
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Bees; Biomarkers; Pesticides; Electric and magnetic fields; Stress
+   effects
+ID GLUTATHIONE S-TRANSFERASES; MOBILE PHONE RADIATION; BEES APIS-MELLIFERA;
+   ALKALINE-PHOSPHATASE; COLONY LOSSES; EXPOSURE; ACETYLCHOLINESTERASE;
+   NEONICOTINOIDS; STRESS; WINTER
+AB The effects of pesticide mixtures and electric and magnetic fields on honeybees were evaluated in three experimental sites located in northern Italy: a control site far from anthropogenic-stress sources, a semi-natural site close to a high-voltage electric line and an agricultural site with intensive pesticide use. From each experimental site, young workers and foraging bees were taken monthly from May to October and analyzed for four enzymatic biomarkers: acetylcholinesterase (AChE), catalase (CAT), glutathione S-transferase (GST) and alkaline phosphatase (ALP). The results revealed time- and site-specific effects in respect to control site, confirming the role of biomarkers as diagnostic and early-warning tools for multi-stress sources on honeybees. In the electromagnetic-stress site, the effect of an over-activation of all analyzed biomarkers was observed at the end of the season. According to other literature findings, this event was related to a behavioral over-activation in a period in which bees should prepare themselves for overwintering. This finding poses potential problems for winter survival. In the pesticide-stress site, different pesticide-induced responses were identified. We demonstrated in the field that pesticide mixtures currently used in agriculture could greatly affect the biochemical parameters of bees (with both enzymatic under- and over-activations).
+C1 [Lupi, Daniela; Colombo, Mario] Univ Milan, Dept Food Environm & Nutr Sci DEFENS, Via Celoria 2, I-20133 Milan, Italy.
+   [Tremolada, Paolo; Parolini, Marco] Univ Milan, Dept Environm Sci & Policy, Via Celoria 26, I-20133 Milan, Italy.
+   [Giacchini, Roberto; Benocci, Roberto; Parenti, Paolo; Zambon, Giovanni] Univ Milano Bicocca, Dept Earth & Environm Sci, Piazza Sci 1, I-20126 Milan, Italy.
+   [Vighi, Marco] IMDEA Water Inst, Avda Punto Com 2, Alcala De Henares 28805, Spain.
+C3 University of Milan; University of Milan; University of Milano-Bicocca;
+   Universidad de Alcala; IMDEA Water Institute
+RP Tremolada, P (corresponding author), Univ Milan, Dept Environm Sci & Policy, Via Celoria 26, I-20133 Milan, Italy.
+EM paolo.tremolada@unimi.it
+RI LUPI, DANIELA/E-8281-2016; TREMOLADA, PAOLO/F-4685-2018
+OI LUPI, DANIELA/0000-0002-9467-2419; TREMOLADA, PAOLO/0000-0003-4766-5352
+FU Fondazione CARIPLO [2016-2135]
+FX We are very grateful to Fondazione CARIPLO for financial support within
+   the project: "ProApe (Rif. 2016-2135): Api e Ambiente: analisi
+   multi-stress dei fattori di rischio e proposte operative" and to Dr.
+   Emanuele Quattrini for his experimental support in the orchard farm.
+NR 75
+TC 13
+Z9 14
+U1 0
+U2 31
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1735-6865
+EI 2008-2304
+J9 INT J ENVIRON RES
+JI Int. J. Environ. Res.
+PD FEB
+PY 2020
+VL 14
+IS 1
+BP 107
+EP 122
+DI 10.1007/s41742-019-00242-4
+EA JAN 2020
+PG 16
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA KJ4JM
+UT WOS:000505333300001
+DA 2024-04-07
+ER
+
+EF

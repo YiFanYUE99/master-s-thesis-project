@@ -1,0 +1,110 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lin, HH
+   Himali, JJ
+   Satizabal, CL
+   Beiser, AS
+   Levy, D
+   Benjamin, EJ
+   Gonzales, MM
+   Ghosh, S
+   Vasan, RS
+   Seshadri, S
+   McGrath, ER
+AF Lin, Honghuang
+   Himali, Jayandra J.
+   Satizabal, Claudia L.
+   Beiser, Alexa S.
+   Levy, Daniel
+   Benjamin, Emelia J.
+   Gonzales, Mitzi M.
+   Ghosh, Saptaparni
+   Vasan, Ramachandran S.
+   Seshadri, Sudha
+   McGrath, Emer R.
+TI Identifying Blood Biomarkers for Dementia Using Machine Learning Methods
+   in the Framingham Heart Study
+SO CELLS
+LA English
+DT Article
+DE dementia; risk prediction; biomarkers; blood biomarkers; machine
+   learning
+ID MILD COGNITIVE IMPAIRMENT; ALZHEIMERS-DISEASE; SIGNALING PROTEINS;
+   A-BETA; RISK; IDENTIFICATION; DIAGNOSIS; CLASSIFICATION; ASSOCIATION;
+   CHOLESTEROL
+AB Blood biomarkers for dementia have the potential to identify preclinical disease and improve participant selection for clinical trials. Machine learning is an efficient analytical strategy to simultaneously identify multiple candidate biomarkers for dementia. We aimed to identify important candidate blood biomarkers for dementia using three machine learning models. We included 1642 (mean 69 +/- 6 yr, 53% women) dementia-free Framingham Offspring Cohort participants attending examination, 7 who had available blood biomarker data. We developed three machine learning models, support vector machine (SVM), eXtreme gradient boosting of decision trees (XGB), and artificial neural network (ANN), to identify candidate biomarkers for incident dementia. Over a mean 12 +/- 5 yr follow-up, 243 (14.8%) participants developed dementia. In multivariable models including all 38 available biomarkers, the XGB model demonstrated the strongest predictive accuracy for incident dementia (AUC 0.74 +/- 0.01), followed by ANN (AUC 0.72 +/- 0.01), and SVM (AUC 0.69 +/- 0.01). Stepwise feature elimination by random sampling identified a subset of the nine most highly informative biomarkers. Machine learning models confined to these nine biomarkers showed improved model predictive accuracy for dementia (XGB, AUC 0.76 +/- 0.01; ANN, AUC 0.75 +/- 0.004; SVM, AUC 0.73 +/- 0.01). A parsimonious panel of nine candidate biomarkers were identified which showed moderately good predictive accuracy for incident dementia, although our results require external validation.
+C1 [Lin, Honghuang; Himali, Jayandra J.; Satizabal, Claudia L.; Beiser, Alexa S.; Levy, Daniel; Benjamin, Emelia J.; Gonzales, Mitzi M.; Ghosh, Saptaparni; Vasan, Ramachandran S.; Seshadri, Sudha; McGrath, Emer R.] Framingham Heart Dis Epidemiol Study, Framingham, MA 01701 USA.
+   [Lin, Honghuang] Univ Massachusetts, Dept Med, Med Sch, Worcester, MA 01655 USA.
+   [Himali, Jayandra J.; Beiser, Alexa S.; Benjamin, Emelia J.] Boston Univ, Sch Publ Hlth, Boston, MA 02118 USA.
+   [Himali, Jayandra J.; Beiser, Alexa S.; Benjamin, Emelia J.; Ghosh, Saptaparni; Vasan, Ramachandran S.; Seshadri, Sudha] Boston Univ, Sch Med, Boston, MA 02118 USA.
+   [Himali, Jayandra J.; Satizabal, Claudia L.; Gonzales, Mitzi M.; Seshadri, Sudha] Univ Texas Hlth Sci Ctr San Antonio, Glenn Biggs Inst Alzheimers & Neurodegenerat Dis, San Antonio, TX 77072 USA.
+   [Levy, Daniel] NHLBIH, Populat Sci Branch, Bethesda, MD 20824 USA.
+   [McGrath, Emer R.] Natl Univ Ireland Galway, HRB Clin Res Facil, Univ Rd, Galway H91 TK33, Ireland.
+C3 Framingham Heart Study; University of Massachusetts System; University
+   of Massachusetts Worcester; Boston University; Boston University;
+   University of Texas System; University of Texas Health Science Center at
+   San Antonio; Health Research Board - Ireland
+RP McGrath, ER (corresponding author), Framingham Heart Dis Epidemiol Study, Framingham, MA 01701 USA.; McGrath, ER (corresponding author), Natl Univ Ireland Galway, HRB Clin Res Facil, Univ Rd, Galway H91 TK33, Ireland.
+EM Honghuang.lin3@umassmed.edu; himali@uthsca.edu; satizabal@uthsca.edu;
+   alexab@bu.edu; levyd@nhlbi.nih.gov; emelia@bu.edu;
+   gonzalesM20@uthscsa.edu; sapta@bu.edu; vasan@bu.edu;
+   seshadri@uthscsa.edu; emer.mcgrath@nuigalway.ie
+RI Levy, Daniel/ABF-6873-2021; Benjamin, Emelia/E-7103-2011; Lin,
+   Honghuang/A-3269-2019; Ghosh, Saptaparni/IUP-8657-2023
+OI Levy, Daniel/0000-0003-1843-8724; Benjamin, Emelia/0000-0003-4076-2336;
+   Satizabal, Claudia L/0000-0002-1115-4430; Ramachandran,
+   Vasan/0000-0001-7357-5970; McGrath, Emer/0000-0002-3589-2964
+FU Health Research Board of Ireland [CSF-2020-011]; Alzheimer's Association
+   [AARG-NTF20-643020, AACSF-18-566570]; National Institute on Aging
+   [U24NS100591, 1U01AG068221-01A1, R01 AG028321, R01 AG033193, R01
+   AG008122, U01 AG049505, R01 AG049607, R01 AG054076, R01 AG059421, R01
+   AG066524, U01 AG052409]; American Heart Association [20SFRN35360180];
+   National Heart, Lung, and Blood Institute [HHSN268201500001,
+   75N92019D00031]; NHLBI [1RO1 HL64753, R01 HL076784]; National Institute
+   on Neurological Disorders and Stroke [R01 NS017950, UH2 NS100605];
+   National Institute of Neurological Disorders and Stroke
+FX ERM received funding from the Health Research Board of Ireland
+   (CSF-2020-011) and the Alzheimer's Association (AACSF-18-566570) to
+   support this work. HL received funding from the National Institute on
+   Aging (1U01AG068221-01A1), the Alzheimer's Association (grant
+   AARG-NTF20-643020), and the American Heart Association (Grant
+   20SFRN35360180) to support this work. The Framingham Heart Study is
+   supported by the National Heart, Lung, and Blood Institute contracts
+   HHSN268201500001 and 75N92019D00031. Additional support for this work
+   was provided by NHLBI grants 1RO1 HL64753 and R01 HL076784, grants from
+   the National Institute on Aging (R01 AG028321, R01 AG033193, R01
+   AG008122, U01 AG049505, R01 AG049607, R01 AG054076, R01 AG059421, R01
+   AG066524, U01 AG052409), and the National Institute on Neurological
+   Disorders and Stroke (R01 NS017950 and UH2 NS100605). The MarkVCID
+   Consortium is funded by the National Institute of Neurological Disorders
+   and Stroke and National Institute on Aging (U24NS100591).
+NR 55
+TC 5
+Z9 6
+U1 3
+U2 9
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-4409
+J9 CELLS-BASEL
+JI Cells
+PD MAY
+PY 2022
+VL 11
+IS 9
+AR 1506
+DI 10.3390/cells11091506
+PG 13
+WC Cell Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cell Biology
+GA 1E8AM
+UT WOS:000794704300001
+PM 35563811
+OA gold, Green Published
+DA 2024-04-07
+ER
+
+EF

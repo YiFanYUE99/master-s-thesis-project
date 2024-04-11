@@ -1,0 +1,75 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, Y
+   Qiu, J
+   Zhu, WT
+   Wang, XR
+   Zhang, P
+   Wang, DZ
+   Zhou, ZQ
+AF Wang, Yao
+   Qiu, Jing
+   Zhu, Wentao
+   Wang, Xinru
+   Zhang, Ping
+   Wang, Dezhen
+   Zhou, Zhiqiang
+TI Enantioselective Metabolism and Interference on Tryptophan Metabolism of
+   Myclobutanil in Rat Hepatocytes
+SO CHIRALITY
+LA English
+DT Article
+DE myclobutanil; enantioselective metabolism; tryptophan metabolism;
+   primary rat hepatocytes
+ID ARYL-HYDROCARBON RECEPTOR; PROPICONAZOLE; TRIADIMEFON; DEGRADATION;
+   FUNGICIDES; TOXICITY; DISEASE
+AB Myclobutanil, (RS)-2-(4-chlorophenyl)-2-(1H-1, 2, 4-triazol-1-ylmethyl) hexanenitrile is a widely used triazole fungicide. In this study, enantioselective metabolism and cytotoxicity were investigated in rat hepatocytes by chiral HPLC-MS/MS and the methyl tetrazolium (MTT) assay, respectively. Furthermore, tryptophan metabolism disturbance in rat hepatocytes after myclobutanil exposure was also evaluated by target metabolomics method. The half-life (t1/2) of (+)-myclobutanil was 10.66 h, whereas that for (-)-myclobutanil was 15.07 h. Such results indicated that the metabolic process of myclobutanil in rat hepatocytes was enantioselective with an enrichment of (-)-myclobutanil. For the cytotoxicity research, the calculated EC50 (12h) values for rac-myclobutanil, (+)- and (-)-myclobutanil were 123.65, 150.65 and 152.60 mu M, respectively. The results of tryptophan metabolites profiling showed that the levels of kynurenine (KYN) and XA were both up-regulated compared to the control, suggesting the activation effect of the KYN pathway by myclobutanil and its enantiomers which may provide an important insight into its toxicity mechanism. The data presented here could be useful for the environmental hazard assessment of myclobutanil. Chirality 27:643-649, 2015. (c) 2015 Wiley Periodicals, Inc.
+C1 [Wang, Yao; Zhu, Wentao; Wang, Xinru; Zhang, Ping; Wang, Dezhen; Zhou, Zhiqiang] China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Qiu, Jing] Chinese Acad Agr Sci, Inst Qual Stand & Testing Technol Agroprod, Key Lab Agroprod Qual & Safety, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Institute of Quality Standards & Testing Technology for Agro-Products,
+   CAAS
+RP Zhou, ZQ (corresponding author), China Agr Univ, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM zqzhou@cau.edu.cn
+RI Wang, Dezhen/K-2489-2016; Zhou, Zhiqiang/HIR-4954-2022; zhou,
+   zhou/HPE-9525-2023; Zhu, Wentao/O-8964-2019
+OI Wang, Dezhen/0000-0003-3984-6946; Zhu, Wentao/0000-0001-6371-7998; Wang,
+   Xinru/0000-0002-8340-243X
+FU National Natural Science Foundation of China [21207158, 21337005];
+   Chinese Universities Scientific Fund [2012RC026]
+FX Contract grant sponsor: the National Natural Science Foundation of
+   China; Contract grant numbers: 21207158.21337005.; Contract grant
+   sponsor: Chinese Universities Scientific Fund; Contract grant number:
+   2012RC026.
+NR 22
+TC 11
+Z9 11
+U1 0
+U2 58
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0899-0042
+EI 1520-636X
+J9 CHIRALITY
+JI Chirality
+PD SEP
+PY 2015
+VL 27
+IS 9
+BP 643
+EP 649
+DI 10.1002/chir.22479
+PG 7
+WC Chemistry, Medicinal; Chemistry, Analytical; Chemistry, Organic;
+   Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Chemistry
+GA CP7PS
+UT WOS:000360080900012
+PM 26115377
+DA 2024-03-20
+ER
+
+EF

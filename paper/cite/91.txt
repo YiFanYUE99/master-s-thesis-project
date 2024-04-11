@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU He, JR
+   Wei, JW
+   Chen, SY
+   Li, N
+   Zhong, XD
+   Li, YQ
+AF He, Jia-Rong
+   Wei, Jia-Wen
+   Chen, Shi-Yi
+   Li, Na
+   Zhong, Xiu-Di
+   Li, Yao-Qun
+TI Machine Learning-Assisted Synchronous Fluorescence Sensing Approach for
+   Rapid and Simultaneous Quantification of Thiabendazole and Fuberidazole
+   in Red Wine
+SO SENSORS
+LA English
+DT Article
+DE machine learning; synchronous fluorescence; red wine; pesticide
+   residues; thiabendazole; fuberidazole
+ID BENZIMIDAZOLE FUNGICIDES; EXTRACTION
+AB Rapid analysis of components in complex matrices has always been a major challenge in constructing sensing methods, especially concerning time and cost. The detection of pesticide residues is an important task in food safety monitoring, which needs efficient methods. Here, we constructed a machine learning-assisted synchronous fluorescence sensing approach for the rapid and simultaneous quantitative detection of two important benzimidazole pesticides, thiabendazole (TBZ) and fuberidazole (FBZ), in red wine. First, fluorescence spectra data were collected using a second derivative constant-energy synchronous fluorescence sensor. Next, we established a prediction model through the machine learning approach. With this approach, the recovery rate of TBZ and FBZ detection of pesticide residues in red wine was 101% +/- 5% and 101% +/- 15%, respectively, without resorting complicated pretreatment procedures. This work provides a new way for the combination of machine learning and fluorescence techniques to solve the complexity in multi-component analysis in practical applications.
+C1 [He, Jia-Rong; Wei, Jia-Wen; Chen, Shi-Yi; Li, Na; Zhong, Xiu-Di; Li, Yao-Qun] Xiamen Univ, Coll Chem & Chem Engn, Dept Chem, MOE Key Lab Spectrochem Anal & Instrumentat, 422 Siming South Rd, Xiamen 361005, Peoples R China.
+C3 Xiamen University
+RP Li, YQ (corresponding author), Xiamen Univ, Coll Chem & Chem Engn, Dept Chem, MOE Key Lab Spectrochem Anal & Instrumentat, 422 Siming South Rd, Xiamen 361005, Peoples R China.
+EM yaoqunli@xmu.edu.cn
+RI He, Jiarong/ABB-5553-2020
+OI He, Jiarong/0000-0003-4935-868X; Li, Yao-Qun/0000-0001-7842-1671
+FU Science and Technology Program of Fujian Province; National Natural
+   Science Foundation of China;  [2022Y4008];  [21874110];  [22274137]
+FX Financial support from the Science and Technology Program of Fujian
+   Province (2022Y4008) and the National Natural Science Foundation of
+   China (21874110, 22274137) is gratefully acknowledged.
+NR 36
+TC 1
+Z9 1
+U1 21
+U2 38
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD DEC
+PY 2022
+VL 22
+IS 24
+AR 9979
+DI 10.3390/s22249979
+PG 13
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA 7G9WF
+UT WOS:000902863900001
+PM 36560348
+OA Green Published, gold
+DA 2024-04-07
+ER
+
+EF

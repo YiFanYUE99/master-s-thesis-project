@@ -1,0 +1,62 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kumar, A
+   Ojha, PK
+   Roy, K
+AF Kumar, A.
+   Ojha, P. K.
+   Roy, K.
+TI First report on pesticide sub-chronic and chronic toxicities against
+   dogs using QSAR and chemical read-across
+SO SAR AND QSAR IN ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE QSAR; read-across; pesticides; chronic and sub-chronic toxicities; dog;
+   PPDB
+ID APPLICABILITY DOMAIN; SAFETY ASSESSMENT; VALIDATION; PREDICTION;
+   ALGORITHM; SELECTION; RESIDUES; DURATION; METRICS
+AB Excessive use of chemicals is the outcome of the industrialization of agricultural sectors which leads to disturbance of ecological balance. Various agrochemicals are widely used in agricultural fields, urban green areas, and to protect from various pest-associated diseases. Due to their long-term health and environmental hazards, chronic toxicity assessment is crucial. Since in vivo and in vitro toxicity assessments are costly, lengthy, and require a large number of animal experiments, in silico toxicity approaches are better alternatives to save time, cost, and animal experimentation. We have developed the first regression-based 2D-QSAR models using different sub-chronic and chronic toxicity data of pesticides against dogs employing 2D descriptors. From the statistical results ($n{\rm{train}} = 53 - 62,{\rm{ }}{r<^>2}$ntrain=53-62, r2 = 0.614 to 0.754, $Q_{{\rm{LOO}}}<^>2$QLOO2 = 0.501 to 0.703 and ${\rm{ }}Q_{\left({{\rm{F}}1} \right)}<^>2$ QF12 = 0.531 to 0.718, $Q_{\left({{\rm{F}}2} \right)}<^>2 = 0.523 - 0.713$QF22=0.523-0.713), it was concluded that the models are robust, reliable, interpretable, and predictive. Similarity-based read-across algorithm was also used to improve the predictivity ($Q_{\left({{\rm{F}}1} \right)}<^>2 = 0.595 - 0.813, Q_{\left({{\rm{F}}2} \right)}<^>2 = 0.573 - 0.809$QF12=0.595-0.813,QF22=0.573-0.809) of the models. 5132 chemicals obtained from the CPDat and 1694 pesticides obtained from the PPDB database were also screened using the developed models, and their predictivity and reliability were checked. Thus, these models will be helpful for eco-toxicological data-gap filling, toxicity prediction of untested pesticides, and development of novel, safer & eco-friendly pesticides.
+C1 [Kumar, A.; Ojha, P. K.] Jadavpur Univ, Dept Pharmaceut Technol, Drug Discovery & Dev Lab, Kolkata, India.
+   [Roy, K.] Jadavpur Univ, Dept Pharmaceut Technol, Drug Theoret & Cheminformat DTC Lab, Kolkata, India.
+C3 Jadavpur University; Jadavpur University
+RP Roy, K (corresponding author), Jadavpur Univ, Dept Pharmaceut Technol, Drug Theoret & Cheminformat DTC Lab, Kolkata, India.
+EM kunal.roy@jadavpuruniversity.in
+OI Kumar, Ankur/0000-0002-8841-5176
+FU GPC Regulatory India Pvt. Ltd [No-P-1/RS/171/22]
+FX AK thanks the GPC regulatory India private limited for financial support
+   in the form of a project assistant (GPC regulatory India private limited
+   sponsored research, Ref No-P-1/RS/171/22, date-07-09.2022).
+NR 56
+TC 0
+Z9 0
+U1 1
+U2 1
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1062-936X
+EI 1029-046X
+J9 SAR QSAR ENVIRON RES
+JI SAR QSAR Environ. Res.
+PD MAR 3
+PY 2024
+VL 35
+IS 3
+BP 241
+EP 263
+DI 10.1080/1062936X.2024.2320143
+PG 23
+WC Chemistry, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications; Environmental Sciences; Mathematical & Computational
+   Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science; Environmental Sciences & Ecology;
+   Mathematical & Computational Biology; Toxicology
+GA JJ4O9
+UT WOS:001172788300001
+PM 38390626
+DA 2024-04-06
+ER
+
+EF

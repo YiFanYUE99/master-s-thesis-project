@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wu, W
+AF Wu, Wei
+TI Predicting atopic asthma by using eNose breath profiles with machine
+   learning
+SO JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+LA English
+DT Editorial Material
+DE Atopy; asthma; eNose; breath profile; classification; machine learning
+ID CLUSTER-ANALYSIS
+C1 [Wu, Wei] Carnegie Mellon Univ, Sch Comp Sci, Computat Biol Dept, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Wu, W (corresponding author), Carnegie Mellon Univ, Sch Comp Sci, Computat Biol Dept, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+EM weiwu2@cs.cmu.edu
+FU National Institutes of Health [P30DA035778, P01 AI106684]
+FX W.W. was supported by grants from the National Institutes of Health
+   (grant nos. P30DA035778 and P01 AI106684).
+NR 10
+TC 3
+Z9 3
+U1 1
+U2 15
+PU MOSBY-ELSEVIER
+PI NEW YORK
+PA 360 PARK AVENUE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0091-6749
+EI 1097-6825
+J9 J ALLERGY CLIN IMMUN
+JI J. Allergy Clin. Immunol.
+PD NOV
+PY 2020
+VL 146
+IS 5
+BP 1010
+EP 1012
+DI 10.1016/j.jaci.2020.08.009
+PG 3
+WC Allergy; Immunology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Allergy; Immunology
+GA OP5VH
+UT WOS:000588153700004
+PM 32822691
+OA Bronze
+DA 2024-04-07
+ER
+
+EF

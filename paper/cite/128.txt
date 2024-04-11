@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hou, YL
+   Ding, TT
+   Guan, ZY
+   Wang, J
+   Yao, RQ
+   Yu, ZR
+   Zhao, XJ
+AF Hou, Yali
+   Ding, Tingting
+   Guan, Zhiyu
+   Wang, Jing
+   Yao, Ranqi
+   Yu, Ziran
+   Zhao, Xiujuan
+TI Untargeted metabolomics reveals the preventive effect of quercetin on
+   nephrotoxicity induced by four organophosphorus pesticide mixtures
+SO FOOD AND CHEMICAL TOXICOLOGY
+LA English
+DT Article
+DE Untargeted metabolomics; Organophosphorus pesticide mixtures; Quercetin;
+   Nephrotoxicity
+ID METABONOMIC ANALYSIS; URIC-ACID; EXPOSURE; INFLAMMATION; DICHLORVOS;
+   TOXICITY; SERUM; RATS
+AB This research aimed to explore the protective effect of quercetin against nephrotoxicity induced by four organophosphate pesticide mixtures (PM) using untargeted metabolomics technology in rat kidneys. Sixty male Wistar rats were randomly divided into six groups: control, low-dose quercetin treated (10 mg/kg bw), high-dose quercetin treated (50 mg/kg bw), PM-treated, and two dosages of quercetin + PM-treated. Metabolomics results showed that 17 differential metabolites were identified in the PM-treated group, and pathway analysis revealed that renal metabolic disorders include purine metabolism, glycerophospholipid metabolism, and vitamin B6 metabolism. When high-dose quercetin and PM-treated were administered to rats concurrently, the intensities of differential metabolites were substantially restored (p < 0.01), suggesting that quercetin can improve renal metabolic disorders caused by organophosphate pesticides (OPs). Mechanistically, quercetin could regulate the purine metabolism disorder and endoplasmic reticulum stress (ERS)-mediated autophagy induced by OPs by inhibiting XOD activity. Moreover, quercetin inhibits PLA2 activity to regulate glycerophospholipid metabolism and it could also exert antioxidant and anti-inflammatory effects to correct vitamin B6 metabolism in rat kidneys. Taken together, the high dose of quercetin (50 mg/kg. bw) has a certain protective effect on OPs-induced nephrotoxicity in rats, which provides a theoretical basis for quercetin against nephrotoxicity caused by OPs.
+C1 [Hou, Yali; Ding, Tingting; Guan, Zhiyu; Wang, Jing; Yao, Ranqi; Yu, Ziran; Zhao, Xiujuan] Harbin Med Univ, Publ Hlth Coll, Dept Nutr & Food Hyg, Harbin, Heilongjiang, Peoples R China.
+   [Zhao, Xiujuan] Harbin Med Univ, 194 Xuefu Rd, Harbin 150081, Heilongjiang, Peoples R China.
+C3 Harbin Medical University; Harbin Medical University
+RP Zhao, XJ (corresponding author), Harbin Med Univ, 194 Xuefu Rd, Harbin 150081, Heilongjiang, Peoples R China.
+EM 1401506698@qq.com; 1443049489@qq.com; guanzhiyu1998@163.com;
+   1159909860@qq.com; 1390892606@qq.com; yzr17649975571@163.com;
+   xiujuan_zhao@sina.com
+FU National Natural Science Foundation of China [81172672]
+FX Funding This work was supported by the National Natural Science
+   Foundation of China under Grant [number 81172672] .
+NR 75
+TC 3
+Z9 3
+U1 13
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0278-6915
+EI 1873-6351
+J9 FOOD CHEM TOXICOL
+JI Food Chem. Toxicol.
+PD MAY
+PY 2023
+VL 175
+AR 113747
+DI 10.1016/j.fct.2023.113747
+EA MAR 2023
+PG 10
+WC Food Science & Technology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology; Toxicology
+GA D5BL7
+UT WOS:000968884300001
+PM 36997054
+DA 2024-04-07
+ER
+
+EF

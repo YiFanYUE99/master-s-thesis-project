@@ -1,0 +1,38 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lin, J
+AF Lin, James
+TI Comparison of two approaches to modeling ground water exposure with
+   EPA's PRZM-GW model
+SO ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Meeting Abstract
+C1 [Lin, James] US EPA, Offices Pesticide Programs, Crystal City, VA USA.
+C3 United States Environmental Protection Agency
+EM kandalin@yahoo.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0065-7727
+J9 ABSTR PAP AM CHEM S
+JI Abstr. Pap. Am. Chem. Soc.
+PD AUG 16
+PY 2015
+VL 250
+MA 286
+PG 1
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA VC2BR
+UT WOS:000432475500696
+DA 2024-04-01
+ER
+
+EF

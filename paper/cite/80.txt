@@ -1,0 +1,40 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 34920463
+DT Journal Article
+TI A Significance Assessment of Diabetes Diagnostic Biomarkers Using Machine Learning.
+AU Cui, Ran
+   Daskalaki, Elena
+   Hossain, Md Zakir
+   Lenskiy, Artem
+   Nolan, Christopher J
+   Suominen, Hanna
+SO Studies in health technology and informatics
+VL 284
+PS 36-38
+PY 2021
+PD 2021 Dec 15
+LA English
+U1 0
+U2 7
+AB Diabetes can be diagnosed by either Fasting Plasma Glucose or Hemoglobin A1c. The aim of our study was to explore the differences between the two criteria through the development of a machine learning based diabetes diagnostic algorithm and analysing the predictive contribution of each input biomarker. Our study concludes that fasting insulin is predictive of diabetes defined by FPG, but not by HbA1c. Besides, 28 other fasting blood biomarkers were not significant predictors of diabetes. 
+C1 School of Computing, The Australian National University (ANU), Australia.; ANU Medical School and John Curtin School of Medical Research, ANU, Australia.; Data61, Commonwealth Scientific and Industrial Research Organisation, Australia.; Department of Computing, University of Turku, Finland.
+RI ; Nolan, Christopher J/B-2026-2008
+OI Suominen, Hanna/0000-0002-4195-1641; Nolan, Christopher J/0000-0002-6964-3819
+MH Biomarkers. *Diabetes Mellitus / diagnosis. Humans. Machine Learning
+ID Diabetes biomarkers; feature importance; machine learning
+CN 0 / Biomarkers
+SC Endocrinology & Metabolism (provided by Clarivate Analytics)
+SN 1879-8365
+JC 9214582
+PA Netherlands
+SA MEDLINE
+RC  / 21 Dec 2021 / 21 Dec 2021
+DI 10.3233/SHTI210657
+UT MEDLINE:34920463
+OA hybrid
+DA 2024-04-07
+ER
+
+EF

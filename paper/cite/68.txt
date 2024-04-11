@@ -1,0 +1,46 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 37336441
+DT Journal Article
+TI Maternal exposure to neonicotinoid insecticides and fetal growth restriction: A nested case-control study in the guangxi Zhuang birth cohort.
+AU Pan, Dongxiang
+   Lin, Mengrui
+   Mu, Changhui
+   Yu, Chuanxiang
+   Ye, Bowen
+   Liang, Jun
+   Sheng, Yonghong
+   Huang, Dongping
+   Liu, Shun
+   Zeng, Xiaoyun
+   Jennifer Tan, Hui Juan
+   Chongsuvivatwong, Virasakdi
+   Qiu, Xiaoqiang
+SO Chemosphere
+VL 336
+PS 139217
+PY 2023
+PD 2023 Sep (Epub 2023 Jun 17)
+LA English
+U1 7
+U2 11
+AB BACKGROUND: Fetal growth restriction (FGR) is a major determinant of perinatal morbidity and mortality, with adverse long-term neurocognitive effects in childhood and adulthood. Prenatal exposure to environmental pollutants has been reported to be associated with FGR. Neonicotinoids (NEOs) are extensively used insecticides worldwide and are suggested to have embryonic and developmental neurotoxicity. However, the effects of NEOs exposure on FGR is unknown.; OBJECTIVES: We aimed to quantify the single and combined associations of maternal exposure to NEOs and FGR.; METHODS: We conducted a nested case-control study based on the Guangxi Zhuang Birth Cohort, China. A total of 387 with FGR cases and 1096 without- FGR controls were included between 2015 and 2018. Ten NEOs were measured by UPLC-MS from the maternal blood samples were pre-collected in the first trimester. After adjusting for potential confounders, multivariable logistic regressions, weighted quantile sum regression and quantile g-computation were performed for individual and NEOs mixtures.; RESULTS: In the individual exposure models, each 1-standard deviation increment of the natural-log in dinotefuran and acetamiprid concentrations were significantly associated with odds ratios of 1.93 (95% CI: 1.69, 2.20) and 1.31 (95% CI: 1.07, 1.59) higher odds of FGR, respectively. However, the FGR risk was negatively associated with thiacloprid, sulfoxaflor, and nitenpyram (OR=0.23, 95%CI: 0.15, 0.34; OR=0.48, 95%CI: 0.41, 0.56; OR=0.86, 95%CI: 0.80, 0.93; respectively). Similar findings were found in the combined exposure analysis. Dinotefuran was the most strongly attributable to increase FGR, while sulfoxaflor and thiacloprid contributed the highest negative weighted on FGR. Furthermore, each quintile increase in all ten NEOs exposures was associated with FGR (OR=0.21, 95% CI: 0.08, 0.54).; CONCLUSION: Our findings suggest that maternal single and combined exposures to NEOs were associated with varying FGR risks. They contribute to the mounting evidence on serum NEOs exposure impact on FGR. However, a replication of these associations in other populations is warranted. Copyright © 2023 Elsevier Ltd. All rights reserved.
+C1 Department of Epidemiology and Health Statistics, School of Public Health, Guangxi Medical University, Nanning, 530021, Guangxi, China.; Department of Sanitary Chemistry, School of Public Health, Guangxi Medical University, Nanning, 530021, Guangxi, China.; Wuxi Center for Disease Control and Prevention, Jiangsu, China.; Department of Child and Adolescent Health & Maternal and Child Health, School of Public Health, Guangxi Medical University, Nanning, 530021, Guangxi, China.; Yong Loo Lin School of Medicine, National University of Singapore, 117597, Singapore.; Epidemiology Unit, Faculty of Medicine, Prince of Songkla University, Hatyai, Songkhla, 90110, Thailand. Electronic address: cvirasak@medicine.psu.ac.th.; Department of Epidemiology and Health Statistics, School of Public Health, Guangxi Medical University, Nanning, 530021, Guangxi, China; Guangxi Colleges and Universities Key Laboratory of Prevention and Control of Highly Prevalent Diseases, Guangxi Medical University, Nanning, 530021, China. Electronic address: xqqiu9999@163.com.
+MH Birth Cohort. Case-Control Studies. China / epidemiology. Chromatography, Liquid. Female. Fetal Growth Retardation / chemically induced; epidemiology. Humans. *Insecticides / analysis; toxicity. Maternal Exposure. Neonicotinoids / analysis. Pregnancy. Tandem Mass Spectrometry
+SS Index Medicus
+ID Birth cohort; Combined effects; Fetal growth restriction; Maternal exposure; Neonicotinoids insecticides
+CN DSV3A944A4 / thiacloprid. 1W509710WF / dinotefuran. 0 / Insecticides. 671W88OY8K / sulfoxaflor. 0 / Neonicotinoids
+SC Reproductive Biology; Entomology; Obstetrics & Gynecology; Public, Environmental & Occupational Health; Biochemistry & Molecular Biology; Chemistry (provided by Clarivate Analytics)
+SN 1879-1298
+JC 0320657
+PA England
+SA MEDLINE
+RC  / 05 Jul 2023 / 05 Jul 2023
+PE 17 Jun 2023
+DI 10.1016/j.chemosphere.2023.139217
+UT MEDLINE:37336441
+DA 2024-04-06
+ER
+
+EF

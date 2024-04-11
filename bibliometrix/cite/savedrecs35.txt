@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, S
+   Tian, SN
+   Meng, ZY
+   Teng, MM
+   Sun, W
+   Jia, M
+   Zhou, ZQ
+   Bi, S
+   Zhu, WT
+AF Yan, Sen
+   Tian, Sinuo
+   Meng, Zhiyuan
+   Teng, Miaomiao
+   Sun, Wei
+   Jia, Ming
+   Zhou, Zhiqiang
+   Bi, Sheng
+   Zhu, Wentao
+TI Exposure to nitenpyram during pregnancy causes colonic mucosal damage
+   and non-alcoholic steatohepatitis in mouse offspring: The role of gut
+   microbiota
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Nitenpyram; Non-alcoholic steatohepatitis; Hydrogen sulfide; Colonic
+   mucosa damage; Bacterial translocation
+AB Environmental pollutants contribute to metabolic diseases. Recent studies have shown that exposure to environmental chemicals during pregnancy can cause obesity and other metabolic diseases in mouse offspring, and these effects have been linked to the changes in the gut microbiota. However, the mechanism of such effects has yet to be fully elucidated. In the present study, we aimed at assessing the metabolic effects of exposure to an environmental pollutant, like nitenpyram, during pregnancy on mouse offspring, and we further explored its potential mechanisms. Our results have demonstrated that exposure to nitenpyram (4 mg/kg/day body weight) in mice during pregnancy (from gestational day 6 to gestational day 19) can increase the count of Desulfovibrio strains (increased from 0.55% to 5.56%) and the concentration of H2S (increased from 28.98 to 41.31 nmol/g) in the gut of the offspring. These alterations can destroy colonic mucosa and increase intestinal inflammation and bacterial translocation, thus leading to non-alcoholic steatohepatitis (NASH). Overall, these results highlight the role of the gut microbiota in developing intestinal barrier dysfunction and liver inflammation and provide new insights into the pathophysiology of NASH. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Yan, Sen; Tian, Sinuo; Meng, Zhiyuan; Teng, Miaomiao; Sun, Wei; Jia, Ming; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Teng, Miaomiao; Bi, Sheng] Johns Hopkins Univ, Dept Psychiat & Behav Sci, Sch Med, Baltimore, MD 21205 USA.
+C3 China Agricultural University; Johns Hopkins University
+RP Zhu, WT (corresponding author), China Agr Univ, Beijing Adv Innovat Ctr Food Nutr & Human Hlth, Dept Appl Chem, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhu, Wentao/O-8964-2019; Zhou, Zhiqiang/HIR-4954-2022; Meng,
+   Zhiyuan/AFU-9894-2022; zhou, zhou/HPE-9525-2023
+OI Zhu, Wentao/0000-0001-6371-7998; Meng, Zhiyuan/0000-0003-4352-8561; Yan,
+   Sen/0000-0001-7361-6285; bi, sheng/0000-0002-2441-0528
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX This work was supported by the National Key Research and Development
+   Program of China (2016YFD0200202). We are grateful to Bing Zhang for
+   helping in animal experimentations.
+NR 61
+TC 21
+Z9 22
+U1 18
+U2 126
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD FEB 15
+PY 2021
+VL 271
+AR 116306
+DI 10.1016/j.envpol.2020.116306
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA QB4MH
+UT WOS:000614114100028
+PM 33360580
+DA 2024-03-20
+ER
+
+EF

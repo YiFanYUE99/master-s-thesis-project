@@ -1,0 +1,50 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Devillers, J
+   Flatin, J
+AF Devillers, J
+   Flatin, J
+TI A general QSAR model for predicting the acute toxicity of pesticides to
+   <i>Oncorhynchus mykiss</i>
+SO SAR AND QSAR IN ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE QSAR; Oncorhynchus mykiss; acute toxicity; pesticides; neural network;
+   autocorrelation method
+AB A Quantitative Structure-Activity Relationship (QSAR) model was derived for estimating the acute toxicity of pesticides against Oncorhynchus mykiss under varying experimental conditions. Chemicals were described by means of autocorrelation descriptors encoding lipophilicity (H-0 to H-5) and the H-bonding acceptor ability (HBA(0)) and H-bonding donor ability (HBD0) of the pesticides. A three-layer feedforward neural network trained by the back-propagation algorithm was used as statistical engine for deriving a powerful QSAR model accounting for the weight of the fish, time of exposure, temperature, pH, and hardness.
+C1 CTIS, F-69140 Rillieux La Pape, France.
+   Fac Catholique Lyon, Lab Biol Gen & Histol, F-69288 Lyon 02, France.
+RP CTIS, 3 Chemin Graviere, F-69140 Rillieux La Pape, France.
+NR 47
+TC 28
+Z9 29
+U1 0
+U2 12
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1062-936X
+EI 1029-046X
+J9 SAR QSAR ENVIRON RES
+JI SAR QSAR Environ. Res.
+PY 2000
+VL 11
+IS 1
+BP 25
+EP 43
+DI 10.1080/10629360008033227
+PG 19
+WC Chemistry, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications; Environmental Sciences; Mathematical & Computational
+   Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Computer Science; Environmental Sciences & Ecology;
+   Mathematical & Computational Biology; Toxicology
+GA 300PQ
+UT WOS:000086261700002
+PM 10768404
+DA 2024-04-01
+ER
+
+EF

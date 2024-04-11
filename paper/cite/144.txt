@@ -1,0 +1,34 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 36653653
+DT Journal Article
+TI Downloading and Analysis of Metabolomic and Lipidomic Data from Metabolomics Workbench Using MetaboAnalyst 5.0.
+AU Howell, Ashley
+   Yaros, Charles
+SO Methods in molecular biology (Clifton, N.J.)
+VL 2625
+PS 313-321
+PY 2023
+PD 2023 
+LA English
+U1 5
+U2 8
+AB Advances in computational and data processing technology have enabled the development of many novel tools for analyzing metabolomic and lipidomic data. These advances involved the catalyst for the creation of publicly accessible complex web-based databases such as the Metabolomics Workbench. Open Source internet-based software packages such as MetaboAnalyst 5.0 enable researchers to perform a wide range of analyte identification and statistical analyses of their own and other researchers' data in order to identify biomarkers and classify compounds. In this paper, we set forth a protocol for obtaining experimental data of interest from a public data repository (Metabolomics Workbench), converting the data into a format suitable for submission to MetaboAnalyst 5.0, and then uploading the data to the MetaboAnalyst server for identification and statistical analysis. © 2023. The Author(s), under exclusive license to Springer Science+Business Media, LLC, part of Springer Nature.
+C1 Department of Ophthalmology, Miller School of Medicine, University of Miami, Miami, FL, USA.; Department of Ophthalmology, University of Miami, McKnight Vision Research Center, Miami, FL, USA. CKYaros@med.miami.edu.
+MH Biomarkers. Databases, Factual. *Lipidomics. *Metabolomics / methods. Software
+SS Index Medicus
+ID Lipidomics; MetaboAnalyst; Metabolomics; Metabolomics Workbench; Statistical analysis
+CN 0 / Biomarkers
+SC Biochemistry & Molecular Biology; Computer Science; Medical Informatics (provided by Clarivate Analytics)
+SN 1940-6029
+JC 9214969
+PA United States
+SA MEDLINE
+RC  / 20 Jan 2023 / 05 Mar 2023
+DI 10.1007/978-1-0716-2966-6_26
+UT MEDLINE:36653653
+DA 2024-04-08
+ER
+
+EF

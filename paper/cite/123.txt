@@ -1,0 +1,39 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 37385484
+DT Journal Article
+TI Soil metabolomics: A powerful tool for predicting and specifying pesticide sorption.
+AU Dollinger, Jeanne
+   Petriacq, Pierre
+   Flandin, Amelie
+   Samouelian, Anatja
+SO Chemosphere
+VL 337
+PS 139302
+PY 2023
+PD 2023 Oct (Epub 2023 Jun 27)
+LA English
+U1 8
+U2 10
+AB Sorption regulates the dispersion of pesticides from cropped areas to surrounding water bodies as well as their persistence. Assessing the risk of water contamination and evaluating the efficiency of mitigation measures, requires fine-resolution sorption data and a good knowledge of its drivers. This study aimed to assess the potential of a new approach combining chemometric and soil metabolomics to estimate the adsorption and desorption coefficients of a range of pesticides. It also aims to identify and characterise key components of soil organic matter (SOM) driving the sorption of these pesticides. We constituted a dataset of 43 soils from Tunisia, France and Guadeloupe (West Indies), covering extensive ranges of texture, organic carbon and pH. We performed untargeted soil metabolomics by liquid chromatography coupled with high-resolution mass spectrometry (UPLC-HRMS). We measured the adsorption and desorption coefficients of three pesticides namely glyphosate, 2,4-D and difenoconazole for these soils. We developed Partial Least Square Regression (PLSR) models for the prediction of the sorption coefficients from the RT-m/z matrix and conducted further ANOVA analyses to identify, annotate and characterise the most significant constituents of SOM in the PLSR models. The curated metabolomics matrix yielded 1213 metabolic markers. The prediction performance of the PLSR models was generally high for the adsorption coefficients Kdads (0.3<R2<0.8) and for the desorption coefficients Kfdes (0.6<R2<0.8) but low for ndes (0.03<R2<0.3). The most significant features in the predictive models were annotated with a confidence level of 2 or 3. The molecular descriptors of these putative compounds suggest that the pool of SOM compounds driving glyphosate sorption is reduced compared to 2,4-D and difenoconazole, and these compounds are generally more polar. This approach can provide estimates of the adsorption and desorption coefficients of pesticides, including polar pesticide, for contrasted pedoclimates. Copyright © 2023 Elsevier Ltd. All rights reserved.
+C1 UMR LISAH, Universite Montpellier, INRAE, IRD, Institut Agro, 34060, Montpellier, France. Electronic address: jeanne.dollinger@inrae.fr.; Univ. Bordeaux, INRAE, UMR1332, BFP, 33882, Villenave d'Ornon, France; Bordeaux Metabolome, MetaboHUB, PHENOME-EMPHASIS, 33140, Villenave d'Ornon, France.; UMR LISAH, Universite Montpellier, INRAE, IRD, Institut Agro, 34060, Montpellier, France.
+RI Petriacq, Pierre/AAQ-7391-2020
+OI Petriacq, Pierre/0000-0001-8151-7420; samouelian, anatja/0000-0002-5022-0795
+MH 2,4-Dichlorophenoxyacetic Acid. Adsorption. *Pesticides / analysis. Soil / chemistry. *Soil Pollutants / analysis. Water / analysis
+SS Index Medicus
+ID Metabolomics; PLSR; Pesticide; Soil organic matter; Sorption coefficient; UPLC-HRMS
+CN 0 / Pesticides. 0 / Soil. 0 / Soil Pollutants. 2577AQ9262 / 2,4-Dichlorophenoxyacetic Acid. 059QF0KO0R / Water
+SC Environmental Sciences & Ecology; Agriculture; Toxicology; Public, Environmental & Occupational Health (provided by Clarivate Analytics)
+SN 1879-1298
+JC 0320657
+PA England
+SA MEDLINE
+RC  / 24 Jul 2023 / 24 Jul 2023
+PE 27 Jun 2023
+DI 10.1016/j.chemosphere.2023.139302
+UT MEDLINE:37385484
+DA 2024-04-07
+ER
+
+EF

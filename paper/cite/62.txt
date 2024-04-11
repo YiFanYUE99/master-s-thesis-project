@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wu, X
+   Liu, Q
+   Li, Y
+   Yue, M
+   Su, Q
+   Luo, JZ
+   Li, Y
+   Zeng, SH
+   Gao, JY
+AF Wu, Xu
+   Liu, Qin
+   Li, Yin
+   Yue, Min
+   Su, Qian
+   Luo, Jinzhu
+   Li, Yang
+   Zeng, Shaohua
+   Gao, Jieying
+TI Urinary neonicotinoid concentrations and obesity: A cross-sectional
+   study among Chinese adolescents
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Neonicotinoids; Obesity; Adolescents; Weighted quantile sum regression;
+   Bayesian kernel machine regression
+ID DIET-INDUCED ADIPOSITY; WAIST CIRCUMFERENCE; ORGANOCHLORINE PESTICIDES;
+   REPRODUCTIVE-ORGANS; ADIPOGENESIS; INSECTICIDE; TOXICITY; CHILDREN;
+   WEIGHT; FAT
+AB Epidemiological and toxicological studies on neonicotinoids and obesity have been relevant to adults and young children, but data are limited in adolescents. This study aimed to examine the association between urinary neonicotinoid concentrations and obesity measures among Chinese adolescent. A total of 524 urine samples from 300 boys (11.3-16.1 years) and 224 girls (12.1-15.8 years) were collected to detect the concentrations of eleven neonicotinoids. Generalized linear regression, weighted quantile sum regression (WQS) and Bayesian kernel machine regression (BKMR) were used to estimate covariate-adjusted associations between detectable neonicotinoids and ten indicators of obesity. Nitenpyram concentration was associated with increased body mass index z -score (beta = 0.170, 95% CI: 0.041, 0.299) and greater odds of being general obesity (OR = 2.46, 95% CI: 1.11, 5.46). N-desmethyl- acetamiprid concentration was associated with an increase in waist -to -height ratio (beta = 0.102, 95% CI: 0.029, 0.176) and waist -to -hip ratio (beta = 0.083, 95% CI: 0.011, 0.155). The concentrations of clothianidin (OR = 2.06, 95% CI: 1.10, 3.88) and flonicamid (OR = 2.39, 95% CI: 1.07, 5.32) were associated with greater odds of being abdominal obesity. In contrast, the concentrations of imidacloprid (OR = 0.35, 95% CI: 0.14, 0.88) and thiacloprid (OR = 0.28, 95% CI: 0.08, 0.99) were associated with lower odds of being general obesity. The estimates of general obesity and abdominal obesity increased significantly when concentrations of neonicotinoids mixture were at or above the 55th and 65th percentiles, respectively, compared to the 50th percentile concentration. Sex modified the association between nitenpyram and clothianidin and the risk of obesity with a positive association among boys, and a nonsignificant inverse association among girls. The findings suggest that these associations may be mixed and sex -specific.
+C1 [Wu, Xu; Liu, Qin; Li, Yin; Yue, Min; Su, Qian; Luo, Jinzhu; Li, Yang; Gao, Jieying] Chongqing Med Univ, Sch Publ Hlth, Chongqing 400016, Peoples R China.
+   [Yue, Min] Chongqing Shapingba Ctr Dis Control & Prevent, Chongqing 400038, Peoples R China.
+   [Zeng, Shaohua] Chongqing Res Inst, China Coal Technol & Engn Grp, Chongqing 400039, Peoples R China.
+   [Gao, Jieying] 1 Yixueyuan Rd, Chongqing 400016, Peoples R China.
+C3 Chongqing Medical University
+RP Gao, JY (corresponding author), 1 Yixueyuan Rd, Chongqing 400016, Peoples R China.
+EM jygao@cqmu.edu.cn
+FU National Natural Science Foundation of China [81973067, 81502825,
+   21403021]; Natural Science Foundation of Chongqing, China
+   [CSTB2023NSCQ-MSX0128, cstc2019jcyj-msxmX0177]; Chongqing Medical
+   University Future Medical Innovation Team Support Program, China [W0054]
+FX This project was supported by the National Natural Science Foundation of
+   China (81973067, 81502825, and 21403021) , the Natural Science
+   Foundation of Chongqing, China (CSTB2023NSCQ-MSX0128,
+   cstc2019jcyj-msxmX0177) , and Chongqing Medical University Future
+   Medical Innovation Team Support Program, China (W0054) .
+NR 82
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD MAR 15
+PY 2024
+VL 345
+AR 123516
+DI 10.1016/j.envpol.2024.123516
+PG 11
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA LD1L3
+UT WOS:001184749300001
+PM 38346638
+DA 2024-04-06
+ER
+
+EF

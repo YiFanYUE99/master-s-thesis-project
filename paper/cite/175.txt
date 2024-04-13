@@ -1,0 +1,69 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Praekunatham, H
+   Garrett, KK
+   Bae, Y
+   Cronican, AA
+   Frawley, KL
+   Pearce, LL
+   Peterson, J
+AF Praekunatham, Hirunwut
+   Garrett, Kimberly K.
+   Bae, Yookyung
+   Cronican, Andrea A.
+   Frawley, Kristin L.
+   Pearce, Linda L.
+   Peterson, Jim
+TI A Cobalt Schiff-Base Complex as a Putative Therapeutic for Azide
+   Poisoning
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+LA English
+DT Article
+ID CYTOCHROME-C-OXIDASE; SODIUM-AZIDE; RELATIVE PROPENSITIES; CYANIDE;
+   NITRITE; MICE
+AB There is presently no antidote available to treat azide poisoning. Here, the Schiff-base compound Co(II)-2,12-dimethy1-3,7,11,17-tetraazabicyclo-[11.3.1]heptadeca-1(17)2,11,13,15-pentaenyl dibromide (Co(II)N-4[11.3.1]) is investigated to determine if it has the capability to antagonize azide toxicity through a decorporation mechanism. The stopped-flow kinetics of azide binding to Co(II)N-4[11.3.1] in the absence of oxygen exhibited three experimentally observable phases: I (fast); II (intermediate); and III (slow). The intermediate phase II accounted for similar to 70% of the overall absorbance changes, representing the major process observed, with second-order rate constants of 29 (+/- 4) M-1 s(-1) at 25 degrees C and 70 (+/- 10) M-1 s(-1) at 37 degrees C. The data demonstrated pH independence of the reaction around neutrality, suggesting the unprotonated azide anion to be the attacking species. The binding of azide to Co(II)N-4[11.3.1] appears to have a complicated mechanism leading to less than ideal antidotal capability; nonetheless, this cobalt complex does protect against azide intoxication. Administration of Co(II)N-4[11.3.1] at 5 min post sodium azide injection (ip) to mice resulted in a substantial decrease of righting-recovery times, 12 (+/- 4) min, compared to controls, 40 (+/- 8) min. In addition, only two out of seven mice "knocked down" when the antidote was administered compared to the controls given toxicant only (100% knockdown).
+C1 [Praekunatham, Hirunwut; Garrett, Kimberly K.; Bae, Yookyung; Cronican, Andrea A.; Frawley, Kristin L.; Pearce, Linda L.; Peterson, Jim] Univ Pittsburgh, Grad Sch Publ Hlth, Dept Environm & Occupat Hlth, Pittsburgh, PA 15261 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh
+RP Pearce, LL; Peterson, J (corresponding author), Univ Pittsburgh, Grad Sch Publ Hlth, Dept Environm & Occupat Hlth, Pittsburgh, PA 15261 USA.
+EM lip10@pitt.edu; jimmyp@pitt.edu
+OI Pearce, Linda/0000-0002-0940-965X; Peterson, James/0000-0002-7300-5887;
+   Garrett, Kimberly/0000-0003-2917-8040
+FU National Institutes of Health CounterACT Program; National Institutes of
+   Health Office of the Director (NIH OD); National Institute of Health
+   [U01 NS109793]
+FX This work was supported by the National Institutes of Health CounterACT
+   Program, National Institutes of Health Office of the Director (NIH OD),
+   and the National Institute of Health: Award No. U01 NS109793 (to L.L.P.
+   and J.P.).
+NR 33
+TC 7
+Z9 7
+U1 1
+U2 7
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0893-228X
+EI 1520-5010
+J9 CHEM RES TOXICOL
+JI Chem. Res. Toxicol.
+PD FEB
+PY 2020
+VL 33
+IS 2
+BP 333
+EP 342
+DI 10.1021/acs.chemrestox.9b00229
+PG 10
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Chemistry; Toxicology
+GA KM9VJ
+UT WOS:000514488500007
+PM 31599574
+DA 2024-04-13
+ER
+
+EF

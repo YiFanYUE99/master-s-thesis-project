@@ -1,0 +1,83 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Torigoe, T
+   Takahashi, M
+   Heravizadeh, O
+   Ikeda, K
+   Nakatani, K
+   Bamba, T
+   Izumi, Y
+AF Torigoe, Taihei
+   Takahashi, Masatomo
+   Heravizadeh, Omidreza
+   Ikeda, Kazuki
+   Nakatani, Kohta
+   Bamba, Takeshi
+   Izumi, Yoshihiro
+TI Predicting Retention Time in
+   Unified-Hydrophilic-Interaction/Anion-Exchange Liquid Chromatography
+   High-Resolution Tandem Mass Spectrometry (Unified-HILIC/AEX/HRMS/MS) for
+   Comprehensive Structural Annotation of Polar Metabolome
+SO ANALYTICAL CHEMISTRY
+LA English
+DT Article
+ID IDENTIFICATION; FRAGMENTATION; DATABASES
+AB The accuracy of the structural annotation of unidentified peaks obtained in metabolomic analysis using liquid chromatography/tandem mass spectrometry (LC/MS/MS) can be enhanced using retention time (RT) information as well as precursor and product ions. Unified-hydrophilic-interaction/anion-exchange liquid chromatography high-resolution tandem mass spectrometry (unified-HILIC/AEX/HRMS/MS) has been recently developed as an innovative method ideal for nontargeted polar metabolomics. However, the RT prediction for unified-HILIC/AEX has not been developed because of the complex separation mechanism characterized by the continuous transition of the separation modes from HILIC to AEX. In this study, we propose an RT prediction model of unified-HILIC/AEX/HRMS/MS, which enables the comprehensive structural annotation of polar metabolites. With training data for 203 polar metabolites, we ranked the feature importance using a random forest among 12,420 molecular descriptors (MDs) and constructed an RT prediction model with 26 selected MDs. The accuracy of the RT model was evaluated using test data for 51 polar metabolites, and 86.3% of the Delta RTs (difference between measured and predicted RTs) were within +/- 1.50 min, with a mean absolute error of 0.80 min, indicating high RT prediction accuracy. Nontargeted metabolomic data from the NIST SRM 1950-Metabolites in frozen human plasma were analyzed using the developed RT model and in silico MS/MS prediction, resulting in a successful structural estimation of 216 polar metabolites, in addition to the 62 identified based on standards. The proposed model can help accelerate the structural annotation of unknown hydrophilic metabolites, which is a key issue in metabolomic research.
+C1 [Torigoe, Taihei; Takahashi, Masatomo; Heravizadeh, Omidreza; Ikeda, Kazuki; Nakatani, Kohta; Bamba, Takeshi; Izumi, Yoshihiro] Kyushu Univ, Grad Sch Syst Life Sci, Dept Syst Life Sci, Fukuoka 8128582, Japan.
+   [Takahashi, Masatomo; Nakatani, Kohta; Bamba, Takeshi; Izumi, Yoshihiro] Kyushu Univ, Med Inst Bioregulat, Mass Spectrometry Ctr, Med Res Ctr High Depth Om,Div Metabol, Fukuoka 8128582, Japan.
+C3 Kyushu University; Kyushu University
+RP Takahashi, M; Izumi, Y (corresponding author), Kyushu Univ, Grad Sch Syst Life Sci, Dept Syst Life Sci, Fukuoka 8128582, Japan.; Takahashi, M; Izumi, Y (corresponding author), Kyushu Univ, Med Inst Bioregulat, Mass Spectrometry Ctr, Med Res Ctr High Depth Om,Div Metabol, Fukuoka 8128582, Japan.
+EM m-takahashi@bioreg.kyushu-u.ac.jp; izumi@bioreg.kyushu-u.ac.jp
+OI Nakatani, Kohta/0000-0002-8270-6829
+FU JST-GteX [JPMJND2305]; JST-NBDC; Japan Science and Technology Agency
+   (JST) [JPMJMS2011-62]; JST-Moonshot [JPMJCR22N5, JPMJGX23B3]; JST-CREST
+   [JPMJTR204J]; JST A-STEP [JP23gm1010010]; AMED-CREST [JP22ama121055];
+   Japan Agency for Medical Research and Development (AMED)
+   [22ama221213h0001]; AMED-P-PROMOTE [JP20K15101, JP21K14472, JP22H01883,
+   JP22K18924, JP22H05185]; KAKENHI; Japan Society for the Promotion of
+   Science (JSPS); Medical Research Center Initiative for High Depth Omics
+   Program of the Medical Institute of Bioregulation (MIB); Cooperative
+   Research Project Program of the MIB, Kyushu University
+FX This study was supported by JST-NBDC (JPMJND2305 for Y.I.) of the Japan
+   Science and Technology Agency (JST); JST-Moonshot (JPMJMS2011-62 for
+   Y.I.); JST-CREST (JPMJCR22N5 for Y.I.); JST-GteX (JPMJGX23B3 for T.B.
+   and Y.I.); JST A-STEP (JPMJTR204J for T.B.); AMED-CREST (JP23gm1010010
+   for T.B.) from Japan Agency for Medical Research and Development (AMED);
+   AMED-BINDS (JP22ama121055 for T.B.); AMED-P-PROMOTE (22ama221213h0001
+   for Y.I.); and KAKENHI (JP20K15101 for M.T., JP21K14472 for K.N.,
+   JP22H01883 for Y.I., JP22K18924 for Y.I., and JP22H05185 for Y.I.,) from
+   Japan Society for the Promotion of Science (JSPS). This work was also
+   partly performed in the Medical Research Center Initiative for High
+   Depth Omics Program of the Medical Institute of Bioregulation (MIB) and
+   the Cooperative Research Project Program of the MIB, Kyushu University.
+NR 43
+TC 0
+Z9 0
+U1 6
+U2 6
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0003-2700
+EI 1520-6882
+J9 ANAL CHEM
+JI Anal. Chem.
+PD JAN 8
+PY 2024
+VL 96
+IS 3
+BP 1275
+EP 1283
+DI 10.1021/acs.analchem.3c04618
+PG 9
+WC Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA FT8J1
+UT WOS:001148196200001
+PM 38186224
+DA 2024-04-13
+ER
+
+EF

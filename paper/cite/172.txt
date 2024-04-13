@@ -1,0 +1,57 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ipek, ZZ
+   Minaz, M
+   Kayis, S
+AF Ipek, Zeynep Zehra
+   Minaz, Mert
+   Kayis, Sevki
+TI Determination of the use of <i>Ligula intestinalis</i> as a bioindicator
+   in malathion residues
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Ligula intestinalis; Bioindicator; Pesticide; Fish; Environment;
+   Parasitology
+ID TINCA-TINCA L.; HEAVY-METALS; BEYSEHIR LAKE; PARASITES; PLEROCERCOIDS;
+   SEDIMENT; IMPACT; WATER
+AB In this study, the usability of Ligula intestinalis as a bioindicator for pesticide accumulation was investigated. Two different experiments were designed for the detection of pesticide residues and its withdrawal period. In the first experiment, the accumulation of malathion for 10 days was measured in the hybrid fish, Squalius orientalisxAlburnus derjugini sampled from a dam lake. In the next experiment, withdrawal was measured for 15 days. The infected and healthy fish in groups exposed malathion and not exposed malathion were sampled at the end of the first experiment. No malathion residue was found in the control group that was not exposed with malathion. For the second experiment, infected and healthy fish from malathion and without malathion groups were sampled to measure the elimination of malathion on the 1(st), 4(th), 5(th), 8(th), 12(th), and 15(th) days. At the end of the first experiment, the presence of malathion was not detected in the control group while accumulation was observed in both fish and L. intestinalis in the experimental group. At the end of the second experiment (15(th) day), the highest residual value was found in L. intestinalis (1.02 mg/kg) while it was determined as 0.009 mg/kg in infected fish and 0.006 mg/kg in uninfected fish. According to the correlation, malathion accumulation was linear between uninfected fish and infected fish. On the other hand, an inverse correlation was found between L. intestinalis and both malathion and control fish. As a result, it was determined that L. intestinalis can be used as a bioindicator in pesticide accumulation and the pesticide is still detectable in the parasite after withdrawal from fish.
+C1 [Ipek, Zeynep Zehra; Minaz, Mert; Kayis, Sevki] Recep Tayyip Erdogan Univ, Aquaculture & Fisheries Fac, Rize, Turkiye.
+C3 Recep Tayyip Erdogan University
+RP Ipek, ZZ (corresponding author), Recep Tayyip Erdogan Univ, Aquaculture & Fisheries Fac, Rize, Turkiye.
+EM zeynep.ipek@erdogan.edu.tr
+RI Minaz, Mert/AAK-8098-2021; ipek, zeynep zehra/KGK-6145-2024
+OI ipek, zeynep zehra/0000-0002-5916-1891; Minaz, Mert/0000-0003-1894-9807
+NR 27
+TC 1
+Z9 1
+U1 1
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD JUL
+PY 2023
+VL 30
+IS 33
+BP 80732
+EP 80740
+DI 10.1007/s11356-023-28129-0
+EA JUN 2023
+PG 9
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA L5XE7
+UT WOS:001004461000002
+PM 37303012
+OA Green Submitted
+DA 2024-04-13
+ER
+
+EF

@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Praekunatham, Hirunwut
+Z2  
+TI Mechanisms of Cyanide and Azide Binding to Cobalt Complexes Relevant to
+   Their Antidotal Action
+DT Dissertation/Thesis
+PY 2018
+C1 University of Pittsburgh, Public Health, Pennsylvania, United States
+C3 University of Pittsburgh
+BN 978-0-438-77605-0
+UT PQDT:61277090
+ER
+
+EF

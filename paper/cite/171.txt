@@ -1,0 +1,72 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kumari, B
+   Kumar, V
+   Sinha, AK
+   Ahsan, J
+   Ghosh, AK
+   Wang, HP
+   DeBoeck, G
+AF Kumari, Bibha
+   Kumar, Vikas
+   Sinha, Amit K.
+   Ahsan, Jawaid
+   Ghosh, A. K.
+   Wang, Hanping
+   DeBoeck, Gudrun
+TI Toxicology of arsenic in fish and aquatic systems
+SO ENVIRONMENTAL CHEMISTRY LETTERS
+LA English
+DT Review
+DE Arsenic; Transformation and metabolism; Acute toxicity; Behavioral and
+   biochemical changes; Hemato- and immunological effects
+ID FRESH-WATER FISH; TROUT ONCORHYNCHUS-MYKISS; INDIAN MAJOR CARP; EARLY
+   LIFE STAGES; RAINBOW-TROUT; CLARIAS-BATRACHUS; OXIDATIVE STRESS; CHRONIC
+   TOXICITY; IMMUNE-RESPONSES; CHANNA-PUNCTATUS
+AB Arsenic (As) is found in waters such as seawater, warm springs, groundwater, rivers, and lakes. In aquatic environments, As occurs as a mixture of arsenate and arsenite, with arsenate usually predominating. The unrestricted application of As pesticides, industrial activities, and mining operations has led to the global occurrence of soluble As above permissible levels of 0.010 mg/L. Continuous exposure of freshwater organisms including fish to low concentrations of As results in bioaccumulation, notably in liver and kidney. As a consequence As induces hyperglycemia, depletion of enzymatic activities, various acute and chronic toxicity, and immune system dysfunction. Here we review arsenic chemistry, the occurrence of arsenic in aquatic system, the transformation and metabolism of arsenic; arsenic bioaccumulation and bioconcentration; behavioral changes; and acute and other effects such as biochemical, immunotoxic, and cytogenotoxic effects on fish.
+C1 [Kumari, Bibha; Ghosh, A. K.] AN Coll, Dept Environm & Water Management, Patna 800013, Bihar, India.
+   [Kumar, Vikas] Kentucky State Univ, Aquaculture Div, Coll Aquaculture Food Sci & Sustainable Syst, 103 Athlet Dr, Frankfort, KY 40601 USA.
+   [Sinha, Amit K.] Univ Arkansas Pine Bluff, Aquaculture Fisheries Ctr, 1200 North Univ Dr, Pine Bluff, AR 71601 USA.
+   [Ahsan, Jawaid] AN Coll, PG Dept Zool, Patna 800013, Bihar, India.
+   [Wang, Hanping] Ohio State Univ, Ohio Ctr Aquaculture Res & Dev, South Ctr, Piketon, OH 45661 USA.
+   [DeBoeck, Gudrun] Univ Antwerp, Dept Biol, Syst Physiol & Ecotoxicol Res, Groenenborgerlaan 171, B-2020 Antwerp, Belgium.
+C3 Kentucky State University; University of Arkansas System; University
+   Arkansas Pine Bluff; University System of Ohio; Ohio State University;
+   University of Antwerp
+RP Kumari, B (corresponding author), AN Coll, Dept Environm & Water Management, Patna 800013, Bihar, India.
+EM bibhak136@gmail.com
+RI Kumari, Bibha/N-1145-2013; De Boeck, Gudrun/A-1938-2015
+OI Kumari, Bibha/0000-0002-4898-0138; De Boeck, Gudrun/0000-0003-0941-3488;
+   Ghosh, Ashok/0000-0003-3602-2327; Sinha, Amit Kumar/0000-0003-0419-7640
+NR 203
+TC 128
+Z9 142
+U1 14
+U2 231
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1610-3653
+EI 1610-3661
+J9 ENVIRON CHEM LETT
+JI Environ. Chem. Lett.
+PD MAR
+PY 2017
+VL 15
+IS 1
+BP 43
+EP 64
+DI 10.1007/s10311-016-0588-9
+PG 22
+WC Chemistry, Multidisciplinary; Engineering, Environmental; Environmental
+   Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Environmental Sciences & Ecology
+GA EL0YX
+UT WOS:000394348800006
+OA Green Accepted
+DA 2024-04-13
+ER
+
+EF

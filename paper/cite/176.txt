@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, Q
+   Ji, HC
+   Fan, XQ
+   Zhang, ZM
+   Lu, HM
+AF Yang, Qiong
+   Ji, Hongchao
+   Fan, Xiaqiong
+   Zhang, Zhimin
+   Lu, Hongmei
+TI Retention time prediction in hydrophilic interaction liquid
+   chromatography with graph neural network and transfer learning
+SO JOURNAL OF CHROMATOGRAPHY A
+LA English
+DT Article
+DE Graph neural network; Transfer learning; Pseudo-labeling; HILIC RT
+   prediction
+ID METABOLITE IDENTIFICATION; IMPURITIES; DESIGN
+AB The combination of retention time (RT), accurate mass and tandem mass spectra can improve the structural annotation in untargeted metabolomics. However, the incorporation of RT for metabolite identification has received less attention because of the limitation of available RT data, especially for hydrophilic interaction liquid chromatography (HILIC). Here, the Graph Neural Network-based Transfer Learning (GNN-TL) is proposed to train a model for HILIC RTs prediction. The graph neural network was pre-trained using an in silico HILIC RT dataset (pseudo-labeling dataset) with similar to 306 K molecules. Then, the weights of dense layers in the pre-trained GNN (pre-GNN) model were fine-tuned by transfer learning using a small number of experimental HILIC RTs from the target chromatographic system. The GNN-TL outperformed the methods in Retip, including the Random Forest (RF), Bayesian-regularized neural network (BRNN), XGBoost, light gradient-boosting machine (LightGBM), and Keras. It achieved the lowest mean absolute error (MAE) of 38.6 s on the test set and 33.4 s on an additional test set. It has the best ability to generalize with a small performance difference between training, test, and additional test sets. Furthermore, the predicted RTs can filter out nearly 60% false positive candidates on average, which is valuable for the identification of compounds complementary to mass spectrometry. (C) 2021 Elsevier B.V. All rights reserved.
+C1 [Yang, Qiong; Ji, Hongchao; Fan, Xiaqiong; Zhang, Zhimin; Lu, Hongmei] Cent South Univ, Coll Chem & Chem Engn, Lushannan Rd, Changsha 410083, Peoples R China.
+C3 Central South University
+RP Lu, HM (corresponding author), Cent South Univ, Coll Chem & Chem Engn, Lushannan Rd, Changsha 410083, Peoples R China.
+EM zmzhang@csu.edu.cn; hongmeilu@csu.edu.cn
+RI fan, xiaqiong/HDN-6083-2022; Jiang, Yuan/JED-3759-2023; zhang,
+   zhi/HPH-4905-2023; Zhang, Yihao/JGM-3514-2023; liu,
+   kaiyuan/JHU-0258-2023; yang, xu/JMP-5558-2023; ji, hongchao/I-3676-2019
+OI ji, hongchao/0000-0002-7364-0741
+FU National Natural Science Foundation of China [21873116, 21675174];
+   Fundamental Research Funds for the Central Universities of Central South
+   University [1053320210991]
+FX This work is financially supported by the National Natural Science
+   Foundation of China (Grant Numbers. 21873116 and 21675174) and supported
+   by the Fundamental Research Funds for the Central Universities of
+   Central South University 1053320210991
+NR 60
+TC 18
+Z9 18
+U1 12
+U2 57
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0021-9673
+EI 1873-3778
+J9 J CHROMATOGR A
+JI J. Chromatogr. A
+PD OCT 25
+PY 2021
+VL 1656
+AR 462536
+DI 10.1016/j.chroma.2021.462536
+EA SEP 2021
+PG 9
+WC Biochemical Research Methods; Chemistry, Analytical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA UZ1MR
+UT WOS:000701976400004
+PM 34563892
+DA 2024-04-13
+ER
+
+EF

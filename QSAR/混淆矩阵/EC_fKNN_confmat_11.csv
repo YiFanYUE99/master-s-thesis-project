@@ -1,0 +1,5 @@
+,Name,Result,Predicted,Real
+0,TP,507,P,P
+1,FP,188,P,N
+2,FN,93,N,P
+3,TN,165,N,N

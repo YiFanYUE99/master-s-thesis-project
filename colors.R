@@ -36,48 +36,22 @@ springcol<-c("#DFF2D8","#FFF5CC","#F2D2D2","#CCE7F2")
 
 #QSAR
 #模型
-LR<-c("#86FF86","#E0FFE0")
-RF<-c("#8686FF","#E0E0FF")
-SVM<-c("#86FFFF","#E0FFFF")
+
+RF<-c("#4682B4","#ADD8E6")
+SVM<-c("#3CB371","#90EE90")
+LR<-c("#8A2BE2","#D8BFD8")
+NB<-c("#FF69B4","#FFB6C1")
+KNN<-c("#FFFF86","#FFFFE0")
+GB<-c("#FFA500","#FFE4B5")
 #ef/ec/hh
-EF<-c("#FFC18C","#FFE4C4")
-EC<-c("#FF869D","#FFE0E6")
-HH<-c("#FFFF86","#FFFFE0")
+EF<-c("#000080","#00008B40")
+EC<-c("#006400","#228B2240")
+HH<-c("#800080","#4B008240")
 
 
 
 
 
-#QSRR
-#主题背景
-fs<-c("#FFE0E6","#FFB3C2")
-maecs<-c("#E6C8FF","#E0FFFF")
-rtcslr<-c("#E6C8FF","#E0FFE0")
-#点，柱子颜色
-#特征选择方式的颜色
-cs<-c("#AA50FF","#E6C8FF")
-mi<-c("#FFA31A","#FFE0B3")
-#建模方法的颜色
-lr<-c("#59FF59","#E0FFE0")
-#预测-实验
-preex<-c("#FF869D","#86FF86")
-preext<-c("#FF5980","#00E600")
-
-
-
-#获取相反色
-get_inverse_color <- function(color) {
-  # Split color into RGB channels
-  rgb <- col2rgb(color)
-  
-  # Get inverse RGB values
-  inverse_rgb <- 255 - rgb
-  
-  # Convert back to hexadecimal color code
-  inverse_color <- rgb(t(inverse_rgb), maxColorValue = 255)
-  
-  return(inverse_color)
-}
 
 
 

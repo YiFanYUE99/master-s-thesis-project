@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Suzuki, Y
+   Taguchi, K
+   Hanyu, S
+   Kure, T
+   Enoki, Y
+   Otagiri, M
+   Sakai, H
+   Matsumoto, K
+AF Suzuki, Yuto
+   Taguchi, Kazuaki
+   Hanyu, Satomi
+   Kure, Tomoko
+   Enoki, Yuki
+   Otagiri, Masaki
+   Sakai, Hiromi
+   Matsumoto, Kazuaki
+TI Oxidized liposomal artificial red blood cells rescue azide-poisoned mice
+   from lethal toxidrome by recovering cytochrome c oxidase activity
+SO JOURNAL OF DRUG DELIVERY SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Methemoglobin; Azide poisoning; Antidote; Detoxification; Liposome
+ID SODIUM-AZIDE; HEMOGLOBIN VESICLES; OXIDATIVE STRESS; METHEMOGLOBIN;
+   CYANIDE
+AB Exposure to azide compounds causes inhibition of cytochrome c oxidase in the mitochondria, leading to acute lethal poisoning. Although urgent pharmaceutical intervention is required for rescue from azide poisoning, no antidote exists worldwide. We hypothesized that methemoglobin (metHb) can be a promising material as an antidote for azide poisoning because metHb can strongly bind to azide. However, metHb administration is not feasible owing to in vivo instability and toxicity. We aimed to develop a feasible metHb-based antidote for azide poisoning, in which the inner hemoglobin of liposomal artificial red blood cells is oxidized by mixing with so-dium nitrite. From the stopped-flow spectrophotometry analysis, as-prepared oxidized liposomal artificial red blood cells, which encapsulated metHb into the liposome (metHb@Lipo), the binding affinity of metHb@Lipo to azide was comparable to that of bare metHb. In addition, detoxification by metHb@Lipo increased the survival rate in lethal azide-poisoned model mice with recovery of cytochrome c oxidase activity, leading to the amelioration of acidosis and tissue oxidation. Furthermore, metHb@Lipo detoxification functioned even after 1 year of storage in a ready-to-use formulation. These results indicate that oxidized liposomal artificial red blood cells are a potent antidote for azide poisoning with favorable properties for use in critical care medicine.
+C1 [Suzuki, Yuto; Taguchi, Kazuaki; Hanyu, Satomi; Enoki, Yuki; Matsumoto, Kazuaki] Keio Univ, Fac Pharm, Tokyo, Japan.
+   [Kure, Tomoko; Sakai, Hiromi] Nara Med Univ, Dept Chem, Kashihara, Nara, Japan.
+   [Otagiri, Masaki] Sojo Univ, Fac Pharmaceut Sci, Kumamoto, Japan.
+   [Otagiri, Masaki] Sojo Univ, DDS Res Inst, Kumamoto, Japan.
+C3 Keio University; Nara Medical University; Sojo University; Sojo
+   University
+RP Taguchi, K (corresponding author), Keio Univ, Fac Pharm, Tokyo, Japan.
+EM taguchi-kz@pha.keio.ac.jp
+OI Sakai, Hiromi/0000-0002-0681-3032
+NR 26
+TC 6
+Z9 6
+U1 4
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1773-2247
+EI 2588-8943
+J9 J DRUG DELIV SCI TEC
+JI J. Drug Deliv. Sci. Technol.
+PD MAY
+PY 2022
+VL 71
+AR 103282
+DI 10.1016/j.jddst.2022.103282
+EA MAR 2022
+PG 9
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 1C1QT
+UT WOS:000792903100004
+OA hybrid
+DA 2024-04-13
+ER
+
+EF

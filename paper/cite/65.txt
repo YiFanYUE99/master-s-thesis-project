@@ -1,92 +1,113 @@
 ﻿FN Clarivate Analytics Web of Science
 VR 1.0
 PT J
-AU Yu, WF
-   Wu, RX
-   Zhang, L
-   Pan, YZ
-   Ling, J
-   Yang, D
-   Qu, JJ
-   Tao, Z
-   Meng, RR
-   Shen, YX
-   Yu, JT
-   Lin, N
-   Wang, B
-   Jin, HB
-   Zhao, MR
-   Chen, YC
-AF Yu, Wenfei
-   Wu, Ruxin
-   Zhang, Li
-   Pan, Yangzhong
-   Ling, Jun
-   Yang, Dan
-   Qu, Jiajia
-   Tao, Zhen
-   Meng, Ruirui
-   Shen, Yuexing
-   Yu, Jingtong
-   Lin, Nan
-   Wang, Bin
-   Jin, Hangbiao
-   Zhao, Meirong
-   Chen, Yuanchen
-TI Identification of key factors affecting neonicotinoid residues in crops
-   and risk of dietary exposure
-SO ENVIRONMENTAL POLLUTION
-LA English
-DT Article
-DE Occurrence; Distribution; Dietary exposure risk; Cropland; Migration;
-   Influential factor
-ID INSECTICIDES; FRUIT; PESTICIDES; DESORPTION; VEGETABLES; SORPTION;
-   HEALTH; FATE
-AB Neonicotinoids, widely used on farmland, are ubiquitous in food; however, their distribution among various crops and associated exposure risks at the provincial level in China remain unclear. We collected 19 types of crop samples (fruits, vegetables, and tea) from farmland in nine prefectural cities in Zhejiang Province, China. We analyzed nine commonly used neonicotinoids in the edible portions of these crops. A notable detection rate (42.1 %-82.9 %) and high residual neonicotinoid concentrations (278 +/- 357 ng/g) were observed. Tea exhibited the highest residue, followed by fruits, and vegetables showed the lowest (P < 0.05). Neonicotinoid ratios in crops to soil (R_C/S) and soil to water (R_S/W) were defined to discern insecticide distribution across different environments. Increased water solubility leads to increased migration of neonicotinoids (R_S/W) from agricultural soils to water through runoff, thereby increasing the relative contribution of nitenpyram and dinotefuran in water. In comparison with other studied compounds, all crops demonstrated the strongest soil uptake of thiamethoxam, denoted by the highest R_C/S value. Elevated R_C/S values in tea, pickled cabbage, and celery suggest increased susceptibility of these crops to neonicotinoid absorption from the soil (P < 0.05). Estimated dietary intake for teenagers, adults and elders was 8.9 +/- 0.5, 8.9 +/- 0.6, and 8.8 +/- 0.3 mu g/kg/d, respectively, below the reference dose (57 mu g/kg/d). Teenagers, compared to adults and elders, exhibited significantly higher neonicotinoid exposure through fruit consumption, emphasizing the need for increased attention to neonicotinoid exposure among vulnerable populations.
-C1 [Yu, Wenfei; Wu, Ruxin; Zhang, Li; Ling, Jun; Yang, Dan; Qu, Jiajia; Tao, Zhen; Meng, Ruirui; Shen, Yuexing; Yu, Jingtong; Jin, Hangbiao; Zhao, Meirong; Chen, Yuanchen] Zhejiang Univ Technol, Coll Environm, Key Lab Microbial Technol Ind Pollut Control Zheji, Hangzhou 310032, Zhejiang, Peoples R China.
-   [Pan, Yangzhong] Changxing Chuangtong Power Supply Co Ltd, Management Ctr Environm Protect & Secur, Huzhou 313100, Zhejiang, Peoples R China.
-   [Lin, Nan] Shanghai Jiao Tong Univ, Sch Publ Hlth, Dept Environm Hlth, Shanghai 200025, Peoples R China.
-   [Wang, Bin] Peking Univ, Sch Publ Hlth, Dept Epidemiol & Biostat, Beijing 100191, Peoples R China.
-   [Wang, Bin] Peking Univ, Sch Publ Hlth, Inst Reprod & Child Hlth, Beijing 100191, Peoples R China.
-   [Wang, Bin] Natl Hlth & Family Planning Commiss Peoples Republ, Key Lab Reprod Hlth, Beijing 100191, Peoples R China.
-C3 Zhejiang University of Technology; Shanghai Jiao Tong University; Peking
-   University; Peking University
-RP Chen, YC (corresponding author), Zhejiang Univ Technol, Coll Environm, Key Lab Microbial Technol Ind Pollut Control Zheji, Hangzhou 310032, Zhejiang, Peoples R China.
-EM chenyuanchen1988@zjut.edu.cn
-RI Lin, Nan/ABC-2114-2020
-OI Lin, Nan/0000-0002-4046-1253
-FU National Natural Science Foundation of China [42177390]; National Key
-   Research & Development Program of Ministry of Science and Technology of
-   China [2022YFE0134900]
-FX This work was supported by the National Natural Science Foundation of
-   China (No. 42177390) and National Key Research & Development Program of
-   Ministry of Science and Technology of China (2022YFE0134900) .
-NR 52
-TC 0
-Z9 0
-U1 15
-U2 15
-PU ELSEVIER SCI LTD
-PI London
-PA 125 London Wall, London, ENGLAND
-SN 0269-7491
-EI 1873-6424
-J9 ENVIRON POLLUT
-JI Environ. Pollut.
-PD MAR 15
+AU Liu, Bing-Lei
+   Guo, Li-Li
+   Wang, Jian-Wu
+   Zhao, Rui-Yuan
+   Ding, Shi-Yong
+   Yang, Bin
+   Long, Xi-Ping
+   Li, Cai-Hong
+TI Toxicity and field control efficacy of bioinsecticides and neonicotinoid
+   insecticides againstAmrasca biguttula(Hemiptera: Cicadellidae) in north
+   Hunan cotton area.
+SO Acta Entomologica Sinica
+VL 66
+IS 12
+PS 1667-1674
 PY 2024
-VL 345
-AR 123489
-DI 10.1016/j.envpol.2024.123489
-EA FEB 2024
-PG 9
-WC Environmental Sciences
-WE Science Citation Index Expanded (SCI-EXPANDED)
-SC Environmental Sciences & Ecology
-GA KR4Y0
-UT WOS:001181692300001
-PM 38311155
-DA 2024-04-06
+U1 0
+U2 0
+AB Aim: To ascertain the toxicity levels and field control efficacy of
+   bioinsecticides and neonicotinoid insecticides against Amrasca biguttula
+   nymphs, so as to provide a scientific basis for its control. Methods:
+   The median lethal concentration (LC50) values of three bioinsecticides
+   (veratramine, avermectin and matrine), and five neonicotinoid
+   insecticides (nitenpyram, imidaclothiz, dinotefuran, thiamethoxam and
+   acetamiprid) against the 3rd instar nymphs ofA. biguttulain North Hunan
+   cotton area were determined at 24 h after treatment using leaf-dipping
+   method in laboratory. Based on the recommended field application rate of
+   each insecticide, the field control efficacy of 0.5% veratramine soluble
+   concentrate (SL) (5.625 g a.i./hm2), 5% avermectin emulsifiable
+   concentrate (EC)(10.5 g a.i./hm2), 2% matrine aqueous solution (AS)
+   (10.5 g a.i./hm2), 10% nitenpyram AS (30 g a.i./hm2), 40% imidaclothiz
+   water dispersible granule (WG) (30 g a.i./hm2), 20% dinotefuran
+   suspension concentrate (SC) (75 g a.i./hm2), 30% thiamethoxam SC (33.75
+   g a.i./hm2) and 5% acetamiprid EC (18 g a.i./hm2) againstA. biguttulawas
+   evaluated by using artificial spraying in Taoyuan County, Hunan during
+   the occurrence peak ofA. biguttulain August, 2021. Results: The
+   laboratory toxicity assessment result revealed that at 24 h after
+   treatment, the toxicity of the eight insecticides toA. biguttulanymphs
+   was ranked in a descending order as follows: 0.5% veratramine SL>5%
+   avermectin ES>10% nitenpyram AS>40% imidaclothiz WG>20% dinotefuran
+   SC>2% matrine AS>30% thiamethoxam SC>5% acetamiprid EC. The
+   bioinsecticides 0.5% veratramine SC and 5% avermectin EC had the
+   LC50values of 1.79 and 4.00 mg/L against the 3rd instar nymphs ofA.
+   biguttula, respectively, exhibiting higher toxicity than the five tested
+   neonicotinoid insecticides. Field control efficacy experiment results
+   showed that 0.5% veratramine SL had the best field control efficacy
+   againstA. biguttula, with the corrected control efficacy of 91.36% at 1
+   d after application, significanly higher than that of the other
+   insecticides. At 7 and 14 d after application, the field corrected
+   control efficacy of 0.5% veratramine SL againstA. biguttulawas 86.14%
+   and 80.09%, respectively, only lower than that of 20% dinotefuran SC
+   (92.02% and 86.99%, respectively), showing no significant difference
+   from that of 10% nitenpyram AS and 40% imidaclothiz WG, and
+   significantly higher than that of the other insecticides. Conclusion:
+   These results suggest that veratramine and nitenpyram show good indoor
+   insecticidal activities and field control efficacy againstA.
+   biguttulapopulations in North Hunan cotton area. To reduce the improper
+   use of insecticides and promote the synergistic application of chemical
+   and biopesticides, we recommend that veratramine and nitenpyram should
+   be used alternately to controlA. biguttulain cotton fields.
+UT CABI:20240054117
+DT Journal article
+LA Chinese
+C1 Hunan Institute of Cotton Science, Changde 415000, China
+   Hunan Institute of Cotton Science, Changde 415000, China
+   Hunan Research Institute for Development, Hunan University, Changsha
+   410082, China
+   Hunan Institute of Cotton Science, Changde 415000, China
+   Hunan Institute of Cotton Science, Changde 415000, China
+   College of Electrical and Information Engineering, Hunan University,
+   Changsha 410082, China
+   Hunan Institute of Cotton Science, Changde 415000, China
+   Hunan Institute of Cotton Science, Changde 415000, China
+EM mkslch2013@163.com
+PU Editorial Office of Acta Entomologica Sinica
+PI Beijing, China
+SC Chemistry; Environmental Sciences & Ecology; Zoology; Toxicology; Plant
+   Sciences; Agriculture (provided by Clarivate Analytics)
+SN 0454-6296
+CC HH405Pesticides and Drugs: Control (NEW March 2000); YY900Toxicology and
+   Poisoning (Wild Animals) (NEW March 2000); FF620Plant Pests (NEW March
+   2000); HH430Pesticide and Drug Residues and Ecotoxicology (NEW March
+   2000); FF005Field Crops (NEW March 2000)
+DE dinotefuran; acetamiprid; nitenpyram; pest control; toxicity; botanical
+   insecticides; nicotinoid insecticides; avermectins; matrine;
+   imidaclothiz; thiamethoxam; nymphs; insecticidal properties; cotton;
+   insect pests; plant pests; insect control; arthropod pests; pests
+GE China; Hunan
+OR Amrasca biguttula biguttula; Amrasca biguttula; Gossypium hirsutum;
+   Gossypium; insects
+BD Amrasca biguttula; Amrasca; Cicadellidae; Cicadelloidea;
+   Auchenorrhyncha; Hemiptera; insects; Hexapoda; arthropods;
+   invertebrates; animals; eukaryotes; Gossypium; Malvaceae; Malvales;
+   eudicots; angiosperms; Spermatophyta; plants; APEC countries; East Asia;
+   Asia; high Human Development Index countries; upper-middle income
+   countries; Central Southern China; China
+NR 24
+DI 10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+UR http://www.insect.org.cn/EN/10.16380/j.kcxb.2023.12.012
+DA 2024-04-19
 ER
 
 EF

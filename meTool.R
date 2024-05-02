@@ -34,6 +34,7 @@ devtools::document()
 #devtools::build_site()
 
 #make package
+
 devtools::build()
 #annotations
 
@@ -58,7 +59,18 @@ usethis::use_package("rstatix")
 usethis::use_package("linkET")
 usethis::use_package("devtools")
 usethis::use_package("ggDoubleHeat")
-
+usethis::use_package("readxl")
+usethis::use_package("caret")
+usethis::use_package("pls")
+usethis::use_package("agricolae")
+usethis::use_package("pheatmap")
+usethis::use_package("ggDoubleHeat")
+usethis::use_package("ComplexHeatmap")
+usethis::use_package("circlize")
+usethis::use_package("dendextend")
+usethis::use_package("dendsort")
+usethis::use_package("gridBase")
+usethis::use_package("RColorBrewer")
 #为单个函数添加注释
 #Ctrl+Shift+Alt+R
 

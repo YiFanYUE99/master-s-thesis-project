@@ -1,0 +1,73 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yue, YF
+   Sun, XX
+   Tian, SN
+   Yan, S
+   Sun, W
+   Miao, JY
+   Huang, SR
+   Diao, JL
+   Zhou, ZQ
+   Zhu, WT
+AF Yue, Yifan
+   Sun, Xiaoxuan
+   Tian, Sinuo
+   Yan, Sen
+   Sun, Wei
+   Miao, Jiyan
+   Huang, Shiran
+   Diao, Jinling
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI Multi-omics and gut microbiome: Unveiling the pathogenic mechanisms of
+   early-life pesticide exposure
+SO PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+LA English
+DT Review
+DE Exposure; Mechanism; Health effects; Pesticides; Microbiome
+ID PRENATAL EXPOSURE; FECAL MICROBIOTA; METABOLOMICS; TRANSCRIPTOMICS;
+   BIOMARKERS; PREGNANCY; ATRAZINE; ORIGINS; BRAIN; FETAL
+AB The extensive application of pesticides in agricultural production has raised significant concerns about its impact on human health. Different pesticides, including fungicides, insecticides, and herbicides, cause environmental pollution and health problems for non-target organisms. Infants and young children are so vulnerable to the harmful effects of pesticide exposure that early-life exposure to pesticides deserves focused attention. Recent research lays emphasis on understanding the mechanism between negative health impacts and early-life exposure to various pesticides. Studies have explored the impacts of exposure to these pesticides on model organisms (zebrafish, rats, and mice), as well as the mechanism of negative health effects, based on advanced methodologies like gut microbiota and multi-omics. These methodologies help comprehend the pathogenic mechanisms associated with early-life pesticide exposure. In addition to presenting health problems stemming from early-life exposure to pesticides and their pathogenic mechanisms, this review proposes expectations for future research. These proposals include focusing on identifying biomarkers that indicate early-life pesticide exposure, investigating transgenerational effects, and seeking effective treatments for diseases arising from such exposure. This review emphasizes how to understand the pathogenic mechanisms of early-life pesticide exposure through gut microbiota and multi-omics, as well as the adverse health effects of such exposure.
+C1 [Yue, Yifan; Sun, Xiaoxuan; Sun, Wei; Miao, Jiyan; Huang, Shiran; Diao, Jinling; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Tian, Sinuo] Beijing Acad Agr & Forestry Sci, Inst Qual Stand & Testing Technol, Beijing 100097, Peoples R China.
+   [Yan, Sen] Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing, Peoples R China.
+   [Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Beijing Academy of Agriculture & Forestry
+   Sciences (BAAFS); China Agricultural University
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022
+FU National Key Research and Development Program of China [2016YFD0200202]
+FX We gratefully acknowledge the financial support from the National Key
+   Research and Development Program of China (2016YFD0200202) .
+NR 134
+TC 0
+Z9 0
+U1 14
+U2 14
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0048-3575
+EI 1095-9939
+J9 PESTIC BIOCHEM PHYS
+JI Pest. Biochem. Physiol.
+PD FEB
+PY 2024
+VL 199
+AR 105770
+DI 10.1016/j.pestbp.2024.105770
+EA JAN 2024
+PG 15
+WC Biochemistry & Molecular Biology; Entomology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Entomology; Physiology
+GA JB6N2
+UT WOS:001170734100001
+PM 38458664
+DA 2024-04-23
+ER
+
+EF

@@ -1,0 +1,82 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tian, SN
+   Sun, W
+   Sun, XX
+   Yue, YF
+   Jia, M
+   Huang, SR
+   Zhou, ZQ
+   Li, L
+   Diao, JL
+   Yan, S
+   Zhu, WT
+AF Tian, Sinuo
+   Sun, Wei
+   Sun, Xiaoxuan
+   Yue, Yifan
+   Jia, Ming
+   Huang, Shiran
+   Zhou, Zhiqiang
+   Li, Li
+   Diao, Jinling
+   Yan, Sen
+   Zhu, Wentao
+TI Intergenerational reproductive toxicity of parental exposure to
+   prothioconazole and its metabolite on offspring and epigenetic
+   regulation associated with DNA methylation in zebrafish
+SO ENVIRONMENT INTERNATIONAL
+LA English
+DT Article
+DE DNA methylation; Offspring development; Prothioconazole; Reproduction;
+   Zebrafish
+ID GENE-EXPRESSION; DANIO-RERIO
+AB Prothioconazole (PTC) is a widely used agricultural fungicide, and its parent and metabolite prothioconazole-desthio (dPTC) have been detected in diverse environmental media. This study was aimed at investigating the gender-dependent effects on adult zebrafish reproduction and intergenerational effects on offspring development following parental exposure to PTC and dPTC. The results showed that after the adult zebrafish (F0) was exposed to 0.5 and 10 mu g/L PTC and dPTC for 21 days, the fertility and gametogenesis of female zebrafish were decreased more significantly than that of male zebrafish. After that, three fecundity tests were conducted in the exposure period to explore the development endpoints of F1 embryos/larvae without further treatment with PTC and dPTC exposure. However, PTC and dPTC exposure did lead to abnormal development of F1 embryos, including delayed hatching, shortened body length, abnormal development and significant changes in locomotor behavior. These changes were related to the abnormal expression of sex hormones and the regulation of DNA methylation in F0 fish. In a word, the results of this study showed that parental PTC and dPTC interference have sex-dependent reproductive toxicity on F0 zebrafish, which may be passed on to the next generation through epigenetic modification involving DNA methylation, resulting in alternations in growth phenotype of offspring.
+C1 [Tian, Sinuo; Sun, Wei; Sun, Xiaoxuan; Yue, Yifan; Huang, Shiran; Zhou, Zhiqiang; Diao, Jinling; Yan, Sen; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Beijing 100193, Peoples R China.
+   [Jia, Ming] Chinese Acad Agr Sci, Feed Res Inst, Beijing 100081, Peoples R China.
+   [Li, Li] Shanxi Agr Univ, Coll Plant Protect, Taiyuan 030031, Peoples R China.
+   [Yan, Sen] Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing, Peoples R China.
+   [Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+C3 China Agricultural University; Chinese Academy of Agricultural Sciences;
+   Feed Research Institute, CAAS; Shanxi Agricultural University; China
+   Agricultural University
+RP Yan, S (corresponding author), Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing, Peoples R China.; Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuanmingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM senyan@bjmu.edu.cn; wentaozhu@cau.edu.cn
+RI YUE, YIFAN/GWC-7322-2022; Zhang, Qing/IZQ-5273-2023; Zhou,
+   Qi/JTT-3417-2023
+FU National Key Research and Devel- opment Program of China
+   [2016YFD0200202]
+FX This work was supported by the National Key Research and Devel- opment
+   Program of China (2016YFD0200202) and the 2115 Talent Development
+   Program of China Agricultural University.
+NR 44
+TC 8
+Z9 8
+U1 39
+U2 122
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0160-4120
+EI 1873-6750
+J9 ENVIRON INT
+JI Environ. Int.
+PD MAR
+PY 2023
+VL 173
+AR 107830
+DI 10.1016/j.envint.2023.107830
+EA FEB 2023
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 9T0UD
+UT WOS:000946750400001
+PM 36805811
+OA gold
+DA 2024-04-23
+ER
+
+EF

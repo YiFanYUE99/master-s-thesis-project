@@ -7,18 +7,19 @@ setwd("D:/R_work/master-s-thesis-project/QSRR/QSRR3/result/预测结果")
 mirf<-read.csv("mirf_8.csv",header=1,check.names = F)
 mirf$group=rep("MI+RF",dim(mirf)[1])
 #处理数据
-EX<-mirf[,1:2]
+EX<-mirf[1:118,1:2]
 EX$type<-"Experiment"
 colnames(EX)[2]<-'RT'
-EX$group<-c(rep("1",59),rep("2",59),rep("3",59),rep("4",59),rep("5",59))
-PRE<-mirf[,c(1,3)]
+EX$group<-c(rep("1",24),rep("2",24),rep("3",22),rep("4",24),rep("5",24))
+PRE<-mirf[1:118,c(1,3)]
 PRE$type<-"Prediction"
 colnames(PRE)[2]<-'RT'
-PRE$group<-c(rep("1",59),rep("2",59),rep("3",59),rep("4",59),rep("5",59))
+PRE$group<-c(rep("1",24),rep("2",24),rep("3",22),rep("4",24),rep("5",24))
 #分行
 EX1<-EX[EX$group==1,]
 PRE1<-PRE[PRE$group==1,]
 data1<-rbind(EX1,PRE1)
+
 
 EX2<-EX[EX$group==2,]
 PRE2<-PRE[PRE$group==2,]
@@ -35,19 +36,20 @@ data4<-rbind(EX4,PRE4)
 EX5<-EX[EX$group==5,]
 PRE5<-PRE[PRE$group==5,]
 data5<-rbind(EX5,PRE5)
+
 #设置颜色
 rtcslr<-c("#E0FFE0","#B3FFB3")
 preex<-c("#009E73","#008000")
 preext<-c("#009E73","#008000")
-xtsize<-14
-xsize<-14
-ytsize<-10
-ysize<-14
-titlesize<-20
-allsize<-14
-lesize<-18
-lisize<-18
-geomsize<-4
+xtsize<-28
+xsize<-28
+ytsize<-20
+ysize<-28
+titlesize<-40
+allsize<-28
+lesize<-36
+lisize<-36
+geomsize<-6
 
 #作图
 #dev.new()
@@ -214,8 +216,8 @@ mirf5<-ggplot(data5, aes(x=NAME, y=RT, fill=type))+
         panel.grid.minor = element_line(color = "#FFFFFF", linetype = "dashed", size = 0.5),
         panel.border = element_rect(color = rtcslr[2], fill = NA))#设置边框
 mirf5
-p<-grid.arrange(mirf1,mirf2,mirf3,mirf4,mirf5,ncol=1)
-ggsave('Predict_mirf.png',plot = p, width = 30, height = 40, dpi = 300,limitsize = FALSE)
+p<-grid.arrange(mirf1,mirf2,mirf3,ncol=1)
+ggsave('Predict_mirf70.png',plot = p, width = 30, height = 47, dpi = 300,limitsize = FALSE)
 
 
 

@@ -1,0 +1,68 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Galindo-Prieto, B
+   Eriksson, L
+   Trygg, J
+AF Galindo-Prieto, Beatriz
+   Eriksson, Lennart
+   Trygg, Johan
+TI Variable influence on projection (VIP) for orthogonal projections to
+   latent structures (OPLS)
+SO JOURNAL OF CHEMOMETRICS
+LA English
+DT Article; Proceedings Paper
+CT 13th Scandinavian Symposium on Chemometrics
+CY JUN 17-20, 2013
+CL Djurhamn, SWEDEN
+DE variable influence on projection; VIP; OPLS; variable selection; PLS
+ID PARTIAL LEAST-SQUARES; PLS PLUS ST; MULTIVARIATE CALIBRATION; SELECTION;
+   REGRESSION; MODELS; CHEMOMETRICS; PREDICTION; TUTORIAL
+AB A new approach for variable influence on projection (VIP) is described, which takes full advantage of the orthogonal projections to latent structures (OPLS) model formalism for enhanced model interpretability. This means that it will include not only the predictive components in OPLS but also the orthogonal components. Four variants of variable influence on projection (VIP) adapted to OPLS have been developed, tested and compared using three different data sets, one synthetic with known properties and two real-world cases. Copyright (C) 2014 John Wiley & Sons, Ltd.
+C1 [Galindo-Prieto, Beatriz; Trygg, Johan] Umea Univ, Computat Life Sci Cluster CLiC, Dept Chem, Umea, Sweden.
+   [Galindo-Prieto, Beatriz] Umea Univ, Ind Doctoral Sch, Umea, Sweden.
+   [Eriksson, Lennart] MKS Umetr, Umea, Sweden.
+C3 Umea University; Umea University
+RP Trygg, J (corresponding author), Umea Univ, Computat Life Sci Cluster CLiC, Dept Chem, Umea, Sweden.
+EM johan.trygg@chem.umu.se
+OI Galindo-Prieto, Beatriz/0000-0001-8776-8626
+FU Swedish Research Council [2011-604]; MKS Umetrics AB; Industrial
+   Doctoral School (IDS), Umea University, Sweden
+FX The authors would like to acknowledge the financial support from the
+   Swedish Research Council (JT) grant no. 2011-604, the MKS Umetrics AB
+   (BG-P), and the Industrial Doctoral School (IDS), Umea University,
+   Sweden. In addition, the anonymous reviewers are thanked for their
+   valuable comments to this paper.
+NR 26
+TC 184
+Z9 200
+U1 1
+U2 83
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0886-9383
+EI 1099-128X
+J9 J CHEMOMETR
+JI J. Chemometr.
+PD AUG
+PY 2014
+VL 28
+IS 8
+SI SI
+BP 623
+EP 632
+DI 10.1002/cem.2627
+PG 10
+WC Automation & Control Systems; Chemistry, Analytical; Computer Science,
+   Artificial Intelligence; Instruments & Instrumentation; Mathematics,
+   Interdisciplinary Applications; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems; Chemistry; Computer Science; Instruments &
+   Instrumentation; Mathematics
+GA AN3QT
+UT WOS:000340504100007
+DA 2024-04-23
+ER
+
+EF

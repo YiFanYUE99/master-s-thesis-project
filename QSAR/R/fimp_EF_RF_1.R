@@ -15,14 +15,15 @@ EC<-c("#006400","#228B2240")
 HH<-c("#800080","#4B008240")
 
 pointsize<-4
-textsize<-2
+textsize<-3
 linesize<-4
-titlesize<-20
+titlesize<-13
 xtisize<-14
 ytisize<-14
 xtesize<-14
 ytesize<-10
 fimp<-read.csv("QSAR/特征重要性/EF_fRF_fimp_1.csv",header = TRUE,check.names = FALSE)
+fimp<-fimp[1:50,]
 colnames(fimp)=c("Name","score")
 EFRF<-ggplot(fimp, aes(x = Name, y = score)) +
   geom_segment(aes(x= Name, y= score, color=score,
@@ -56,4 +57,4 @@ EFRF<-ggplot(fimp, aes(x = Name, y = score)) +
 EFRF
 
 
-ggsave(plot = EFRF,"QSAR/pic2/feature_imp_EF.png",width = 30,height = 45,dpi = 300,units = "cm")
+ggsave(plot = EFRF,"QSAR/pic2/feature_imp_EF.png",width = 20,height = 35,dpi = 300,units = "cm")

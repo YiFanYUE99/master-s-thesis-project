@@ -1,0 +1,79 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, XX
+   Tian, SN
+   Yan, S
+   Sun, W
+   Miao, JY
+   Yue, YF
+   Han, SH
+   Huang, SR
+   Xu, N
+   Diao, JL
+   Zhou, ZQ
+   Zhu, WT
+AF Sun, Xiaoxuan
+   Tian, Sinuo
+   Yan, Sen
+   Sun, Wei
+   Miao, Jiyan
+   Yue, Yifan
+   Han, Shihang
+   Huang, Shiran
+   Xu, Ning
+   Diao, Jinling
+   Zhou, Zhiqiang
+   Zhu, Wentao
+TI <i>Bifidobacterium</i> mediate gut microbiota-remedied intestinal
+   barrier damage caused by cyproconazole in zebrafish<i> (Danio</i><i>
+   rerio)</i>
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Acetate; Bifidobacterium; Cyproconazole; Gut microbiota; Metabolomics
+   analysis
+ID EXPRESSION; IL-22; DIFFERENTIATION; INFLAMMATION; ACIDS
+AB The widespread use of cyproconazole (CPZ) enhances food security but may pose potential risks to non-target organisms. Therefore, we applied Multi-omics techniques to reveal the response of the intestinal barrier to CPZ exposure and explore whether the Bifidobacterium intervention experiment can repair the damage. First, we found that exposure to CPZ at environmentally relevant concentrations led to intestinal injury phenotype, significantly down-regulated intestinal protein gene expression, and up-regulated pro-inflammatory gene expression, further causing intestinal dysbacteriosis and metabolic disorders. In particular, by combining analysis of gut microbiota and metabolites, we noticed acetate, a key metabolite, which decreased sharply after exposure to high concentration of CPZ. Expectedly, after supplementing with Bifidobacterium (a core bacterium that produces acetate), we noticed that the acetate content was quickly restored. Further, we also verified that the increase in acetate content after Bifidobacterium supplementation at least partially promoted IL-22 secretion, which in turn stimulated the secretion of beta-defensins (zfbd-1, zfbd-2, zfbd-3), thereby repairing the intestinal damage. In conclusion, our work confirms the potential of Bifidobacterium to improve intestinal damage and metabolic dysbiosis caused by CPZ exposure. It provides directional recommendations for the application of probiotics to repair the toxicological risk of pesticide exposure.
+C1 [Sun, Xiaoxuan; Sun, Wei; Miao, Jiyan; Yue, Yifan; Han, Shihang; Huang, Shiran; Diao, Jinling; Zhou, Zhiqiang; Zhu, Wentao] China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuan Mingyuan West Rd 2, Beijing 100193, Peoples R China.
+   [Tian, Sinuo] Beijing Acad Agr & Forestry Sci, Inst Qual Stand & Testing Technol, Beijing 100097, Peoples R China.
+   [Yan, Sen] Peking Univ Third Hosp, Ctr Reprod Med, Dept Obstet & Gynecol, Beijing, Peoples R China.
+   [Xu, Ning] Tsinghua Univ, Beijing Adv Innovat Ctr Struct Biol, Sch Life Sci, Beijing 100084, Peoples R China.
+C3 China Agricultural University; Beijing Academy of Agriculture & Forestry
+   Sciences (BAAFS); Tsinghua University
+RP Zhu, WT (corresponding author), China Agr Univ, Coll Sci, Innovat Ctr Pesticide Res, Dept Appl Chem, Yuan Mingyuan West Rd 2, Beijing 100193, Peoples R China.
+EM wentaozhu@cau.edu.cn
+RI Zhou, Zhiqiang/HIR-4954-2022
+FU National Key Research and Devel- opment Program of China
+   [2016YFD0200202]
+FX This work was supported by the National Key Research and Devel- opment
+   Program of China (2016YFD0200202) .
+NR 76
+TC 0
+Z9 0
+U1 34
+U2 34
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD FEB 20
+PY 2024
+VL 912
+AR 169556
+DI 10.1016/j.scitotenv.2023.169556
+EA DEC 2023
+PG 14
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA FN5H8
+UT WOS:001146518300001
+PM 38135070
+DA 2024-04-23
+ER
+
+EF

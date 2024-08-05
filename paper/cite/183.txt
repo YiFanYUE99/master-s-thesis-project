@@ -1,0 +1,62 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mao, LA
+   Geng, Y
+   Guo, JH
+   Zafar, MI
+   Wang, YH
+AF Mao, Liangang
+   Geng, Yue
+   Guo, Jiehong
+   Zafar, Mazhar Iqbal
+   Wang, Yanhua
+TI Editorial: Environmental impacts of pesticides: Environmental fate,
+   ecotoxicology, risk assessment, and remediation
+SO FRONTIERS IN ENVIRONMENTAL SCIENCE
+LA English
+DT Editorial Material
+DE environmental fate; ecotoxicology; risk assessment; remediation;
+   pesticide; combined pollution; toxicity
+C1 [Mao, Liangang] Chinese Acad Agr Sci, Inst Plant Protect, State Key Lab Biol Plant Dis & Insect Pests, Beijing, Peoples R China.
+   [Geng, Yue] Minist Agr & Rural Affairs, Agro Environm Protect Inst, Tianjin, Peoples R China.
+   [Guo, Jiehong] Univ Minnesota, Masonic Canc Ctr, Minneapolis, MN USA.
+   [Zafar, Mazhar Iqbal] Quaid i Azam Univ, Fac Biol Sci, Dept Environm Sci, Islamabad, Pakistan.
+   [Wang, Yanhua] Zhejiang Acad Agr Sci, Inst Agroprod Safety & Nutr, State Key Lab Managing Biot & Chem Threats Qual &, Hangzhou, Peoples R China.
+C3 Chinese Academy of Agricultural Sciences; Institute of Plant Protection,
+   CAAS; Ministry of Agriculture & Rural Affairs; Chinese Academy of
+   Agricultural Sciences; Agro-Environmental Protection Institute, CAAS;
+   University of Minnesota System; University of Minnesota Twin Cities;
+   Quaid I Azam University; Zhejiang Academy of Agricultural Sciences
+RP Mao, LA (corresponding author), Chinese Acad Agr Sci, Inst Plant Protect, State Key Lab Biol Plant Dis & Insect Pests, Beijing, Peoples R China.
+EM maoliangang@126.com
+FU National Key R&D Program of China;  [2021YFD1700300]
+FX This Research Topic was supported by the National Key R & D Program of
+   China (2021YFD1700300).
+NR 10
+TC 1
+Z9 1
+U1 14
+U2 46
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-665X
+J9 FRONT ENV SCI-SWITZ
+JI Front. Environ. Sci.
+PD OCT 24
+PY 2022
+VL 10
+AR 1065958
+DI 10.3389/fenvs.2022.1065958
+PG 3
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 6D2GZ
+UT WOS:000882517100001
+OA gold
+DA 2024-05-24
+ER
+
+EF

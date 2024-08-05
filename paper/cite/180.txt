@@ -1,0 +1,58 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhou Zhijun
+Z2 周志俊
+TI Concerning health problems related to pesticides exposure
+Z1 关注农药暴露与健康的关系
+Z3 环境与职业医学
+SO Chinese Journal of Environmental & Occupational Medicine
+VL 36
+IS 10
+BP 900
+EP 902
+AR 2095-9982(2019)36:10<900:GZNYBL>2.0.TX;2-S
+PY 2019
+LA Chinese
+DT Article
+DE pesticides; human health risk assessment; monitoring; surveillance
+Z5 农药; 人群健康风险评估; 监测; 监护
+AB Pesticides are a group of chemicals used for pest control in agriculture
+   and forestry.In addition to occupational population,general population
+   also has a chance to be exposed to such chemicals via various ways.The
+   relationship between human health and pesticides exposure is very
+   complicated.The data on the health effects of long-term exposure to
+   pesticides are limited and often controversial in human health risk
+   assessments.The management of pesticides requires scientific data,but at
+   present there are very few toxicological data for most pesticides and
+   few human health data related to pesticides.Government agencies should
+   establish a monitoring system after pesticide registration and marketing
+   to evaluate the potential adverse effects of pesticides
+   exposure.Pesticides enterprises must be enforced to implement the
+   obligations that all occupationally exposed workers can get
+   comprehensive occupational health surveillance.Professionals should also
+   pay attention to potential health risks of pesticide exposure.In a
+   word,let pesticides benefit our life and avoid any damage to our health.
+Z4 农药是一类用于农林业控制虫害的化学品。农药的暴露对象除了职业接触人群,还有环境暴露的整个社会人群。农药暴露与健康的关系非常复杂。除了急性中毒外,
+   有关长期接触对健康影响的人群数据一直比较有限,在进行人群健康风险评估时常受到争议。农药的管理需要科学数据,但目前绝大多数农药并无丰富的毒理学数据
+   ,人群健康关系的数据更是缺乏。建议政府建立农药登记、上市后的人群监测制度,关注农药暴露与健康的关系;应要求生产企业承诺建立更广泛的化学物接触与健
+   康监护的联系机制;专业人员应关注农药暴露的潜在健康风险。让农药造福于公众,避免其对人群健康的损害。
+C1 Zhou Zhijun, School of Public Health,Fudan University, MOE Key Lab for
+   Public Health Safety, Shanghai 200032, China.
+Z6 周志俊, 复旦大学公共卫生学院, 教育部公共卫生安全重点实验室, 上海 200032, 中国.
+EM zjzhou@fudan.edu.cn
+Z7 zjzhou@fudan.edu.cn
+NR 5
+Z8 1
+Z9 1
+U1 1
+U2 3
+SN 2095-9982
+PG 3
+SC Public, Environmental & Occupational Health (provided by Clarivate
+   Analytics)
+UT CSCD:6605737
+DA 2024-05-24
+ER
+
+EF
